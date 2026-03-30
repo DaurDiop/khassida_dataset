@@ -1,0 +1,1357 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "number": 1,
+      "name": "Ahazanil Baaqi",
+      "transliterationName": "Ahazanil Baaqi",
+      "numberOfVerses": 50,
+      "meter": "Rajas"
+    },
+    {
+      "number": 2,
+      "name": "Ahuzu Bil Laahi Min Mayli",
+      "transliterationName": "Ahuzu Bil Laahi Min Mayli",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 3,
+      "name": "Ahyaytu Mawlidan",
+      "transliterationName": "Ahyaytu Mawlidan",
+      "numberOfVerses": 36,
+      "meter": "Rajas"
+    },
+    {
+      "number": 4,
+      "name": "Ajabani Khayru Baaqin",
+      "transliterationName": "Ajabani Khayru Baaqin",
+      "numberOfVerses": 12,
+      "meter": "Rajas"
+    },
+    {
+      "number": 5,
+      "name": "Ajabani Rabbus Sama 1",
+      "transliterationName": "Ajabani Rabbus Sama 1",
+      "numberOfVerses": 80,
+      "meter": "Rajas"
+    },
+    {
+      "number": 6,
+      "name": "Ajabani Rabbus Sama 2",
+      "transliterationName": "Ajabani Rabbus Sama 2",
+      "numberOfVerses": 76,
+      "meter": "Rajas"
+    },
+    {
+      "number": 7,
+      "name": "Alaa Inani",
+      "transliterationName": "Alaa Inani",
+      "numberOfVerses": 52,
+      "meter": "Rajas"
+    },
+    {
+      "number": 8,
+      "name": "Alal Mustafa Minni",
+      "transliterationName": "Alal Mustafa Minni",
+      "numberOfVerses": 20,
+      "meter": "Rajas"
+    },
+    {
+      "number": 9,
+      "name": "Alhamdu Yujaazi",
+      "transliterationName": "Alhamdu Yujaazi",
+      "numberOfVerses": 42,
+      "meter": "Rajas"
+    },
+    {
+      "number": 10,
+      "name": "Anta Rabbi",
+      "transliterationName": "Anta Rabbi",
+      "numberOfVerses": 54,
+      "meter": "Rajas"
+    },
+    {
+      "number": 11,
+      "name": "Ashaabul Jannati",
+      "transliterationName": "Ashaabul Jannati",
+      "numberOfVerses": 49,
+      "meter": "Rajas"
+    },
+    {
+      "number": 12,
+      "name": "Ashinu",
+      "transliterationName": "Ashinu",
+      "numberOfVerses": 84,
+      "meter": "Rajas"
+    },
+    {
+      "number": 13,
+      "name": "Ashkuru Laaha",
+      "transliterationName": "Ashkuru Laaha",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 14,
+      "name": "Asiru",
+      "transliterationName": "Asiru",
+      "numberOfVerses": 112,
+      "meter": "Rajas"
+    },
+    {
+      "number": 15,
+      "name": "Asma Ul Husna",
+      "transliterationName": "Asma Ul Husna",
+      "numberOfVerses": 80,
+      "meter": "Rajas"
+    },
+    {
+      "number": 16,
+      "name": "Astaghfirulaha Bihi",
+      "transliterationName": "Astaghfirulaha Bihi",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 17,
+      "name": "Ataaba 1",
+      "transliterationName": "Ataaba 1",
+      "numberOfVerses": 60,
+      "meter": "Rajas"
+    },
+    {
+      "number": 18,
+      "name": "Ataaba 2",
+      "transliterationName": "Ataaba 2",
+      "numberOfVerses": 60,
+      "meter": "Rajas"
+    },
+    {
+      "number": 19,
+      "name": "Ataaba 3",
+      "transliterationName": "Ataaba 3",
+      "numberOfVerses": 58,
+      "meter": "Rajas"
+    },
+    {
+      "number": 20,
+      "name": "Ataaba 4",
+      "transliterationName": "Ataaba 4",
+      "numberOfVerses": 54,
+      "meter": "Rajas"
+    },
+    {
+      "number": 21,
+      "name": "Ayyasa",
+      "transliterationName": "Ayyasa",
+      "numberOfVerses": 46,
+      "meter": "Rajas"
+    },
+    {
+      "number": 22,
+      "name": "Bakh Bakhaa",
+      "transliterationName": "Bakh Bakhaa",
+      "numberOfVerses": 52,
+      "meter": "Rajas"
+    },
+    {
+      "number": 23,
+      "name": "Barakatu",
+      "transliterationName": "Barakatu",
+      "numberOfVerses": 40,
+      "meter": "Rajas"
+    },
+    {
+      "number": 24,
+      "name": "Bismil Ilaahil Lazi",
+      "transliterationName": "Bismil Ilaahil Lazi",
+      "numberOfVerses": 38,
+      "meter": "Rajas"
+    },
+    {
+      "number": 25,
+      "name": "Bismil Laahi Ikfini 1",
+      "transliterationName": "Bismil Laahi Ikfini 1",
+      "numberOfVerses": 108,
+      "meter": "Rajas"
+    },
+    {
+      "number": 26,
+      "name": "Bismil Laahi Ikfini 2",
+      "transliterationName": "Bismil Laahi Ikfini 2",
+      "numberOfVerses": 94,
+      "meter": "Rajas"
+    },
+    {
+      "number": 27,
+      "name": "Bushra Lana",
+      "transliterationName": "Bushra Lana",
+      "numberOfVerses": 50,
+      "meter": "Rajas"
+    },
+    {
+      "number": 28,
+      "name": "Faaqa Jamiha",
+      "transliterationName": "Faaqa Jamiha",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 29,
+      "name": "Farrij",
+      "transliterationName": "Farrij",
+      "numberOfVerses": 30,
+      "meter": "Rajas"
+    },
+    {
+      "number": 30,
+      "name": "Fazal Lazina",
+      "transliterationName": "Fazal Lazina",
+      "numberOfVerses": 34,
+      "meter": "Rajas"
+    },
+    {
+      "number": 31,
+      "name": "Fazat Qilami",
+      "transliterationName": "Fazat Qilami",
+      "numberOfVerses": 28,
+      "meter": "Rajas"
+    },
+    {
+      "number": 32,
+      "name": "Fuzti",
+      "transliterationName": "Fuzti",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 33,
+      "name": "Hajat Qasa Idi",
+      "transliterationName": "Hajat Qasa Idi",
+      "numberOfVerses": 66,
+      "meter": "Rajas"
+    },
+    {
+      "number": 34,
+      "name": "Halal Muntaqa",
+      "transliterationName": "Halal Muntaqa",
+      "numberOfVerses": 40,
+      "meter": "Rajas"
+    },
+    {
+      "number": 35,
+      "name": "Halaman",
+      "transliterationName": "Halaman",
+      "numberOfVerses": 72,
+      "meter": "Rajas"
+    },
+    {
+      "number": 36,
+      "name": "Halayka Yaa Mukhtaru",
+      "transliterationName": "Halayka Yaa Mukhtaru",
+      "numberOfVerses": 22,
+      "meter": "Rajas"
+    },
+    {
+      "number": 37,
+      "name": "Hamdi Wa Shukri",
+      "transliterationName": "Hamdi Wa Shukri",
+      "numberOfVerses": 8,
+      "meter": "Rajas"
+    },
+    {
+      "number": 38,
+      "name": "Hamidtu",
+      "transliterationName": "Hamidtu",
+      "numberOfVerses": 38,
+      "meter": "Rajas"
+    },
+    {
+      "number": 39,
+      "name": "Hammat Sulaymaa 1",
+      "transliterationName": "Hammat Sulaymaa 1",
+      "numberOfVerses": 100,
+      "meter": "Rajas"
+    },
+    {
+      "number": 40,
+      "name": "Hammat Sulaymaa 2",
+      "transliterationName": "Hammat Sulaymaa 2",
+      "numberOfVerses": 130,
+      "meter": "Rajas"
+    },
+    {
+      "number": 41,
+      "name": "Huqqal Bukaa 1",
+      "transliterationName": "Huqqal Bukaa 1",
+      "numberOfVerses": 74,
+      "meter": "Rajas"
+    },
+    {
+      "number": 42,
+      "name": "Huqqal Bukaa 2",
+      "transliterationName": "Huqqal Bukaa 2",
+      "numberOfVerses": 82,
+      "meter": "Rajas"
+    },
+    {
+      "number": 43,
+      "name": "Ihdi Jamihana",
+      "transliterationName": "Ihdi Jamihana",
+      "numberOfVerses": 12,
+      "meter": "Rajas"
+    },
+    {
+      "number": 44,
+      "name": "Ilaa Ghayrinaa",
+      "transliterationName": "Ilaa Ghayrinaa",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 45,
+      "name": "Ilaa Nabiyyin",
+      "transliterationName": "Ilaa Nabiyyin",
+      "numberOfVerses": 26,
+      "meter": "Rajas"
+    },
+    {
+      "number": 46,
+      "name": "Inani Huztu 1",
+      "transliterationName": "Inani Huztu 1",
+      "numberOfVerses": 60,
+      "meter": "Rajas"
+    },
+    {
+      "number": 47,
+      "name": "Inani Huztu 2",
+      "transliterationName": "Inani Huztu 2",
+      "numberOfVerses": 58,
+      "meter": "Rajas"
+    },
+    {
+      "number": 48,
+      "name": "Innabna Laahi",
+      "transliterationName": "Innabna Laahi",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 49,
+      "name": "Inni Ukhatibu",
+      "transliterationName": "Inni Ukhatibu",
+      "numberOfVerses": 30,
+      "meter": "Rajas"
+    },
+    {
+      "number": 50,
+      "name": "Innii Aquulu",
+      "transliterationName": "Innii Aquulu",
+      "numberOfVerses": 38,
+      "meter": "Rajas"
+    },
+    {
+      "number": 51,
+      "name": "Inniya Ahmadu",
+      "transliterationName": "Inniya Ahmadu",
+      "numberOfVerses": 86,
+      "meter": "Rajas"
+    },
+    {
+      "number": 52,
+      "name": "Jalibatul Maraghibi 1",
+      "transliterationName": "Jalibatul Maraghibi 1",
+      "numberOfVerses": 104,
+      "meter": "Rajas"
+    },
+    {
+      "number": 53,
+      "name": "Jalibatul Maraghibi 10",
+      "transliterationName": "Jalibatul Maraghibi 10",
+      "numberOfVerses": 118,
+      "meter": "Rajas"
+    },
+    {
+      "number": 54,
+      "name": "Jalibatul Maraghibi 2",
+      "transliterationName": "Jalibatul Maraghibi 2",
+      "numberOfVerses": 56,
+      "meter": "Rajas"
+    },
+    {
+      "number": 55,
+      "name": "Jalibatul Maraghibi 3",
+      "transliterationName": "Jalibatul Maraghibi 3",
+      "numberOfVerses": 94,
+      "meter": "Rajas"
+    },
+    {
+      "number": 56,
+      "name": "Jalibatul Maraghibi 4",
+      "transliterationName": "Jalibatul Maraghibi 4",
+      "numberOfVerses": 92,
+      "meter": "Rajas"
+    },
+    {
+      "number": 57,
+      "name": "Jalibatul Maraghibi 5",
+      "transliterationName": "Jalibatul Maraghibi 5",
+      "numberOfVerses": 120,
+      "meter": "Rajas"
+    },
+    {
+      "number": 58,
+      "name": "Jalibatul Maraghibi 6",
+      "transliterationName": "Jalibatul Maraghibi 6",
+      "numberOfVerses": 120,
+      "meter": "Rajas"
+    },
+    {
+      "number": 59,
+      "name": "Jalibatul Maraghibi 7",
+      "transliterationName": "Jalibatul Maraghibi 7",
+      "numberOfVerses": 120,
+      "meter": "Rajas"
+    },
+    {
+      "number": 60,
+      "name": "Jalibatul Maraghibi 8",
+      "transliterationName": "Jalibatul Maraghibi 8",
+      "numberOfVerses": 120,
+      "meter": "Rajas"
+    },
+    {
+      "number": 61,
+      "name": "Jalibatul Maraghibi 9",
+      "transliterationName": "Jalibatul Maraghibi 9",
+      "numberOfVerses": 122,
+      "meter": "Rajas"
+    },
+    {
+      "number": 62,
+      "name": "Jawartu",
+      "transliterationName": "Jawartu",
+      "numberOfVerses": 58,
+      "meter": "Rajas"
+    },
+    {
+      "number": 63,
+      "name": "Jazbu 1",
+      "transliterationName": "Jazbu 1",
+      "numberOfVerses": 100,
+      "meter": "Rajas"
+    },
+    {
+      "number": 64,
+      "name": "Jazbu 2",
+      "transliterationName": "Jazbu 2",
+      "numberOfVerses": 100,
+      "meter": "Rajas"
+    },
+    {
+      "number": 65,
+      "name": "Jazbu 3",
+      "transliterationName": "Jazbu 3",
+      "numberOfVerses": 88,
+      "meter": "Rajas"
+    },
+    {
+      "number": 66,
+      "name": "Jazbu 4",
+      "transliterationName": "Jazbu 4",
+      "numberOfVerses": 82,
+      "meter": "Rajas"
+    },
+    {
+      "number": 67,
+      "name": "Kafaaka Rabbuka",
+      "transliterationName": "Kafaaka Rabbuka",
+      "numberOfVerses": 6,
+      "meter": "Rajas"
+    },
+    {
+      "number": 68,
+      "name": "Kawin Liya",
+      "transliterationName": "Kawin Liya",
+      "numberOfVerses": 74,
+      "meter": "Rajas"
+    },
+    {
+      "number": 69,
+      "name": "Khatimatu Munajati",
+      "transliterationName": "Khatimatu Munajati",
+      "numberOfVerses": 78,
+      "meter": "Rajas"
+    },
+    {
+      "number": 70,
+      "name": "Khayra Dayfin",
+      "transliterationName": "Khayra Dayfin",
+      "numberOfVerses": 28,
+      "meter": "Rajas"
+    },
+    {
+      "number": 71,
+      "name": "Kun Katiman",
+      "transliterationName": "Kun Katiman",
+      "numberOfVerses": 16,
+      "meter": "Rajas"
+    },
+    {
+      "number": 72,
+      "name": "Lamyabdu",
+      "transliterationName": "Lamyabdu",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 73,
+      "name": "Lil Mustafa Nawaytu",
+      "transliterationName": "Lil Mustafa Nawaytu",
+      "numberOfVerses": 56,
+      "meter": "Rajas"
+    },
+    {
+      "number": 74,
+      "name": "Lirabbin Ghafurin",
+      "transliterationName": "Lirabbin Ghafurin",
+      "numberOfVerses": 88,
+      "meter": "Rajas"
+    },
+    {
+      "number": 75,
+      "name": "Lirabbin Kariimin",
+      "transliterationName": "Lirabbin Kariimin",
+      "numberOfVerses": 34,
+      "meter": "Rajas"
+    },
+    {
+      "number": 76,
+      "name": "Liyan Qaada",
+      "transliterationName": "Liyan Qaada",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 77,
+      "name": "Madahtu Nabiyyal Muntaqa",
+      "transliterationName": "Madahtu Nabiyyal Muntaqa",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 78,
+      "name": "Madal Khabiru",
+      "transliterationName": "Madal Khabiru",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 79,
+      "name": "Madhun Nabiyyil Muntaqa",
+      "transliterationName": "Madhun Nabiyyil Muntaqa",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 80,
+      "name": "Mafatihul Bishri 1",
+      "transliterationName": "Mafatihul Bishri 1",
+      "numberOfVerses": 80,
+      "meter": "Rajas"
+    },
+    {
+      "number": 81,
+      "name": "Mafatihul Bishri 2",
+      "transliterationName": "Mafatihul Bishri 2",
+      "numberOfVerses": 138,
+      "meter": "Rajas"
+    },
+    {
+      "number": 82,
+      "name": "Mafatihul Bishri 3",
+      "transliterationName": "Mafatihul Bishri 3",
+      "numberOfVerses": 108,
+      "meter": "Rajas"
+    },
+    {
+      "number": 83,
+      "name": "Mafatihul Bishri 4",
+      "transliterationName": "Mafatihul Bishri 4",
+      "numberOfVerses": 140,
+      "meter": "Rajas"
+    },
+    {
+      "number": 84,
+      "name": "Mafatihul Bishri 5",
+      "transliterationName": "Mafatihul Bishri 5",
+      "numberOfVerses": 140,
+      "meter": "Rajas"
+    },
+    {
+      "number": 85,
+      "name": "Mafatihul Bishri 6",
+      "transliterationName": "Mafatihul Bishri 6",
+      "numberOfVerses": 142,
+      "meter": "Rajas"
+    },
+    {
+      "number": 86,
+      "name": "Mafatihul Jinan 1",
+      "transliterationName": "Mafatihul Jinan 1",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 87,
+      "name": "Mafatihul Jinan 2",
+      "transliterationName": "Mafatihul Jinan 2",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 88,
+      "name": "Mafatihul Jinan 3",
+      "transliterationName": "Mafatihul Jinan 3",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 89,
+      "name": "Mafatihul Jinan 4",
+      "transliterationName": "Mafatihul Jinan 4",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 90,
+      "name": "Mafatihul Jinan 5",
+      "transliterationName": "Mafatihul Jinan 5",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 91,
+      "name": "Mafatihul Jinan 6",
+      "transliterationName": "Mafatihul Jinan 6",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 92,
+      "name": "Mafatihul Jinan 7",
+      "transliterationName": "Mafatihul Jinan 7",
+      "numberOfVerses": 48,
+      "meter": "Rajas"
+    },
+    {
+      "number": 93,
+      "name": "Man Zanani",
+      "transliterationName": "Man Zanani",
+      "numberOfVerses": 30,
+      "meter": "Rajas"
+    },
+    {
+      "number": 94,
+      "name": "Maramiya",
+      "transliterationName": "Maramiya",
+      "numberOfVerses": 10,
+      "meter": "Rajas"
+    },
+    {
+      "number": 95,
+      "name": "Matlabul Fawzayni 1",
+      "transliterationName": "Matlabul Fawzayni 1",
+      "numberOfVerses": 116,
+      "meter": "Rajas"
+    },
+    {
+      "number": 96,
+      "name": "Matlabul Fawzayni 2",
+      "transliterationName": "Matlabul Fawzayni 2",
+      "numberOfVerses": 116,
+      "meter": "Rajas"
+    },
+    {
+      "number": 97,
+      "name": "Matlabul Fawzayni 3",
+      "transliterationName": "Matlabul Fawzayni 3",
+      "numberOfVerses": 126,
+      "meter": "Rajas"
+    },
+    {
+      "number": 98,
+      "name": "Matlabul Fawzayni 4",
+      "transliterationName": "Matlabul Fawzayni 4",
+      "numberOfVerses": 114,
+      "meter": "Rajas"
+    },
+    {
+      "number": 99,
+      "name": "Matlabushiffa",
+      "transliterationName": "Matlabushiffa",
+      "numberOfVerses": 110,
+      "meter": "Rajas"
+    },
+    {
+      "number": 100,
+      "name": "Matlabut Taqabbuli 1",
+      "transliterationName": "Matlabut Taqabbuli 1",
+      "numberOfVerses": 60,
+      "meter": "Rajas"
+    },
+    {
+      "number": 101,
+      "name": "Matlabut Taqabbuli 2",
+      "transliterationName": "Matlabut Taqabbuli 2",
+      "numberOfVerses": 60,
+      "meter": "Rajas"
+    },
+    {
+      "number": 102,
+      "name": "Mawahibu 1",
+      "transliterationName": "Mawahibu 1",
+      "numberOfVerses": 112,
+      "meter": "Rajas"
+    },
+    {
+      "number": 103,
+      "name": "Mawahibu 2",
+      "transliterationName": "Mawahibu 2",
+      "numberOfVerses": 110,
+      "meter": "Rajas"
+    },
+    {
+      "number": 104,
+      "name": "Mawahibu 3",
+      "transliterationName": "Mawahibu 3",
+      "numberOfVerses": 110,
+      "meter": "Rajas"
+    },
+    {
+      "number": 105,
+      "name": "Midadi",
+      "transliterationName": "Midadi",
+      "numberOfVerses": 132,
+      "meter": "Rajas"
+    },
+    {
+      "number": 106,
+      "name": "Miftahun Nasri",
+      "transliterationName": "Miftahun Nasri",
+      "numberOfVerses": 30,
+      "meter": "Rajas"
+    },
+    {
+      "number": 107,
+      "name": "Mim Ra Shin",
+      "transliterationName": "Mim Ra Shin",
+      "numberOfVerses": 6,
+      "meter": "Rajas"
+    },
+    {
+      "number": 108,
+      "name": "Minal Haqqi",
+      "transliterationName": "Minal Haqqi",
+      "numberOfVerses": 20,
+      "meter": "Rajas"
+    },
+    {
+      "number": 109,
+      "name": "Minal Lawhil Mahfuzi",
+      "transliterationName": "Minal Lawhil Mahfuzi",
+      "numberOfVerses": 28,
+      "meter": "Rajas"
+    },
+    {
+      "number": 110,
+      "name": "Minanul Baaqil Qadiim 1",
+      "transliterationName": "Minanul Baaqil Qadiim 1",
+      "numberOfVerses": 108,
+      "meter": "Rajas"
+    },
+    {
+      "number": 111,
+      "name": "Minanul Baaqil Qadiim 2",
+      "transliterationName": "Minanul Baaqil Qadiim 2",
+      "numberOfVerses": 108,
+      "meter": "Rajas"
+    },
+    {
+      "number": 112,
+      "name": "Minanul Baaqil Qadiim 3",
+      "transliterationName": "Minanul Baaqil Qadiim 3",
+      "numberOfVerses": 108,
+      "meter": "Rajas"
+    },
+    {
+      "number": 113,
+      "name": "Minanul Baaqil Qadiim 4",
+      "transliterationName": "Minanul Baaqil Qadiim 4",
+      "numberOfVerses": 110,
+      "meter": "Rajas"
+    },
+    {
+      "number": 114,
+      "name": "Mumitu",
+      "transliterationName": "Mumitu",
+      "numberOfVerses": 28,
+      "meter": "Rajas"
+    },
+    {
+      "number": 115,
+      "name": "Muqadamatul Amdah 1",
+      "transliterationName": "Muqadamatul Amdah 1",
+      "numberOfVerses": 96,
+      "meter": "Rajas"
+    },
+    {
+      "number": 116,
+      "name": "Muqadamatul Amdah 2",
+      "transliterationName": "Muqadamatul Amdah 2",
+      "numberOfVerses": 96,
+      "meter": "Rajas"
+    },
+    {
+      "number": 117,
+      "name": "Muqadamatul Amdah 3",
+      "transliterationName": "Muqadamatul Amdah 3",
+      "numberOfVerses": 96,
+      "meter": "Rajas"
+    },
+    {
+      "number": 118,
+      "name": "Muqadamatul Amdah 4",
+      "transliterationName": "Muqadamatul Amdah 4",
+      "numberOfVerses": 96,
+      "meter": "Rajas"
+    },
+    {
+      "number": 119,
+      "name": "Nuuru Daarayni 1",
+      "transliterationName": "Nuuru Daarayni 1",
+      "numberOfVerses": 102,
+      "meter": "Rajas"
+    },
+    {
+      "number": 120,
+      "name": "Nuuru Daarayni 10",
+      "transliterationName": "Nuuru Daarayni 10",
+      "numberOfVerses": 110,
+      "meter": "Rajas"
+    },
+    {
+      "number": 121,
+      "name": "Nuuru Daarayni 11",
+      "transliterationName": "Nuuru Daarayni 11",
+      "numberOfVerses": 106,
+      "meter": "Rajas"
+    },
+    {
+      "number": 122,
+      "name": "Nuuru Daarayni 12",
+      "transliterationName": "Nuuru Daarayni 12",
+      "numberOfVerses": 110,
+      "meter": "Rajas"
+    },
+    {
+      "number": 123,
+      "name": "Nuuru Daarayni 13",
+      "transliterationName": "Nuuru Daarayni 13",
+      "numberOfVerses": 120,
+      "meter": "Rajas"
+    },
+    {
+      "number": 124,
+      "name": "Nuuru Daarayni 14",
+      "transliterationName": "Nuuru Daarayni 14",
+      "numberOfVerses": 120,
+      "meter": "Rajas"
+    },
+    {
+      "number": 125,
+      "name": "Nuuru Daarayni 15",
+      "transliterationName": "Nuuru Daarayni 15",
+      "numberOfVerses": 106,
+      "meter": "Rajas"
+    },
+    {
+      "number": 126,
+      "name": "Nuuru Daarayni 16",
+      "transliterationName": "Nuuru Daarayni 16",
+      "numberOfVerses": 100,
+      "meter": "Rajas"
+    },
+    {
+      "number": 127,
+      "name": "Nuuru Daarayni 17",
+      "transliterationName": "Nuuru Daarayni 17",
+      "numberOfVerses": 108,
+      "meter": "Rajas"
+    },
+    {
+      "number": 128,
+      "name": "Nuuru Daarayni 18",
+      "transliterationName": "Nuuru Daarayni 18",
+      "numberOfVerses": 100,
+      "meter": "Rajas"
+    },
+    {
+      "number": 129,
+      "name": "Nuuru Daarayni 19",
+      "transliterationName": "Nuuru Daarayni 19",
+      "numberOfVerses": 108,
+      "meter": "Rajas"
+    },
+    {
+      "number": 130,
+      "name": "Nuuru Daarayni 2",
+      "transliterationName": "Nuuru Daarayni 2",
+      "numberOfVerses": 102,
+      "meter": "Rajas"
+    },
+    {
+      "number": 131,
+      "name": "Nuuru Daarayni 20",
+      "transliterationName": "Nuuru Daarayni 20",
+      "numberOfVerses": 104,
+      "meter": "Rajas"
+    },
+    {
+      "number": 132,
+      "name": "Nuuru Daarayni 21",
+      "transliterationName": "Nuuru Daarayni 21",
+      "numberOfVerses": 92,
+      "meter": "Rajas"
+    },
+    {
+      "number": 133,
+      "name": "Nuuru Daarayni 22",
+      "transliterationName": "Nuuru Daarayni 22",
+      "numberOfVerses": 84,
+      "meter": "Rajas"
+    },
+    {
+      "number": 134,
+      "name": "Nuuru Daarayni 23",
+      "transliterationName": "Nuuru Daarayni 23",
+      "numberOfVerses": 88,
+      "meter": "Rajas"
+    },
+    {
+      "number": 135,
+      "name": "Nuuru Daarayni 24",
+      "transliterationName": "Nuuru Daarayni 24",
+      "numberOfVerses": 90,
+      "meter": "Rajas"
+    },
+    {
+      "number": 136,
+      "name": "Nuuru Daarayni 25",
+      "transliterationName": "Nuuru Daarayni 25",
+      "numberOfVerses": 104,
+      "meter": "Rajas"
+    },
+    {
+      "number": 137,
+      "name": "Nuuru Daarayni 26",
+      "transliterationName": "Nuuru Daarayni 26",
+      "numberOfVerses": 120,
+      "meter": "Rajas"
+    },
+    {
+      "number": 138,
+      "name": "Nuuru Daarayni 27",
+      "transliterationName": "Nuuru Daarayni 27",
+      "numberOfVerses": 66,
+      "meter": "Rajas"
+    },
+    {
+      "number": 139,
+      "name": "Nuuru Daarayni 28",
+      "transliterationName": "Nuuru Daarayni 28",
+      "numberOfVerses": 66,
+      "meter": "Rajas"
+    },
+    {
+      "number": 140,
+      "name": "Nuuru Daarayni 29",
+      "transliterationName": "Nuuru Daarayni 29",
+      "numberOfVerses": 66,
+      "meter": "Rajas"
+    },
+    {
+      "number": 141,
+      "name": "Nuuru Daarayni 3",
+      "transliterationName": "Nuuru Daarayni 3",
+      "numberOfVerses": 132,
+      "meter": "Rajas"
+    },
+    {
+      "number": 142,
+      "name": "Nuuru Daarayni 30",
+      "transliterationName": "Nuuru Daarayni 30",
+      "numberOfVerses": 98,
+      "meter": "Rajas"
+    },
+    {
+      "number": 143,
+      "name": "Nuuru Daarayni 4",
+      "transliterationName": "Nuuru Daarayni 4",
+      "numberOfVerses": 98,
+      "meter": "Rajas"
+    },
+    {
+      "number": 144,
+      "name": "Nuuru Daarayni 5",
+      "transliterationName": "Nuuru Daarayni 5",
+      "numberOfVerses": 116,
+      "meter": "Rajas"
+    },
+    {
+      "number": 145,
+      "name": "Nuuru Daarayni 6",
+      "transliterationName": "Nuuru Daarayni 6",
+      "numberOfVerses": 100,
+      "meter": "Rajas"
+    },
+    {
+      "number": 146,
+      "name": "Nuuru Daarayni 7",
+      "transliterationName": "Nuuru Daarayni 7",
+      "numberOfVerses": 104,
+      "meter": "Rajas"
+    },
+    {
+      "number": 147,
+      "name": "Nuuru Daarayni 8",
+      "transliterationName": "Nuuru Daarayni 8",
+      "numberOfVerses": 102,
+      "meter": "Rajas"
+    },
+    {
+      "number": 148,
+      "name": "Nuuru Daarayni 9",
+      "transliterationName": "Nuuru Daarayni 9",
+      "numberOfVerses": 112,
+      "meter": "Rajas"
+    },
+    {
+      "number": 149,
+      "name": "Qalu Liyarkan",
+      "transliterationName": "Qalu Liyarkan",
+      "numberOfVerses": 20,
+      "meter": "Rajas"
+    },
+    {
+      "number": 150,
+      "name": "Raa Iya 1",
+      "transliterationName": "Raa Iya 1",
+      "numberOfVerses": 76,
+      "meter": "Rajas"
+    },
+    {
+      "number": 151,
+      "name": "Rabbi Karrimun",
+      "transliterationName": "Rabbi Karrimun",
+      "numberOfVerses": 38,
+      "meter": "Rajas"
+    },
+    {
+      "number": 152,
+      "name": "Rabbiya Ahmadu",
+      "transliterationName": "Rabbiya Ahmadu",
+      "numberOfVerses": 56,
+      "meter": "Rajas"
+    },
+    {
+      "number": 153,
+      "name": "Raditu",
+      "transliterationName": "Raditu",
+      "numberOfVerses": 144,
+      "meter": "Rajas"
+    },
+    {
+      "number": 154,
+      "name": "Rumna Shukur 1",
+      "transliterationName": "Rumna Shukur 1",
+      "numberOfVerses": 92,
+      "meter": "Rajas"
+    },
+    {
+      "number": 155,
+      "name": "Rumna Shukur 2",
+      "transliterationName": "Rumna Shukur 2",
+      "numberOfVerses": 86,
+      "meter": "Rajas"
+    },
+    {
+      "number": 156,
+      "name": "Sabhun Taqii",
+      "transliterationName": "Sabhun Taqii",
+      "numberOfVerses": 60,
+      "meter": "Rajas"
+    },
+    {
+      "number": 157,
+      "name": "Safar",
+      "transliterationName": "Safar",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 158,
+      "name": "Safaru Bamsashin",
+      "transliterationName": "Safaru Bamsashin",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 159,
+      "name": "Sana Ilaahi",
+      "transliterationName": "Sana Ilaahi",
+      "numberOfVerses": 10,
+      "meter": "Rajas"
+    },
+    {
+      "number": 160,
+      "name": "Shakawtu",
+      "transliterationName": "Shakawtu",
+      "numberOfVerses": 26,
+      "meter": "Rajas"
+    },
+    {
+      "number": 161,
+      "name": "Shakuru Rafihu",
+      "transliterationName": "Shakuru Rafihu",
+      "numberOfVerses": 16,
+      "meter": "Rajas"
+    },
+    {
+      "number": 162,
+      "name": "Sindidi",
+      "transliterationName": "Sindidi",
+      "numberOfVerses": 100,
+      "meter": "Rajas"
+    },
+    {
+      "number": 163,
+      "name": "Tawbatun Nasuuh 1",
+      "transliterationName": "Tawbatun Nasuuh 1",
+      "numberOfVerses": 108,
+      "meter": "Rajas"
+    },
+    {
+      "number": 164,
+      "name": "Tawbatun Nasuuh 2",
+      "transliterationName": "Tawbatun Nasuuh 2",
+      "numberOfVerses": 104,
+      "meter": "Rajas"
+    },
+    {
+      "number": 165,
+      "name": "Taysirul Hasiru 1",
+      "transliterationName": "Taysirul Hasiru 1",
+      "numberOfVerses": 118,
+      "meter": "Rajas"
+    },
+    {
+      "number": 166,
+      "name": "Taysirul Hasiru 2",
+      "transliterationName": "Taysirul Hasiru 2",
+      "numberOfVerses": 114,
+      "meter": "Rajas"
+    },
+    {
+      "number": 167,
+      "name": "Taysirul Hasiru 3",
+      "transliterationName": "Taysirul Hasiru 3",
+      "numberOfVerses": 112,
+      "meter": "Rajas"
+    },
+    {
+      "number": 168,
+      "name": "Taysirul Hasiru 4",
+      "transliterationName": "Taysirul Hasiru 4",
+      "numberOfVerses": 120,
+      "meter": "Rajas"
+    },
+    {
+      "number": 169,
+      "name": "Taysirul Hasiru 5",
+      "transliterationName": "Taysirul Hasiru 5",
+      "numberOfVerses": 126,
+      "meter": "Rajas"
+    },
+    {
+      "number": 170,
+      "name": "Tuhfatu Mutadarihin",
+      "transliterationName": "Tuhfatu Mutadarihin",
+      "numberOfVerses": 116,
+      "meter": "Rajas"
+    },
+    {
+      "number": 171,
+      "name": "Wa Kaana Haqqan 1",
+      "transliterationName": "Wa Kaana Haqqan 1",
+      "numberOfVerses": 104,
+      "meter": "Rajas"
+    },
+    {
+      "number": 172,
+      "name": "Wa Kaana Haqqan 2",
+      "transliterationName": "Wa Kaana Haqqan 2",
+      "numberOfVerses": 100,
+      "meter": "Rajas"
+    },
+    {
+      "number": 173,
+      "name": "Wa Kaana Haqqan 3",
+      "transliterationName": "Wa Kaana Haqqan 3",
+      "numberOfVerses": 100,
+      "meter": "Rajas"
+    },
+    {
+      "number": 174,
+      "name": "Wadudu",
+      "transliterationName": "Wadudu",
+      "numberOfVerses": 44,
+      "meter": "Rajas"
+    },
+    {
+      "number": 175,
+      "name": "Wajjahtu Hamdan",
+      "transliterationName": "Wajjahtu Hamdan",
+      "numberOfVerses": 32,
+      "meter": "Rajas"
+    },
+    {
+      "number": 176,
+      "name": "Wajjahtu Kulliya",
+      "transliterationName": "Wajjahtu Kulliya",
+      "numberOfVerses": 50,
+      "meter": "Rajas"
+    },
+    {
+      "number": 177,
+      "name": "Wajjahtu Wajhii",
+      "transliterationName": "Wajjahtu Wajhii",
+      "numberOfVerses": 76,
+      "meter": "Rajas"
+    },
+    {
+      "number": 178,
+      "name": "Wajjahtu Wajhiya",
+      "transliterationName": "Wajjahtu Wajhiya",
+      "numberOfVerses": 50,
+      "meter": "Rajas"
+    },
+    {
+      "number": 179,
+      "name": "Wal Baladu",
+      "transliterationName": "Wal Baladu",
+      "numberOfVerses": 60,
+      "meter": "Rajas"
+    },
+    {
+      "number": 180,
+      "name": "Walaqad Karamna 1",
+      "transliterationName": "Walaqad Karamna 1",
+      "numberOfVerses": 60,
+      "meter": "Rajas"
+    },
+    {
+      "number": 181,
+      "name": "Walaqad Karamna 2",
+      "transliterationName": "Walaqad Karamna 2",
+      "numberOfVerses": 60,
+      "meter": "Rajas"
+    },
+    {
+      "number": 182,
+      "name": "Walaqad Karamna 3",
+      "transliterationName": "Walaqad Karamna 3",
+      "numberOfVerses": 52,
+      "meter": "Rajas"
+    },
+    {
+      "number": 183,
+      "name": "Waqani",
+      "transliterationName": "Waqani",
+      "numberOfVerses": 34,
+      "meter": "Rajas"
+    },
+    {
+      "number": 184,
+      "name": "Wawassaynal",
+      "transliterationName": "Wawassaynal",
+      "numberOfVerses": 50,
+      "meter": "Rajas"
+    },
+    {
+      "number": 185,
+      "name": "Yaa Kitaabal Kariimi",
+      "transliterationName": "Yaa Kitaabal Kariimi",
+      "numberOfVerses": 34,
+      "meter": "Rajas"
+    },
+    {
+      "number": 186,
+      "name": "Yaa Mukrima Dayfi",
+      "transliterationName": "Yaa Mukrima Dayfi",
+      "numberOfVerses": 28,
+      "meter": "Rajas"
+    },
+    {
+      "number": 187,
+      "name": "Yaa Rakhmanu",
+      "transliterationName": "Yaa Rakhmanu",
+      "numberOfVerses": 18,
+      "meter": "Rajas"
+    },
+    {
+      "number": 188,
+      "name": "Yaa Zal Wujuudi",
+      "transliterationName": "Yaa Zal Wujuudi",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 189,
+      "name": "Yaqini",
+      "transliterationName": "Yaqini",
+      "numberOfVerses": 32,
+      "meter": "Rajas"
+    },
+    {
+      "number": 190,
+      "name": "Yarabbi",
+      "transliterationName": "Yarabbi",
+      "numberOfVerses": 14,
+      "meter": "Rajas"
+    },
+    {
+      "number": 191,
+      "name": "Yassara",
+      "transliterationName": "Yassara",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 192,
+      "name": "Yasurru",
+      "transliterationName": "Yasurru",
+      "numberOfVerses": 24,
+      "meter": "Rajas"
+    },
+    {
+      "number": 193,
+      "name": "Zallat",
+      "transliterationName": "Zallat",
+      "numberOfVerses": 18,
+      "meter": "Rajas"
+    }
+  ]
+}

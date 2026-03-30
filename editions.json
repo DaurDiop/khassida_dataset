@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "identifier": "khassida-uthmani",
+      "language": "ar",
+      "name": "Uthmani Script",
+      "format": "text",
+      "type": "original",
+      "direction": "rtl"
+    },
+    {
+      "identifier": "fr.translation",
+      "language": "fr",
+      "name": "Traduction Française",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    },
+    {
+      "identifier": "transliteration",
+      "language": "en",
+      "name": "Transcription",
+      "format": "text",
+      "type": "transliteration",
+      "direction": "ltr"
+    }
+  ]
+}
