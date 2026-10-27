@@ -107,6 +107,8 @@ python3 scripts/import_karamati.py ../karamati-khatou-yadi
 python3 scripts/build_api.py
 ```
 
+Il testo dell'app è curato a mano, quindi ha la precedenza: se il testo arabo di una khassida importata differisce da quello del dataset, `import_karamati.py` lo sostituisce con quello dell'app e segnala la correzione.
+
 La CI esegue `python3 scripts/build_api.py --check` a ogni push e fallisce se il dataset non è valido o se `v1/` non è stato rigenerato.
 
 ---

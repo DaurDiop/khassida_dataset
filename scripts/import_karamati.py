@@ -15,8 +15,10 @@ nel dataset (es. "Jazbu 1".."Jazbu 4") vengono allineate in sequenza;
 `appNumber` conserva la numerazione continua dell'app.
 
 L'allineamento viene verificato confrontando il testo arabo (senza
-diacritici): se un segmento differisce lo script lo segnala, e si ferma se
-la somiglianza è troppo bassa.
+diacritici). Il testo dell'app è curato a mano, quindi quando un segmento
+differisce vince l'app: il testo arabo del dataset viene sostituito e la
+correzione segnalata. Se la somiglianza è troppo bassa lo script si ferma
+(probabile disallineamento, non un refuso).
 """
 import difflib
 import json
@@ -82,7 +84,8 @@ def main(app_dir):
                 if sim < MIN_SIMILARITY:
                     sys.exit(f"{app_id} v{n}: testo non allineato ({sim:.2f})\n  app: {s}\n  dataset: {v['text']}")
                 if sim < 1:
-                    warnings.append(f"{k['name']} verso {v['number']}: dataset «{v['text']}» / app «{s.strip()}»")
+                    warnings.append(f"{k['name']} verso {v['number']}: «{v['text']}» -> «{s.strip()}»")
+                    v["text"] = s.strip()
             bayt = {
                 "number": len(part["bayts"]) + 1,
                 "verseFrom": chunk[0][1]["number"],
@@ -100,7 +103,7 @@ def main(app_dir):
 
     FULL.write_text(json.dumps(full, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     for w in warnings:
-        print("ATTENZIONE (testo diverso):", w)
+        print("Testo arabo corretto con quello dell'app:", w)
 
 
 if __name__ == "__main__":
