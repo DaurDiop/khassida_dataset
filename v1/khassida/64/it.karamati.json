@@ -1,0 +1,363 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 64,
+    "name": "Jazbu 2",
+    "transliterationName": "Jazbu 2",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 51,
+        "text": "egli è come chi fu presente al giorno di Ḥunayn e perseverò, e al giorno di Badr, e soccorse il migliore del creato, colui che fa comprendere."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 52,
+        "text": "Chi onora la nascita del nostro Profeta, Porta della Guida, non sarà chiamato a rendere conto domani, nel Rendiconto che ammutolisce."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 53,
+        "text": "Chiunque abbia partecipato (alla celebrazione del)la nascita del migliore delle creature, onorandola, gioioso, con dello zucchero o della carne,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 54,
+        "text": "egli ha ottenuto ciò che rende perenne la letizia, e non incontrerà alcun danno nel Giorno del Raduno delle comunità."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 55,
+        "text": "Chi ha preparato del cibo per coloro che hanno recitato (il Mawlid) in suo onore, con venerazione, ha messo in serbo i beni della gente dalle alte aspirazioni."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 56,
+        "text": "E chi ha recitato su qualcosa (il racconto della) nascita del signore del creato, per trarne benedizione, ne vedrà la crescita in abbondanza."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 57,
+        "text": "E se (il racconto del)la nascita del migliore degli uomini è recitato sull'acqua, berla, per (la grazia del) Purificato, trattiene l'insidia del (nemico) umiliato."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 58,
+        "text": "Il bere di quell'acqua illumina il cuore, per (la grazia de)l'Esaudito, ravviva il cuore senza difetto, e preserva dalla sventura."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 59,
+        "text": "Celebrare la nascita del Nunzio (Muḥammad) protegge la famiglia e le dimore; in essa vi è guarigione per i petti, per ogni ben guidato che a lui appartiene."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 60,
+        "text": "L'Eterno (Allah), che rende perenne per me la letizia, effonda la Sua benedizione sul migliore degli uomini, sulla Famiglia e sui Compagni, perle preziose, con una pace che li avvolga."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 61,
+        "text": "O Ispiratore, che hai concesso la buona riuscita, benedici colui che fu creato e superò le creature nel carattere come nell'aspetto, e dona la pace."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 62,
+        "text": "Era di statura media, di aspetto nobile e chiaro; non era eccessivo (nell'altezza), né era di colorito scuro."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 63,
+        "text": "Non era corpulento, né aveva il volto tondo e pieno; anzi superava chiunque si fosse innalzato fra i discendenti di Adamo."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 64,
+        "text": "Superava in altezza chiunque camminasse accanto a lui, in ogni tempo; era di animo generoso e ospitale, e rideva sorridendo."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 65,
+        "text": "Era maestoso, dal volto pieno di vita, il suo candore soffuso di rossore, dalle ciglia lunghe, dagli occhi grandi, di nobile figura."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 66,
+        "text": "Sorrideva nel più splendido dei sorrisi, come il lampo o come i chicchi di grandine; e il suo riso dissipava l'oscurità, come lampade nelle tenebre."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 67,
+        "text": "Il suo volto era rotondo, era snello, luminoso, splendido, di carnagione ambrata, e scandiva con calma la sua parola."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 68,
+        "text": "Era come se acqua d'oro scorresse sulla sua guancia raffinata; aveva le membra slanciate e il naso di nobile altezza."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 69,
+        "text": "Perfetto d'orecchio, dagli occhi profondamente neri, dai denti candidi e lievemente distanziati, dagli occhi venati di rosso, radioso; il suo volto cancellava ogni angoscia."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 70,
+        "text": "Egli è il più perfetto delle creature, manifesto nell'aspetto e nel carattere; mai si è visto, né mai si vedrà, chi gli sia pari nelle virtù."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 71,
+        "text": "Il nostro Aḥmad, la nostra misericordia, il nostro Ḥāmid, il nostro dono, il nostro Maḥmūd, la nostra gioia; e la sua generosità fa impallidire le piogge."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 72,
+        "text": "In verità mi rivolgo al Bello (Allah), invocando benedizione sul Messaggero e salutando con la pace colui che unisce (a Dio) la sua schiera, con le mie parole."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 73,
+        "text": "Benedici l'Avvolto nel manto (Al-Muddaththir, Muḥammad), il migliore delle creature, il Nunzio, che cancella la menzogna, il Purificato, e la sua Famiglia, e dona la pace."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 74,
+        "text": "Benedici l'Avvolto (Al-Muzzammil, Muḥammad), che dissipa le tenebre, lo Sperato, che riversa i suoi doni sul bisognoso, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 75,
+        "text": "Benedici il Servo di Dio, il Suo Amato, il Ricordo di Dio, il Suo Eletto, la Spada di Dio, e la sua Famiglia, e dona la pace."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 76,
+        "text": "Benedici la Schiera di Dio, il Suo dono, la Porta di Dio, la Sua Via, la Guida di Dio, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 77,
+        "text": "Benedici il nostro signore, il nostro patrono, la nostra Guida esemplare, il nostro amato, il nostro intercessore, e la sua Famiglia, e dona la pace."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 78,
+        "text": "Benedici colui che fu educato (da Dio), possessore della sacralità, l'educatore, il migliore dei Messaggeri e dei Profeti, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 79,
+        "text": "Benedici la Porta della Beatitudine, la Via retta (aṣ-Ṣirāṭ al-Mustaqīm), Muḥammad, il migliore degli esseri, e la sua Famiglia, e dona la pace."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 80,
+        "text": "Benedici la gloria degli Arabi: egli rimuove le angosce, egli innalza i ranghi; e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 81,
+        "text": "Benedici Colui che cancella (Al-Māḥī), il Procuratore, colui che si affida (a Dio), il Garante, nostra guida verso la Via, e la sua Famiglia, e dona la pace."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 82,
+        "text": "Benedici il mare dei mari, il leone contro i nemici, la guarigione dei petti, che bandisce la sventura, la luna piena delle lune piene, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 83,
+        "text": "Egli è colui che ha condotto la munificenza a chiunque venga a chiedere doni; e chi si dirige verso di lui con aggressione incontra la rovina nel terrore."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 84,
+        "text": "Egli è colui per mezzo del quale la mia mano si è tesa verso il mio Signore, il più largo nel donare, ed Egli mi ha donato il meglio, senza «dammi» né «quanto?»."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 85,
+        "text": "A lui appartengono prodigi che non giunsero ad alcun predecessore e che nessun successore potrà eguagliare, per grazia di Colui (Allah) che dà la precedenza."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 86,
+        "text": "Tra questi, il saluto della pietra a lui, il camminare dell'albero, la scissione della luna per lui, per (volontà di) Colui che possiede la Permanenza e l'Eternità."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 87,
+        "text": "La nube gli faceva ombra; vedeva dietro di sé come davanti; i suoi occhi dormivano, ma il suo cuore non dormiva."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 88,
+        "text": "Tra questi, le mosche che evitavano il suo corpo e le sue vesti; e così pure l'appianarsi delle difficoltà, per (grazia di) Allah, che concede il bottino."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 89,
+        "text": "Tra questi, gli uccelli che cercavano rifugio per suo tramite, il cammello che a lui si lamentò, e l'acqua pura che sgorgò dalla mano del Generoso."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 90,
+        "text": "Fu udita la glorificazione (tasbīḥ) del cibo nel palmo del migliore degli uomini; il discorso di una gazzella con parole: prodigio del Venerato."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 91,
+        "text": "Il parlare di una lucertola ci è giunto fra essi con un testo attestato; il gemito di un tronco ci è giunto fra i prodigi dell'Onorato."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 92,
+        "text": "Riḍwān (il custode del Paradiso) visitava la sua dimora per rendergli onore; tra questi (prodigi), gli uccelli inviati contro i superbi,"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 93,
+        "text": "(quando) si diresse verso la Casa Sacra (la Kaʿba) per demolirla colui (Abraha) che fra gli uomini era condotto per gradi alla rovina, per la sua ignoranza del Magnificato."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 94,
+        "text": "E Allah, sublime, fece al suo esercito ciò che fece, per il rango di lui (Muḥammad), e rese vana la loro insidia (gettandola) nel mare."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 95,
+        "text": "Ciascuno dei superbi morì per la più funesta delle pietre: il Signore degli uomini li rese come bocconi per un vorace."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 96,
+        "text": "E fra i prodigi apparve ciò che racchiuse la grotta del Modello (Muḥammad, la grotta di Thawr); su di lui effonda la Sua benedizione Colui (Allah) che per suo tramite ha guidato quanti comprendono:"
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 97,
+        "text": "un ragno che tessé (la sua tela) e una colomba che (vi) si posò, aleggiando, e con ciò nascosero quei due (il Profeta e Abū Bakr) come in un velo di tenebre."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 98,
+        "text": "I miscredenti giunsero e seguirono le tracce di Colui che cancella (Al-Māḥī, Muḥammad), ma di lui nulla videro, e se ne tornarono addolorati."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 99,
+        "text": "Egli era celato, insieme al più grande Affrancato (Abū Bakr), nella grotta, sotto i loro stessi sguardi, ed essi non videro nessuno."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 100,
+        "text": "La protezione del Custode (Al-Ḥafīẓ), di Colui che difende (Al-Māniʿ), rende superflue le armi per ogni servo umile che cerca il migliore dei santuari."
+      }
+    ]
+  }
+}

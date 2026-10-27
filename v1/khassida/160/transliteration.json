@@ -1,0 +1,117 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 160,
+    "name": "Shakawtu",
+    "transliterationName": "Shakawtu",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "shakawtu umuuri wa zanbil haziim"
+      },
+      {
+        "number": 2,
+        "text": "lirabbil qadiiril ghafuurir rahiim"
+      },
+      {
+        "number": 3,
+        "text": "fakun mushkiyan lii wa hab lil munaa"
+      },
+      {
+        "number": 4,
+        "text": "bijaahin nabiyyish shafiihil kariim"
+      },
+      {
+        "number": 5,
+        "text": "wa salli halayhi bighayrin tihaa"
+      },
+      {
+        "number": 6,
+        "text": "wa sallim salaaman halayhi yaduum"
+      },
+      {
+        "number": 7,
+        "text": "wa kun lii waliyyan hunaa wa ghadan"
+      },
+      {
+        "number": 8,
+        "text": "wa kun lii nasiiran fa-innii hadiim"
+      },
+      {
+        "number": 9,
+        "text": "wa kun bii latiifan wa hab lii ridan"
+      },
+      {
+        "number": 10,
+        "text": "wa kun lii ghafuuran fa-innii muliim"
+      },
+      {
+        "number": 11,
+        "text": "wa kun lii muhiinan halaa matlabii"
+      },
+      {
+        "number": 12,
+        "text": "wa kun muqdiran lii fa-innii sa-im"
+      },
+      {
+        "number": 13,
+        "text": "wa hab lii salaahan wa hab lii tuqan"
+      },
+      {
+        "number": 14,
+        "text": "wa nawwir janaanii wa zidnii huluum"
+      },
+      {
+        "number": 15,
+        "text": "wa hab lii najaatan wa zidnii hudan"
+      },
+      {
+        "number": 16,
+        "text": "wa aslih umuurii wa zidnii nahiim"
+      },
+      {
+        "number": 17,
+        "text": "wa akhrij huyuubii wa zidnii hulan"
+      },
+      {
+        "number": 18,
+        "text": "wa abri saqaamii wa farrij ghumuum"
+      },
+      {
+        "number": 19,
+        "text": "walaa tukhziyyanii qinii mahlukan"
+      },
+      {
+        "number": 20,
+        "text": "walaa tufdihanii bikawnii la-im"
+      },
+      {
+        "number": 21,
+        "text": "fa-innii la-imun asiirul hawaa"
+      },
+      {
+        "number": 22,
+        "text": "wa haasin wa laakin ilaahii haliim"
+      },
+      {
+        "number": 23,
+        "text": "wa haafiyatan hab hunaa wa ghadan"
+      },
+      {
+        "number": 24,
+        "text": "lanaa wa liman lihudan yastaqiim"
+      },
+      {
+        "number": 25,
+        "text": "wa salli salaatan halal mustafaa"
+      },
+      {
+        "number": 26,
+        "text": "wa sallim salaaman halayhi yaduum"
+      }
+    ]
+  }
+}

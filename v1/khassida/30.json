@@ -1,0 +1,284 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 30,
+    "name": "Fazal Lazina",
+    "transliterationName": "Fazal Lazina",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "فَازَالَّذِينَ حَافَظُواْ عَلَى صِيَامْ",
+        "transcription": "faazal laziina haafazuu halaa siyaam",
+        "translations": {
+          "fr": "Bonheur à ceux qui se conforment au jeûne (du mois de Ramadan),"
+        }
+      },
+      {
+        "number": 2,
+        "text": "شَهْرٍ بِهِ أُغْلِقَ بَابٌ لِّلْإِيَامْ",
+        "transcription": "shahrin bihi ughliqa baabun lil iyaam",
+        "translations": {
+          "fr": "car durant ce mois on ferme les portes du châtiment."
+        }
+      },
+      {
+        "number": 3,
+        "text": "يَرَوْنَ أَفْضَلَ فُطُورٍ فِى الْقُبُورْ",
+        "transcription": "yarawna afdala futuurin fil qubuur",
+        "translations": {
+          "fr": "Ils verront dans leurs tombes ainsi que durant le jour du jugement dernier,"
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَفِى الْقِيَامَةِ مِنَ الْمُغْنِى الْكَبِيرْ",
+        "transcription": "wa fil qiyaamati minal mughnil kabiir",
+        "translations": {
+          "fr": "la meilleure rupture en provenance du Grand Pourvoyeur."
+        }
+      },
+      {
+        "number": 5,
+        "text": "شَعِدَ خَالِقُ الْوَرَى لِلصَّآئِمِينْ",
+        "transcription": "shahida khaaliqul waraa lis saa-imiin",
+        "translations": {
+          "fr": "Le Créateur témoigne son agrément aux jeûneurs"
+        }
+      },
+      {
+        "number": 6,
+        "text": "فِى رَمَضَانَ بِرِضَاهُ الْقَآئِمِينْ",
+        "transcription": "fii ramadaana biridaahul qaa-imiin",
+        "translations": {
+          "fr": "et à ceux-là qui exécutent leurs priàres."
+        }
+      },
+      {
+        "number": 7,
+        "text": "هِبَاتُهُمْ عِنْدَ الْإِلَاهِ وَافِرَهْ",
+        "transcription": "hibaatuhum hindal ilaahi waafirah",
+        "translations": {
+          "fr": "Les faveurs auprès de DIEU sont immenses;"
+        }
+      },
+      {
+        "number": 8,
+        "text": "نَالُواْ الْمُنَى فِى دَرَجَاتِ الْأَاخِرَهْ",
+        "transcription": "naalul munaa fii darajaatil aakhirah",
+        "translations": {
+          "fr": "ils obtiendront ses bienfaits lors de l'attribution des rangs pendant le jugement dernier."
+        }
+      },
+      {
+        "number": 9,
+        "text": "رُدَّ لِغَيْرِهِمْ عَذَابُ النَّارِ",
+        "transcription": "rudda lighayrihim hazaabun naari",
+        "translations": {
+          "fr": "Il a repousssé le châtiment de l'Enfer vers d'autres qu'eux,"
+        }
+      },
+      {
+        "number": 10,
+        "text": "بِغَيْرِ دِرْهَمٍ وَلَا دِينَارِ",
+        "transcription": "bighayri dirhamin walaa diinaari",
+        "translations": {
+          "fr": "et ce, sans contrepartie en <<Dirhams>> ou en <<Dinars>>."
+        }
+      },
+      {
+        "number": 11,
+        "text": "رَفَعَهُمْ بِرَمَضَانَ الرَّافِعُ",
+        "transcription": "rafahahum biramadaanar raafihu",
+        "translations": {
+          "fr": "Le Très-Haut les a élevé durant le Ramadan"
+        }
+      },
+      {
+        "number": 12,
+        "text": "نَفَعَهُمْ بِالصَّلَوَاتِ النَّافِعُ",
+        "transcription": "nafahahum bis salawaatin naafihu",
+        "translations": {
+          "fr": "et pour leurs prières, le Bienfaisant les a honorés."
+        }
+      },
+      {
+        "number": 13,
+        "text": "مَدَّ لَهُمْ مُّنَى النُّفُوسِ الْبَاقِى",
+        "transcription": "madda lahum munan nufuusil baaqii",
+        "translations": {
+          "fr": "Le Subsistant a répandu sur eux les faveurs que convoitent les âmes,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "ذُو الْأَرَضِينَ السَّبْعِ وَالطِّبَاقِ",
+        "transcription": "zul aradiinas sabhi wat tibaaqi",
+        "translations": {
+          "fr": "Lui à qui appartiennent les sept terres et leurs correspondants (les sept cieux)."
+        }
+      },
+      {
+        "number": 15,
+        "text": "ضِيَافَةُ الْبَاقِى لَدَى الْجِنَانِ",
+        "transcription": "diyaafatul baaqii ladal jinaani",
+        "translations": {
+          "fr": "La réception que le Subsistant leur donnera au Paradis"
+        }
+      },
+      {
+        "number": 16,
+        "text": "تَمْحُو عَنَآءَ الصَّوْمِ بِامْتِنَانِ",
+        "transcription": "tamhuu hanaa-as sawmi bimtinaani",
+        "translations": {
+          "fr": "effacera les peines du jeûne par des réjouissances."
+        }
+      },
+      {
+        "number": 17,
+        "text": "أَجْرُ الَّذِى مَا عِنْدَهُ لَا يَنْفَدُ",
+        "transcription": "ajrul lazii maa hindahu laa yanfadu",
+        "translations": {
+          "fr": "La récompense de Celui qui détient les bienfaits intarissables"
+        }
+      },
+      {
+        "number": 18,
+        "text": "أَجْرٌ كَبِيرٌ مَّا اعْتَرَاهُ نَفَدُ",
+        "transcription": "ajrun kabiirun magh taraahu nafadu",
+        "translations": {
+          "fr": "est grande et inépuisable."
+        }
+      },
+      {
+        "number": 19,
+        "text": "نَفْعُ صِيَامِ الشَّهْرِ فِى الدَّارَيْنِ",
+        "transcription": "nafhu siyaamish  shahri fid daarayni",
+        "translations": {
+          "fr": "Les faveurs du jeûne du Ramadan dans les deux mondes"
+        }
+      },
+      {
+        "number": 20,
+        "text": "يَكْفِيكُمُ الْعَارَيْنِ وَالنَّارَيْنِ",
+        "transcription": "yakfiikumul haarayni wan naarayni",
+        "translations": {
+          "fr": "vous protégeront contre les deux déshonneurs de de l'Enfer d'Ici-bas et dans l'Au-delà."
+        }
+      },
+      {
+        "number": 21,
+        "text": "عَبَدْتُّمُ اللَّهَ الْكَرِيمَ الْأَكْرَمَا",
+        "transcription": "habadtumul laahal kariimal akramaa",
+        "translations": {
+          "fr": "Vous avez adoré DIEU, le NOBLE, le PLUS NOBLE,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "بِخَيْرِ شَهْرٍ قَدْ يَقُودُ الْكَرَمَا",
+        "transcription": "bikhayri shahrin qad yaquudul karamaa",
+        "translations": {
+          "fr": "durant le meilleur des mois qui procure des honneurs."
+        }
+      },
+      {
+        "number": 23,
+        "text": "إِلَى سِوَاكُمْ تَنْتَحِى النِّيرَانُ",
+        "transcription": "ilaa siwaakum tantahin niiraanu",
+        "translations": {
+          "fr": "L'Enfer de même que la perte seront destinées"
+        }
+      },
+      {
+        "number": 24,
+        "text": "يَوْمَ الْقِيَامَةِ كَذَا الْخُسْرَانُ",
+        "transcription": "yawmal qiyaamati kazal khusraanu",
+        "translations": {
+          "fr": "à d'autres personnes que vous le jour du jugment dernier."
+        }
+      },
+      {
+        "number": 25,
+        "text": "مَلَكْتُمُ النَّفُوسَ فِى النَّهَارِ",
+        "transcription": "malaktumun nafuusa fin nahaari",
+        "translations": {
+          "fr": "Vous avez dominé vos âmes charnelles durant les journées du Ramadan,"
+        }
+      },
+      {
+        "number": 26,
+        "text": "يَنْحُو لِغَيْرِكُمْ ذَوُو انْتِهَارِ",
+        "transcription": "yanhuu lighayrikum zawun tihaari",
+        "translations": {
+          "fr": "les grondements (dans les tombes) se dirigeront vers d'autres que vous."
+        }
+      },
+      {
+        "number": 27,
+        "text": "أَبْوَابُ جَنَّاتِ النَّعِيمِ فُتِّحَتْ",
+        "transcription": "abwaabu jannatin nahimi futtihat",
+        "translations": {
+          "fr": "Les portes du Paradis Nacîm seront ouvertes aux jeûneurs"
+        }
+      },
+      {
+        "number": 28,
+        "text": "لِلصَّآئِمِينَ وَالْجَمِيعُ انْفَتَحَتْ",
+        "transcription": "lis saa-imiina wal jamiihun fatahat",
+        "translations": {
+          "fr": "de même que toutes les autres portes du Paradis."
+        }
+      },
+      {
+        "number": 29,
+        "text": "لَكُمْ لَدَى الْفُطُورِ وَاللِّقَآءِ",
+        "transcription": "lakum ladal futuuri wal liqaa-i",
+        "translations": {
+          "fr": "Vous obtiendrez lors de la rupture et la rencontre avec votre Seigneur,"
+        }
+      },
+      {
+        "number": 30,
+        "text": "يَاقَوْمِ فُرْحَتَانِ بِارْتِقَآءِ",
+        "transcription": "yaa qawmi furhatani birtiqaa-i",
+        "translations": {
+          "fr": "à vous les gens, deux faveurs grâce à votre crainte révérencielle."
+        }
+      },
+      {
+        "number": 31,
+        "text": "سَتَعْلَمُونَ أَنَّ رَبَّكُمْ كَرِيمْ",
+        "transcription": "satahlamuuna anna rabbakum kariim",
+        "translations": {
+          "fr": "Vous saurez que votre Seigneur (Dieu) est NOBLE"
+        }
+      },
+      {
+        "number": 32,
+        "text": "وَأَنَّ عِنْدَهُ أُجُورًا لَّا تَرِيمْ",
+        "transcription": "wa anna hindahu ujuuran laa tariim",
+        "translations": {
+          "fr": "et qu'auprès de LUI se trouvent des récompenses inépuisables."
+        }
+      },
+      {
+        "number": 33,
+        "text": "شَكَرْتُمُ اللَّهَ عَلَى شَهْرِ صِيَامْ",
+        "transcription": "shakartumul laaha halaa shahri siyaam",
+        "translations": {
+          "fr": "Vous avez rendu grâce à DIEU durant le mois de Ramadan,"
+        }
+      },
+      {
+        "number": 34,
+        "text": "سَدَتْ خُلُونَ جَنَّةً دُونَ إِيَامْ",
+        "transcription": "sadat khuluuna jannatan duuna iyaam",
+        "translations": {
+          "fr": "vous entrerez donc au Paradis sans peine."
+        }
+      }
+    ]
+  }
+}

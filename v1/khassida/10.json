@@ -1,0 +1,444 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 10,
+    "name": "Anta Rabbi",
+    "transliterationName": "Anta Rabbi",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "أَنْتَ رَبِّى وَكُنْتَ لِى بِوِدَادِى",
+        "transcription": "anta rabbii wa kunta lii biwidaadii",
+        "translations": {
+          "fr": "Tu es mon Seigneur et Tu es à moi par mon attachement,"
+        }
+      },
+      {
+        "number": 2,
+        "text": "لَكَ شُكْرِى لِجَنَّةِ بِمِدَادِ",
+        "transcription": "laka shukrii lijannati bimidaadi",
+        "translations": {
+          "fr": "ma reconnaissance est à Toi pour le paradis avec une plume pourvue d'assez d'encre en vue d'écrire."
+        }
+      },
+      {
+        "number": 3,
+        "text": "لَكَ شُكْرِى عَلَى جَمِيعِ حَلَالٍ",
+        "transcription": "laka shukrii halaa jamiihi halaalin",
+        "translations": {
+          "fr": "Je Te suis reconnaissant de tout"
+        }
+      },
+      {
+        "number": 4,
+        "text": "سُقْتَهُ لِى لِجَنَّةٍ ذَا سَدَادِ",
+        "transcription": "suqtahu lii lijannatin zaa sadaadi",
+        "translations": {
+          "fr": "ce que tu m'as juste envoyé de licite pour le paradis."
+        }
+      },
+      {
+        "number": 5,
+        "text": "لَكَ كُلِّى يَا ذَا الْبَقَا ذَا بَقَاءٍ",
+        "transcription": "laka kullii yaa zal baqaa zaa baqaa-in",
+        "translations": {
+          "fr": "Ô! Toi, l'éternel, tout mon être t'appartient."
+        }
+      },
+      {
+        "number": 6,
+        "text": "أَيَةً مِّنْكَ سَرْمَدًا يَا عِمَادِى",
+        "transcription": "ayatan minka sarmadan yaa himaadii",
+        "translations": {
+          "fr": "Ô! mon Seigneur, toujours un signe de toi."
+        }
+      },
+      {
+        "number": 7,
+        "text": "هَبْ لِىَ الدَّهْرَ أَنْ أَدُومَ سُرُورًا",
+        "transcription": "hab liyad dahra an aduuma suruuran",
+        "translations": {
+          "fr": "Fais-moi don de rester à perpétuité,"
+        }
+      },
+      {
+        "number": 8,
+        "text": "لِحَبِيبِ بِهِ عَلَيْكَ اعْتِمَادِى",
+        "transcription": "lihabiibi bihi halaykah timaadii",
+        "translations": {
+          "fr": "une joie pour l'ami par considération duquel je compte sur toi."
+        }
+      },
+      {
+        "number": 9,
+        "text": "مِنْكَ أَبْغِى لَهُ سَلَامَىْ وَدُودٍ",
+        "transcription": "minka abghii lahu salaamay wa duudin",
+        "translations": {
+          "fr": "Je désire de toi en sa faveur le salut d'un ami"
+        }
+      },
+      {
+        "number": 10,
+        "text": "ذِى بَقَاءٍ يَكُونُ لِى بِمُرَادِى",
+        "transcription": "zii baqaa-in yakuunu lii bimuraadii",
+        "translations": {
+          "fr": "qui m'est éternel par ma volonté."
+        }
+      },
+      {
+        "number": 11,
+        "text": "حُطْنِىَ الدَّهْرَ ذَا رِضً وَأَمَانٍ",
+        "transcription": "hutniyad dahra zaa ridan wa amaanin",
+        "translations": {
+          "fr": "Donnes-moi toujours l'avantage d'être satisfait et en sécurité,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "حُطْ عِيَا لِى عَنِ الْوَبَآ وَالْجَرَادِ",
+        "transcription": "hut hiyaalii hanil wabaa wal jaraadi",
+        "translations": {
+          "fr": "éloignes les miens de l'épidémie et des sauterelles."
+        }
+      },
+      {
+        "number": 13,
+        "text": "مُدَّ لِى مِنْكَ مَا أَشَا فِى دَوَامٍ",
+        "transcription": "mudda lii minka maa ashaa fii dawaamin",
+        "translations": {
+          "fr": "Donnes-moi de Ta part en permanence ce que Tu veux,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَبِخَطِّى ارْفَعِ الْعُلَى بِانْفِرَادِ",
+        "transcription": "wa bikhattir fahil hulaa bin firaadi",
+        "translations": {
+          "fr": "par considération pour mes écrits, élève spécialement la grandeur."
+        }
+      },
+      {
+        "number": 15,
+        "text": "مِنْكَ أَبْغِى بِلَا انْتِهَاءٍ سَلَامَىْ",
+        "transcription": "minka abghii bilan tihaa-in salaamay",
+        "translations": {
+          "fr": "Je désire de Toi sans cesse un salut"
+        }
+      },
+      {
+        "number": 16,
+        "text": "وَاسِعٍ لِّلْمَلَا الْكِرَامِ الْعِبَادِ",
+        "transcription": "waasihin lil malal kirraamil hibaadi",
+        "translations": {
+          "fr": "qui embrasse tous les grands et honorables serviteurs."
+        }
+      },
+      {
+        "number": 17,
+        "text": "دَاءِمُ اكْتُبْ لِىَ الرِّضَى بِعِيَالِى",
+        "transcription": "daa-imuktub liyar ridaa bihiyaalii",
+        "translations": {
+          "fr": "Accordes-moi le bénéfice d'être content des miens,"
+        }
+      },
+      {
+        "number": 18,
+        "text": "وَلْتُبَشِّرْ خَيْرَ الْوَرَى بِمِدَادِى",
+        "transcription": "wal tubashshir khayral waraa bimidaadii",
+        "translations": {
+          "fr": "et réjouis le meilleur des hommes par ma plume."
+        }
+      },
+      {
+        "number": 19,
+        "text": "إِنَّ ذَا الْجُودِ وَالْعُلَى وَالْجَمَالِ",
+        "transcription": "inna zal juudi wal hulaa wal jamaali",
+        "translations": {
+          "fr": "Certes, le Généreux, le Grand, le Bienfaiteur,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "مَالِكَ الْمُلْكِ ذَا الْهُدَى وَالْكَمَالِ",
+        "transcription": "maalikal mulki zal hudaa wal kamaali",
+        "translations": {
+          "fr": "Détenteur du pouvoir, le Droit, le Parfait."
+        }
+      },
+      {
+        "number": 21,
+        "text": "لَائِقٌ بِالشُّكُورِ وَهْوَ شَكُورٌ",
+        "transcription": "laa-iqun bish shukuuri wahwa shakuurun",
+        "translations": {
+          "fr": "Est digne de gratitude et Il est lui-même reconnaissant, par considération pour le prophète,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَبِهِ رُمْتُ شُكْرَهُ بِالْحَلَالِ",
+        "transcription": "wa bihi rumtu shukrahu bil halaali",
+        "translations": {
+          "fr": "je désire ardemment le remercier de ce qui est licite."
+        }
+      },
+      {
+        "number": 23,
+        "text": "لِى يَسُوقُ الْحَلَالَ دُونَ حِسَابٍ",
+        "transcription": "lii yasuuqul halaala duuna hisaabin",
+        "translations": {
+          "fr": "Il m'envoie ce qui est licite sans compter et"
+        }
+      },
+      {
+        "number": 24,
+        "text": "وَبِخَطِّى يُزِيلُ كُلَّ ضَلَالِ",
+        "transcription": "wa bikhattii yuziilu kulla dalaali",
+        "translations": {
+          "fr": "efface par mes écrits tout égarement."
+        }
+      },
+      {
+        "number": 25,
+        "text": "هَدَمَ الضُّرَّ عَنْ جَنَابِى دَوَامًا",
+        "transcription": "hadamad durra han janaabii dawaaman",
+        "translations": {
+          "fr": "Que le Tout Puissant écartes toujours de moi le mal et"
+        }
+      },
+      {
+        "number": 26,
+        "text": "وَبِخَيْرٍ يَجُودُ لِى ذَاجَمَالِ",
+        "transcription": "wa bikhayrin yajuudu lii zaa jamaali",
+        "translations": {
+          "fr": "se montre génreux envers moi de la chance de bienfaiteur."
+        }
+      },
+      {
+        "number": 27,
+        "text": "مَدَّ لِى فَضْلَهُ بِغَيْرِ انْتِهَاءٍ",
+        "transcription": "madda lii fadlahu bighayrin tihaa-in",
+        "translations": {
+          "fr": "Qu'Il m'accorde sa grâce d'une manière ininterrompue et"
+        }
+      },
+      {
+        "number": 28,
+        "text": "بِالنَّبِىِّ الْكَرِيمِ دُونَ اخْتِلَالِ",
+        "transcription": "bin nabiyyil kariimi duunakh tilaali",
+        "translations": {
+          "fr": "sans perturbation par considération pour l'Honorable Prophète."
+        }
+      },
+      {
+        "number": 29,
+        "text": "حَمْدِىَ الدَّهْرَ لِلَّذِى سَاقَ فَضْلًا",
+        "transcription": "hamdiyad dahra lillazii saaqa fadlan",
+        "translations": {
+          "fr": "Mes louanges sont toujours destinées au Seigneur"
+        }
+      },
+      {
+        "number": 30,
+        "text": "بِالرَّسُولِ الْأَمِينِ لِى ذَا اتِّصَالِ",
+        "transcription": "bir rasuulil amiini lii zat tisaali",
+        "translations": {
+          "fr": "qui m'envoie ses faveurs en liaison avec l'Envoyé digne de confiance."
+        }
+      },
+      {
+        "number": 31,
+        "text": "مَدَّ لِى مَالِكِى تَكَرُّمَ بَاقٍ",
+        "transcription": "madda lii maalikii takarruma baaqin",
+        "translations": {
+          "fr": "Mon seigneur, donnes-moi une constante bienveillance"
+        }
+      },
+      {
+        "number": 32,
+        "text": "ذَا اقْتِرَابٍ مِّنْهُ بِغَيْرِ انْفِصَالِ",
+        "transcription": "zaq tiraabin minhu bighayrin fisaali",
+        "translations": {
+          "fr": "proche de lui sans séparation."
+        }
+      },
+      {
+        "number": 33,
+        "text": "مَلَّكَتْنِى عَلَى النَّبِىِّ مُرَادِى",
+        "transcription": "mallakatnii halan nabiyyi muraadii",
+        "translations": {
+          "fr": "Mets-moi en possession de la grandeur du prophète mon but,"
+        }
+      },
+      {
+        "number": 34,
+        "text": "قُلْتُ هَذَا شُكْرَا بِغَيْرِ اخْتِيَالِ",
+        "transcription": "qultu hazaa shukraa bighayrikh tiyaali",
+        "translations": {
+          "fr": "j'ai dit cela par reconnaissance sans prétention."
+        }
+      },
+      {
+        "number": 35,
+        "text": "دَاءِمُ اكْتُبْ لَهُ سَلَامَىْ وَدُودٍ",
+        "transcription": "daa-imuktub lahu salaamay wa duudin",
+        "translations": {
+          "fr": "éternel, adresse-lui un salut amical"
+        }
+      },
+      {
+        "number": 36,
+        "text": "عَنْ جَنَابِى وَعَنْ جَنَابِ عِيَالِى",
+        "transcription": "han janaabii wa han janaabi hiyaalii",
+        "translations": {
+          "fr": "émanant de moi et des miens."
+        }
+      },
+      {
+        "number": 37,
+        "text": "أَذْهَبَ الضُّرَّ مَالِكِى عَنْ جَنَابِى",
+        "transcription": "azhabad durra maalikii han janaabii",
+        "translations": {
+          "fr": "Mon Seigneur a repoussé le mal de moi et des miens,"
+        }
+      },
+      {
+        "number": 38,
+        "text": "وَجَنَابِ الْعِيَالِ زَالَ الْعَنَآبِى",
+        "transcription": "wa janaabil hiyaali zaalal hanaabii",
+        "translations": {
+          "fr": "et ce qui m'inquiètait a disparu."
+        }
+      },
+      {
+        "number": 39,
+        "text": "لِلَّذِى مُلْكُهُ يَدُومُ سُرُورِى",
+        "transcription": "lillazii mulkuhu yaduumu suruurii",
+        "translations": {
+          "fr": "Ma joie revient à Dieu dont le seigneur est éternel,"
+        }
+      },
+      {
+        "number": 40,
+        "text": "وَكَفَى كُلِّىَ الْأَذَى فِى اغْتِرَابِى",
+        "transcription": "wa kafaa kulliyal azaa figh tiraabii",
+        "translations": {
+          "fr": "Il a préservé tout mon être du mal durant mon exil."
+        }
+      },
+      {
+        "number": 41,
+        "text": "لِلْإِلَهِ الْكَرِيمِ حَمْدِى وَشُكْرِ",
+        "transcription": "lil ilaahil kariimi hamdii wa shukri",
+        "translations": {
+          "fr": "Mes louanges et ma reconnaissance appartiennent au Généreux Seigneur,"
+        }
+      },
+      {
+        "number": 42,
+        "text": "ذَاصَلَاةٍ عَلَى نَّبِى بِاقْتِرَابِى",
+        "transcription": "zaa salaatin halaa nabii biqtiraabii",
+        "translations": {
+          "fr": "en m'approchant je prie pour le prophète."
+        }
+      },
+      {
+        "number": 43,
+        "text": "هَدَمَ اللَّهُ بُنْيَةَ الضُّرِّ عَنِّى",
+        "transcription": "hadamal laahu bunyatad durri hannii",
+        "translations": {
+          "fr": "Que Dieu démolisse l'édifice du mal,"
+        }
+      },
+      {
+        "number": 44,
+        "text": "وَبِخَيْرِ الْوَرَى أَزَالَ الْعَنَآبِى",
+        "transcription": "wa bikhayril waraa azaalal hanaabii",
+        "translations": {
+          "fr": "m'en éloigne et fasse disparaître ce qui me préoccupe par considération pour le meilleur des hommes."
+        }
+      },
+      {
+        "number": 45,
+        "text": "مَنْ بِالْعِلْمِ وَالْمُنَى مَعْ بَقَآءٍ",
+        "transcription": "man bil hilmi wal munaa mah baqaa-in",
+        "translations": {
+          "fr": "Il a accordé en permanence le savoir et les désirs par considération"
+        }
+      },
+      {
+        "number": 46,
+        "text": "بِالَّذِى لَيْسَ يَنْتَمِى لاِنْسِلَابِ",
+        "transcription": "bil lazii laysa yantamii linsilaabi",
+        "translations": {
+          "fr": "pour celui qui n'est partisan d'aucune précipitation."
+        }
+      },
+      {
+        "number": 47,
+        "text": "حُزْتُ مِنْ مَّالِكِىى بِخَيْرِ الْبَرَايَا",
+        "transcription": "huztu min maalikii bikhayril baraayaa",
+        "translations": {
+          "fr": "J'ai reçu de mon Seigneur par considération pour le Meilleur des être humains,"
+        }
+      },
+      {
+        "number": 48,
+        "text": "خَيْرَ نَصْرٍعَلَى الْعِدَى بِانْقِلَابِ",
+        "transcription": "khayra nasrin halal hidaa bin qilaabi",
+        "translations": {
+          "fr": "la meilleure assistance contre les ennemis par renversement."
+        }
+      },
+      {
+        "number": 49,
+        "text": "مَدْحُ رَبِّى وَمَدْحُ خَيْرِ مُصَلٍّ",
+        "transcription": "madhu rabbii wa madhu khayri musallin",
+        "translations": {
+          "fr": "Les louanges de mon Seigneur et les éloges du meilleur de ceux"
+        }
+      },
+      {
+        "number": 50,
+        "text": "قَادَ لِى جُمْلَةَ الْمُنَى بِانْحِلَابِ",
+        "transcription": "qaada lii jumlatal munaa bin hilaabi",
+        "translations": {
+          "fr": "qui prient m'ont amené tous les désirs avec effusion."
+        }
+      },
+      {
+        "number": 51,
+        "text": "مُدَّ خَيْرَ الصَّلَاةِ دُونَ انْتِهَآءٍ",
+        "transcription": "mudda khayras salaati duunan tihaa-in",
+        "translations": {
+          "fr": "O! L'Ami intime qui est en tête à tête avec moi,"
+        }
+      },
+      {
+        "number": 52,
+        "text": "مَعْ سَلَامٍ يَا نَجِيًّا قَدْ خَلَابِى",
+        "transcription": "mah salaamin yaa najiyyan qad khalaabi",
+        "translations": {
+          "fr": "donne sans interruption la meilleure bénédiction accompagnée de salut."
+        }
+      },
+      {
+        "number": 53,
+        "text": "دَاءِمًا لِلَّذِى كَتَبْتُ بِهِ لِى",
+        "transcription": "daa-iman lillazii katabtu bihi lii",
+        "translations": {
+          "fr": "Toujours par considération duquel tu m'as donné"
+        }
+      },
+      {
+        "number": 54,
+        "text": "خَيْرَ إِبْقًا لَّايَنْتَمِى لِانْسِلَابِ",
+        "transcription": "khayra ibqan laa yantamii lin silaabi",
+        "translations": {
+          "fr": "la meilleure considération non apparentée à une précipitation."
+        }
+      }
+    ]
+  }
+}

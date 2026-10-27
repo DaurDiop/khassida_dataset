@@ -1,0 +1,361 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 170,
+    "name": "Tuhfatu Mutadarihin",
+    "transliterationName": "Tuhfatu Mutadarihin",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Louange à Dieu et qu'il bénisse toujours celui par considération duquel le droit chemin nous a paru bon."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Notre Maître Mohamed sa Famille et ses Compagnons qui ont la faveur du Gouvernant."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Je m'exprime en ce jour en suppliant auprès de Dieu par les noms des supérieurs."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Et je déclare Toi le proche qui exauce, benis celui par honneur duquel tu réponds favorablement."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Ô Toi le Généreux, accepte par lui mon poème que voici et accorde à quiconque Te murmure par lui tout ce qu'il désire."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Ô Toi mon Seigneur! Au nom des prophètes Noé et Abraham (Ibrahima), pardonne tous mes péchés. Eloigne Satan le rejeté loin de moi."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Par Moïse (Moussa) et par le rang de Jésus (Issa), sois mon protecteur contre la misère ici-bas et dans l'au-delà."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Et par Muhammad, le Messager de Dieu, sur lui soient les meilleures bénédictions de Dieu,"
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "puis sur eux tous, accorde-moi une foi (Īmān) toujours accompagnée de la soumission (Islām) et de l'excellence spirituelle (Iḥsān)."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Par la sacralité du Véridique (Abū Bakr) et du Discernant (ʿUmar), accorde-moi la sincérité pure (Ikhlāṣ) et la réussite spirituelle (Tawfīq)."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Par le droit de ʿUthmān, frère des Deux Lumières, et par ʿAlī, le père des deux petits-fils [du Prophète],"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Accorde-moi dans le monde actuel et la vie future la lumière, l'élevation et les privilèges."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "Par le droit de Ṭalḥa et d'Az-Zubayr, et le droit de Saʿd, sauve-moi du tort."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "Et par Saʿīd et Ibn ʿAwf, sauve-moi de toutes les épreuves (fitan) que je redoute."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "Et par Abū ʿUbayda, amène vers moi ce qui est utile et écarte de moi ce qui anéantit."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "Par Abdoulahi postérité de l'oncle paternel c'est-à-dire le fils d'Abass, accrois mon savoir."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "Par le droit de ʿAbd Allāh, fils de ʿUmar, écarte de moi constamment ce qui attire le dommage."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "Et par Ibn Masʿūd et le rang d'Ibn Salām, préserve-moi de l'affliction, du mauvais œil et du mal des paroles."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "Ô notre Seigneur! par Abass et Hamzah, éloigne-moi de tout malheur."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "Par la sacralité d'Al-Ḥasan et d'Al-Ḥusayn, accorde-moi dans les deux demeures les deux lumières."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "Par la sacralité d'Al-Qāsim, puis d'Aṭ-Ṭāhir, purifie mon extérieur avec mes pensées les plus intimes."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "Par la sacralité d'Aṭ-Ṭayyib, Ibrāhīm, rends durables sur moi la joie et l'honneur."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "Par le rang de Fāṭima, sèvre mon âme de tout ce qui m'entraîne à l'emprisonnement."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "Et par Ruqayya et Zaynab, préserve-moi en tout temps d'être rejeté et voilé."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "Et mets-moi en sécurité ici-bas et dans l'au-delà par la générosité, par Umm Kulthūm, et tiens-moi à l'écart des châtiments."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "Par Aws ibn ʿĀmir et Haram, et par le droit de Masrūq, accepte mes paroles."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "Et par Ar-Rabīʿ et par le rang d'Al-Aswad, accorde-moi la droiture et redresse ma tortuosité."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "Par ʿĀmir ibn ʿAbd ar-Raḥmān et par Abū Maslama Al-Khawlānī,"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "accorde-moi le pardon et la félicité, la science, l'action et l'adoration."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "Par Al-Ḥasan Al-Baṣrī, accorde-moi le scrupule pieux (Waraʿ) et le détachement de ma passion et des innovations."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "Par Abou Hourayta, Bilal et Chouhaib, accorde-moi mon Seigneur, la grâce."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "Accepte mon obéissance et guéris-moi de la maladie, en secret et ouvertement, par Abū ad-Dardāʾ."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "Par la sacralité d'Al-Miqdād, puis de Khālid, et par Az-Zubayr, mène-moi à mes buts."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "Par l'émir des croyants ʿUmar (ibn al-Khaṭṭāb), préserve-moi de la ruse, du désaccord et de la séduction."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "Par le droit du chef des combattants, ʿAlī, qui a soutenu notre religion,"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "par le droit de Saʿd et par le droit de ʿUrwa, accrois mon attachement à l'anse la plus solide."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "Par la sacralité d'Al-Qāsim, puis de Khārija, accrois mon suivi des voies de l'Élu."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "Et par Abū Bakr et ʿAbd Allāh, accrois-moi d'une grâce qui n'a pas de fin."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "Et par Sulaymān, préserve-moi de la machination du Maudit et de celle d'autrui, et sois mon Secours."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "Par notre Mère Khadidjah, accorde-moi mon Seigneur l'espoir dans la connaissance, la politesse et l'action."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "Par notre Mère Haichatou, préserve-moi de tout ce qui me nuit sur terre et dans le ciel."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "Par notre Mère Hafsatu, interpose-toi toujours entre moi et ce qui attire le mal et les tracasseries."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "Par notre Mère Zeinab, embellie mon extérieur et mon intérieur et fais de moi un asile."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "Par Mālik, Ash-Shāfiʿī, Abū Ḥanīfa et Aḥmad, exauce-moi."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "Par le rang de Gabriel (Jibrīl), exauce ma demande et fais-moi atteindre la stature des hommes [de Dieu]."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "Par le rang de Michel (Mīkāʾīl), accorde-moi des bienfaits et rends mon utilité généreuse comme une pluie bienfaisante."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "Par le rang d'Isrāfīl, accorde-moi la protection et préserve-moi des horreurs du jour de l'Angoisse."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "Par le rang de ʿAzrāʾīl, sois pour moi, ô Beau (Jamīl), durant toute ma vie et aussi après le départ."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "Fais de ma supplication (Tawassul), pour quiconque Te prie par elle, le bonheur des deux demeures, et pardonne-moi par elle."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "Donne-moi et à celui qui m'a poussé à composer ce poème, la protection et la satisfaction,"
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "text": "le bonheur et la préservation de tous les malheurs ainsi que la sollicitude,"
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "text": "la délivrance de l'interrogation du châtiment, des angoisses de la mort, du jugement dernier, Mon Seigneur,"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "text": "les bonnes nouvelles et la joie au moment de notre mort et de la résurrection."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "text": "Bénis et salue le Prophète et sa Famille avec les nobles Compagnons."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "text": "Pardonne à mes parents et toute ma famille et l'ensemble de mes compagnons, Toi qui entends."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "text": "Pardonne à quiconque a un lien avec moi et réalise pleinement mon bonheur, ô mon Seigneur !"
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "text": "Traite-nous avec bienveillance, raffermis-nous, sois pour nous et accorde-nous une bonne fin notre Seigneur."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "text": "Bénis et accorde ton Salut au Prophète, satisfais par Lui le souhait de tout musulman."
+      }
+    ]
+  }
+}

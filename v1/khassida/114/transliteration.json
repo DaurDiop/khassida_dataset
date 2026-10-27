@@ -1,0 +1,125 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 114,
+    "name": "Mumitu",
+    "transliterationName": "Mumitu",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "mumiitu kuffa man tawajjaha bidurr"
+      },
+      {
+        "number": 2,
+        "text": "liya lahu fii haajilin yaa man yudurr"
+      },
+      {
+        "number": 3,
+        "text": "naafihu ahlik kulla man janaabii"
+      },
+      {
+        "number": 4,
+        "text": "nahaa bidurrin waltuzil hanaabii"
+      },
+      {
+        "number": 5,
+        "text": "kariimu karrimniya takriiman yaduum"
+      },
+      {
+        "number": 6,
+        "text": "bijaahi man jahaltanii lahul khadiim"
+      },
+      {
+        "number": 7,
+        "text": "ahadu jud liya bi-an laa ushrikaa"
+      },
+      {
+        "number": 8,
+        "text": "bika layaadan akhzi lii man ashrakaa"
+      },
+      {
+        "number": 9,
+        "text": "nafayta shakkii wa hidaaya fil khamiis"
+      },
+      {
+        "number": 10,
+        "text": "yaa man kafaytanil amiira wal khamiis"
+      },
+      {
+        "number": 11,
+        "text": "halimniyal huluuma tahliimal haliim"
+      },
+      {
+        "number": 12,
+        "text": "wa liya hab minka takallumal kaliim"
+      },
+      {
+        "number": 13,
+        "text": "duhaa-iyas tajabta rabbi fii safar"
+      },
+      {
+        "number": 14,
+        "text": "wadfan haduwwan qad qalaanii fil hufar"
+      },
+      {
+        "number": 15,
+        "text": "waduudu wuddanii bilan tihaa-i"
+      },
+      {
+        "number": 16,
+        "text": "bil amni wal bishri wa bil luhaa-i"
+      },
+      {
+        "number": 17,
+        "text": "wahhaabu hab liya mawaahibal kabiir"
+      },
+      {
+        "number": 18,
+        "text": "wa qud mubaarizya fawran lil qubuur"
+      },
+      {
+        "number": 19,
+        "text": "anzil halaa shakhsin nahaanii bidarar"
+      },
+      {
+        "number": 20,
+        "text": "satwata hazraa-iila qudhu lish sharar"
+      },
+      {
+        "number": 21,
+        "text": "lil mustafaa wajjih bilan tihaa-i"
+      },
+      {
+        "number": 22,
+        "text": "khayra salaamayka wa zid luhaa-ii"
+      },
+      {
+        "number": 23,
+        "text": "luhaa-iyaj hal sarmadan maquudaa"
+      },
+      {
+        "number": 24,
+        "text": "liya biqadrika qinil waquudaa"
+      },
+      {
+        "number": 25,
+        "text": "lakan saraftu bin nabii minal hidaa"
+      },
+      {
+        "number": 26,
+        "text": "halayhi salli wakfi kayda man hadaa"
+      },
+      {
+        "number": 27,
+        "text": "hab lii ghinan hanis salaahi bil mumiit"
+      },
+      {
+        "number": 28,
+        "text": "waltughninii hamman qalaanii wa yamuut"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 191,
+    "name": "Yassara",
+    "transliterationName": "Yassara",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "يَسَّرَ لِى مُيَسِّرُ الْعَسِيرِ",
+        "transcription": "yassara lii muyassirul hasiiri",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "مَااخْتَارُهُ لِىَ بِلَا مَسِيرِ",
+        "transcription": "makhtaaruhu liya bilaa masiiri",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "وَلَّى اللَّعِينُ لِسَوَاىَ مُدْبِرَا",
+        "transcription": "wallal lahiinu lisiwaaya mudbiraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "بِمَا عَلَى الظَّهْرِ يَدُومُ دَبَرَا",
+        "transcription": "bimaa halaz zahri yaduumu dabaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "مَحَا تَوَجُّهَ الْمَكَارِهِ لِيَا",
+        "transcription": "mahaa tawajjuhal makaarihi liyaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "بَاقٍ حَبَا بِذِكْرِهِ وَهْوَ لِيَا",
+        "transcription": "baaqin habaa bizikrihi wahwa liyaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "عَنْهُ رَضِيتُ وَهْوَ عَنِّى رَاضِ",
+        "transcription": "hanhu radiitu wahwa hannii raadi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "بِلَا مَكَارِهَ وَلَا أَمْرَاضِ",
+        "transcription": "bilaa makaariha walaa amraadi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "رَدَّ لِغَيْرِ جِهَتِى الشَّيْطَانَا",
+        "transcription": "radda lighayri jihatish shaytaanaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "مَنْ طَيَّبَ الْمَمَرَّ وَالْأَوْطَانَا",
+        "transcription": "man tayyabal mamarra wal awtaanaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "فَرَّ لِغَيْرِ جِهَتِى اللَّعِينُ",
+        "transcription": "farra lighayri jihatil lahiinu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "يَسُوقُهُ لِغَيْرِنَا الْمُعِينُ",
+        "transcription": "yasuuquhu lighayrinal muhiinu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "هَدِيَّتِى مِنَ الْإِلَاهِ وَالنَّبِى",
+        "transcription": "hadiyyatii minal ilaahi wan nabii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "كُلِّيَّتِى صَفَّتْ وَصَفَّتْ طُّنُبِى",
+        "transcription": "kulliyyatii saffat wa saffat tunubii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "تَوْفِيقُ هَادٍ قَادَهُ الْإِلْهَامُ",
+        "transcription": "tawfiiqu haadin qaadahul ilhaamu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "قَدْ أَبْدَايَا لِى مَالَهُ انْبِهَامُ",
+        "transcription": "qad abdaayaa lii maalahun bihaamu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "بِدَتْ لِىَ الْيَوْمَ بِرَبِّى الْغُيَّبُ",
+        "transcription": "badat liyal yawma birabbil ghuyyabu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "أَعَاذَنِى مِمَّنْ قَلَوْاْ وَخُيِّبُواْ",
+        "transcription": "ahaazanii mimman qalaw wa khuyyibuu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "لَا يَتَوَجَّهُ لِنَحْوِى مُتْعِبُ",
+        "transcription": "laa yatawajjahu linahwii mut-hibu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "عَنِّى امَّحَتْ مَكَارِهِى وَالتَّعَبُ",
+        "transcription": "hannim mahat makaarihii wat tahabbu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "سَعَادَتِى بِغَيْرِ مَحْوٍ كُتِبَتْ",
+        "transcription": "sahaadatii bighayri mahwin kutibat",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَكَوْنِىَ الْعَبْدَ الْخَدِيمَ قَدْ ثَبَتْ",
+        "transcription": "wa kawniyal habdal khadiima qad sabat",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "شَكَرَ لِى مُيَسِّرُ الْعَسِيرِ",
+        "transcription": "shakara lii muyassirul hasiiri",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "مَااخْتَارَهُ لِىَ بِلَا مَسِيرِ",
+        "transcription": "makhtaarahu liya bilaa masiiri",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

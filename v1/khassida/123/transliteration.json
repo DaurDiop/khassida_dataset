@@ -1,0 +1,493 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 123,
+    "name": "Nuuru Daarayni 13",
+    "transliterationName": "Nuuru Daarayni 13",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "salli salaatan lii taquudu sidqaa"
+      },
+      {
+        "number": 2,
+        "text": "fii khidamii tuzril fuyuuda wadqaa"
+      },
+      {
+        "number": 3,
+        "text": "maha salaamin lii yajuudu bil wafaa"
+      },
+      {
+        "number": 4,
+        "text": "fiihaa halaa maahin mahaa mukhawwifaa"
+      },
+      {
+        "number": 5,
+        "text": "sayyidinaa muhammadin wal aali"
+      },
+      {
+        "number": 6,
+        "text": "wa sahbihi fil haali wal ma-aali"
+      },
+      {
+        "number": 7,
+        "text": "wa sun jihaatii kullahaa han kadari"
+      },
+      {
+        "number": 8,
+        "text": "yaa man bi-amrihin jiraarul qadari"
+      },
+      {
+        "number": 9,
+        "text": "wa hab liyas safaa-a fil layaalii"
+      },
+      {
+        "number": 10,
+        "text": "wa jumlatil anhuri mah hiyaalii"
+      },
+      {
+        "number": 11,
+        "text": "wasrif jawaalibash shaqaa-i wan nakad"
+      },
+      {
+        "number": 12,
+        "text": "lighayri zaatii wahminii han kulli kadd"
+      },
+      {
+        "number": 13,
+        "text": "waltajhalid dunyaa liyal masaalihaa"
+      },
+      {
+        "number": 14,
+        "text": "qaa-idatan habdan khadiiman saalihaa"
+      },
+      {
+        "number": 15,
+        "text": "wa suq lighayrii jumlatal mafaasidi"
+      },
+      {
+        "number": 16,
+        "text": "habdan shakuuran wahminii han faasidi"
+      },
+      {
+        "number": 17,
+        "text": "yal laahu yaa rahmaanu yaa rahiimu yaa"
+      },
+      {
+        "number": 18,
+        "text": "maliku yaa qudduusu yaa mukrimiyaa"
+      },
+      {
+        "number": 19,
+        "text": "laka shukuurii abadan wa hamdii"
+      },
+      {
+        "number": 20,
+        "text": "yaa haasimii min khata-in wa hamdi"
+      },
+      {
+        "number": 21,
+        "text": "salli salaatan kalkalii tunawwiru"
+      },
+      {
+        "number": 22,
+        "text": "wa tuslihul badana yaa musawwiru"
+      },
+      {
+        "number": 23,
+        "text": "maha salaamin zaahibin bid daa-i"
+      },
+      {
+        "number": 24,
+        "text": "lighayri zaatiya mahal ahdaa-i"
+      },
+      {
+        "number": 25,
+        "text": "halal mujammalil jamiilil bashari"
+      },
+      {
+        "number": 26,
+        "text": "al hasanil ahsani muhtil bushari"
+      },
+      {
+        "number": 27,
+        "text": "sayyidinaa muhammadin wal aali"
+      },
+      {
+        "number": 28,
+        "text": "wa sahbihi fil haali wal ma-aali"
+      },
+      {
+        "number": 29,
+        "text": "wa hab liyat taawiila wat tafsiiraa"
+      },
+      {
+        "number": 30,
+        "text": "wa liya yassiranhumaa taysiiraa"
+      },
+      {
+        "number": 31,
+        "text": "wahsim haqaa-idii mahal aqwaali"
+      },
+      {
+        "number": 32,
+        "text": "wa jumlatil afhaali wal ahwaali"
+      },
+      {
+        "number": 33,
+        "text": "wa lil makaarimi qudil akhlaaqaa"
+      },
+      {
+        "number": 34,
+        "text": "waltaqinid dalaala wal imlaaqaa"
+      },
+      {
+        "number": 35,
+        "text": "wa fil kitaabi wal hadiisi hab lii"
+      },
+      {
+        "number": 36,
+        "text": "maa lam tahuzhus saalihuuna qablii"
+      },
+      {
+        "number": 37,
+        "text": "wakhriq liyal haadaati fil funuuni"
+      },
+      {
+        "number": 38,
+        "text": "yaa waahibal muzhari wal maknuuni"
+      },
+      {
+        "number": 39,
+        "text": "yal laahu yaa rahmaanu yaa rahiimu yaa"
+      },
+      {
+        "number": 40,
+        "text": "maliku yaa qudduusu yaa mukrimiyaa"
+      },
+      {
+        "number": 41,
+        "text": "salli salaatan lii tusahhihul huluum"
+      },
+      {
+        "number": 42,
+        "text": "an naafihaati bika innakal haliim"
+      },
+      {
+        "number": 43,
+        "text": "maha salaamin lii yusahhihul hamal"
+      },
+      {
+        "number": 44,
+        "text": "as saalihal lazii yukammilul amal"
+      },
+      {
+        "number": 45,
+        "text": "halal lazii qudttu lahu midaadii"
+      },
+      {
+        "number": 46,
+        "text": "mah qilaamin qaadahaa widaadii"
+      },
+      {
+        "number": 47,
+        "text": "liwajhikal kariimi yaa rabbi siniin"
+      },
+      {
+        "number": 48,
+        "text": "habdan khadiiman wa kafaytanil aniin"
+      },
+      {
+        "number": 49,
+        "text": "sayyidinaa muhammadin wal aali"
+      },
+      {
+        "number": 50,
+        "text": "wa sahbihi fil haali wal ma-aali"
+      },
+      {
+        "number": 51,
+        "text": "qudtta haqaa-idiya mah aqwaalii"
+      },
+      {
+        "number": 52,
+        "text": "wa hamalii lil khayri kal ahwaali"
+      },
+      {
+        "number": 53,
+        "text": "askanta fil makaarimil akhlaaqaa"
+      },
+      {
+        "number": 54,
+        "text": "yaa man mahal ghurbata wal imlaaqaa"
+      },
+      {
+        "number": 55,
+        "text": "yal laahu yaa rahmaanu yaa rahiimu yaa"
+      },
+      {
+        "number": 56,
+        "text": "maliku yaa qudduusu yaa mukrimiyaa"
+      },
+      {
+        "number": 57,
+        "text": "karramtanii bikawnikal kariimaa"
+      },
+      {
+        "number": 58,
+        "text": "wa qudtta lin nusrata wat takriimaa"
+      },
+      {
+        "number": 59,
+        "text": "salli salaatan laa tujaariihaa salaah"
+      },
+      {
+        "number": 60,
+        "text": "ilaa siwaa nahwii tuzahzihul qulaah"
+      },
+      {
+        "number": 61,
+        "text": "maha salaamin lii yuyassirul hasiir"
+      },
+      {
+        "number": 62,
+        "text": "halal lazii laka bihin tahal masiir"
+      },
+      {
+        "number": 63,
+        "text": "sayyidinaa muhammadin wal aali"
+      },
+      {
+        "number": 64,
+        "text": "wa sahbihi fil haali wal ma-aali"
+      },
+      {
+        "number": 65,
+        "text": "wajhal bihi nafsiya mah hawaayaa"
+      },
+      {
+        "number": 66,
+        "text": "hawnayni lii bika halaa taqwaayaa"
+      },
+      {
+        "number": 67,
+        "text": "wa qud humaa bikhayri khayrin lil jinaan"
+      },
+      {
+        "number": 68,
+        "text": "wa kulliyah sim waltunawwir lil janaan"
+      },
+      {
+        "number": 69,
+        "text": "waltahsimil qalba minal agh-yaari"
+      },
+      {
+        "number": 70,
+        "text": "wajhal hayaatii busharal akh-yaari"
+      },
+      {
+        "number": 71,
+        "text": "washghal hidaaka bisiwaa madarratii"
+      },
+      {
+        "number": 72,
+        "text": "yaa baaqiyan abqayta lii masarratii"
+      },
+      {
+        "number": 73,
+        "text": "lish had bishukrii laka fil fardi rajab"
+      },
+      {
+        "number": 74,
+        "text": "wa fii siwaahu yaa mudiiman lil hajab"
+      },
+      {
+        "number": 75,
+        "text": "qawliya fiikal yawma lastu uhsii"
+      },
+      {
+        "number": 76,
+        "text": "sanaa-a baaqin kaana lii yaa muhsii"
+      },
+      {
+        "number": 77,
+        "text": "yal laahu yaa rahmaanu yaa rahiimu yaa"
+      },
+      {
+        "number": 78,
+        "text": "maliku yaa qudduusu yaa mukrimiyaa"
+      },
+      {
+        "number": 79,
+        "text": "salli salaatan bil ahaadii tazhabu"
+      },
+      {
+        "number": 80,
+        "text": "lighayri maa lii akhtartahu fatazhabu"
+      },
+      {
+        "number": 81,
+        "text": "maha salaamin bifalaahii yahtarif"
+      },
+      {
+        "number": 82,
+        "text": "bilaa shaqaa-in min fuyuudin yaghtarif"
+      },
+      {
+        "number": 83,
+        "text": "halal lazii qaddamtanii fii abadi"
+      },
+      {
+        "number": 84,
+        "text": "bika bihi bilaa liqaa-i kabadi"
+      },
+      {
+        "number": 85,
+        "text": "sayyidinaa muhammadin wal aali"
+      },
+      {
+        "number": 86,
+        "text": "wa sahbihi fil haali wal ma-aali"
+      },
+      {
+        "number": 87,
+        "text": "wa suq bihi makaarihad daarayni"
+      },
+      {
+        "number": 88,
+        "text": "lighayri zaatii mahal haarayni"
+      },
+      {
+        "number": 89,
+        "text": "yal laahu yaa rahmaanu yaa rahiimu yaa"
+      },
+      {
+        "number": 90,
+        "text": "maliku yaa qudduusu yaa mukrimiyaa"
+      },
+      {
+        "number": 91,
+        "text": "salli salaatan khayra khayrin jaalibah"
+      },
+      {
+        "number": 92,
+        "text": "lii abadan haliiba hilmin haalibah"
+      },
+      {
+        "number": 93,
+        "text": "lii bisalaamin daa-imin lii yaqharu"
+      },
+      {
+        "number": 94,
+        "text": "kulla haduwwin kalkalii yumahhiru"
+      },
+      {
+        "number": 95,
+        "text": "halal lazii kawnuka lii bihi zahar"
+      },
+      {
+        "number": 96,
+        "text": "wa kawnuhu lii bika aydanish tahar"
+      },
+      {
+        "number": 97,
+        "text": "sayyidinaa muhammadin wal aali"
+      },
+      {
+        "number": 98,
+        "text": "wa sahbihi fil haali wal ma-aali"
+      },
+      {
+        "number": 99,
+        "text": "waktub liyal yawma wa bahdal yawmi"
+      },
+      {
+        "number": 100,
+        "text": "kawnii suruuran likhiyaaril qawmi"
+      },
+      {
+        "number": 101,
+        "text": "bilaa liqaa-i kaafirin awzii nifaaq"
+      },
+      {
+        "number": 102,
+        "text": "aw mushrikin wa suuqiyaj hal zaa nafaaq"
+      },
+      {
+        "number": 103,
+        "text": "yal laahu yaa rahmaanu yaa rahiimu yaa"
+      },
+      {
+        "number": 104,
+        "text": "maliku yaa qudduusu yaa mukrimiyaa"
+      },
+      {
+        "number": 105,
+        "text": "salli salaatan nuuruhaa yaduumu"
+      },
+      {
+        "number": 106,
+        "text": "tash-hadu lii bi-anniyal khadiimu"
+      },
+      {
+        "number": 107,
+        "text": "maha salaamin nafhuhu laa yantahii"
+      },
+      {
+        "number": 108,
+        "text": "yaquudu lii mahar ridaa maa ashtahii"
+      },
+      {
+        "number": 109,
+        "text": "halan nabiyyil haashimiyyil harabii"
+      },
+      {
+        "number": 110,
+        "text": "man lii bihi qadayta rabbi arabii"
+      },
+      {
+        "number": 111,
+        "text": "sayyidinaa muhammadin wal aali"
+      },
+      {
+        "number": 112,
+        "text": "wa sahbihi fil haali wal ma-aali"
+      },
+      {
+        "number": 113,
+        "text": "wa qud liyal ahzama fii aghraadii"
+      },
+      {
+        "number": 114,
+        "text": "jamiihahaa yaa maahiyan amraadii"
+      },
+      {
+        "number": 115,
+        "text": "wa liya hab fil khatti wat talaawah"
+      },
+      {
+        "number": 116,
+        "text": "fawqa ujuuril ghurri wal halaawah"
+      },
+      {
+        "number": 117,
+        "text": "wajhal hayaatii busharan lil muntaqaa"
+      },
+      {
+        "number": 118,
+        "text": "fii aalihi wa sahbihi zawit tuqaa"
+      },
+      {
+        "number": 119,
+        "text": "yal laahu yaa rahmaanu yaa rahiimu yaa"
+      },
+      {
+        "number": 120,
+        "text": "maliku yaa qudduusu yaa mukrimiyaa"
+      }
+    ]
+  }
+}

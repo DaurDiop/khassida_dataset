@@ -1,0 +1,133 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 93,
+    "name": "Man Zanani",
+    "transliterationName": "Man Zanani",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "man zannanii ghayra khadiimil mustafaa"
+      },
+      {
+        "number": 2,
+        "text": "fa-innanii akhdimuhu bimas tafaa"
+      },
+      {
+        "number": 3,
+        "text": "akhdimuhu ilaa dukhuu lil jannah"
+      },
+      {
+        "number": 4,
+        "text": "daaril qaraari wal munnaa wal minnah"
+      },
+      {
+        "number": 5,
+        "text": "man zanna annahu yakuunu abadaa"
+      },
+      {
+        "number": 6,
+        "text": "yurdiihi bil lazii kakhidmatii badaa"
+      },
+      {
+        "number": 7,
+        "text": "fagharrahud dalaalu wal idlaalu"
+      },
+      {
+        "number": 8,
+        "text": "yanqaadu lii minhu bihil halaalu"
+      },
+      {
+        "number": 9,
+        "text": "madahtuhu qablu ladaa libarwali"
+      },
+      {
+        "number": 10,
+        "text": "madhan wanaa han mislihi kullu walii"
+      },
+      {
+        "number": 11,
+        "text": "madahtuhu madhan ladaa maayunbaa"
+      },
+      {
+        "number": 12,
+        "text": "mahaa huyuubiya wa kaffaz zanbaa"
+      },
+      {
+        "number": 13,
+        "text": "madahtuhu hinda unaasi kalwaa (galwaa)"
+      },
+      {
+        "number": 14,
+        "text": "madhan kafaaniyal hidaa wal balwaa"
+      },
+      {
+        "number": 15,
+        "text": "minnii ilayhi khidmatun qad laa zamat"
+      },
+      {
+        "number": 16,
+        "text": "rawdatahu ilal qiyaami huzzimat"
+      },
+      {
+        "number": 17,
+        "text": "radiya hannii sibtuhul jiilaanii"
+      },
+      {
+        "number": 18,
+        "text": "halayhi ridwaanul lazii ahlaanii"
+      },
+      {
+        "number": 19,
+        "text": "radiya hannii sibtuhu abul hasan"
+      },
+      {
+        "number": 20,
+        "text": "halayhi ridwaanu yukhallidu hasan"
+      },
+      {
+        "number": 21,
+        "text": "radiya hannii sibtuhut tijjaanii"
+      },
+      {
+        "number": 22,
+        "text": "halayhi ridwaanu mubiidil jaanii"
+      },
+      {
+        "number": 23,
+        "text": "radiya hannil khulafaa-ul arbahah"
+      },
+      {
+        "number": 24,
+        "text": "huztu ridal muqarrabiinal mutbahah"
+      },
+      {
+        "number": 25,
+        "text": "man lam yakun hanniya yardaa fal kariim"
+      },
+      {
+        "number": 26,
+        "text": "radiya hanniya ridan laysa yariim"
+      },
+      {
+        "number": 27,
+        "text": "jazal ilaahul mustafaa khayra jazaa"
+      },
+      {
+        "number": 28,
+        "text": "kamaa taqabbala wa wahdan anjazaa"
+      },
+      {
+        "number": 29,
+        "text": "salaatu man karamuhu yalqaanii"
+      },
+      {
+        "number": 30,
+        "text": "halal lazii duunal miraa alqaanii"
+      }
+    ]
+  }
+}

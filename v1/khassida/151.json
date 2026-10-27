@@ -1,0 +1,527 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 151,
+    "name": "Rabbi Karrimun",
+    "transliterationName": "Rabbi Karrimun",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "رَبِّى كَرِيمٌ وَاسِعٌ وَيُفَضِّلُ",
+        "transcription": "rabbii kariimun waasihun wa yufaddilu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "وَوَسِيلَتِى عَبْدٌ لَدَيْهِ مُفَضَّلُ",
+        "transcription": "wa wasiilatii habdun ladayhi mufaddalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "ضَيْقِى وَفَقْرِى قَدْ أَزَا لَهُمَا مَعًا",
+        "transcription": "dayqii wa faqrii qad azaa lahumaa mahan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "بِالْمُصْطَفَى مَنْ سَبْقُهُ لَا يُجْهَلُ",
+        "transcription": "bil mustafaa man sabquhu laa yujhalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "يَارَبِّ صَلِّ عَلَى الْحَبِيبِ مُحَمَّدٍ",
+        "transcription": "yaa rabbi salli halal habiibi muhammadin",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَالْئَالِ وَالْأَصْحَابِ مَنْ قَدْ فُضِّلُواْ",
+        "transcription": "wal aali wal as-haabi man qad fuddiluu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "أَزْكَى صَلَاةٍ مَّعْ سَلَامٍ وَلْتُدِمْ",
+        "transcription": "azkaa salaatin mah salaamin waltudim",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "رِضْوَانَهُمْ يَامَنْ لِّوَجْهِكَ أَعْمَلُ",
+        "transcription": "ridwaanahum yaa man liwajhika ahmalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "لَكَ كَلْكَلِى لَكَ جُثَّتِى لَكَ نِيَّتِى",
+        "transcription": "laka kalkalii laka jussatii laka niyyatii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "لَكَ غُرْبَتِى وَمَوَاطِنِى وَالْمَنْزِلُ",
+        "transcription": "laka ghurbatii wa mawaatinii wal manzilu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "لَكَ مَلْبَسِى وَيَرَاعَتِى مَعْ أَوْحِهَا",
+        "transcription": "laka malbasii wa yaraahatii mah awhihaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "وَلَكَ الْمِدَادُ وَمَشْرَبِى وَالْمَاْكَلُ",
+        "transcription": "wa laka midaadu wa mashrabii wal ma-kalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "هَبْ لِى إِدَامَةَ مَاتُحِبُّ وَتَرْتَضِى",
+        "transcription": "hab lii idaamata maa tuhibbu wa tartadii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "فِى مَسْكَنِى طُوبَى الَّتِى لَكَ تُنْزِلُ",
+        "transcription": "fii maskanii tuubal latii laka tunzilu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "عَنْكَ ارْتَحَالِى وَانْتِقَالِى رَاضِيًا",
+        "transcription": "hankar tahaalii wan tiqaalii raadiyan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "وَإِلَيْكَ قَصْدِىَ رَاجِيًا لَكَ أَرْحَلُ",
+        "transcription": "wa ilayka qasdii raajiyan laka arhalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "نَاجَيْتُ رَبًّا وَاسِعًا قَدْ قَادَنِى",
+        "transcription": "naajaytu rabban waasihan qad qaadanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "بِالْجُودِ وَالْإِكْرَامِ نِعْمَ الْمُجْزِلُ",
+        "transcription": "bil juudi wal ikraami nihmal mujzilu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "هُوَ مَالِكِى هُوَ نَافِعٌ هُوَ رَافِعٌ",
+        "transcription": "huwa maalikii huwa naafihun huwa raafihun",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "هُوَ وَاسِعٌ وَهْوَ الْجَمِيلُ الْمُجْمِلُ",
+        "transcription": "huwa waasihun wahwal jamiilul mujmilu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "مَالْكٌ لَّهُ شَرْقٌ وَغَرْبٌ وَحْدَهُ",
+        "transcription": "maalikun lahu sharqun wa gharbun wahdahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَكَذَا لَهُ بَرٌّ وَبَحْرٌ يُكْمِلُ",
+        "transcription": "wa kazaa lahu barrun wa bahrun yukmilu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "وَجْهِى لَهُ مُتَوَاجِّهٌ بِالْمُصْطَفَى",
+        "transcription": "wajhii lahu mutawaajihun bil mustafaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "وَبِأَهْلِ بَدْرٍ رُّفْقَتِى مَنْ كُمِّلُواْ",
+        "transcription": "wa bi-ahli badrin rufqatii man kummiluu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 25,
+        "text": "رِضْوَانُ مَنْ دَوَّخُواْ عِدَاهُ عَلَيْهِمُ",
+        "transcription": "ridwaanu man dawwakhuu hidaahu halayhimu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 26,
+        "text": "وَعَلَى رَفِيقِهِمُ الَّذِى يَتَطَفَّلُ",
+        "transcription": "wa halaa rafiiqihimul lazii yatataffalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 27,
+        "text": "ضَيْفٌ ضَعِيفٌ يَرْتَجِى بِهِمُ الْقِرَى",
+        "transcription": "dayfun dahiifun yartajii bihimul qiraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 28,
+        "text": "مِمَّنْ يُّكَرِّمُ مَنْ يَشَآ وَيُبَجِّلُ",
+        "transcription": "mimman yukarrimu man yashaa wa yubajjilu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 29,
+        "text": "وَلَّيْتُ عَنْ لَّهْوٍ وَلَغْوٍ مُّدْبِرًا",
+        "transcription": "wa laytu han lahwin wa laghwin mudbiran",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 30,
+        "text": "لِلَّهِ بِالْقُرْءَانِ نِعْمَ الْمُنْزِلُ",
+        "transcription": "lil laahi bil qur-aani nihmal munzilu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 31,
+        "text": "أَبْغِى بِهِ وَبِخِدْمَةِ الْمَاحِى النَّبِى",
+        "transcription": "abghii bihi wa bikhidmatil maahin nabii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 32,
+        "text": "وَجْهَ الَّذِى مَنْ أَمَّهُ لَا يُعْزَلُ",
+        "transcription": "wajhal lazii man ammahu laa yuhzalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 33,
+        "text": "عَبْدًا لَّهُ وَيَسُوقُ لِى مَآ أَشْتَهِى",
+        "transcription": "habdan lahu wa yasuuqu lii maa ashtahii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَعَلَيْهِ جَلَّ جَلَالُهُ أَتَوَكَّلُ",
+        "transcription": "wa halayhi jalla jalaaluhu atawakkalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 35,
+        "text": "نَاجَيْتُهُ وَرَضِيتُ عَنْهُ وَأَرْتَجِى",
+        "transcription": "naajaytuhu wa radiitu hanhu wa artajii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 36,
+        "text": "كَوْنِى رَضِيًّا عِنْدَهُ قَدْ يَفْضُلُ",
+        "transcription": "kawnii radiyyan hindahu qad yafdulu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 37,
+        "text": "هَبْ لِى الْمُنَى وَعَلَى الْوَسِيلَةِ صَلِّيَنْ",
+        "transcription": "hab lil munaa wa halal wasiilati salliyan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 38,
+        "text": "يَامَنْ يُّقَدِّمُ مَنْ يَّشَآ وَيُفَضِّلُ",
+        "transcription": "yaa man yuqaddimu man yashaa wa yufaddilu",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "رَبِّى كَرِيمٌ وَاسِعٌ وَيُفَضِّلُ ۞ وَوَسِيلَتِى عَبْدٌ لَدَيْهِ مُفَضَّلُ",
+        "translations": {
+          "it.karamati": "Il mio Signore è Generoso, Vasto, ed Egli elargisce la preminenza; e il mio tramite è un servo (Muḥammad) da Lui prediletto.",
+          "en.karamati": "My Lord is Generous, Vast, and He bestows pre-eminence; and my means is a servant (Muḥammad) whom He has favoured.",
+          "fr.karamati": "Mon Seigneur est Généreux, Vaste, et Il accorde la prééminence ; et mon intermédiaire est un serviteur (Muḥammad) qu'Il a privilégié."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "ضَيْقِى وَفَقْرِى قَدْ أَزَا لَهُمَا مَعًا ۞ بِالْمُصْطَفَى مَنْ سَبْقُهُ لَا يُجْهَلُ",
+        "translations": {
+          "it.karamati": "La mia angustia e la mia povertà Egli le ha rimosse entrambe, insieme, per mezzo del Prescelto (Muḥammad), la cui precedenza a nessuno è ignota.",
+          "en.karamati": "My hardship and my poverty He has removed both together, through the Chosen One (Muḥammad), whose precedence is unknown to none.",
+          "fr.karamati": "Ma gêne et ma pauvreté, Il les a ôtées toutes deux ensemble, par l'Élu (Muḥammad), dont la préséance n'est ignorée de personne."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "يَارَبِّ صَلِّ عَلَى الْحَبِيبِ مُحَمَّدٍ ۞ وَالْئَالِ وَالْأَصْحَابِ مَنْ قَدْ فُضِّلُواْ",
+        "translations": {
+          "it.karamati": "O Signore, benedici l'Amato, Muḥammad, la sua Famiglia e i Compagni, coloro che sono stati prediletti,",
+          "en.karamati": "O Lord, bless the Beloved, Muḥammad, his Family and the Companions, those who have been favoured,",
+          "fr.karamati": "Ô Seigneur, prie sur le Bien-Aimé, Muḥammad, sur sa Famille et sur les Compagnons, ceux qui ont été privilégiés,"
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "أَزْكَى صَلَاةٍ مَّعْ سَلَامٍ وَلْتُدِمْ ۞ رِضْوَانَهُمْ يَامَنْ لِّوَجْهِكَ أَعْمَلُ",
+        "translations": {
+          "it.karamati": "con la più pura delle benedizioni unita alla pace; e rendi perenne il Tuo compiacimento verso di loro, o Tu per il cui Volto io opero.",
+          "en.karamati": "with the purest of blessings joined with peace; and make Your good pleasure with them everlasting, O You for whose Face I labour.",
+          "fr.karamati": "de la plus pure des prières unie à la paix ; et rends perpétuel Ton agrément envers eux, ô Toi pour la Face de qui j'œuvre."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "لَكَ كَلْكَلِى لَكَ جُثَّتِى لَكَ نِيَّتِى ۞ لَكَ غُرْبَتِى وَمَوَاطِنِى وَالْمَنْزِلُ",
+        "translations": {
+          "it.karamati": "A Te il mio petto, a Te il mio corpo, a Te la mia intenzione; a Te il mio esilio, le mie patrie e la mia dimora.",
+          "en.karamati": "Yours my breast, Yours my body, Yours my intention; Yours my exile, my homelands and my dwelling.",
+          "fr.karamati": "À Toi ma poitrine, à Toi mon corps, à Toi mon intention ; à Toi mon exil, mes patries et ma demeure."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "لَكَ مَلْبَسِى وَيَرَاعَتِى مَعْ أَوْحِهَا ۞ وَلَكَ الْمِدَادُ وَمَشْرَبِى وَالْمَاْكَلُ",
+        "translations": {
+          "it.karamati": "A Te la mia veste e il mio calamo con le sue tavolette; a Te l'inchiostro, la mia bevanda e il mio cibo.",
+          "en.karamati": "Yours my garment and my reed pen with its tablets; Yours the ink, my drink and my food.",
+          "fr.karamati": "À Toi mon vêtement et mon calame avec ses tablettes ; à Toi l'encre, ma boisson et ma nourriture."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "هَبْ لِى إِدَامَةَ مَاتُحِبُّ وَتَرْتَضِى ۞ فِى مَسْكَنِى طُوبَى الَّتِى لَكَ تُنْزِلُ",
+        "translations": {
+          "it.karamati": "Concedimi la perennità di ciò che Tu ami e gradisci nella mia dimora, Ṭūbā (Touba), che Tu fai discendere (come benedizione).",
+          "en.karamati": "Grant me the permanence of what You love and approve in my dwelling, Ṭūbā (Touba), which You send down (as a blessing).",
+          "fr.karamati": "Accorde-moi la permanence de ce que Tu aimes et agrées en ma demeure, Ṭūbā (Touba), que Tu fais descendre (comme bénédiction)."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "عَنْكَ ارْتَحَالِى وَانْتِقَالِى رَاضِيًا ۞ وَإِلَيْكَ قَصْدِىَ رَاجِيًا لَكَ أَرْحَلُ",
+        "translations": {
+          "it.karamati": "Da Te è il mio partire e il mio trasmigrare, soddisfatto; e verso Te è il mio intento: colmo di speranza, verso Te io parto.",
+          "en.karamati": "From You is my departure and my migration, content; and towards You is my aim: full of hope, towards You I journey.",
+          "fr.karamati": "De Toi viennent mon départ et ma migration, satisfait ; et vers Toi est mon dessein : plein d'espérance, vers Toi je pars."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "نَاجَيْتُ رَبًّا وَاسِعًا قَدْ قَادَنِى ۞ بِالْجُودِ وَالْإِكْرَامِ نِعْمَ الْمُجْزِلُ",
+        "translations": {
+          "it.karamati": "Ho rivolto la mia intima preghiera a un Signore Vasto, che mi ha guidato con generosità e onore: quale eccelso Donatore munifico!",
+          "en.karamati": "I have addressed my intimate prayer to a Vast Lord, who has led me with generosity and honour: how excellent a lavish Giver!",
+          "fr.karamati": "J'ai adressé ma prière intime à un Seigneur Vaste, qui m'a guidé par la générosité et l'honneur : quel excellent Donateur munificent !"
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "هُوَ مَالِكِى هُوَ نَافِعٌ هُوَ رَافِعٌ ۞ هُوَ وَاسِعٌ وَهْوَ الْجَمِيلُ الْمُجْمِلُ",
+        "translations": {
+          "it.karamati": "Egli è il mio Sovrano, Egli è il Datore di beneficio (An-Nāfiʿ), Egli è l'Innalzatore (Ar-Rāfiʿ), Egli è il Vasto (Al-Wāsiʿ), Egli è il Bello (Al-Jamīl) che adorna di bellezza.",
+          "en.karamati": "He is my Sovereign, He is the Bestower of benefit (An-Nāfiʿ), He is the Exalter (Ar-Rāfiʿ), He is the Vast (Al-Wāsiʿ), He is the Beautiful (Al-Jamīl) who adorns with beauty.",
+          "fr.karamati": "Il est mon Souverain, Il est le Dispensateur du bienfait (An-Nāfiʿ), Il est Celui qui élève (Ar-Rāfiʿ), Il est le Vaste (Al-Wāsiʿ), Il est le Beau (Al-Jamīl) qui pare de beauté."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "مَالْكٌ لَّهُ شَرْقٌ وَغَرْبٌ وَحْدَهُ ۞ وَكَذَا لَهُ بَرٌّ وَبَحْرٌ يُكْمِلُ",
+        "translations": {
+          "it.karamati": "Sovrano: a Lui solo appartengono l'oriente e l'occidente, e parimenti a Lui la terra e il mare, ed Egli porta ogni cosa a compimento.",
+          "en.karamati": "Sovereign: to Him alone belong the east and the west, and likewise His are land and sea, and He brings all things to completion.",
+          "fr.karamati": "Souverain : à Lui seul appartiennent l'orient et l'occident, et de même à Lui la terre et la mer, et Il mène toute chose à son accomplissement."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "وَجْهِى لَهُ مُتَوَاجِّهٌ بِالْمُصْطَفَى ۞ وَبِأَهْلِ بَدْرٍ رُّفْقَتِى مَنْ كُمِّلُواْ",
+        "translations": {
+          "it.karamati": "Il mio volto è rivolto a Lui per mezzo del Prescelto (Muḥammad) e della gente di Badr, miei compagni di cammino, coloro che sono stati resi perfetti.",
+          "en.karamati": "My face is turned towards Him through the Chosen One (Muḥammad) and the people of Badr, my companions on the way, those who were made perfect.",
+          "fr.karamati": "Mon visage est tourné vers Lui par l'Élu (Muḥammad) et par les gens de Badr, mes compagnons de route, ceux qui ont été rendus parfaits."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "رِضْوَانُ مَنْ دَوَّخُواْ عِدَاهُ عَلَيْهِمُ ۞ وَعَلَى رَفِيقِهِمُ الَّذِى يَتَطَفَّلُ",
+        "translations": {
+          "it.karamati": "Il compiacimento di Colui (Allah) i cui nemici essi hanno soggiogato sia su di loro, e sul loro compagno che si unisce a loro come ospite non invitato.",
+          "en.karamati": "May the good pleasure of Him (Allah) whose enemies they subdued be upon them, and upon their companion who joins them as an uninvited guest.",
+          "fr.karamati": "Que l'agrément de Celui (Allah) dont ils ont soumis les ennemis soit sur eux, et sur leur compagnon qui se joint à eux en hôte non invité."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "ضَيْفٌ ضَعِيفٌ يَرْتَجِى بِهِمُ الْقِرَى ۞ مِمَّنْ يُّكَرِّمُ مَنْ يَشَآ وَيُبَجِّلُ",
+        "translations": {
+          "it.karamati": "Un ospite debole che, per mezzo loro, spera l'ospitalità da Colui (Allah) che onora chi Egli vuole e lo colma di riverenza.",
+          "en.karamati": "A weak guest who, through them, hopes for hospitality from Him (Allah) who honours whom He wills and fills him with reverence.",
+          "fr.karamati": "Un hôte faible qui, par eux, espère l'hospitalité de Celui (Allah) qui honore qui Il veut et le comble de révérence."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "وَلَّيْتُ عَنْ لَّهْوٍ وَلَغْوٍ مُّدْبِرًا ۞ لِلَّهِ بِالْقُرْءَانِ نِعْمَ الْمُنْزِلُ",
+        "translations": {
+          "it.karamati": "Ho voltato le spalle allo svago e alla vana parola, volgendomi ad Allah con il Corano: quale eccelso Colui che lo ha fatto discendere!",
+          "en.karamati": "I have turned my back on diversion and idle talk, turning to God through the Qur'an: how excellent the One who sent it down!",
+          "fr.karamati": "J'ai tourné le dos au divertissement et à la parole vaine, me tournant vers Dieu par le Coran : quel excellent Celui qui l'a fait descendre !"
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "أَبْغِى بِهِ وَبِخِدْمَةِ الْمَاحِى النَّبِى ۞ وَجْهَ الَّذِى مَنْ أَمَّهُ لَا يُعْزَلُ",
+        "translations": {
+          "it.karamati": "Con esso (il Corano) e con il servizio a Colui che cancella (Al-Māḥī), il Profeta (Muḥammad), io cerco il Volto di Colui (Allah) dal Quale chi si dirige non viene respinto,",
+          "en.karamati": "Through it (the Qur'an) and through service to the Effacer (Al-Māḥī), the Prophet (Muḥammad), I seek the Face of Him (Allah) from whom none who turns to Him is ever sent away,",
+          "fr.karamati": "Par lui (le Coran) et par le service de Celui qui efface (Al-Māḥī), le Prophète (Muḥammad), je recherche la Face de Celui (Allah) dont n'est jamais écarté qui se dirige vers Lui,"
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "عَبْدًا لَّهُ وَيَسُوقُ لِى مَآ أَشْتَهِى ۞ وَعَلَيْهِ جَلَّ جَلَالُهُ أَتَوَكَّلُ",
+        "translations": {
+          "it.karamati": "come Suo servo; ed Egli conduce a me ciò che desidero, e in Lui — sublime è la Sua maestà — io ripongo ogni mia fiducia.",
+          "en.karamati": "as His servant; and He leads to me what I desire, and in Him — sublime is His majesty — I place all my trust.",
+          "fr.karamati": "en Son serviteur ; et Il conduit vers moi ce que je désire, et en Lui — sublime est Sa majesté — je place toute ma confiance."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "نَاجَيْتُهُ وَرَضِيتُ عَنْهُ وَأَرْتَجِى ۞ كَوْنِى رَضِيًّا عِنْدَهُ قَدْ يَفْضُلُ",
+        "translations": {
+          "it.karamati": "L'ho invocato nell'intimità, sono soddisfatto di Lui, e spero che il mio essere a Lui gradito possa eccellere.",
+          "en.karamati": "I have called upon Him in intimacy, I am well pleased with Him, and I hope that my being pleasing to Him may excel.",
+          "fr.karamati": "Je L'ai invoqué dans l'intimité, je suis satisfait de Lui, et j'espère que mon agrément auprès de Lui puisse exceller."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "هَبْ لِى الْمُنَى وَعَلَى الْوَسِيلَةِ صَلِّيَنْ ۞ يَامَنْ يُّقَدِّمُ مَنْ يَّشَآ وَيُفَضِّلُ",
+        "translations": {
+          "it.karamati": "Concedimi i desideri e benedici il Tramite (Al-Wasīla, Muḥammad), o Tu che poni innanzi chi vuoi e gli accordi la preminenza.",
+          "en.karamati": "Grant me my wishes and bless the Means (Al-Wasīla, Muḥammad), O You who bring forward whom You will and grant him pre-eminence.",
+          "fr.karamati": "Accorde-moi mes vœux et prie sur l'Intermédiaire (Al-Wasīla, Muḥammad), ô Toi qui places en avant qui Tu veux et lui accordes la prééminence."
+        }
+      }
+    ]
+  }
+}

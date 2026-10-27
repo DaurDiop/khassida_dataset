@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 159,
+    "name": "Sana Ilaahi",
+    "transliterationName": "Sana Ilaahi",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Mon Dieu a gardé chacun de mes horizons en le comblant de vœux exaucés, et à jamais Il a affranchi ma main d'avoir à dire « donne-moi »."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "A guidé vers moi les savants et les Saints (al-awliyāʾ) Celui (Allah) qui ne cesse d'être ma force et ma puissance."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Mon poème a surpassé les poèmes des nobles, et à jamais il conduit vers moi le plus excellent des vœux."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Mon présent couvre de honte tout roi qui s'est posé en rival, et le Roi (Allah) l'a humilié."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Dieu a effacé, en ma faveur, l'avancée des Nazaréens (les colonisateurs chrétiens), par « Il n'est de divinité que Dieu »."
+      }
+    ]
+  }
+}

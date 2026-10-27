@@ -1,0 +1,413 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 162,
+    "name": "Sindidi",
+    "transliterationName": "Sindidi",
+    "meter": "Rajas",
+    "edition": "fr.translation",
+    "verses": [
+      {
+        "number": 1,
+        "text": "Ô mon Dieu ! Je t'invoque par considération pour l'Elu, le noble et généreux, Ô mon Dieu !"
+      },
+      {
+        "number": 2,
+        "text": "Et par considération pour ton ami Abraham, Ô mon Dieu !"
+      },
+      {
+        "number": 3,
+        "text": "Par considération pour ton Interlocuteur Moussa, Sâlih, Khâdr,"
+      },
+      {
+        "number": 4,
+        "text": "Chouaïb et Ismaîl, Ô mon Dieu !"
+      },
+      {
+        "number": 5,
+        "text": "Par considération pour Salomon, Noé, Jonas, Yasa,"
+      },
+      {
+        "number": 6,
+        "text": "Zakaria et Jean Baptiste, Ô mon Dieu !"
+      },
+      {
+        "number": 7,
+        "text": "Hâron, Josué, Elie, Adam,"
+      },
+      {
+        "number": 8,
+        "text": "David, Dûl Kifli, Jésus, Loth, Ô mon Dieu !"
+      },
+      {
+        "number": 9,
+        "text": "Par Joseph et par Isaac, et par d'autres prophètes"
+      },
+      {
+        "number": 10,
+        "text": "et apôtres qui sont les tiens, Ô mon Dieu."
+      },
+      {
+        "number": 11,
+        "text": "Par tous les Anges, ensuite leur élite,"
+      },
+      {
+        "number": 12,
+        "text": "Gabriel, par Michel, Ô mon Dieu !"
+      },
+      {
+        "number": 13,
+        "text": "Et par le souffleur [de la trompête] Izrâfil,"
+      },
+      {
+        "number": 14,
+        "text": "par le ravisseur de l'âme des êtres vivants Izrâ'îl, Ô mon Dieu !"
+      },
+      {
+        "number": 15,
+        "text": "Par les compagnons [du Prophète], puis par les saints"
+      },
+      {
+        "number": 16,
+        "text": "et l'ensemble des docteurs de la loi, les ulémas, Ô mon Dieu !"
+      },
+      {
+        "number": 17,
+        "text": "Par [Abou Bakr], le véridique, par [Omar], le Séparateur [du bien et du mal],"
+      },
+      {
+        "number": 18,
+        "text": "puis par l'homme aux deux lumières [Ousmane], puis par [Alioune] le père des deux Petits-fils [du Prophète]"
+      },
+      {
+        "number": 19,
+        "text": "Par Mâlik [Ibn 'Anas], le trés distingué, par [Muhammad ibn' Idrîs] Achafi,"
+      },
+      {
+        "number": 20,
+        "text": "par Abou Hanîfa, par Ahmad [Ibn Man-hal] le digne d'éloges, Ô mon Dieu !"
+      },
+      {
+        "number": 21,
+        "text": "Par la table, par la Plume bien gardée,"
+      },
+      {
+        "number": 22,
+        "text": "puis par ton trône immense et par le Siège, Ô mon Dieu !"
+      },
+      {
+        "number": 23,
+        "text": "Par le Coran, la Thawra, par les Psaumes de David"
+      },
+      {
+        "number": 24,
+        "text": "et l'Evangile de Jésus l'Esprit, Ô mon Dieu !"
+      },
+      {
+        "number": 25,
+        "text": "Fais parvenir la bénédiction et le salut [de ma part] à lui [le Prophète],"
+      },
+      {
+        "number": 26,
+        "text": "aux siens et à ses épouses, Ô mon Dieu !"
+      },
+      {
+        "number": 27,
+        "text": "Seigneur ! Fais descendre sur nous le voile de la bonne santé,"
+      },
+      {
+        "number": 28,
+        "text": "exauce nos voeux ici-bas et dans l'au-delà ! Ô mon Dieu !"
+      },
+      {
+        "number": 29,
+        "text": "Ouvre-nous toute porte de bienfaits,"
+      },
+      {
+        "number": 30,
+        "text": "ouverte par toi pour les vertueux ! Ô mon Dieu !"
+      },
+      {
+        "number": 31,
+        "text": "Engage-nous dans le droit chemin. Evite-nous tout faux pas."
+      },
+      {
+        "number": 32,
+        "text": "Chasse loin de nous djinns et satan ! Ô mon Dieu !"
+      },
+      {
+        "number": 33,
+        "text": "Fais-nous obtenir complètement tout ce que nous désirons,"
+      },
+      {
+        "number": 34,
+        "text": "et tout but que nous voulons atteindre. Donne-nous tout ce que nous aurons à choisir, Ô mon Dieu !"
+      },
+      {
+        "number": 35,
+        "text": "Aplanis pour nous toute difficulté et toute complication"
+      },
+      {
+        "number": 36,
+        "text": "Résous au mieux tout problème difficile ! Ô mon Dieu !"
+      },
+      {
+        "number": 37,
+        "text": "Accorde-nous une longue vie ! Donne-nous une excellente santé !"
+      },
+      {
+        "number": 38,
+        "text": "Apporte-nous la bonne direction et la félicité ! Ô mon Dieu !"
+      },
+      {
+        "number": 39,
+        "text": "Ecrase tous les ennemis qui veulent nous nuire"
+      },
+      {
+        "number": 40,
+        "text": "avant qu'ils ne nous atteignent, Ô mon Dieu ! Ô mon Dieu !"
+      },
+      {
+        "number": 41,
+        "text": "Sois notre Protecteur contre toute cause de mort."
+      },
+      {
+        "number": 42,
+        "text": "Sauve-nous de tous les malheurs et pour toujours, Ô mon Dieu !"
+      },
+      {
+        "number": 43,
+        "text": "Préserve-nous de tout dommage, de tout sinistre, de la suffocation, de toutes les épreuves,"
+      },
+      {
+        "number": 44,
+        "text": "du tremblement de terre, du malheur et de la pauvreté ! Ô mon Dieu !"
+      },
+      {
+        "number": 45,
+        "text": "Préserve-nous [aussi] de l'avilissement, de la pénurie de l'achoppement, de la défaite,"
+      },
+      {
+        "number": 46,
+        "text": "de la misère, de la soif et de la faim ! Ô mon Dieu !"
+      },
+      {
+        "number": 47,
+        "text": "Préserve-nous de l'épreuve, de l'épidémie de l'incendie ainsi que de la noyade,"
+      },
+      {
+        "number": 48,
+        "text": "de l'éclair, du vol et de la peine, Ô mon Dieu !"
+      },
+      {
+        "number": 49,
+        "text": "Préserve-nous de la chaleur, du froid, du pillage, de la calamité, de la vengeance,"
+      },
+      {
+        "number": 50,
+        "text": "de l'égarement, de la claudication et du chagrin, Ô mon Dieu !"
+      },
+      {
+        "number": 51,
+        "text": "Préserve-nous des insectes, des péchés, de la perte, des faux pas,"
+      },
+      {
+        "number": 52,
+        "text": "de la transformation en monstres, de la calomnie, Ô mon Dieu !"
+      },
+      {
+        "number": 53,
+        "text": "Préserve-nous du dérangement de l'esprit, de la folie, de l'indisposition, de la maladie,"
+      },
+      {
+        "number": 54,
+        "text": "des deux sortes de lèpres, de la diminution physique, Ô mon Dieu !"
+      },
+      {
+        "number": 55,
+        "text": "Préserve-nous de la laideur de ce monde et decelle de l'au-delà,"
+      },
+      {
+        "number": 56,
+        "text": "et de leur scandale, Ô mon Dieu ! Ô mon Dieu !"
+      },
+      {
+        "number": 57,
+        "text": "Ô toi qui peut tout faire, toi qui t'installes sur ton grand trône"
+      },
+      {
+        "number": 58,
+        "text": "par la force coercitive ! Ô mon Dieu !"
+      },
+      {
+        "number": 59,
+        "text": "Je te demande un coeur doué pour Toi d'un saint respect,"
+      },
+      {
+        "number": 60,
+        "text": "de la modestie et une science trés utile, Ô mon Dieu !"
+      },
+      {
+        "number": 61,
+        "text": "Je te demande aussi un repentir agréé, une place élevée,"
+      },
+      {
+        "number": 62,
+        "text": "une femme vertueuse et pieuse, Ô mon Dieu !"
+      },
+      {
+        "number": 63,
+        "text": "Sous celui qui nous protège contre le mal du jaloux,"
+      },
+      {
+        "number": 64,
+        "text": "celui de la bouche et celui de l'oeil ! Ô mon Dieu !"
+      },
+      {
+        "number": 65,
+        "text": "Sois notre abri contre le mal de la magie, celui des êtres créés, hommes"
+      },
+      {
+        "number": 66,
+        "text": "et djinns et celui des êtres venimeux, Ô mon Dieu !"
+      },
+      {
+        "number": 67,
+        "text": "Ô ma Confiance ! je te prends dans les deux demeures pour un abri sûr."
+      },
+      {
+        "number": 68,
+        "text": "Sois mon lieu de refuge ! Ô mon Dieu !"
+      },
+      {
+        "number": 69,
+        "text": "Ne m'abandonnes pas à moi-même ! [Si tu le fais,] je périrais."
+      },
+      {
+        "number": 70,
+        "text": "Sois celui qui exauce partout où je t'invoque. Ô mon Dieu !"
+      },
+      {
+        "number": 71,
+        "text": "Fais que ma langue et mon coeur, dans la foi,"
+      },
+      {
+        "number": 72,
+        "text": "disent ton nom quand je mourrai ! Ô mon Dieu !"
+      },
+      {
+        "number": 73,
+        "text": "Rive solidement ma certitude dans mon coeur sans angoisse"
+      },
+      {
+        "number": 74,
+        "text": "jusqu'à ce que je désire vraiment te rencontrer, Ô mon Dieu !"
+      },
+      {
+        "number": 75,
+        "text": "Fais que ma mort soit source de repos et de joie qui m'éloigne"
+      },
+      {
+        "number": 76,
+        "text": "de tout mal et de toute contraignante calamité ! Ô mon Dieu !"
+      },
+      {
+        "number": 77,
+        "text": "Veille sur mon coeur lorsque l'âme me quittera."
+      },
+      {
+        "number": 78,
+        "text": "Et dans la tombe, ne lui fais jamais subir une épreuve, Ô mon Dieu !"
+      },
+      {
+        "number": 79,
+        "text": "Sois mon aide et mon compagnon lorsqu'ils auront enterré mon corps"
+      },
+      {
+        "number": 80,
+        "text": "et que je reste seul ! Ô mon Dieu !"
+      },
+      {
+        "number": 81,
+        "text": "Ne m'enveloppe point avec ce qui pourrait m'effrayer mais au contraire,"
+      },
+      {
+        "number": 82,
+        "text": "protège-moi contre tout ce que je craindrai, Ô mon Dieu !"
+      },
+      {
+        "number": 83,
+        "text": "Sauve-moi, tous les musulmans ensemble."
+      },
+      {
+        "number": 84,
+        "text": "Sauve ma mère ! Amen ! Ô mon Dieu !"
+      },
+      {
+        "number": 85,
+        "text": "Pardonne-nous, ainsi qu'à elle ! Cache nos vices."
+      },
+      {
+        "number": 86,
+        "text": "Sois bienveillant pour nous et pour elle dans la déroute, Ô mon Dieu !"
+      },
+      {
+        "number": 87,
+        "text": "Laisse nos péchés et les siens impunis ! Aie pitié !"
+      },
+      {
+        "number": 88,
+        "text": "Elle n'a d'autre que Toi. Et tu es bon, Ô mon Dieu !"
+      },
+      {
+        "number": 89,
+        "text": "Au purgatoire ainsi que dans la tombe, sois notre appui."
+      },
+      {
+        "number": 90,
+        "text": "Et des épreuves et de la peur sauve nous ! Ô mon Dieu !"
+      },
+      {
+        "number": 91,
+        "text": "Ne lui fait pas subir ce qu'elle ne peut supporter !"
+      },
+      {
+        "number": 92,
+        "text": "Ne trompe pas son espoir en toi ! Ô mon Dieu !"
+      },
+      {
+        "number": 93,
+        "text": "Abreuve-nous ainsi qu'elle dans la source de kawthara donnée par toi à celui"
+      },
+      {
+        "number": 94,
+        "text": "que tu as choisi d'entre les créatures dans leur totalité ! Ô mon Dieu !"
+      },
+      {
+        "number": 95,
+        "text": "Celui qui guidait dans le droit chemin l'égaré, qui tuait le mécréant"
+      },
+      {
+        "number": 96,
+        "text": "et qui aidait celui qui te craignait, Ô mon Dieu !"
+      },
+      {
+        "number": 97,
+        "text": "[J'ai nommé] Mouhammad, la fine fleur des choisis, notre guide jusqu'au"
+      },
+      {
+        "number": 98,
+        "text": "Paradis éternel, le jour du Rassemblement, Ô mon Dieu !"
+      },
+      {
+        "number": 99,
+        "text": "Accorde-lui, à jamais et pour toujours bénédiction et salut"
+      },
+      {
+        "number": 100,
+        "text": "ainsi qu'à ceux qui le suivent pour le jour du Jugement Dernier, Ô mon Dieu !"
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 11,
+    "name": "Ashaabul Jannati",
+    "transliterationName": "Ashaabul Jannati",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "ilayka yaa khayral bariyyati salaam"
+      },
+      {
+        "number": 2,
+        "text": "khadiimikal lazii kafaytahul malaam"
+      },
+      {
+        "number": 3,
+        "text": "sallaa halayka abadan mah salaam"
+      },
+      {
+        "number": 4,
+        "text": "fil aali wal as-haabi rabbunas salaam"
+      },
+      {
+        "number": 5,
+        "text": "huzta maqaaman duunahu kullu maqaam"
+      },
+      {
+        "number": 6,
+        "text": "yaa nuura kulli haabidin saama waqaam"
+      },
+      {
+        "number": 7,
+        "text": "antal lazii akhrajanaa minaz zalaam"
+      },
+      {
+        "number": 8,
+        "text": "bika linuuri man habaaka bil kalaam"
+      },
+      {
+        "number": 9,
+        "text": "bashsharakal jamiilu yaa khayra imaam"
+      },
+      {
+        "number": 10,
+        "text": "bimaa nawaytu fiika sah-yan zaa tamaam"
+      },
+      {
+        "number": 11,
+        "text": "antan nabiyyu war rasuulu wal humaam"
+      },
+      {
+        "number": 12,
+        "text": "bikan qiyaadus saalihiina biz zimaam"
+      },
+      {
+        "number": 13,
+        "text": "laka ladaa rabbil waraa kullu maraam"
+      },
+      {
+        "number": 14,
+        "text": "laka bihi yaa sayyidii asnah tiraam"
+      },
+      {
+        "number": 15,
+        "text": "jaada lanaa baaqin tahaalaa han manaam"
+      },
+      {
+        "number": 16,
+        "text": "bika fa-anta sayyidii khayrul anaam"
+      },
+      {
+        "number": 17,
+        "text": "nawaytu shukrahu halayka kulla haam"
+      },
+      {
+        "number": 18,
+        "text": "wa kulli shahrin wal kitaabu lii dihaam"
+      },
+      {
+        "number": 19,
+        "text": "nawaytu shukrahu halayka biqilaam"
+      },
+      {
+        "number": 20,
+        "text": "wa ghayrihaa yaa zaa jawaamihil kalaam"
+      },
+      {
+        "number": 21,
+        "text": "hadiyyatii khuz karaman bilan siraam"
+      },
+      {
+        "number": 22,
+        "text": "yaa qaa-idan lii min ilaahikal maraam"
+      },
+      {
+        "number": 23,
+        "text": "tubtu lirabbii zaa-iran bizan nizaam"
+      },
+      {
+        "number": 24,
+        "text": "laka wa qablahu habawtu bihizaam"
+      },
+      {
+        "number": 25,
+        "text": "Hum fiihaa khaaliduuna"
+      },
+      {
+        "number": 26,
+        "text": "hadiyyatii ilaa jumaadash shaaniyah"
+      },
+      {
+        "number": 27,
+        "text": "minal muharramil qutuufud daaniyah"
+      },
+      {
+        "number": 28,
+        "text": "mallakanil maahii hadaayaa kaafiyah"
+      },
+      {
+        "number": 29,
+        "text": "kulla azan min khayri aayin kaafiyah"
+      },
+      {
+        "number": 30,
+        "text": "farrahtuhu bikhidamin laa shaaniyah"
+      },
+      {
+        "number": 31,
+        "text": "lahaa minal khidami laysat faaniyah"
+      },
+      {
+        "number": 32,
+        "text": "yasurru sayyidii huruufid daahiyah"
+      },
+      {
+        "number": 33,
+        "text": "ilaa jinaanihi ilayhas saahiyah"
+      },
+      {
+        "number": 34,
+        "text": "hadiyyatii ilan nabiyyi saafiyah"
+      },
+      {
+        "number": 35,
+        "text": "bushaaratan lahaa khuyuuran daafiyah"
+      },
+      {
+        "number": 36,
+        "text": "inna qilaamii bin nabiyyi haadiyah"
+      },
+      {
+        "number": 37,
+        "text": "ilaa jinaani man hulaahu baadiyah"
+      },
+      {
+        "number": 38,
+        "text": "khidmatu khayral haalamiina jaaliyah"
+      },
+      {
+        "number": 39,
+        "text": "qaliyanii fad duuru minhu khaaliyah"
+      },
+      {
+        "number": 40,
+        "text": "ahmadunar rutbatu jahran haaliyah"
+      },
+      {
+        "number": 41,
+        "text": "tuhlii muhibbahu wa tukhfii qaaliyah"
+      },
+      {
+        "number": 42,
+        "text": "li-ahmadul mukhtaari qudttul qaafiyah"
+      },
+      {
+        "number": 43,
+        "text": "haafiyatan taduumu laysat haafiyah"
+      },
+      {
+        "number": 44,
+        "text": "darajatul mukhtaari laysat khaafiyah"
+      },
+      {
+        "number": 45,
+        "text": "izil hayaatu lil hibaadi shaafiyah"
+      },
+      {
+        "number": 46,
+        "text": "wuddii lirabbii wa lahu lil qaasiyah"
+      },
+      {
+        "number": 47,
+        "text": "alaana wahdii lastu dahran naasiyah"
+      },
+      {
+        "number": 48,
+        "text": "naajaytuhu fiihi lijumaadas saaniyah"
+      },
+      {
+        "number": 49,
+        "text": "minal muharramil muniilad daaniyah"
+      }
+    ]
+  }
+}

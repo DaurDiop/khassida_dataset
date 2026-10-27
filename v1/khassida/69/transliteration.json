@@ -1,0 +1,325 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 69,
+    "name": "Khatimatu Munajati",
+    "transliterationName": "Khatimatu Munajati",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "wassala lil haqqu minal haqqil mubiin"
+      },
+      {
+        "number": 2,
+        "text": "lii qaada maa baana wa maa laysa yabiin"
+      },
+      {
+        "number": 3,
+        "text": "hallamanii maa kaana qablal khalqi"
+      },
+      {
+        "number": 4,
+        "text": "man kaana lii bikaramin wa tilqi"
+      },
+      {
+        "number": 5,
+        "text": "lam yanhu zaatii jaalibun niiraani"
+      },
+      {
+        "number": 6,
+        "text": "aw jaalibul haarayni wal khusraani"
+      },
+      {
+        "number": 7,
+        "text": "lam yanhunii dararu naarid dunyaa"
+      },
+      {
+        "number": 8,
+        "text": "wakhtassanil baaqii bikhayri sunyaa"
+      },
+      {
+        "number": 9,
+        "text": "mallakanii maa lam yabih-hu hannii"
+      },
+      {
+        "number": 10,
+        "text": "wa qaada lii baqaa-ahu bil manni"
+      },
+      {
+        "number": 11,
+        "text": "karaamatii kitaabu man rafahanii"
+      },
+      {
+        "number": 12,
+        "text": "bihi ilal jinaani muz nafahanii"
+      },
+      {
+        "number": 13,
+        "text": "mahaa mamaatan qad nahan nufuusaa"
+      },
+      {
+        "number": 14,
+        "text": "wa lisawayaa saaqahu tanfiisaa"
+      },
+      {
+        "number": 15,
+        "text": "ilaa siwaa nahwin tihaa-ul mawti"
+      },
+      {
+        "number": 16,
+        "text": "nahan nufuusa kullahaa bifawti"
+      },
+      {
+        "number": 17,
+        "text": "lam tanhunii muqaddamaatul mawti"
+      },
+      {
+        "number": 18,
+        "text": "wa qad rafahtu bil baqaa-i sawtii"
+      },
+      {
+        "number": 19,
+        "text": "mawtul laziina kaabaduunii badalu"
+      },
+      {
+        "number": 20,
+        "text": "min mawti nafsii maa nahaanii jadalu"
+      },
+      {
+        "number": 21,
+        "text": "tursii hanil mawti baqaa-ul laahi"
+      },
+      {
+        "number": 22,
+        "text": "abqaanniyal laahu liwajhil laahi"
+      },
+      {
+        "number": 23,
+        "text": "kafaaniyal baaqil mamaata sarmadaa"
+      },
+      {
+        "number": 24,
+        "text": "wa bibaqaa-iya yasurru ahmadaa"
+      },
+      {
+        "number": 25,
+        "text": "nafahanii wa lam yadurrunii walaa"
+      },
+      {
+        "number": 26,
+        "text": "yadurrunii kullii halayhi hawwalaa"
+      },
+      {
+        "number": 27,
+        "text": "tursii hanil amraadi wal mamaati"
+      },
+      {
+        "number": 28,
+        "text": "baqaa-u haasimii minash shamaati"
+      },
+      {
+        "number": 29,
+        "text": "hallamanii biqawdihi ilayyaa"
+      },
+      {
+        "number": 30,
+        "text": "al bayta raafihan biyal mardiyyaa"
+      },
+      {
+        "number": 31,
+        "text": "laa shakka fii kawniya bil amiini"
+      },
+      {
+        "number": 32,
+        "text": "fiihi wa bil kitaabi wal amiini"
+      },
+      {
+        "number": 33,
+        "text": "mallakanil amiinu wal amiinu"
+      },
+      {
+        "number": 34,
+        "text": "kitaaba baaqin jaa-anit taamiinu"
+      },
+      {
+        "number": 35,
+        "text": "khaatimatu munaajaatii bil khatti haazal"
+      },
+      {
+        "number": 36,
+        "text": "khatta jahalanil laahu tabaaraka wa tahaalaa"
+      },
+      {
+        "number": 37,
+        "text": "habdan lahu wa khaliilan lahu wa habiiban lahu"
+      },
+      {
+        "number": 38,
+        "text": "zaahiran wa baatinan wa jaaran lahu"
+      },
+      {
+        "number": 39,
+        "text": "wa khadiiman lirasuulil laahi sallal"
+      },
+      {
+        "number": 40,
+        "text": "laahu tahaalaa halayhi wa sallama"
+      },
+      {
+        "number": 41,
+        "text": "wal laahu halaa maa naquulu wakiilun"
+      },
+      {
+        "number": 42,
+        "text": "wa shahidal laahu tabaaraka wa tahaalaa"
+      },
+      {
+        "number": 43,
+        "text": "lii bibayhatis salaasati was salaasiina"
+      },
+      {
+        "number": 44,
+        "text": "wad damaa-ira wa ash-hadal mala-al ahlaa"
+      },
+      {
+        "number": 45,
+        "text": "bizaalika laakinil laahu yash-hadu"
+      },
+      {
+        "number": 46,
+        "text": "bimaa anzala ilayka tahiyyatan min hindil"
+      },
+      {
+        "number": 47,
+        "text": "laahi mubaarakatan tayyibatan shahidal"
+      },
+      {
+        "number": 48,
+        "text": "laahu annahu laa ilaaha illaa huwa"
+      },
+      {
+        "number": 49,
+        "text": "wal malaa-ikatu wa uulul hilmi"
+      },
+      {
+        "number": 50,
+        "text": "qaa-iman bil qisti laa ilaaha illaa huwal"
+      },
+      {
+        "number": 51,
+        "text": "haziizul hakiimu innad diina hindal"
+      },
+      {
+        "number": 52,
+        "text": "laahi lislaamu wa shahidal laahu"
+      },
+      {
+        "number": 53,
+        "text": "tabaaraka wa tahaalaa anna kaatiba"
+      },
+      {
+        "number": 54,
+        "text": "haazihil huruufi laa yamuutu abadan"
+      },
+      {
+        "number": 55,
+        "text": "wa annal mawtal lazii kaana mutawajjihan"
+      },
+      {
+        "number": 56,
+        "text": "ilayhi fii qawlihi tahaalaa kullu"
+      },
+      {
+        "number": 57,
+        "text": "nafsin zaa-iqatul mawti mahaataw juhaha ilayhi"
+      },
+      {
+        "number": 58,
+        "text": "biqadri hazamati zaatahi bilaa tawjiihi shay-in"
+      },
+      {
+        "number": 59,
+        "text": "minhu ilayhi abadaa wal laahu halaa maa naquulu"
+      },
+      {
+        "number": 60,
+        "text": "wakiilun katabal laahu tabaaraka wa tahaalaa"
+      },
+      {
+        "number": 61,
+        "text": "anna baytal laahil haraama turfahuhul malaa-ikatu"
+      },
+      {
+        "number": 62,
+        "text": "ilaa tuubaa wa fiihi rasuulul laahi sallal"
+      },
+      {
+        "number": 63,
+        "text": "laahu tahaalaa halayhi wa sallama maha amiini"
+      },
+      {
+        "number": 64,
+        "text": "wah-yil laahi wa yad khulu fiihi mahahumaa"
+      },
+      {
+        "number": 65,
+        "text": "kaatibu haazihul huruufi maha jamiihil"
+      },
+      {
+        "number": 66,
+        "text": "kutubi wal amtihahi ilaa mahallihil lazii"
+      },
+      {
+        "number": 67,
+        "text": "yakuunu mahahum fiihi ay al muriidiinas"
+      },
+      {
+        "number": 68,
+        "text": "saadi qiina katabal laahu tabaaraka wa tahaalaa"
+      },
+      {
+        "number": 69,
+        "text": "anna kaatiba haazihil huruufi ammanahul laahu"
+      },
+      {
+        "number": 70,
+        "text": "tabaaraka wa tahaalaa mimmaa laa yuwadii ilal"
+      },
+      {
+        "number": 71,
+        "text": "mahruufi wa yulaazimu maa laa yakhfaa halal"
+      },
+      {
+        "number": 72,
+        "text": "laahi tabaaraka wa tahaalaa qabla haazihil laylati"
+      },
+      {
+        "number": 73,
+        "text": "fiimaa hindahu hiina-izin katabal laahu"
+      },
+      {
+        "number": 74,
+        "text": "tabaaraka wa tahaalaa anna kaatiba haazihil"
+      },
+      {
+        "number": 75,
+        "text": "huruufi yujaawirul laaha tabaaraka wa tahaalaa"
+      },
+      {
+        "number": 76,
+        "text": "fid dunyaa fid dafhi wal jalbi arbahami-atin"
+      },
+      {
+        "number": 77,
+        "text": "sanatin bahda haazal khattil muhaqqiqu minal"
+      },
+      {
+        "number": 78,
+        "text": "haqqil mubiin wal laahu halaa maa naquulu wakiilun"
+      }
+    ]
+  }
+}

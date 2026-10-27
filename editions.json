@@ -8,15 +8,8 @@
       "name": "Uthmani Script",
       "format": "text",
       "type": "original",
-      "direction": "rtl"
-    },
-    {
-      "identifier": "fr.translation",
-      "language": "fr",
-      "name": "Traduction Française",
-      "format": "text",
-      "type": "translation",
-      "direction": "ltr"
+      "direction": "rtl",
+      "unit": "verse"
     },
     {
       "identifier": "transliteration",
@@ -24,7 +17,56 @@
       "name": "Transcription",
       "format": "text",
       "type": "transliteration",
-      "direction": "ltr"
+      "direction": "ltr",
+      "unit": "verse"
+    },
+    {
+      "identifier": "fr.translation",
+      "language": "fr",
+      "name": "Traduction Française",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr",
+      "unit": "verse"
+    },
+    {
+      "identifier": "en.translation",
+      "language": "en",
+      "name": "English Translation",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr",
+      "unit": "verse"
+    },
+    {
+      "identifier": "it.karamati",
+      "language": "it",
+      "name": "Traduzione italiana — Karamati Khatou Yadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr",
+      "unit": "bayt",
+      "source": "https://github.com/DaurDiop/karamati-khatou-yadi"
+    },
+    {
+      "identifier": "en.karamati",
+      "language": "en",
+      "name": "English Translation — Karamati Khatou Yadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr",
+      "unit": "bayt",
+      "source": "https://github.com/DaurDiop/karamati-khatou-yadi"
+    },
+    {
+      "identifier": "fr.karamati",
+      "language": "fr",
+      "name": "Traduction Française — Karamati Khatou Yadi",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr",
+      "unit": "bayt",
+      "source": "https://github.com/DaurDiop/karamati-khatou-yadi"
     }
   ]
 }

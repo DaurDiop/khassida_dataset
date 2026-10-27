@@ -1,0 +1,300 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 66,
+    "name": "Jazbu 4",
+    "transliterationName": "Jazbu 4",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 145,
+        "text": "Ô notre Seigneur, prie sur Celui qui efface (Al-Māḥī), qui a ôté la crainte, Muḥammad ; fais advenir ce qui m'a réjoui, et accorde la paix."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 146,
+        "text": "Ô notre Seigneur, prie sur la meilleure des Lampes, qui s'est élevée, Muḥammad, celui qui a lavé ce qui m'affligeait, et accorde la paix."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 147,
+        "text": "Ô notre Seigneur, prie sur le meilleur des Lumineux envoyés, Muḥammad, celui dont le désir a été comblé, et accorde la paix."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 148,
+        "text": "Ô notre Seigneur, prie sur le meilleur des Annonciateurs, qui a prodigué les dons, Muḥammad, celui qui a hâté ma bonne nouvelle, et accorde la paix."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 149,
+        "text": "Ô notre Seigneur, prie sur celui dont la préséance a été comprise, Muḥammad, celui qui a couvert de honte qui me hait, et accorde la paix."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 150,
+        "text": "Ô notre Seigneur, prie sur celui qui a lavé ma paresse, Muḥammad, celui qui a honoré mes poèmes, et accorde la paix."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 151,
+        "text": "Ô notre Seigneur, prie sur le plus sage de tous les sages, Muḥammad, celui qui a enchaîné celui qui me défiait, et accorde la paix."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 152,
+        "text": "Prie sur celui qui voyagea de nuit et s'éleva, sur al-Burāq, jusqu'au ciel, Muḥammad ; honore-le avec sa troupe, et accorde la paix."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 153,
+        "text": "Il passa la nuit à traverser les cieux superposés, tendant vers l'union (avec son Seigneur) ; et les Prophètes, unanimes, l'accueillirent avec honneur."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 154,
+        "text": "Ils le révérèrent, le placèrent en tête, l'honorèrent et se soumirent à lui avec humilité, et magnifièrent son rang vénéré."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 155,
+        "text": "Ils se firent humbles lorsqu'ils connurent son rang, honorèrent sa rencontre et reconnurent son excellence et sa préséance."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 156,
+        "text": "Ils accoururent (pour l'accueillir) avec la bienvenue, l'affabilité et la courtoisie, la joie et la proximité, pour (l'amour de) son Seigneur qui l'a placé en tête."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 157,
+        "text": "Et chacun d'eux se mit à le louer, lorsqu'il entendit mentionner l'Intercesseur des intercesseurs, avec le Fidèle (Gabriel), le plus éminent."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 158,
+        "text": "Et chacun d'eux le loua, après s'être réjoui de sa mission, et la poitrine s'épanouit pour rendre grâce des bienfaits."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 159,
+        "text": "Puis il s'éloigna d'eux et s'éleva, sur al-Burāq, pour rencontrer son Bien-Aimé (Allah), et traversa les voiles de la Divinité, qui comble de grâces."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 160,
+        "text": "Puis il revint en sa demeure, ayant obtenu de Lui tout vœu, et il ôta la peine et ce qui attire les châtiments."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 161,
+        "text": "Quel excellent Prophète et Messager ! Quel excellent celui qui nous a accordé ce que nous demandions, par son Seigneur, le Beau, par son Rappel (le Coran) et la Voie !"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 162,
+        "text": "Les signes (prodiges) de Ṭāhā, Aḥmad (Muḥammad), n'auront jamais de fin ; et les forces des bien-guidés ont défailli à les transcrire avec le calame."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 163,
+        "text": "Dieu l'a envoyé à toutes les créatures, récitant avec mesure un Rappel descendu sur lui, guidance pour qui cherche le savoir."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 164,
+        "text": "Combien est noble ce Livre (le Coran) ! En lui la guidance et la récompense, en lui la Parole et la réponse de notre Seigneur, l'Éternel."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 165,
+        "text": "Il est la guérison de tout mal pour qui s'appuie sur lui ; et qui l'a refusé a été chassé, plein de regret et de remords."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 166,
+        "text": "Et quiconque a dévié à son égard et ne s'est pas efforcé au repentir rencontrera la ruine de la part de son Seigneur, le Vengeur (Al-Muntaqim)."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 167,
+        "text": "Il est ce par quoi celui qui se laisse guider par sa guidance obtient la bonne guidance, et demain (dans l'Au-delà) il obtiendra le triomphe, préservé des châtiments."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 168,
+        "text": "Il est Son Livre clair, qu'a apporté le noble Fidèle (Gabriel), avec la permission du Seigneur des mondes, guidance pour qui embrasse la voie la plus droite."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 169,
+        "text": "Il est ce dont celui qui s'est détourné et ne l'a pas médité a désobéi au Seigneur des créatures, devenant objet de risée pour ceux qui blâment."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 170,
+        "text": "Il est ce en quoi celui qui est resté ferme, sans se tourner ailleurs, agissant en bien, sera un noble preux auprès du Reconnaissant, le Très-Généreux."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 171,
+        "text": "Il est ce dont celui qui se contente obtient ce qui lui suffit, et ne rencontre pas, par (Sa) générosité, les tourments de ceux qui nuisent."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 172,
+        "text": "Je loue mon Seigneur pour Son Livre, qui surpasse tout livre révélé, de toute ma poitrine et de ma bouche."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 173,
+        "text": "Je rends grâce à mon Seigneur, l'Immense, pour Son Livre sage, et par lui j'ai obtenu des sciences qui réduisent au silence celui qui bredouille (en contestant)."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 174,
+        "text": "Le Livre de mon Seigneur est « le Livre », selon le texte (coranique) « Voici le Livre » ; par lui j'ai été préservé du reproche et de ce qui attire la maladie."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 175,
+        "text": "Il (le Coran) est pour moi un ami intime et un bien-aimé, qui m'affranchit du besoin du médecin ; par lui m'aime le sage qui recherche la meilleure voie."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 176,
+        "text": "Ô le meilleur des Rappels révélés, par le meilleur des Seigneurs qui l'a fait descendre : conduis vers moi l'hospitalité (du Paradis) de Celui qui possède la Permanence et l'Éternité."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 177,
+        "text": "Ô le meilleur des Rappels, apparu de Celui (Allah) qui a rendu éternelle ma pureté : rends perpétuelle pour moi une vie aisée, dans la sécurité et le service."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 178,
+        "text": "Tu es (ô Coran) mon compagnon vers les Jardins, ô toi qui gardes pour moi la demeure, et tu apaises mon cœur, ô le meilleur des Rappels, le parfaitement établi."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 179,
+        "text": "Ô le meilleur des Rappels, récité avec mesure par la bouche de celui qui rappelle et lit : repousse vers d'autres que moi celui qui me hait, sois avec moi et rends ton jugement."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 180,
+        "text": "Ô la meilleure des Révélations, qui montre à celui qui médite ce qui était caché : mon Seigneur, par toi, purifie mes pensées de tout soupçon."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 181,
+        "text": "Ô le meilleur des Rappels, qui as réuni les sciences les plus excellentes, et soumis pour moi mes ennemis et écarté de moi le mal de l'illusion."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 182,
+        "text": "Tu es ma voie et mon compagnon intime ; tu as conduit vers moi ce qui dépasse toute mesure, par le service de Celui qui efface (Al-Māḥī, Muḥammad), le Chef, qui me rend sagace par (la grâce de) l'Inspirateur (Allah)."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 183,
+        "text": "Ô le meilleur des Rappels, qui as effacé ce qui affligeait mon cœur, et cela s'est effacé : accorde-moi d'être parmi ceux qui réussissent, par (la grâce de) Celui qui t'a révélé et qui fait comprendre."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 184,
+        "text": "Par toi j'ai demandé à mon Souverain d'être une lumière pour celui qui chemine sur la Voie, et un ascète ravi par l'attraction divine (al-jadhb), par ce qui est manifeste et ce qui est obscur."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 185,
+        "text": "et que Celui qui rapproche (Allah) conduise à jamais vers le Prophète (Muḥammad), avec les élus, mes deux saluts de paix, sans fin et sans terme."
+      }
+    ]
+  }
+}

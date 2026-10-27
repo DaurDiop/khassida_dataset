@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 37,
+    "name": "Hamdi Wa Shukri",
+    "transliterationName": "Hamdi Wa Shukri",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "hamdii wa shukrii liman kullii bihi saaraa"
+      },
+      {
+        "number": 2,
+        "text": "lahu ridan duuna sukhtin hinda sarsaaraa"
+      },
+      {
+        "number": 3,
+        "text": "lahu sanaa-ii wa ridwaanii bilaa sakhatin"
+      },
+      {
+        "number": 4,
+        "text": "muz qaadalii min banii daymaana ansaaraa"
+      },
+      {
+        "number": 5,
+        "text": "lil laahi kullii ladaa aabaari makrumatin"
+      },
+      {
+        "number": 6,
+        "text": "minhar tahalnaa wa fiihaa jamma man zaaraa"
+      },
+      {
+        "number": 7,
+        "text": "innal laziina ilaa sarsaaraa qad qasaduu"
+      },
+      {
+        "number": 8,
+        "text": "ziyaaratii faaraqud daarayni aw zaaraa"
+      }
+    ]
+  }
+}

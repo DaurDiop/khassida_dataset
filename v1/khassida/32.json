@@ -1,0 +1,396 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 32,
+    "name": "Fuzti",
+    "transliterationName": "Fuzti",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "فُزْتِ بِظَرْ فِى الْحَسَنَاتْ",
+        "transcription": "fuzti bizar fil hasanaat",
+        "translations": {
+          "fr": "Félicité à toi Marie, surabondance de bonnes oeuvres,"
+        }
+      },
+      {
+        "number": 2,
+        "text": "سَيِّدَةً لِمُحْسِنَاتْ",
+        "transcription": "sayyidatan limuhsinaat",
+        "translations": {
+          "fr": "sainte patronne des femmes chastes et charitables."
+        }
+      },
+      {
+        "number": 3,
+        "text": "مَرِيَمُ فُقْتِ الْمُوقِنَاتْ",
+        "transcription": "mariyamu fuqtil muuqinaat",
+        "translations": {
+          "fr": "Tu es au dessus de toutes les élues"
+        }
+      },
+      {
+        "number": 4,
+        "text": "عِنْدَ الَّذِى لَمِ يُدْرَكِ",
+        "transcription": "indal lazii lam yudraki",
+        "translations": {
+          "fr": "du Seigneur Sublime et Insondable."
+        }
+      },
+      {
+        "number": 5,
+        "text": "كُنْ فَيَكُونُ لَكِ قَادْ",
+        "transcription": "kun fayakuunu laki qaad",
+        "translations": {
+          "fr": "L'Acte extentiateur de Dieu t'a pourvu, sans contredit,"
+        }
+      },
+      {
+        "number": 6,
+        "text": "خَيْرَ رَسُولٍ لَا انْتِقَادْ",
+        "transcription": "khayra rasuulin lan tiqaad",
+        "translations": {
+          "fr": "du plus distingué des messagers [Jésus]."
+        }
+      },
+      {
+        "number": 7,
+        "text": "وَبِكِ فَازَ ذُو اعْتِقَادْ",
+        "transcription": "wa biki faaza zuh tiqaad",
+        "translations": {
+          "fr": "Bonheur à quiconque place sa confiance en toi,"
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَلَمْ يَكُنْ بِمُشْرِكِ",
+        "transcription": "wa lam yakun bimushriki",
+        "translations": {
+          "fr": "sans réprobation aucune."
+        }
+      },
+      {
+        "number": 9,
+        "text": "لَمْ يَخْفَ عِنْدَ الْمُومِنِينْ",
+        "transcription": "lam yakhfa indal muuminiin",
+        "translations": {
+          "fr": "Car, il est évident pour tout croyant"
+        }
+      },
+      {
+        "number": 10,
+        "text": "كَوْنُكِ حِبَّ الْمُذْعِنِينْ",
+        "transcription": "kawnuki hibbal muzhiniin",
+        "translations": {
+          "fr": "que tu es la favorite des humbles obéissants [à Dieu]."
+        }
+      },
+      {
+        "number": 11,
+        "text": "يَاأُمَّ خَيْرِ مُحْسِنِينْ",
+        "transcription": "yaa umma khayri muhsiniin",
+        "translations": {
+          "fr": "Toi la mère du meilleurs des généreux [Jésus],"
+        }
+      },
+      {
+        "number": 12,
+        "text": "مَعْصُومَةً مِنْ شَرَكِ",
+        "transcription": "mahsuumatan min sharaki",
+        "translations": {
+          "fr": "tu es affranchie de tout culte autre que celui du Seigneur."
+        }
+      },
+      {
+        "number": 13,
+        "text": "يَقُودُنِى لِمَدْحِكِ",
+        "transcription": "yaquudunii limadhiki",
+        "translations": {
+          "fr": "Les infinis saints mérites comptés à ton endroit"
+        }
+      },
+      {
+        "number": 14,
+        "text": "مَاعَنْكِ فَضْلًا قَدْ حُكِ",
+        "transcription": "maa hanki fadlan qad huki",
+        "translations": {
+          "fr": "m'ont conduit à te rendre hommage par cette ode."
+        }
+      },
+      {
+        "number": 15,
+        "text": "فُزْتِ بِبِشْرٍ مُضْحِكِ",
+        "transcription": "fuzti bibishrin mudhiki",
+        "translations": {
+          "fr": "Tu as été gratifiée de faveurs qui rendent bienheureux"
+        }
+      },
+      {
+        "number": 16,
+        "text": "كُلَّ تَقِيٍّ مُدْرِكِ",
+        "transcription": "kulla taqiyyin mudriki",
+        "translations": {
+          "fr": "tout croyant scrupuleux et convaincu."
+        }
+      },
+      {
+        "number": 17,
+        "text": "وَاجَهْتُكِ الْيَوْمَ بِمَا",
+        "transcription": "waajahtukil yawma bimaa",
+        "translations": {
+          "fr": "Je formulerai, ce jour, des éloges en ta faveur"
+        }
+      },
+      {
+        "number": 18,
+        "text": "يُودِمُ لِى قُوتًا بِمَا",
+        "transcription": "yudiimu lii quutan bimaa",
+        "translations": {
+          "fr": "qui, certes, m'assureront une vie émérite."
+        }
+      },
+      {
+        "number": 19,
+        "text": "إِلَى احْتِوَاءِى شَبِمَا",
+        "transcription": "ilah tiwaa-ii shabimaa",
+        "translations": {
+          "fr": "Qui se perpétuera jusqu'au paradis,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "مِنْ غَيْرِ قَصْدِ الدَّرَكِ",
+        "transcription": "min ghayri qasdid daraki",
+        "translations": {
+          "fr": "et ce, sans aucune prétention d'épuiser tes immenses vertus."
+        }
+      },
+      {
+        "number": 21,
+        "text": "أَنْتِ سُلَالَةُ الْكِرَامْ",
+        "transcription": "anti sulaalatul kiraam",
+        "translations": {
+          "fr": "Tu es l'héritière de la noble descendance prophètique"
+        }
+      },
+      {
+        "number": 22,
+        "text": "مَاأَمَّ نَحْوَكِ حَرَامْ",
+        "transcription": "maa amma nahwaki haraam",
+        "translations": {
+          "fr": "et tu n'es point pêcheresse."
+        }
+      },
+      {
+        "number": 23,
+        "text": "وَأَنْتِ ذَاتُ الْإِحْتِرَامْ",
+        "transcription": "wa anti zaatul ihtiraam",
+        "translations": {
+          "fr": "Tu es le symbole de la circonspection"
+        }
+      },
+      {
+        "number": 24,
+        "text": "بِلَا انْتِحَآ لِّشُرُكِ",
+        "transcription": "bilan tihaa  lish shuruki",
+        "translations": {
+          "fr": "et de la rectitude morale."
+        }
+      },
+      {
+        "number": 25,
+        "text": "شَكَرَ رَبُّنَا الْكَرِيمْ",
+        "transcription": "shakara rabbunal kariim",
+        "translations": {
+          "fr": "Le Seigneur a immensément agréé"
+        }
+      },
+      {
+        "number": 26,
+        "text": "شَاْنُكِ شُكْرًا لَا يَرِيمْ",
+        "transcription": "shahnuki shukran laa yariim",
+        "translations": {
+          "fr": "tes bonnes oeuvres."
+        }
+      },
+      {
+        "number": 27,
+        "text": "ابْنُكِ نَالَ مَا يَرُومْ",
+        "transcription": "ibnuki naala maa yaruum",
+        "translations": {
+          "fr": "Ton fils [Jésus] a obtenu ce à quoi"
+        }
+      },
+      {
+        "number": 28,
+        "text": "عِنْدَ الَّذِى لَمْ يُدْرَكِ",
+        "transcription": "hindal lazii lam yudraki",
+        "translations": {
+          "fr": "il aspirait auprès de son Seigneur, l'Impénétrable."
+        }
+      },
+      {
+        "number": 29,
+        "text": "رُمْتُ بِذَا مِنْ حُبِّكِ",
+        "transcription": "rumtu bizaa min hubbiki",
+        "translations": {
+          "fr": "Mon vu, en écrivant cette ode, est d'obtenir l'agrément de Dieu,"
+        }
+      },
+      {
+        "number": 30,
+        "text": "رِضًى يُدِيمُ قُرْبَكِ",
+        "transcription": "ridan yudiimu qurbaki",
+        "translations": {
+          "fr": "par quoi Il éternisera ton voisinage."
+        }
+      },
+      {
+        "number": 31,
+        "text": "مِنْ رَبِّ ذَاتِ الْحُبُكِ",
+        "transcription": "min rabbi zaatil hubbuki",
+        "translations": {
+          "fr": "Auprès de lui, Lui le Seigneur des royaumes célestes"
+        }
+      },
+      {
+        "number": 32,
+        "text": "مُعْطِى الْهُدَى وَالنُّسُكِ",
+        "transcription": "muhtil hudaa wan nusuki",
+        "translations": {
+          "fr": "et le Pourvoyeur de la droiture et du culte sincère."
+        }
+      },
+      {
+        "number": 33,
+        "text": "بِاللَّهِ ذِى كُنْ فَيَكُونْ",
+        "transcription": "bil laahi zii kun fayakuun",
+        "translations": {
+          "fr": "J'implore le Seigneur,"
+        }
+      },
+      {
+        "number": 34,
+        "text": "طَلَبْتُ مِنْهُ أَنْ يَكُونْ",
+        "transcription": "talabtu minhu an yakuun",
+        "translations": {
+          "fr": "Détenteur de l'Acte d'existence."
+        }
+      },
+      {
+        "number": 35,
+        "text": "لَكِ نِظَامِى ذَا رُكُونْ",
+        "transcription": "laki nizaamii zaa rukuun",
+        "translations": {
+          "fr": "Afin que ce poème te soit un argument solide [contre les fausses accusations portées à ton encontre],"
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَأَنْ يُطِيبَ مَنْسَكِى",
+        "transcription": "wa an yutiiba mansakii",
+        "translations": {
+          "fr": "et, à moi, est un motif d'exaucement de mes prières."
+        }
+      },
+      {
+        "number": 37,
+        "text": "يَاأُمَّ رُوحِ الْمَالِكِ",
+        "transcription": "yaa umma ruuhil maaliki",
+        "translations": {
+          "fr": "Ô la mère du Saint Esprit,"
+        }
+      },
+      {
+        "number": 38,
+        "text": "يَاأُمَّ جَالِى الْحَالِكِ",
+        "transcription": "yaa umma jaalil haaliki",
+        "translations": {
+          "fr": "Ô la mère de celui par qui les ténèbres sont dissipées."
+        }
+      },
+      {
+        "number": 39,
+        "text": "ابْنُكِ لَا بِهَالِكِ",
+        "transcription": " ibnuki laa bihaaliki",
+        "translations": {
+          "fr": "Ton fils ne s'est pas éteint sur la croix,"
+        }
+      },
+      {
+        "number": 40,
+        "text": "عِنْدَ الْعَلِى الْمُمَسِكِ",
+        "transcription": "hindal halil mumasiki",
+        "translations": {
+          "fr": "il a été élevé auprès de son Seigneur."
+        }
+      },
+      {
+        "number": 41,
+        "text": "بَارَكَ فِيكِ ذُو جَلَالْ",
+        "transcription": "baaraka fiiki zuu jalaal",
+        "translations": {
+          "fr": "Que la bénédiction de Dieu soit sur toi et sur ton fils"
+        }
+      },
+      {
+        "number": 42,
+        "text": "وَفِى ابْنِكِ النَّافِى الضَّلَالْ",
+        "transcription": "wa fibnikin naafid dalaal",
+        "translations": {
+          "fr": "celui par qui l'ignorance est eradiquée."
+        }
+      },
+      {
+        "number": 43,
+        "text": "بِمَا يُخَلَدُ الْحَلَالْ",
+        "transcription": "bimaa yukhalidul halaal",
+        "translations": {
+          "fr": "De sorte que l'adoption de pratiques licites"
+        }
+      },
+      {
+        "number": 44,
+        "text": "لِقَارِىٍ مُمَسِكِ",
+        "transcription": "liqaariyin mumasiki",
+        "translations": {
+          "fr": "soit à portée de tout érudit pieux."
+        }
+      },
+      {
+        "number": 45,
+        "text": "هَدِيَّتِى خُذِى بِلَا",
+        "transcription": "hadiyyatii khuzii bilaa",
+        "translations": {
+          "fr": "Accepte ce présent"
+        }
+      },
+      {
+        "number": 46,
+        "text": "رَدٍ كَمَا تُقُبِلَا",
+        "transcription": "raddin kamaa tuqubilaa",
+        "translations": {
+          "fr": "et ne le récuse pas."
+        }
+      },
+      {
+        "number": 47,
+        "text": "عِنْدَ كَرِيمٍ قَبِلَا",
+        "transcription": "hinda kariimin qabilaa",
+        "translations": {
+          "fr": "Conformément  là'acte du Seigneur, le Très Généreux"
+        }
+      },
+      {
+        "number": 48,
+        "text": "مِنْ جَدِّكِ الْمُسْتَبْرَكِ",
+        "transcription": "min jaddikil mustabraki",
+        "translations": {
+          "fr": "qui accepta de répandre sa mansiétude sur ton humble ancêtre [Eve]."
+        }
+      }
+    ]
+  }
+}

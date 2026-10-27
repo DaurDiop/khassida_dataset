@@ -1,0 +1,221 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 22,
+    "name": "Bakh Bakhaa",
+    "transliterationName": "Bakh Bakhaa",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "qallabtu kulli likariimin wa bakhaa"
+      },
+      {
+        "number": 2,
+        "text": "tawbiikha ikraamin wa khultu bakh bakhaa"
+      },
+      {
+        "number": 3,
+        "text": "laka khitaabii shaakiran mu-arrikhaa"
+      },
+      {
+        "number": 4,
+        "text": "ay haama zayni shukrakal mu-arrakhaa"
+      },
+      {
+        "number": 5,
+        "text": "mahawta hanniyar riyaa wal bazakhaa"
+      },
+      {
+        "number": 6,
+        "text": "yaa qaahiran yaruudu man tabazzakhaa"
+      },
+      {
+        "number": 7,
+        "text": "amattanii hattaa dakhaltul barzakhaa"
+      },
+      {
+        "number": 8,
+        "text": "faliya hab han kulli suu-in barzakhaa"
+      },
+      {
+        "number": 9,
+        "text": "yaa man yuliinu kulla tawdin shamakhaa"
+      },
+      {
+        "number": 10,
+        "text": "dakkan liya iqhar kulla jaanin bazmakhaa"
+      },
+      {
+        "number": 11,
+        "text": "hanniya kuffa kulla baaghin jafakhaa"
+      },
+      {
+        "number": 12,
+        "text": "bisayfi man man lam yutihka afakhaa"
+      },
+      {
+        "number": 13,
+        "text": "bisayfi man qad khalladat ta-awwukhaa"
+      },
+      {
+        "number": 14,
+        "text": "laka wa man khaalafuuka dawwakhaa"
+      },
+      {
+        "number": 15,
+        "text": "aawaytanii laka bihi fashayyakhaa"
+      },
+      {
+        "number": 16,
+        "text": "bijaahihi yaa khayra haadin shayyakhaa"
+      },
+      {
+        "number": 17,
+        "text": "iqhar bihi lii kulla man taballakhaa"
+      },
+      {
+        "number": 18,
+        "text": "wa liya hab mukhjila saylin jalakhaa"
+      },
+      {
+        "number": 19,
+        "text": "bijaahihi liya hidaaya dakhdikhaa"
+      },
+      {
+        "number": 20,
+        "text": "yaa man qabadta kulla man tadakhdakhaa"
+      },
+      {
+        "number": 21,
+        "text": "kafaytanii ghayhab maa tajakhjakhaa"
+      },
+      {
+        "number": 22,
+        "text": "minal layaalii fashakartu bajakhaa"
+      },
+      {
+        "number": 23,
+        "text": "mahawta hanniyal azaa wal wasakhaa"
+      },
+      {
+        "number": 24,
+        "text": "fabiya bashshir kulla haadin rasakhaa"
+      },
+      {
+        "number": 25,
+        "text": "radiitu hanka faltudim liyar rakhaa"
+      },
+      {
+        "number": 26,
+        "text": "wa liya hab kawnii fatan musarrakhaa"
+      },
+      {
+        "number": 27,
+        "text": "bihtul lazii salakhtuhu fan salakhaa"
+      },
+      {
+        "number": 28,
+        "text": "liwajhikal kariimi rud lil aslakhaa"
+      },
+      {
+        "number": 29,
+        "text": "bananttu bayha silahin lam yufsakhaa"
+      },
+      {
+        "number": 30,
+        "text": "haqdun lahaa wa abadan lan yufsakhaa"
+      },
+      {
+        "number": 31,
+        "text": "yaa mughniyan ilayya saaqa dardikhaa"
+      },
+      {
+        "number": 32,
+        "text": "hab liya firaaqii kulla man tabaddakhaa"
+      },
+      {
+        "number": 33,
+        "text": "lii kunta fil bahri fasirtu shundukhaa"
+      },
+      {
+        "number": 34,
+        "text": "hindal hidaa faliya wajjih shundukhaa"
+      },
+      {
+        "number": 35,
+        "text": "wajjih ilayya maa asiiru mikfakhaa"
+      },
+      {
+        "number": 36,
+        "text": "bihi wa rud lii kulla daahin qanfakhaa"
+      },
+      {
+        "number": 37,
+        "text": "lii sakhkhiran musalisan qad aqmakhaa"
+      },
+      {
+        "number": 38,
+        "text": "bi-anfihi mustadrajan wa shamakhaa"
+      },
+      {
+        "number": 39,
+        "text": "ilayhi wajjih fil juyuushi fardakhaa"
+      },
+      {
+        "number": 40,
+        "text": "wa ra-sa kulli bin tiqaamikar dikhaa"
+      },
+      {
+        "number": 41,
+        "text": "duhaa-a mazluumin ghariibin sarakhaa"
+      },
+      {
+        "number": 42,
+        "text": "ismah wa sayyirhu fatan musarrakhaa"
+      },
+      {
+        "number": 43,
+        "text": "hazzib hazaaban daa-iman qad tiyyakhaa"
+      },
+      {
+        "number": 44,
+        "text": "man diinuhum diinun ghadan mutayyakhaa"
+      },
+      {
+        "number": 45,
+        "text": "ajib biman maazala laysan mifnakhaa"
+      },
+      {
+        "number": 46,
+        "text": "duhaa-a mazluumin khadiimin funikhaa"
+      },
+      {
+        "number": 47,
+        "text": "aatiika aatihi dawaaman wafqakhaa"
+      },
+      {
+        "number": 48,
+        "text": "ahdaa-ahu yaa khayra hadlin faqqakhaa"
+      },
+      {
+        "number": 49,
+        "text": "kawwin liman sayfal jihaadim tasakhaa"
+      },
+      {
+        "number": 50,
+        "text": "khayra salaatin bisalaamin rasakhaa"
+      },
+      {
+        "number": 51,
+        "text": "muhammadin man qultu fiihi bakh bakhaa"
+      },
+      {
+        "number": 52,
+        "text": "wal aali was sahbi wa kullii wa bikhaa"
+      }
+    ]
+  }
+}

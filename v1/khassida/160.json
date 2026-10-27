@@ -1,0 +1,220 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 160,
+    "name": "Shakawtu",
+    "transliterationName": "Shakawtu",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "شَكَوْتُ أُمُورِى وَذَنْبِى الْعَظِيمْ",
+        "transcription": "shakawtu umuuri wa zanbil haziim",
+        "translations": {
+          "fr": "Je me plains contre mes affaires et mon grand péché"
+        }
+      },
+      {
+        "number": 2,
+        "text": "لِرَبِّى الْقَدِيرِ الْغَفُورِ الْرَّحِيمْ",
+        "transcription": "lirabbil qadiiril ghafuurir rahiim",
+        "translations": {
+          "fr": "auprès de mon Seigneur le Miséricordieux et le Clément."
+        }
+      },
+      {
+        "number": 3,
+        "text": "فَكُنْ مُّشْكِيًا لِّى وَهَبْ لِى الْمُنَى",
+        "transcription": "fakun mushkiyan lii wa hab lil munaa",
+        "translations": {
+          "fr": "Accepte Seigneur ma repentance et exause mes voeux"
+        }
+      },
+      {
+        "number": 4,
+        "text": "بِجَاهِ النَّبِىِّ الشَّفِيعِ الْكَرِيمْ",
+        "transcription": "bijaahin nabiyyish shafiihil kariim",
+        "translations": {
+          "fr": "par la grâce du Grand Prophète, l'Intercepteur."
+        }
+      },
+      {
+        "number": 5,
+        "text": "وَصَلِّ عَلَيْهِ بِغَيْرِ انْتِهَآ",
+        "transcription": "wa salli halayhi bighayrin tihaa",
+        "translations": {
+          "fr": "Et prie sur Lui sans arrêt,"
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَسَلِّمْ سَلَامًا عَلَيْهِ يَدُومْ",
+        "transcription": "wa sallim salaaman halayhi yaduum",
+        "translations": {
+          "fr": "et accorde-Lui la paix et la bénédiction pour toujours."
+        }
+      },
+      {
+        "number": 7,
+        "text": "وَكُنْ لِّى وَلِيًّا هُنَا وَغَدًا",
+        "transcription": "wa kun lii waliyyan hunaa wa ghadan",
+        "translations": {
+          "fr": "Sois mon allié, ici (au bas-monde) et demain (l'au-dela),"
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَكُنْ لِّى نَصِيرًا فَإِنِّى عَدِيمْ",
+        "transcription": "wa kun lii nasiiran fa-innii hadiim",
+        "translations": {
+          "fr": "et sois mon secoureur car je suis inexistant."
+        }
+      },
+      {
+        "number": 9,
+        "text": "وَكُنْ بِى لَطِيفًا وَهَبْ لِى رِضًى",
+        "transcription": "wa kun bii latiifan wa hab lii ridan",
+        "translations": {
+          "fr": "Sois doux en mon égard et accorde-moi la bénédiction,"
+        }
+      },
+      {
+        "number": 10,
+        "text": "وَكُنْ لِّى غَفُورًا فَإِنِّى مُلِيمْ",
+        "transcription": "wa kun lii ghafuuran fa-innii muliim",
+        "translations": {
+          "fr": "et pardonne-moi car je suis blâmable."
+        }
+      },
+      {
+        "number": 11,
+        "text": "وَكُنْ لِّى مُعِينًا عَلَى مَطْلَبِى",
+        "transcription": "wa kun lii muhiinan halaa matlabii",
+        "translations": {
+          "fr": "Sois mon secours à ma demande,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "وَكُنْ مُّقْدِرًا لِّى فَإِنِّى سَئِمْ",
+        "transcription": "wa kun muqdiran lii fa-innii sa-im",
+        "translations": {
+          "fr": "sois mon destin car je suis pessimsiste."
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَهَبْ لِى صَلَاحًا وَهَبْ لِى تُقًى",
+        "transcription": "wa hab lii salaahan wa hab lii tuqan",
+        "translations": {
+          "fr": "Accorde-moi le bon et accorde-moi la piété."
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَنَوِّرْ جَنَانِى وَزِدْنِى عُلُومْ",
+        "transcription": "wa nawwir janaanii wa zidnii huluum",
+        "translations": {
+          "fr": "Illumine mon coeur et donne-moi les sciences."
+        }
+      },
+      {
+        "number": 15,
+        "text": "وَهَبْ لِى نَجَاةً وَزِدْنِى هُدًى",
+        "transcription": "wa hab lii najaatan wa zidnii hudan",
+        "translations": {
+          "fr": "Accorde-moi la vie sauve et renforce ma droiture."
+        }
+      },
+      {
+        "number": 16,
+        "text": "وَأَصْلِحْ أُمُورِى وَزِدْنِى نَعِيمْ",
+        "transcription": "wa aslih umuurii wa zidnii nahiim",
+        "translations": {
+          "fr": "Rends parfait mes affaires et ajoute-moi de la jouissance."
+        }
+      },
+      {
+        "number": 17,
+        "text": "وَأَخْرِجْ عُيُوبِى وَزِدْنِى عُلًى",
+        "transcription": "wa akhrij huyuubii wa zidnii hulan",
+        "translations": {
+          "fr": "Fais sortir mes vices et ajoute-moi l'élévation."
+        }
+      },
+      {
+        "number": 18,
+        "text": "وَأَبْرِاْ سَقَامِى وَفَرِّجْ غُمُومْ",
+        "transcription": "wa abri saqaamii wa farrij ghumuum",
+        "translations": {
+          "fr": "Gueris ma maladie et soulage mes angoisses."
+        }
+      },
+      {
+        "number": 19,
+        "text": "وَلَا تُخْزِيَّنِى قِنِى مَهْلُكًا",
+        "transcription": "walaa tukhziyyanii qinii mahlukan",
+        "translations": {
+          "fr": "Ne m'humilie pas, protège-moi contre la perte."
+        }
+      },
+      {
+        "number": 20,
+        "text": "وَلَا تُفْضِحَنِّى بِكُوْنِى لَئِمْ",
+        "transcription": "walaa tufdihanii bikawnii la-im",
+        "translations": {
+          "fr": "Ne me fais pas honte parce que je suis maladroit."
+        }
+      },
+      {
+        "number": 21,
+        "text": "فَإِنِّى لَئِمٌ أَسِيرُ الْهَوَى",
+        "transcription": "fa-innii la-imun asiirul hawaa",
+        "translations": {
+          "fr": "Je suis maladroit, esclave de plaisir"
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَعَاصٍ وَلَاكِنْ إِلَاهِى حَلِيمْ",
+        "transcription": "wa haasin wa laakin ilaahii haliim",
+        "translations": {
+          "fr": "et pécheur mais mon Seigneur est Clément."
+        }
+      },
+      {
+        "number": 23,
+        "text": "وَعَافِيَةً هَبْ هُنَا وَغَدًا",
+        "transcription": "wa haafiyatan hab hunaa wa ghadan",
+        "translations": {
+          "fr": "Accorde-moi la quiétude ici-bas et au-delà,"
+        }
+      },
+      {
+        "number": 24,
+        "text": "لَنَا وَلِمَنْ لِّهُدًى يَسْتَقِيمْ",
+        "transcription": "lanaa wa liman lihudan yastaqiim",
+        "translations": {
+          "fr": "pour moi et pour tous ceux qui suivent le droit chemin."
+        }
+      },
+      {
+        "number": 25,
+        "text": "وَصَلِّ صَلَاةً عَلَى الْمُصْطَفَى",
+        "transcription": "wa salli salaatan halal mustafaa",
+        "translations": {
+          "fr": "Prière et salut sur Moustapha"
+        }
+      },
+      {
+        "number": 26,
+        "text": "وَسَلِّمْ سَلَامًا عَلَيْهِ يَدُومْ",
+        "transcription": "wa sallim salaaman halayhi yaduum",
+        "translations": {
+          "fr": "et accorde-Lui une bénédiction éternelle."
+        }
+      }
+    ]
+  }
+}

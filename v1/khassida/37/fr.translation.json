@@ -1,0 +1,45 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 37,
+    "name": "Hamdi Wa Shukri",
+    "transliterationName": "Hamdi Wa Shukri",
+    "meter": "Rajas",
+    "edition": "fr.translation",
+    "verses": [
+      {
+        "number": 1,
+        "text": "Mes louanges et remerciements sont à CELUI pour qui,"
+      },
+      {
+        "number": 2,
+        "text": "mon intégralité est devenue satisfaction à Sarsara, sans courroux."
+      },
+      {
+        "number": 3,
+        "text": "IL LUI revient mes reconnaissances, sans courroux,"
+      },
+      {
+        "number": 4,
+        "text": "depuis qu'IL m'a amené des partisans parmi les <<Banou Dayman>>."
+      },
+      {
+        "number": 5,
+        "text": "Mon intégralité se dévoue à Dieu lors de mon séjour chez ces généreux"
+      },
+      {
+        "number": 6,
+        "text": "que nous avons quittés alors que affluaient les visiteurs."
+      },
+      {
+        "number": 7,
+        "text": "Ceux qui sont allés à Sarsara dans l'intention"
+      },
+      {
+        "number": 8,
+        "text": "de me rendre visite sont définitivement déchargés de leurs pêchés."
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 161,
+    "name": "Shakuru Rafihu",
+    "transliterationName": "Shakuru Rafihu",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "شُكْرِى لِرَبٍّ كَرِيمٍ كَانَ شَكَّارَا",
+        "transcription": "shukrii lirabbin kariimin kaana shakkaaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "وَأَرْتَجِى مِنْهُ فِى الدَّارَيْنِ أَبْكَارَا",
+        "transcription": "wa artajii minhu fid daarayni abkaaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "كَتَبْتُ شُكْرًا لَّهُ مَا قَدْ رَجَوْتُ بِهِ",
+        "transcription": "katabtu shukran lahu maa qad rajawtu bihi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "كَوْنِى سَعِدًا وَشَكَّارًا وَذَكَّارَا",
+        "transcription": "kawnii sahidan wa shakkaaran wa zakkaaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "وَجَّهْتُ وَجْهِىَ فِى شَهْرٍ النَّبِى سَنَدِى",
+        "transcription": "wajjahtu wajhiya fii shahrinin nabii sanadii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "لِىلْأَكْرِمِ الرَّافِعِ الْوَهَّابِ شَكَّارَا",
+        "transcription": "lil akrimir raafihil wahhaabi shakkaaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "رَجَوْتُ مِنْهُ تَعَالَى شُكْرَهُ عَمَلِى",
+        "transcription": "rajawtu minhu tahaalaa shukrahu hamalii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَرَفْعَهُ الْيَوْمَ عَنِّى نِعْمَ غَفَّارَا",
+        "transcription": "wa rafhahul yawma hannii nihma ghaffaaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "رَجَوْتُ أَنْ يَمْحُو الزَّلَّاتِ جُمْلَتَهَا",
+        "transcription": "rajawtu an yamhuz zalaati jumlatahaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "عَنِّى وَتَسْخِيرَهُ لِى الدَّهْرَ كُفَّارَا",
+        "transcription": "hannii wa tasjiirahu lid dahra kuffaaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "إِنِّى أُخَاطِبُهُ فِى الْبَحْرِ مُغْتَرِبًا",
+        "transcription": "innii ukhaatibuhu fil bahri mughtariban",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "وَلَمْ يَزَلْ جَلَّ قَهَّارًا وَجَبَّارَا",
+        "transcription": "wa lam yazal jalla qahhaaran wa jabbaaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "فَجَأْتَنِى رَبِّ بِالْئَالَالِ هَبْ لِىَ أَنْ",
+        "transcription": "faja-tanii rabbi bil aalaali hab liya an",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "أَعُودُ لِلْبَرِّ رُضْ لِى كُلَّ مَنْ بَارَى",
+        "transcription": "ahuudu lil barri rud lii kulla man baaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "عَلَى النَّبِى صَلِّ بِالتَّسْلِيمٍ بِالْكُرَمَآ",
+        "transcription": "halan nabii salli bit tasliimin bil kuramaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "وَارْفَعْ وَزِدْنِىَ بَعْدَ الرَّفْعِ أَبْكَارَا",
+        "transcription": "warfah wa zidniya bahdar rafhi abkaaraa",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "شُكْرِى لِرَبٍّ كَرِيمٍ كَانَ شَكَّارَا ۞ وَأَرْتَجِى مِنْهُ فِى الدَّارَيْنِ أَبْكَارَا",
+        "translations": {
+          "it.karamati": "La mia gratitudine va a un Signore Generoso che è sommamente Riconoscente (Shakkār), e da Lui spero di ottenere, nelle due dimore, favori sempre nuovi e puri.",
+          "en.karamati": "My gratitude is for a Generous Lord who is ever-Grateful (Shakkār), and from Him I hope, in the two abodes, for ever-new and pure favours.",
+          "fr.karamati": "Ma gratitude va à un Seigneur Généreux, qui est Très Reconnaissant (Shakkār), et j'espère de Lui, dans les deux demeures, des faveurs toujours neuves et pures."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "كَتَبْتُ شُكْرًا لَّهُ مَا قَدْ رَجَوْتُ بِهِ ۞ كَوْنِى سَعِدًا وَشَكَّارًا وَذَكَّارَا",
+        "translations": {
+          "it.karamati": "Ho scritto, in segno di gratitudine verso di Lui, ciò grazie al quale spero di essere felice, eternamente grato e assiduo nel Suo ricordo (Dhikr).",
+          "en.karamati": "I have written, in gratitude to Him, that through which I hope to be fortunate, grateful and ever mindful of Him (Dhikr).",
+          "fr.karamati": "J'ai écrit, en signe de gratitude envers Lui, ce par quoi j'espère être heureux, reconnaissant et assidu dans Son rappel (Dhikr)."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "وَجَّهْتُ وَجْهِىَ فِى شَهْرٍ النَّبِى سَنَدِى ۞ لِىلْأَكْرِمِ الرَّافِعِ الْوَهَّابِ شَكَّارَا",
+        "translations": {
+          "it.karamati": "Ho rivolto il mio volto, nel mese del Profeta mio sostegno, al Generosissimo, Colui che eleva i ranghi (Ar-Rāfi'), il Donatore supremo, con animo grato.",
+          "en.karamati": "I turned my face, in the month of the Prophet, my support, to the Most Generous, the Exalter (Ar-Rāfiʿ), the Bestower, in gratitude.",
+          "fr.karamati": "J'ai tourné ma face, durant le mois du Prophète, mon soutien, vers le Très Généreux, Celui qui élève (Ar-Rāfiʿ), le Grand Donateur, avec gratitude."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "رَجَوْتُ مِنْهُ تَعَالَى شُكْرَهُ عَمَلِى ۞ وَرَفْعَهُ الْيَوْمَ عَنِّى نِعْمَ غَفَّارَا",
+        "translations": {
+          "it.karamati": "Ho sperato da Lui — l'Altissimo — che gradisca e ricompensi la mia opera e che oggi stesso mi elevi; che eccellente Perdonatore Egli è!",
+          "en.karamati": "I hoped from Him, the Most High, that He would accept my work with gratitude and raise me today; what an excellent Forgiver!",
+          "fr.karamati": "J'ai espéré de Lui, le Très-Haut, qu'Il agrée mon œuvre avec reconnaissance et qu'Il m'élève aujourd'hui ; quel excellent Pardonneur !"
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "رَجَوْتُ أَنْ يَمْحُو الزَّلَّاتِ جُمْلَتَهَا ۞ عَنِّى وَتَسْخِيرَهُ لِى الدَّهْرَ كُفَّارَا",
+        "translations": {
+          "it.karamati": "Ho sperato che Egli cancelli da me tutte le mie mancanze nella loro totalità, e che assoggetti a me per sempre i miscredenti.",
+          "en.karamati": "I hoped that He would efface from me all my slips in their entirety, and subject to me the unbelievers forever.",
+          "fr.karamati": "J'ai espéré qu'Il efface de moi toutes mes fautes dans leur totalité, et qu'Il me soumette à jamais les mécréants."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "إِنِّى أُخَاطِبُهُ فِى الْبَحْرِ مُغْتَرِبًا ۞ وَلَمْ يَزَلْ جَلَّ قَهَّارًا وَجَبَّارَا",
+        "translations": {
+          "it.karamati": "In verità mi rivolgo a Lui in mezzo al mare mentre sono in esilio, ed Egli — sublime sia la Sua Maestà — non cessa di essere il Dominatore irresistibile (Qahhār) e l'Onnipotente che risana (Jabbār).",
+          "en.karamati": "Truly I address Him in the midst of the sea, in exile, and He, majestic is He, never ceases to be the Subduer (Qahhār) and the Compeller who restores (Jabbār).",
+          "fr.karamati": "En vérité, je m'adresse à Lui au milieu de la mer, en exil, et Il ne cesse d'être — que Sa Majesté soit exaltée — le Dominateur (Qahhār) et le Contraignant réparateur (Jabbār)."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "فَجَأْتَنِى رَبِّ بِالْئَالَالِ هَبْ لِىَ أَنْ ۞ أَعُودُ لِلْبَرِّ رُضْ لِى كُلَّ مَنْ بَارَى",
+        "translations": {
+          "it.karamati": "Mi hai sorpreso, o Signore, con grazie meravigliose: concedimi di fare ritorno sulla terraferma e piega a mio favore chiunque mi osteggi o competi con me.",
+          "en.karamati": "You surprised me, O Lord, with blessings; grant me that I return to dry land, and subdue for me whoever contends with me.",
+          "fr.karamati": "Tu m'as surpris, ô Seigneur, par des bienfaits ; accorde-moi de retourner à la terre ferme, et soumets-moi quiconque me rivalise ou me combat."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "عَلَى النَّبِى صَلِّ بِالتَّسْلِيمٍ بِالْكُرَمَآ ۞ وَارْفَعْ وَزِدْنِىَ بَعْدَ الرَّفْعِ أَبْكَارَا",
+        "translations": {
+          "it.karamati": "Sul Profeta riversa benedizione e pace, insieme ai suoi nobili familiari e Compagni, ed elevami e accrescimi, dopo tale elevazione, di doni vergini e mai visti prima.",
+          "en.karamati": "Send blessings and peace upon the Prophet, with the noble ones, and raise me, and increase me, after the raising, with ever-new gifts.",
+          "fr.karamati": "Sur le Prophète prie avec le salut, ainsi que sur ses nobles, et élève-moi et accrois-moi, après l'élévation, de faveurs toujours neuves."
+        }
+      }
+    ]
+  }
+}

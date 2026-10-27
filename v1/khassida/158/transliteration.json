@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 158,
+    "name": "Safaru Bamsashin",
+    "transliterationName": "Safaru Bamsashin",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "sahhahta lii rabbal bariyyatil badan"
+      },
+      {
+        "number": 2,
+        "text": "azhabta qablu man qalawnii bidadan"
+      },
+      {
+        "number": 3,
+        "text": "fadaytanii rabbi bisirrin wa halan"
+      },
+      {
+        "number": 4,
+        "text": "zahzahta hanniya hidaaka biwalan"
+      },
+      {
+        "number": 5,
+        "text": "rafahta maa zahara lii wa maa batan"
+      },
+      {
+        "number": 6,
+        "text": "minnii munnawiran bifadlin lil hatan"
+      },
+      {
+        "number": 7,
+        "text": "barakta lii fiiman jalaa wa mas takann"
+      },
+      {
+        "number": 8,
+        "text": "wa zaahirii wa baatinii fiika sakan"
+      },
+      {
+        "number": 9,
+        "text": "mallaktanii makhtarta lii yaa zaz zaman"
+      },
+      {
+        "number": 10,
+        "text": "wa kunta lii bilan tihaa-in bil aman"
+      },
+      {
+        "number": 11,
+        "text": "saqaytanii maa-a bighaybikaq taran"
+      },
+      {
+        "number": 12,
+        "text": "safadtta jumlata qulaatii biqaran"
+      },
+      {
+        "number": 13,
+        "text": "shahidtta lii bimaa kafaaniyal mihan"
+      },
+      {
+        "number": 14,
+        "text": "yaa man lifulkiya bifaydika shahan"
+      },
+      {
+        "number": 15,
+        "text": "jazabta lii sirran nafaa zawil fitan"
+      },
+      {
+        "number": 16,
+        "text": "bikhulafaa-a minhumul laysul khatan"
+      },
+      {
+        "number": 17,
+        "text": "nafahtanii bizil furuudi was sunan"
+      },
+      {
+        "number": 18,
+        "text": "was sahbi wal amlaaki hazzamtal minan"
+      },
+      {
+        "number": 19,
+        "text": "nabbahtanii azhabta hanniyal hazan"
+      },
+      {
+        "number": 20,
+        "text": "yaa man lahu minnin tahaa maa lit tazan"
+      },
+      {
+        "number": 21,
+        "text": "harabatil hidaa biman rabbii lahan"
+      },
+      {
+        "number": 22,
+        "text": "lighayri durrii wa haduwwii lam yuhan"
+      },
+      {
+        "number": 23,
+        "text": "tursii hanil amraadi sihhatul badan"
+      },
+      {
+        "number": 24,
+        "text": "wa dahha rabbii mujrijiyya bid dadan"
+      }
+    ]
+  }
+}

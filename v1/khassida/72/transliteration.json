@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "Lamyabdu",
+    "transliterationName": "Lamyabdu",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "lam yabdu mislul mustafaa muhammadi"
+      },
+      {
+        "number": 2,
+        "text": "sirran wa jahran fii baraayas samadi"
+      },
+      {
+        "number": 3,
+        "text": "madda lanal islaama wal kufra mahaa"
+      },
+      {
+        "number": 4,
+        "text": "wa bin nasiihati likullin samahaa"
+      },
+      {
+        "number": 5,
+        "text": "yaquudu biz zaahiri wal baatini man"
+      },
+      {
+        "number": 6,
+        "text": "ataahahu lil laahi fii kulli zaman"
+      },
+      {
+        "number": 7,
+        "text": "khidmatuhu hannil huyuubi azhabat"
+      },
+      {
+        "number": 8,
+        "text": "wa lis tiqaamatan wa safwan wahabat"
+      },
+      {
+        "number": 9,
+        "text": "lii baana kawnul mustafaa ra-iisaa"
+      },
+      {
+        "number": 10,
+        "text": "likulli man qad fuddiluu ru-uusaa"
+      },
+      {
+        "number": 11,
+        "text": "qul qadamaahu fawqa kulli raqabah"
+      },
+      {
+        "number": 12,
+        "text": "minhus tahaaral ghurru kulla manqabah"
+      },
+      {
+        "number": 13,
+        "text": "muhammadun misaaluhu lam yaati"
+      },
+      {
+        "number": 14,
+        "text": "fiimaa madaa wa abadan laa yaatii"
+      },
+      {
+        "number": 15,
+        "text": "sabata anna rabbanaa lam yuridi"
+      },
+      {
+        "number": 16,
+        "text": "mislan lahu famisluhu lam yaridi"
+      },
+      {
+        "number": 17,
+        "text": "lahus siyyaadatu lahul baraahah"
+      },
+      {
+        "number": 18,
+        "text": "yawma alastu wa ladash shafaahah"
+      },
+      {
+        "number": 19,
+        "text": "huwan nabiiyyu war rasuulu wal khaliil"
+      },
+      {
+        "number": 20,
+        "text": "wahwal habiibu wal imaamu wad daliil"
+      },
+      {
+        "number": 21,
+        "text": "barra-ahul badiihu min ghayri jamaal"
+      },
+      {
+        "number": 22,
+        "text": "wa saanahul qudduusu han ghayri kamaal"
+      },
+      {
+        "number": 23,
+        "text": "kawnun nabiyyil muntaqaa muhammadi"
+      },
+      {
+        "number": 24,
+        "text": "khayral waral mukhtaara hindas samadi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 45,
+    "name": "Ilaa Nabiyyin",
+    "transliterationName": "Ilaa Nabiyyin",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "ilaa nabiyyin rasuulin jaa-anaa bihudaa"
+      },
+      {
+        "number": 2,
+        "text": "muzih tadaa bikitaabin jaabihi fahadaa"
+      },
+      {
+        "number": 3,
+        "text": "abqaa tahaayaa bilaa ghishin walaa kadarin"
+      },
+      {
+        "number": 4,
+        "text": "minal khadiimil lazii yanhuuhu multahadaa"
+      },
+      {
+        "number": 5,
+        "text": "li-aalihil ghurri wal as-haabi qaatibatan"
+      },
+      {
+        "number": 6,
+        "text": "minnii salaamun yudiimul amna war raghadaa"
+      },
+      {
+        "number": 7,
+        "text": "yaa sayyidii yaa rasuulal laahi yaa amalii"
+      },
+      {
+        "number": 8,
+        "text": "sallaa halaykal lazii qassal lazii maradaa"
+      },
+      {
+        "number": 9,
+        "text": "yaa muntaqaa yaa imaamal mursaliina mahan"
+      },
+      {
+        "number": 10,
+        "text": "halayka tasliimu man saffaa bikal khaladaa"
+      },
+      {
+        "number": 11,
+        "text": "sallaa halayka bitasliimin bilaa hadadin"
+      },
+      {
+        "number": 12,
+        "text": "man lam yakun qattu mawluudan wa lam yalidaa"
+      },
+      {
+        "number": 13,
+        "text": "sallaa wa sallama baaqin laa shariika lahu"
+      },
+      {
+        "number": 14,
+        "text": "halayka bil aali yaa man zahzahal fanadaa"
+      },
+      {
+        "number": 15,
+        "text": "sallaa wa sallamaa baaqin laa nafaada lahu"
+      },
+      {
+        "number": 16,
+        "text": "halayka bis sahbi yaa man qarrabar rashadaa"
+      },
+      {
+        "number": 17,
+        "text": "ahlul madiinati minnii sarmadan lakumu"
+      },
+      {
+        "number": 18,
+        "text": "abqaa salaamin yutiibul qalba wal jasadaa"
+      },
+      {
+        "number": 19,
+        "text": "laa ziltumud dahra fii sawfin wa tawsihatin"
+      },
+      {
+        "number": 20,
+        "text": "yakfiikumul laahu lil jannaati man hanadaa"
+      },
+      {
+        "number": 21,
+        "text": "fuztum bikawnibni habdil laahi jaarakumu"
+      },
+      {
+        "number": 22,
+        "text": "wa kawnakum hawlahu faltahmadus samadaa"
+      },
+      {
+        "number": 23,
+        "text": "sallaa halayhil lazii yanfil hidaa abadan"
+      },
+      {
+        "number": 24,
+        "text": "ilaa siwaa man nahaahud dahra multahadaa"
+      },
+      {
+        "number": 25,
+        "text": "tasurruhu min hayaatii khidmatun qubilat"
+      },
+      {
+        "number": 26,
+        "text": "minnii bifadlil lazii ahdaa bihi fahadaa"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1554 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "Mawahibu 2",
+    "transliterationName": "Mawahibu 2",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "لَكَ امْتِدَاحِى يَاذَا الصَّلَاحِ",
+        "transcription": "lakam tidaahii yaa zas salaahi",
+        "translations": {
+          "fr": "Je te dédie mes louanges, Ô Détenteur de la Bonté"
+        }
+      },
+      {
+        "number": 2,
+        "text": "يَاذَا الْفَلَاحِ يَاذَا الْغِنَآءِ",
+        "transcription": "yaa zal falaahi yaa zal ghinaa-i",
+        "translations": {
+          "fr": "et de la Félicité ! Ô Toi le Riche!"
+        }
+      },
+      {
+        "number": 3,
+        "text": "فِيكَ أُنَادِى كُلَّ الْبِلَادِ",
+        "transcription": "fiika unaadii kullal bilaadi",
+        "translations": {
+          "fr": "A travers ta Personne je convie tous les peuples vers DIEU"
+        }
+      },
+      {
+        "number": 4,
+        "text": "لِذِى الْعِبَادِ بَانِى الْغِمَآءِ",
+        "transcription": "lizil hibaadi baanil ghimaa-i",
+        "translations": {
+          "fr": "à qui appartient tous les serviteurs et qui génère tout essor."
+        }
+      },
+      {
+        "number": 5,
+        "text": "فِيكَ مَحَوْتُ مَا قَدْ جَنَيْتُ",
+        "transcription": "fiika mahawtu maa qad janaytu",
+        "translations": {
+          "fr": "C'est grâce à Toi que j'ai à jamais effacé mes erreurs"
+        }
+      },
+      {
+        "number": 6,
+        "text": "فِيكَ ابْتَغَيْتُ خَيْرَ نَمَآءِ",
+        "transcription": "fiikab taghaytu khayra namaa-i",
+        "translations": {
+          "fr": "et c'est à travers Toi que je cherche la meilleure élévation."
+        }
+      },
+      {
+        "number": 7,
+        "text": "فِيكَ ذَهَابِى فِيكَ إِيَابِى",
+        "transcription": "fiika zahaabii fiika iyaabii",
+        "translations": {
+          "fr": "C'est par ta grâce, Toi de qui je me réclame, que DIEU repousse les maux loin de ma personne"
+        }
+      },
+      {
+        "number": 8,
+        "text": "بِلَا اغْتِرَابِ لَكَ انْتِمَآئِى",
+        "transcription": "bilagh tiraabi lakan timaa-ii",
+        "translations": {
+          "fr": "et qu'Il attire les Bienfaits vers moi sans que j'aie besoin d'émigrer."
+        }
+      },
+      {
+        "number": 9,
+        "text": "زَحْزَحْتَ عَابِى حُطْتَ جَنَابِى",
+        "transcription": "zahzahta haabii hut-ta janaabii",
+        "translations": {
+          "fr": "Tu as supprimé mes imperfections et préservé mon entourage"
+        }
+      },
+      {
+        "number": 10,
+        "text": "بِلَا كَئَابِ وَلَا هَبَآءِ",
+        "transcription": "bilaa ka-aabi walaa habaa-i",
+        "translations": {
+          "fr": "sans aucune affliction ou dépérissement."
+        }
+      },
+      {
+        "number": 11,
+        "text": "يَاخَيْرَ مَاحِ  مَحَا جُنَاحِى",
+        "transcription": "yaa khayra maahi mahaa junaahii",
+        "translations": {
+          "fr": "Ô Toi qui effaces comme nul autre les errements ! Tu as effacé de mon coeur tout penchant [vers autre chose que le bien]"
+        }
+      },
+      {
+        "number": 12,
+        "text": "مَعَ الْمِزَاحِ وَقْتَ الصَّبَآءِ",
+        "transcription": "mahal mizaahi waqtas sabaa-i",
+        "translations": {
+          "fr": "et m'as préservé des facéties de la jeunesse."
+        }
+      },
+      {
+        "number": 13,
+        "text": "أَنْتَ حَبِيبِى يَامَنْ حُبِى بِى",
+        "transcription": "anta habiibii yaa man hubii bii",
+        "translations": {
+          "fr": "Tu es mon Bien-aimé, Toi que l'on aime à travers ma personne"
+        }
+      },
+      {
+        "number": 14,
+        "text": "بِلَا عُيُوبِ وَلَا سِبَآءِ",
+        "transcription": "bilaa huyuubi walaa sibaa-i",
+        "translations": {
+          "fr": "sans malfaçon ou subordination."
+        }
+      },
+      {
+        "number": 15,
+        "text": "يَاخَيْرَ وَاعِ  يَاخَيْرَ رَاعِ",
+        "transcription": "yaa khayra waahi yaa khayra raahi",
+        "translations": {
+          "fr": "Ô le Plus Vigilant des Pîtres!"
+        }
+      },
+      {
+        "number": 16,
+        "text": "يَاخَيْرَ دَاعِ لِذِى السَّمَآءِ",
+        "transcription": "yaa khayra daahi lizis samaa-i",
+        "translations": {
+          "fr": "Le Meilleur de ceux qui appellent vers DIEU, le MAITRE des Cieux..."
+        }
+      },
+      {
+        "number": 17,
+        "text": "صَلَّى عَلَيْكَا بِمَنْ لَّدَيْكَا",
+        "transcription": "sallaa halaykaa biman ladaykaa",
+        "translations": {
+          "fr": "Puisse le SEIGNEUR qui fit ton éloge lors des jets de flèches t'accorder la Paix"
+        }
+      },
+      {
+        "number": 18,
+        "text": "مُثْنٍ عَلَيْكَا عِنْدَ الرِّمَآءِ",
+        "transcription": "musnin halaykaa hindar rimaa-i",
+        "translations": {
+          "fr": "au même titre que ceux qui furent avec Toi..."
+        }
+      },
+      {
+        "number": 19,
+        "text": "عَلَيْكَ سَلَّمْ دأْبً وَكَرَّمْ",
+        "transcription": "halayka sallam da-ban wa karram",
+        "translations": {
+          "fr": "Puisse le SEIGNEUR qui honora, grâce à Toi, l'Auguste Assemblée des élus,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "مَنْ بِكَ عَظَّمْ أَهْلَ اعْتِمَآءِ",
+        "transcription": "man bika hazzam ahlah timaa-i",
+        "translations": {
+          "fr": "t'accorder à jamais le Salut et l'Honorabilité."
+        }
+      },
+      {
+        "number": 21,
+        "text": "بِكَ أَقُودُ بِكَ أُفِيدُ",
+        "transcription": "bika aquudu bika ufiidu",
+        "translations": {
+          "fr": "C'est par ta grâce que je guide [les miens] et c'est à travers toi que je génère du profit en leur faveur,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "يَامَنْ يَسُودُ ذَوِى اصْطِفَآءِ",
+        "transcription": "yaa man yasuudu zawis tifaa-i",
+        "translations": {
+          "fr": "Ô Toi qui surpasses tous les élus!"
+        }
+      },
+      {
+        "number": 23,
+        "text": "ذَوِى الْعُقُولِ نَهْجَ الرَّسُولِ",
+        "transcription": "zawil huquuli nahjar rasuuli",
+        "translations": {
+          "fr": "Ces élus qui firent preuve d'une belle clairvoyance envers la Voie du Prophète,"
+        }
+      },
+      {
+        "number": 24,
+        "text": "مَاحِى الْغُفُولِ  مَاحِى الْخَفَآءِ",
+        "transcription": "maahil ghufuuli maahil khafaa-i",
+        "translations": {
+          "fr": "Celui qui guérit de la négligence et estompe les ténèbres."
+        }
+      },
+      {
+        "number": 25,
+        "text": "ذَوِى الذَّكَاءِ لِذِى الْبَهَآءِ",
+        "transcription": "zawiz zakaa-i lizil bahaa-i",
+        "translations": {
+          "fr": "Ils ont assurément fait montre de perspicacité à l'égard du Messager"
+        }
+      },
+      {
+        "number": 26,
+        "text": "مَاحِى الْخَطَاءِ مَاحِى الْجَفَآءِ",
+        "transcription": "maahil khataa-i maahil jafaa-i",
+        "translations": {
+          "fr": "doté de la Splendeur qui a mis à bas l'erreur et la tyrannie..."
+        }
+      },
+      {
+        "number": 27,
+        "text": "ذَاكَ الْمُطَاعُ ذَاكَ الشُّجَاعُ",
+        "transcription": "zaakal mutaahu zaakash shujaahu",
+        "translations": {
+          "fr": "Il constitue le Maître à qui l'on obéit et le Vaillant Combattant"
+        }
+      },
+      {
+        "number": 28,
+        "text": "بِهِ يُرَاعُ ذَوُو الْإِبَآءِ",
+        "transcription": "bihi yuraahu zawul ibaa-i",
+        "translations": {
+          "fr": "que craignent les [mécréants] qui récusent la Vérité..."
+        }
+      },
+      {
+        "number": 29,
+        "text": "ذَاكَ الْوَلِىُّ ذَاكَ النَّجِىُّ",
+        "transcription": "zaakal waliyyu zaakan najiyyu",
+        "translations": {
+          "fr": "Il constitue le Maître à qui le SEIGNEUR s'est adressé, c'est le Serviteur doté de la Pureté"
+        }
+      },
+      {
+        "number": 30,
+        "text": "ذَاكَ الصَّفِىُّ ذُو الْإِجْتِبَآءِ",
+        "transcription": "zaakas safiyyu zul ijtibaa-i",
+        "translations": {
+          "fr": "et qui fut nanti de la Préférence Divine."
+        }
+      },
+      {
+        "number": 31,
+        "text": "ذَاكَ الْحَسِيبُ ذَاكَ النَّسِيبُ",
+        "transcription": "zaakal hasiibu zaakan nasiibu",
+        "translations": {
+          "fr": "C'est le Noble doté d'une auguste ascendance"
+        }
+      },
+      {
+        "number": 32,
+        "text": "ذَاكَ الْعَجِيبُ بَادِى الْحِبَآءِ",
+        "transcription": "zaakal hajiibu baadil hibaa-i",
+        "translations": {
+          "fr": "et l'être Fabuleux à la générosité légendaire."
+        }
+      },
+      {
+        "number": 33,
+        "text": "وَهْوَ النَّفِيسُ فَلَا تَقِيسُواْ",
+        "transcription": "wahwan nafiisu falaa taqiisuu",
+        "translations": {
+          "fr": "Il est l'Inestimable que l'on ne peut comparer à personne"
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَهْوَ الرَّئِيسُ لِلَانْبِيَآءِ",
+        "transcription": "wahwar ra-iisu lilanbiyaa-i",
+        "translations": {
+          "fr": "et le Dirigeant incontesté de l'Assemblée des Prophètes."
+        }
+      },
+      {
+        "number": 35,
+        "text": "شَمْسُ الشُّمُوسِ رَأْسُ الرُّؤُوسِ",
+        "transcription": "shamsush shumuusi ra-sur ru-uusi",
+        "translations": {
+          "fr": "Il constitue le Soleil des soleils, le Suprême Chef de tous les chefs"
+        }
+      },
+      {
+        "number": 36,
+        "text": "خَيْرُ الْأَنِيسِ لِلَاوْلِيَاءِ",
+        "transcription": "khayrul aniisi lilawliyaa-i",
+        "translations": {
+          "fr": "et le meilleur Compagnon pour les Saints."
+        }
+      },
+      {
+        "number": 37,
+        "text": "شِفَا الصُّدُورِ ضِيَاءُ الدُّورِ",
+        "transcription": "shifas suduuri diyaa-ud duuri",
+        "translations": {
+          "fr": "C'est le Remède des coeurs, la Lumière qui illumine les demeures,"
+        }
+      },
+      {
+        "number": 38,
+        "text": "بَدْرُ الْبُدُورِ بَادِى الضِّيَآءِ",
+        "transcription": "badrul buduuri baadid diyaa-i",
+        "translations": {
+          "fr": "la Pleine Lune au firmament et à la clarté éclatante."
+        }
+      },
+      {
+        "number": 39,
+        "text": "غَيْثُ شَكُورِ لَيْثُ كَفُورِ",
+        "transcription": "ghaysu shakuuri laysu kafuuri",
+        "translations": {
+          "fr": "C'est l'Asile des serviteurs reconnaissants à DIEU mais qui constitue un Lion implacable envers l'infidèle"
+        }
+      },
+      {
+        "number": 40,
+        "text": "نَافِى نَفُورِ مُبْدِى قَلَآءِ",
+        "transcription": "naafii nafuuri mubdii qalaa-i",
+        "translations": {
+          "fr": "et qui chasse le rebelle débordant de haine."
+        }
+      },
+      {
+        "number": 41,
+        "text": "جَنَّاتُ هَادِ نِيرَانُ عَادِ",
+        "transcription": "jannaatu haadi niiraanu haadi",
+        "translations": {
+          "fr": "Il symbolise à la fois l'Eden pour tout serviteur bien-guidé et l'Enfer envers les transgresseurs,"
+        }
+      },
+      {
+        "number": 42,
+        "text": "فَالْفَضْلُ بَادِ لِلْعُقَلَآءِ",
+        "transcription": "fal fadlu baadi lil huqalaa-i",
+        "translations": {
+          "fr": "Lui dont la Primauté s'avère indubitable aux yeux de tout homme doué d'intelligence."
+        }
+      },
+      {
+        "number": 43,
+        "text": "مَاحِى الْخَطَايَا بَادِ الْعَطَايَا",
+        "transcription": "maahil khataayaa baadil hataayaa",
+        "translations": {
+          "fr": "Lui qui réhabilite les fautes, qui est pourvu en Dons Insignes"
+        }
+      },
+      {
+        "number": 44,
+        "text": "هَادِى الْبَرَايَا بِلَا غَلَاءِ",
+        "transcription": "haadil baraayaa bilaa ghalaa-i",
+        "translations": {
+          "fr": "et qui guide les créatures en dehors de tout excès."
+        }
+      },
+      {
+        "number": 45,
+        "text": "لَهُ الْبَرَاعَهْ لَهُ الشَّفَاعَهْ",
+        "transcription": "lahul baraahah lahush shafaahah",
+        "translations": {
+          "fr": "La Précellence et le Pouvoir d'Intercession lui sont dévolus,"
+        }
+      },
+      {
+        "number": 46,
+        "text": "لَهُ الْجَمَاعَهْ حَاوِى ارْتِقَآءِ",
+        "transcription": "lahul jamaahah haawir tiqaa-i",
+        "translations": {
+          "fr": "Lui à qui l'on doit les assemblées cultuelles et qui bénéficie de la Prééminence."
+        }
+      },
+      {
+        "number": 47,
+        "text": "إِنْ رَامَ عِلْمًا أَوْ رَامَ غُنْمًا",
+        "transcription": "in raama hilman aw raama ghunman",
+        "translations": {
+          "fr": "Si jamais il lui advient une personne en quête de la connaissance,"
+        }
+      },
+      {
+        "number": 48,
+        "text": "أَوْ رَامَ ظُلْمًا بَاغِى اللِّقَآءِ",
+        "transcription": "aw raama zulman baaghil liqaa-i",
+        "translations": {
+          "fr": "une autre qui recherche la fortune et une dernière avec des visées hostiles..."
+        }
+      },
+      {
+        "number": 49,
+        "text": "فَذَاكَ يُهْدَى وَذَاكَ يُهْدَى",
+        "transcription": "fazaaka yuhdaa wa zaaka yuhdaa",
+        "translations": {
+          "fr": "La première sera assurément bien-guidée, la seconde comblée de dons"
+        }
+      },
+      {
+        "number": 50,
+        "text": "لَهُ وَيُرْدَى ذَا بِشَقَآءِ",
+        "transcription": "lahu wa yurdaa zaa bishaqaa-i",
+        "translations": {
+          "fr": "alors que la dernière causera sa propre perte et son malheur."
+        }
+      },
+      {
+        "number": 51,
+        "text": "هَادٍ مُّجِيرُ نُورٌ مُّنِيرُ",
+        "transcription": "haadin mujiiru nuurun muniiru",
+        "translations": {
+          "fr": "C'est le Guide qui préserve du malheur, c'est la Lumière qui éclaire la Voie de DIEU,"
+        }
+      },
+      {
+        "number": 52,
+        "text": "غَيْثٌ بَشِيرُ لِذِى اهْتِدَآءِ",
+        "transcription": "ghaysun bashiiru lizih tidaa-i",
+        "translations": {
+          "fr": "Celui qui mène vers le Salut et qui annonça les Bonnes Nouvelles de l'Au-delà aux Gens de la Droiture."
+        }
+      },
+      {
+        "number": 53,
+        "text": "حَامٍ نَّصِيرُ دَاعٍ بَصِيرُ",
+        "transcription": "haamin nasiiru daahin basiiru",
+        "translations": {
+          "fr": "C'est le Défenseur qui assiste ses partisans, le Héraut doté de Clairvoyance"
+        }
+      },
+      {
+        "number": 54,
+        "text": "لَيْثٌ نَّذِيرُ لِذِى اعْتِدَآءِ",
+        "transcription": "laysun naziiru lizih tidaa-i",
+        "translations": {
+          "fr": "et le Lion inflexible qui a averti les rebelles des périls de l'Au-delà."
+        }
+      },
+      {
+        "number": 55,
+        "text": "مُشْكٍ لِّشَاكٍ بِشْرٌ لِّبَاكٍ",
+        "transcription": "mushkin lishaakin bishrun libaakin",
+        "translations": {
+          "fr": "Ne manquant jamais de combler les plaignants,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "مُصْغٍ لِحَاكٍ وَذِى نِدَآءِ",
+        "transcription": "musghin lihaakin wa zii nidaa-i",
+        "translations": {
+          "fr": "Il est le Consolateur des affligés qui écoute avec complaisance les requêtes des demandeurs et des indigents."
+        }
+      },
+      {
+        "number": 57,
+        "text": "مُنْجٍ لِسَالِكْ مَنْجًى لِنَاسِكْ",
+        "transcription": "munjin lisaalik manjan linaasik",
+        "translations": {
+          "fr": "Il assure la sauvegarde du serviteur engagé dans la Voie de DIEU,"
+        }
+      },
+      {
+        "number": 58,
+        "text": "جَالِى حَوَالِكْ عَنْ ذِى اتِّقَآءِ",
+        "transcription": "jaalii hawaalik han zit tiqaa-i",
+        "translations": {
+          "fr": "procure asile à l'adorateur et dissipe les ténèbres devant le pieux serviteur craignant DIEU."
+        }
+      },
+      {
+        "number": 59,
+        "text": "غُنْمُ فَقِيرَ جَبْرُ كَسِيرَ",
+        "transcription": "ghunmu faqiira jabru kasiira",
+        "translations": {
+          "fr": "Fortune du pauvre, Consolateur des êtres faibles et brisés,"
+        }
+      },
+      {
+        "number": 60,
+        "text": "صِيتُ حَقِيرَ بَاغِى وِقَآءِ",
+        "transcription": "siitu haqiira baaghii wiqaa-i",
+        "translations": {
+          "fr": "c'est le Recours des miséreux en quête d'asile."
+        }
+      },
+      {
+        "number": 61,
+        "text": "وَهْوَ الْجَلِىُّ وَهْوَ الْخَفِىُّ",
+        "transcription": "wahwal jaliyyu wahwal khafiyyu",
+        "translations": {
+          "fr": "Il Lui revient une Réalité Apparente et une autre Occultée,"
+        }
+      },
+      {
+        "number": 62,
+        "text": "وَهْوَ النَّجِىُّ لِذِى الْبَقَآءِ",
+        "transcription": "wahwan najiyyu lizil baqaa-i",
+        "translations": {
+          "fr": "Lui qui constitue l'Interlocuteur à qui s'adressa l'ÉTERNEL."
+        }
+      },
+      {
+        "number": 63,
+        "text": "لَهُ الْخِطَابُ لَهُ الْجَوَابُ",
+        "transcription": "lahul khitaabu lahul jawaabu",
+        "translations": {
+          "fr": "Il eut le Privilége de dialoguer avec Son SEIGNEUR"
+        }
+      },
+      {
+        "number": 64,
+        "text": "لَهُ الصَّوَابُ مَعَ الرِّضَآءِ",
+        "transcription": "lahus sawaabu mahar ridaa-i",
+        "translations": {
+          "fr": "ayant obtenu Sa Rétribution et Son Agrément."
+        }
+      },
+      {
+        "number": 65,
+        "text": "لَهُ الْبُرُورُ لَهُ السُّرُورُ",
+        "transcription": "lahul buruuru lahus suruuru",
+        "translations": {
+          "fr": "Il Lui revient des oeuvres pies et des sujets de réjouissance;"
+        }
+      },
+      {
+        "number": 66,
+        "text": "تَلْقَاهُ حُورُ بَعْدَ الْقَضَآءِ",
+        "transcription": "talqaahu huuru bahdal qadaa-i",
+        "translations": {
+          "fr": "les Houris L'accueilleront au terme de l'existence..."
+        }
+      },
+      {
+        "number": 67,
+        "text": "لَهُ الْخِطَابِى بَعْدَ مَتَابِى",
+        "transcription": "lahul khitaabii bahda mataabii",
+        "translations": {
+          "fr": "A Lui je m'adresse en ce jour"
+        }
+      },
+      {
+        "number": 68,
+        "text": "مِنْ كُلِّ عَابِ مَعَ الْمَضَآءِ",
+        "transcription": "min kulli haabi mahal madaa-i",
+        "translations": {
+          "fr": "aprés avoir résolument fait acte de repentance pour toute imperfection."
+        }
+      },
+      {
+        "number": 69,
+        "text": "لَكَ خَوَارِقْ مِنْ ذِى الْخَلَآئِقْ",
+        "transcription": "laka khawaariq min zil khalaa-iq",
+        "translations": {
+          "fr": "Il Te revient [Ô Messager!] des Miracles provenant de DIEU, le MAITRE des créatures,"
+        }
+      },
+      {
+        "number": 70,
+        "text": "لَيْسَتْ لِسَابِقْ وَلَا لِجَآءِ",
+        "transcription": "laysat lisaabiq walaa lijaa-i",
+        "translations": {
+          "fr": "qui n'ont jamais été accordés à ceux qui t'ont précédé ou succédé."
+        }
+      },
+      {
+        "number": 71,
+        "text": "مِنْهَا انْصِرَافُ شَىْءٍ يُعَافُ",
+        "transcription": "minhan siraafu shay-in yahaafu",
+        "translations": {
+          "fr": "En fait partie ta faculté de détourner un mal du serviteur"
+        }
+      },
+      {
+        "number": 72,
+        "text": "عَمَّنْ يَخَافُ بَعْدَ الْتِجَآءِ",
+        "transcription": "hamman yakhaafu bahdal tijaa-i",
+        "translations": {
+          "fr": "qui le redoute lorsqu'il invoque DIEU par Ta grâce."
+        }
+      },
+      {
+        "number": 73,
+        "text": "خَيْرَ الْبَرَايَا ذُدْتَّ الْبَلَايَا",
+        "transcription": "khayral baraayaa zudttal balaayaa",
+        "translations": {
+          "fr": "Ô Toi la Meilleure Créature qui [de ma personne] repoussa les calamités"
+        }
+      },
+      {
+        "number": 74,
+        "text": "لِذِى الْخَطَايَا رُمْتَ نَجَآئِى",
+        "transcription": "lizil khataayaa rumta najaa-ii",
+        "translations": {
+          "fr": "vers [les transgresseurs] qui pataugent dans l'erreur! Tu as assuré mon salut..."
+        }
+      },
+      {
+        "number": 75,
+        "text": "أَنْتَ الْكَرِيمُ أَنَا الْخَدِيمُ",
+        "transcription": "antal kariimu anal khadiimu",
+        "translations": {
+          "fr": "Tu es le Maître Noble et Généreux dont je suis le Serviteur,"
+        }
+      },
+      {
+        "number": 76,
+        "text": "دَهْرًا أُدِيمُ فِيكَ ثَنَآئِى",
+        "transcription": "dahran udiimu fiika sanaa-ii",
+        "translations": {
+          "fr": "aussi me consacrerai-je à jamais à chanter tes Louanges..."
+        }
+      },
+      {
+        "number": 77,
+        "text": "رُمْتُ امْتِدَاحَا يُعْطِى فَلَاحَا",
+        "transcription": "rumtum tidaahaa yuhtii falaahaa",
+        "translations": {
+          "fr": "Je t'ai dédié des panégyriques qui ménent vers la félicité"
+        }
+      },
+      {
+        "number": 78,
+        "text": "يَكْفِى افْتِضَاحَا مَعَ الْعَنَآءِ",
+        "transcription": "yakfif tidaahaa mahal hanaa-i",
+        "translations": {
+          "fr": "et qui préservent de l'humiliation et de la peine."
+        }
+      },
+      {
+        "number": 79,
+        "text": "إِنِّى بِمَدْحِى عَايَنْتُ رِبْحِى",
+        "transcription": "innii bimadhii haayantu ribhii",
+        "translations": {
+          "fr": "J'ai été ainsi gratifié, grâce à tes louanges, d'un Bénéfice certain"
+        }
+      },
+      {
+        "number": 80,
+        "text": "قَطْعًا وَنُجْحِى مَعَ الْبِنَآءِ",
+        "transcription": "qat-han wa nujhii mahal binaa-i",
+        "translations": {
+          "fr": "et de la Réussite au même titre que l'édifice que j'ai bâti."
+        }
+      },
+      {
+        "number": 81,
+        "text": "لَاكِنْ عَجَزْتُ عَمَّا الْتَمَسْتُ",
+        "transcription": "laakin hajaztu hammal tamastu",
+        "translations": {
+          "fr": "Je me sens toutefois incapable d'accomplir parfaitement cette tâche;"
+        }
+      },
+      {
+        "number": 82,
+        "text": "وَمَا مَدَحْتُ كَالنُّبَلَآءِ",
+        "transcription": "wa maa madahtu kan nubalaa-i",
+        "translations": {
+          "fr": "pourrais-je jamais chanter comme il se doit [le Prophète] à l'instar des virtuoses en poèsie?"
+        }
+      },
+      {
+        "number": 83,
+        "text": "غَارَ مِدَادِى حَارَ فُؤَادِى",
+        "transcription": "ghaara midadii haara fu-aadii",
+        "translations": {
+          "fr": "Mon encre s'est tarie et mon coeur désemparé,"
+        }
+      },
+      {
+        "number": 84,
+        "text": "عَنْ مَّدْحِ هَادِ لِلْبُدَلَآءِ",
+        "transcription": "han madhi haadi lil budalaa-i",
+        "translations": {
+          "fr": "ne pouvant louer comme il sied le Guide des Califes Orthodoxes..."
+        }
+      },
+      {
+        "number": 85,
+        "text": "فَكَيْفَ أَحْوِى مَدْحًا لِمُحْيِى",
+        "transcription": "fakayfa ahwii madhan limuh-yii",
+        "translations": {
+          "fr": "Comment arriverai-je d'ailleurs à chanter assez bien ce Vivificateur"
+        }
+      },
+      {
+        "number": 86,
+        "text": "وَالْمَدْحُ مُعْىِ لِلْعُقَلَآءِ",
+        "transcription": "wal madhu muh-yi lil huqalaa-i",
+        "translations": {
+          "fr": "dont même les hommes les plus sagaces n'ont jamais réussi à faire convenablement la louange?"
+        }
+      },
+      {
+        "number": 87,
+        "text": "لَاكِنْ أُنَادِى كُلَّ الْعِبَادِ",
+        "transcription": "laakin unaadii kullal hibaadi",
+        "translations": {
+          "fr": "Aussi vais-je lancer un appel à tous les serviteurs de DIEU"
+        }
+      },
+      {
+        "number": 88,
+        "text": "إِلَى عِمَادِى بِلَا جَلَآءِ",
+        "transcription": "ilaa himaadii bilaa jalaa-i",
+        "translations": {
+          "fr": "pour les convier vers le Prophète, ce Pilier inébranlable..."
+        }
+      },
+      {
+        "number": 89,
+        "text": "يَا أَهْلَ بَرِّ يَا أَهْلَ بَحْرِ",
+        "transcription": "yaa ahla barri yaa ahla bahri",
+        "translations": {
+          "fr": "Ô Peuples des terres et des mers! Accourez sans tarder vers le Vertueux,"
+        }
+      },
+      {
+        "number": 90,
+        "text": "عُوجُواْ لِبَرِّ بَحْرِ السَّخَآءِ",
+        "transcription": "huujuu libarri bahris sakhaa-i",
+        "translations": {
+          "fr": "hâtez-vous toué vers l'Océan de Générosité!"
+        }
+      },
+      {
+        "number": 91,
+        "text": "مَاحِى عُيُوبِى مُبْدِى غُيُوبِى",
+        "transcription": "maahii huyuubii mubdii ghuyuubii",
+        "translations": {
+          "fr": "Lui qui a effacé mes carences, m'a enseigné les Mystères Occultés"
+        }
+      },
+      {
+        "number": 92,
+        "text": "مُنْقِى جُيُوبِى مِنَ الطَّخَآءِ",
+        "transcription": "munqii juyuubii minat takhaa-i",
+        "translations": {
+          "fr": "et a purifié mon coeur de toute ternissure."
+        }
+      },
+      {
+        "number": 93,
+        "text": "مُسْدِى أَيَادِى مُرْدِى أَعَادِى",
+        "transcription": "musdii ayaadii murdii ahaadii",
+        "translations": {
+          "fr": "Lui qui a dirigé les Bienfaits vers moi, a décimé le camp ennemi"
+        }
+      },
+      {
+        "number": 94,
+        "text": "مُعْطِى مُرَادِى مَعَ الرَّخَآءِ",
+        "transcription": "muhtii muraadii mahar rakhaa-i",
+        "translations": {
+          "fr": "et réalisé mes voeux en m'assurant la prospérité."
+        }
+      },
+      {
+        "number": 95,
+        "text": "مَاحِى الرَّذَآئِلْ مُعْطِى الْفَضَآئِلْ",
+        "transcription": "maahir razaa-il muhtil fadaa-il",
+        "translations": {
+          "fr": "Lui qui guérit des vices, procure les Vertus"
+        }
+      },
+      {
+        "number": 96,
+        "text": "مُحْيِى الْمَنَازِلْ بَعْدَ الْعَفَآءِ",
+        "transcription": "muh-yil manaazil bahdal hafaa-i",
+        "translations": {
+          "fr": "et rend la vie aux demeures délabrées."
+        }
+      },
+      {
+        "number": 97,
+        "text": "نِعْمَ الْحَبِيبُ نِعْمَ الْقَرِيبُ",
+        "transcription": "nihmal habiibu nihmal qariibu",
+        "translations": {
+          "fr": "Quel excellent homme que notre Maître Bien-Aimé! Qu'il est remarquable cet Ami Intime,"
+        }
+      },
+      {
+        "number": 98,
+        "text": "نِعْمَ اللَّبِيبُ مَاحِى الْخَفَآءِ",
+        "transcription": "nihmal labiibu maahil khafaa-i",
+        "translations": {
+          "fr": "ce Perspicace qui a retiré les voiles [obstruant la Vérité]!"
+        }
+      },
+      {
+        "number": 99,
+        "text": "حَمَى الْعِيَالَا كَفَى الْقِتَالَا",
+        "transcription": "hamal hiyaalaa kafal qitaalaa",
+        "translations": {
+          "fr": "Il a protégé les miens, m'a dispensé du combat par les armes"
+        }
+      },
+      {
+        "number": 100,
+        "text": "مَحَا الْمَجَالَا بِلَا رِفَآءِ",
+        "transcription": "mahal majaalaa bilaa rifaa-i",
+        "translations": {
+          "fr": "et a mis fin à mon odyssée sans que j'eusse besoin de faire la guerre."
+        }
+      },
+      {
+        "number": 101,
+        "text": "أَخْفَى الشُّرُورَا أَبْدَى الْخُيُورَا",
+        "transcription": "akhfash shuruuraa abdal khuyuuraa",
+        "translations": {
+          "fr": "Il a éclipsé les maux, dévoilé les Bienfaits"
+        }
+      },
+      {
+        "number": 102,
+        "text": "قَادَ السُّرُورَا لِذِى الرَّجَآءِ",
+        "transcription": "qaadas suruuraa lizir rajaa-i",
+        "translations": {
+          "fr": "et procuré la Joie à celui qui fondait espoir en Lui."
+        }
+      },
+      {
+        "number": 103,
+        "text": "شَفَى السَّقِيمَا نَفَى الْأَلِيمَا",
+        "transcription": "shafas saqiimaa nafal aliimaa",
+        "translations": {
+          "fr": "Il m'a guéri des maladies, chassé ma douleur"
+        }
+      },
+      {
+        "number": 104,
+        "text": "قَادَ الْخَدِيمَا إِلَى النَّجَآءِ",
+        "transcription": "qaadal khadiimaa ilan najaa-i",
+        "translations": {
+          "fr": "et conduit son Serviteur que je suis vers le Salut."
+        }
+      },
+      {
+        "number": 105,
+        "text": "قَدْ فَكَّ كَبْلَا قَدْ بَثَّ فَضْلَا",
+        "transcription": "qad fakka kablaa qad bassa fadlaa",
+        "translations": {
+          "fr": "Il a brisé le carcan qui m'enserrait et m'a gratifi de Faveurs à foison,"
+        }
+      },
+      {
+        "number": 106,
+        "text": "فَالضُّرُّ وَلَّى وَالنَّفْعُ جَآءِ",
+        "transcription": "fad durru wallaa wan nafhu jaa-i",
+        "translations": {
+          "fr": "aussi les préjudices se sont-ils détournés à jamais de moi, les Avantages s'étant installés pour de bon."
+        }
+      },
+      {
+        "number": 107,
+        "text": "جَالِى النَّوَآئِبْ مُبْدِى عَجَآئِبْ",
+        "transcription": "jaalin nawaa-ib mubdii hajaa-ib",
+        "translations": {
+          "fr": "Le Prophète, dont la Libéralité est notoire, a éloigné les malheurs,"
+        }
+      },
+      {
+        "number": 108,
+        "text": "نَافِى مَصَآئِبْ بَادِى اللُّهَآءِ",
+        "transcription": "naafii masaa-ib baadil luhaa-i",
+        "translations": {
+          "fr": "étalé les Merveilles et écarté à jamais les fléaux [de ma personne]."
+        }
+      },
+      {
+        "number": 109,
+        "text": "مُسْدِى الْخُيُورِ إِلَى الْقُصُورِ",
+        "transcription": "musdil huyuuri ilal qusuuri",
+        "translations": {
+          "fr": "Il a drainé toutes sortes de Bienfaits vers mes lieux de résidence,"
+        }
+      },
+      {
+        "number": 110,
+        "text": "بَادِى النُّصُورِ  بَادِى الْبَهَآءِ",
+        "transcription": "baadin nusuuri baadil bahaa-i",
+        "translations": {
+          "fr": "Lui dont le Soutien en mon endroit s'avère manifeste à l'instar de la Splendeur."
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "لَكَ امْتِدَاحِى يَاذَا الصَّلَاحِ ۞ يَاذَا الْفَلَاحِ يَاذَا الْغِنَآءِ",
+        "translations": {
+          "it.karamati": "A te il mio elogio, o tu che possiedi la rettitudine, o tu che possiedi la riuscita, o tu che possiedi l'abbondanza.",
+          "en.karamati": "Yours my eulogy, O possessor of righteousness, O possessor of success, O possessor of abundance.",
+          "fr.karamati": "À toi mon éloge, ô toi qui possèdes la droiture, ô toi qui possèdes la réussite, ô toi qui possèdes la richesse."
+        },
+        "appNumber": 57
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "فِيكَ أُنَادِى كُلَّ الْبِلَادِ ۞ لِذِى الْعِبَادِ بَانِى الْغِمَآءِ",
+        "translations": {
+          "it.karamati": "In te io chiamo tutte le terre verso il Signore dei servi, Colui (Allah) che ha innalzato la volta celeste.",
+          "en.karamati": "In you I call all the lands to the Lord of the servants, He (Allah) who raised the canopy of heaven.",
+          "fr.karamati": "En toi j'appelle toutes les contrées vers le Maître des serviteurs, Celui (Allah) qui a édifié la voûte céleste."
+        },
+        "appNumber": 58
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "فِيكَ مَحَوْتُ مَا قَدْ جَنَيْتُ ۞ فِيكَ ابْتَغَيْتُ خَيْرَ نَمَآءِ",
+        "translations": {
+          "it.karamati": "In te ho cancellato ciò che avevo commesso; in te ho cercato il più fecondo accrescimento.",
+          "en.karamati": "In you I have erased what I had committed; in you I have sought the most fruitful increase.",
+          "fr.karamati": "En toi j'ai effacé ce que j'avais commis ; en toi j'ai recherché le plus fécond accroissement."
+        },
+        "appNumber": 59
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "فِيكَ ذَهَابِى فِيكَ إِيَابِى ۞ بِلَا اغْتِرَابِ لَكَ انْتِمَآئِى",
+        "translations": {
+          "it.karamati": "In te il mio andare, in te il mio ritorno, senza estraneità: a te è la mia appartenenza.",
+          "en.karamati": "In you my going, in you my returning, without estrangement: to you is my belonging.",
+          "fr.karamati": "En toi mon aller, en toi mon retour, sans éloignement : à toi est mon appartenance."
+        },
+        "appNumber": 60
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "زَحْزَحْتَ عَابِى حُطْتَ جَنَابِى ۞ بِلَا كَئَابِ وَلَا هَبَآءِ",
+        "translations": {
+          "it.karamati": "Hai allontanato il mio difetto, hai circondato di cura la mia persona, senza tristezza e senza vanità.",
+          "en.karamati": "You have removed my fault, surrounded my person with care, without sorrow and without vanity.",
+          "fr.karamati": "Tu as écarté mon défaut, entouré de soin ma personne, sans tristesse et sans vanité."
+        },
+        "appNumber": 61
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "يَاخَيْرَ مَاحِ  مَحَا جُنَاحِى ۞ مَعَ الْمِزَاحِ وَقْتَ الصَّبَآءِ",
+        "translations": {
+          "it.karamati": "O migliore di chi cancella (Al-Māḥī), che hai cancellato la mia colpa, insieme agli scherzi del tempo della giovinezza.",
+          "en.karamati": "O best of effacers (Al-Māḥī), who erased my fault, together with the jesting of the days of youth.",
+          "fr.karamati": "Ô le meilleur de ceux qui effacent (Al-Māḥī), qui as effacé ma faute, avec les badinages du temps de la jeunesse."
+        },
+        "appNumber": 62
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "أَنْتَ حَبِيبِى يَامَنْ حُبِى بِى ۞ بِلَا عُيُوبِ وَلَا سِبَآءِ",
+        "translations": {
+          "it.karamati": "Tu sei il mio Amato, o tu il cui amore è in me, senza difetti e senza schiavitù.",
+          "en.karamati": "You are my Beloved, O you whose love is within me, without faults and without bondage.",
+          "fr.karamati": "Tu es mon Bien-Aimé, ô toi dont l'amour est en moi, sans défauts et sans servitude."
+        },
+        "appNumber": 63
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "يَاخَيْرَ وَاعِ  يَاخَيْرَ رَاعِ ۞ يَاخَيْرَ دَاعِ لِذِى السَّمَآءِ",
+        "translations": {
+          "it.karamati": "O migliore di chi custodisce nel cuore, o migliore dei pastori, o migliore di chi chiama al Signore del cielo!",
+          "en.karamati": "O best of those who heed, O best of shepherds, O best of those who call to the Lord of heaven!",
+          "fr.karamati": "Ô le meilleur de ceux qui retiennent, ô le meilleur des pasteurs, ô le meilleur de ceux qui appellent vers le Maître du ciel !"
+        },
+        "appNumber": 64
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "صَلَّى عَلَيْكَا بِمَنْ لَّدَيْكَا ۞ مُثْنٍ عَلَيْكَا عِنْدَ الرِّمَآءِ",
+        "translations": {
+          "it.karamati": "Su di te effonda la Sua benedizione (Allah), insieme a quanti sono presso di te, e ti lodi nell'ora del combattimento.",
+          "en.karamati": "May (God) send blessing upon you, together with those who are with you, and praise you in the hour of battle.",
+          "fr.karamati": "Que (Dieu) prie sur toi, avec ceux qui sont auprès de toi, et qu'Il te loue à l'heure du combat."
+        },
+        "appNumber": 65
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "عَلَيْكَ سَلَّمْ دأْبً وَكَرَّمْ ۞ مَنْ بِكَ عَظَّمْ أَهْلَ اعْتِمَآءِ",
+        "translations": {
+          "it.karamati": "Su di te effonda senza sosta la pace e l'onore Colui (Allah) che per mezzo tuo ha magnificato la gente del turbante.",
+          "en.karamati": "May He (Allah) who through you exalted the people of the turban pour upon you unceasingly peace and honour.",
+          "fr.karamati": "Que Celui (Allah) qui par toi a magnifié les gens du turban répande sur toi sans relâche la paix et l'honneur."
+        },
+        "appNumber": 66
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "بِكَ أَقُودُ بِكَ أُفِيدُ ۞ يَامَنْ يَسُودُ ذَوِى اصْطِفَآءِ",
+        "translations": {
+          "it.karamati": "Per te io guido, per te io reco beneficio, o tu che primeggi su quanti sono stati eletti,",
+          "en.karamati": "Through you I guide, through you I bring benefit, O you who surpass those who have been chosen,",
+          "fr.karamati": "Par toi je guide, par toi je suis profitable, ô toi qui surpasses ceux qui ont été élus,"
+        },
+        "appNumber": 67
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "ذَوِى الْعُقُولِ نَهْجَ الرَّسُولِ ۞ مَاحِى الْغُفُولِ  مَاحِى الْخَفَآءِ",
+        "translations": {
+          "it.karamati": "(sulla) gente dell'intelletto, sulla via del Messaggero, che cancella la distrazione, che cancella l'occultamento,",
+          "en.karamati": "(over) the people of intellect, on the path of the Messenger, effacer of heedlessness, effacer of concealment,",
+          "fr.karamati": "(sur) les gens de l'intelligence, sur la voie du Messager, qui efface l'insouciance, qui efface l'occultation,"
+        },
+        "appNumber": 68
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "ذَوِى الذَّكَاءِ لِذِى الْبَهَآءِ ۞ مَاحِى الْخَطَاءِ مَاحِى الْجَفَآءِ",
+        "translations": {
+          "it.karamati": "(sulla) gente dell'acume, per colui che possiede lo splendore, che cancella l'errore, che cancella la durezza.",
+          "en.karamati": "(over) the people of discernment, by him who possesses splendour, effacer of error, effacer of harshness.",
+          "fr.karamati": "(sur) les gens de la perspicacité, par celui qui possède la splendeur, qui efface l'erreur, qui efface la dureté."
+        },
+        "appNumber": 69
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "ذَاكَ الْمُطَاعُ ذَاكَ الشُّجَاعُ ۞ بِهِ يُرَاعُ ذَوُو الْإِبَآءِ",
+        "translations": {
+          "it.karamati": "Egli (Muḥammad) è l'Obbedito, egli è il Valoroso: per lui sono atterriti quanti oppongono rifiuto.",
+          "en.karamati": "He (Muḥammad) is the Obeyed, he is the Valiant: through him those who refuse are struck with awe.",
+          "fr.karamati": "Il (Muḥammad) est l'Obéi, il est le Vaillant : par lui sont saisis d'effroi ceux qui refusent."
+        },
+        "appNumber": 70
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "ذَاكَ الْوَلِىُّ ذَاكَ النَّجِىُّ ۞ ذَاكَ الصَّفِىُّ ذُو الْإِجْتِبَآءِ",
+        "translations": {
+          "it.karamati": "Egli è l'Amico (di Allah), egli è il Confidente, egli è il Puro Eletto (Aṣ-Ṣafī), che possiede l'elezione.",
+          "en.karamati": "He is the Friend (of God), he is the Confidant, he is the Pure Chosen One (Aṣ-Ṣafī), possessor of election.",
+          "fr.karamati": "Il est l'Ami (de Dieu), il est le Confident, il est le Pur Élu (Aṣ-Ṣafī), qui possède l'élection."
+        },
+        "appNumber": 71
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "ذَاكَ الْحَسِيبُ ذَاكَ النَّسِيبُ ۞ ذَاكَ الْعَجِيبُ بَادِى الْحِبَآءِ",
+        "translations": {
+          "it.karamati": "Egli è il Nobile per rango, egli è il Nobile per stirpe, egli è il Meraviglioso, manifesto nei suoi doni.",
+          "en.karamati": "He is the Noble in rank, he is the Noble in lineage, he is the Wondrous, manifest in his gifts.",
+          "fr.karamati": "Il est le Noble par le rang, il est le Noble par la lignée, il est le Merveilleux, manifeste en ses dons."
+        },
+        "appNumber": 72
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "وَهْوَ النَّفِيسُ فَلَا تَقِيسُواْ ۞ وَهْوَ الرَّئِيسُ لِلَانْبِيَآءِ",
+        "translations": {
+          "it.karamati": "Egli è il Prezioso: non paragonatelo (a nessuno)! Egli è il Principe dei Profeti.",
+          "en.karamati": "He is the Precious: do not compare him (to anyone)! He is the Chief of the Prophets.",
+          "fr.karamati": "Il est le Précieux : ne le comparez (à personne) ! Il est le Chef des Prophètes."
+        },
+        "appNumber": 73
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "شَمْسُ الشُّمُوسِ رَأْسُ الرُّؤُوسِ ۞ خَيْرُ الْأَنِيسِ لِلَاوْلِيَاءِ",
+        "translations": {
+          "it.karamati": "Sole dei soli, capo dei capi, il migliore dei compagni intimi per i Santi.",
+          "en.karamati": "Sun of suns, head of heads, the best of intimate companions for the Saints.",
+          "fr.karamati": "Soleil des soleils, tête des têtes, le meilleur des compagnons intimes pour les Saints."
+        },
+        "appNumber": 74
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "شِفَا الصُّدُورِ ضِيَاءُ الدُّورِ ۞ بَدْرُ الْبُدُورِ بَادِى الضِّيَآءِ",
+        "translations": {
+          "it.karamati": "Guarigione dei petti, luce delle dimore, luna piena delle lune piene, manifesto nel suo fulgore.",
+          "en.karamati": "Healing of hearts, light of the dwellings, full moon of full moons, manifest in his radiance.",
+          "fr.karamati": "Guérison des poitrines, lumière des demeures, pleine lune des pleines lunes, manifeste en son éclat."
+        },
+        "appNumber": 75
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "غَيْثُ شَكُورِ لَيْثُ كَفُورِ ۞ نَافِى نَفُورِ مُبْدِى قَلَآءِ",
+        "translations": {
+          "it.karamati": "Pioggia benefica per il riconoscente, leone per l'ingrato, che allontana chi rifugge, che mostra avversione (al male).",
+          "en.karamati": "Beneficent rain for the grateful, a lion to the ungrateful, repeller of the averse, showing aversion (to evil).",
+          "fr.karamati": "Pluie bienfaisante pour le reconnaissant, lion pour l'ingrat, qui repousse celui qui fuit, qui montre l'aversion (du mal)."
+        },
+        "appNumber": 76
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "جَنَّاتُ هَادِ نِيرَانُ عَادِ ۞ فَالْفَضْلُ بَادِ لِلْعُقَلَآءِ",
+        "translations": {
+          "it.karamati": "Giardini (del Paradiso) per chi è guidato, fuochi per chi trasgredisce: la sua eccellenza è manifesta ai saggi.",
+          "en.karamati": "Gardens (of Paradise) for the guided, fires for the transgressor: his excellence is manifest to the wise.",
+          "fr.karamati": "Jardins (du Paradis) pour le bien-guidé, feux pour le transgresseur : son excellence est manifeste aux sages."
+        },
+        "appNumber": 77
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "مَاحِى الْخَطَايَا بَادِ الْعَطَايَا ۞ هَادِى الْبَرَايَا بِلَا غَلَاءِ",
+        "translations": {
+          "it.karamati": "Egli cancella le colpe, manifesta i doni, guida le creature, senza eccesso.",
+          "en.karamati": "He erases sins, makes gifts manifest, guides the creatures, without excess.",
+          "fr.karamati": "Il efface les fautes, manifeste les dons, guide les créatures, sans excès."
+        },
+        "appNumber": 78
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "لَهُ الْبَرَاعَهْ لَهُ الشَّفَاعَهْ ۞ لَهُ الْجَمَاعَهْ حَاوِى ارْتِقَآءِ",
+        "translations": {
+          "it.karamati": "A lui l'eccellenza, a lui l'Intercessione (ash-shafāʿa), a lui la Comunità; egli racchiude ogni ascesa.",
+          "en.karamati": "His is excellence, his the Intercession (ash-shafāʿa), his the Community; he encompasses every ascent.",
+          "fr.karamati": "À lui l'excellence, à lui l'Intercession (ash-shafāʿa), à lui la Communauté ; il réunit toute ascension."
+        },
+        "appNumber": 79
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "إِنْ رَامَ عِلْمًا أَوْ رَامَ غُنْمًا ۞ أَوْ رَامَ ظُلْمًا بَاغِى اللِّقَآءِ",
+        "translations": {
+          "it.karamati": "Se uno, cercando l'incontro con lui, brama la scienza, o brama il guadagno, o brama l'ingiustizia,",
+          "en.karamati": "If one, seeking to meet him, desires knowledge, or desires gain, or desires wrongdoing,",
+          "fr.karamati": "Si quelqu'un, recherchant sa rencontre, désire la science, ou désire le butin, ou désire l'injustice,"
+        },
+        "appNumber": 80
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "فَذَاكَ يُهْدَى وَذَاكَ يُهْدَى ۞ لَهُ وَيُرْدَى ذَا بِشَقَآءِ",
+        "translations": {
+          "it.karamati": "il primo è guidato, il secondo riceve da lui i suoi doni, e il terzo è gettato in rovina, nella sventura.",
+          "en.karamati": "the first is guided, the second receives his gifts, and the third is cast to ruin, in wretchedness.",
+          "fr.karamati": "le premier est guidé, le second reçoit de lui ses dons, et le troisième est précipité à sa perte, dans le malheur."
+        },
+        "appNumber": 81
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "هَادٍ مُّجِيرُ نُورٌ مُّنِيرُ ۞ غَيْثٌ بَشِيرُ لِذِى اهْتِدَآءِ",
+        "translations": {
+          "it.karamati": "Guida e protettore, luce che illumina, pioggia che annuncia il lieto evento, per chi accoglie la guida.",
+          "en.karamati": "Guide and protector, illuminating light, rain bearing glad tidings, for whoever accepts guidance.",
+          "fr.karamati": "Guide et protecteur, lumière qui illumine, pluie qui annonce la bonne nouvelle, pour qui accueille la guidance."
+        },
+        "appNumber": 82
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "حَامٍ نَّصِيرُ دَاعٍ بَصِيرُ ۞ لَيْثٌ نَّذِيرُ لِذِى اعْتِدَآءِ",
+        "translations": {
+          "it.karamati": "Difensore e soccorritore, banditore lungimirante, leone che ammonisce, per chi trasgredisce.",
+          "en.karamati": "Defender and helper, far-sighted caller, a warning lion, for whoever transgresses.",
+          "fr.karamati": "Défenseur et secoureur, prédicateur clairvoyant, lion qui avertit, pour qui transgresse."
+        },
+        "appNumber": 83
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "مُشْكٍ لِّشَاكٍ بِشْرٌ لِّبَاكٍ ۞ مُصْغٍ لِحَاكٍ وَذِى نِدَآءِ",
+        "translations": {
+          "it.karamati": "Egli porge ascolto al lamento di chi si lamenta, è gioia per chi piange, presta orecchio a chi narra e a chi invoca.",
+          "en.karamati": "He heeds the complaint of the complainer, he is joy for the weeping, he lends his ear to whoever speaks and whoever calls.",
+          "fr.karamati": "Il prête l'oreille à la plainte de qui se plaint, il est joie pour qui pleure, il écoute qui raconte et qui appelle."
+        },
+        "appNumber": 84
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "مُنْجٍ لِسَالِكْ مَنْجًى لِنَاسِكْ ۞ جَالِى حَوَالِكْ عَنْ ذِى اتِّقَآءِ",
+        "translations": {
+          "it.karamati": "Salvatore di chi percorre la Via, rifugio dell'asceta, che dissipa le tenebre da chi teme Allah.",
+          "en.karamati": "Saviour of the wayfarer on the Path, refuge of the ascetic, dispeller of darkness from the God-fearing.",
+          "fr.karamati": "Sauveur de celui qui chemine sur la Voie, refuge de l'ascète, qui dissipe les ténèbres de celui qui craint Dieu."
+        },
+        "appNumber": 85
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "غُنْمُ فَقِيرَ جَبْرُ كَسِيرَ ۞ صِيتُ حَقِيرَ بَاغِى وِقَآءِ",
+        "translations": {
+          "it.karamati": "Bottino del povero, sostegno di chi è spezzato, fama dell'umile, per chi cerca protezione.",
+          "en.karamati": "Spoil of the poor, mender of the broken, renown of the lowly, for whoever seeks protection.",
+          "fr.karamati": "Butin du pauvre, réconfort du brisé, renom de l'humble, pour qui cherche protection."
+        },
+        "appNumber": 86
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "وَهْوَ الْجَلِىُّ وَهْوَ الْخَفِىُّ ۞ وَهْوَ النَّجِىُّ لِذِى الْبَقَآءِ",
+        "translations": {
+          "it.karamati": "Egli (Muḥammad) è il Manifesto, egli è il Nascosto, egli è il Confidente intimo di Colui (Allah) che possiede la Permanenza.",
+          "en.karamati": "He (Muḥammad) is the Manifest, he is the Hidden, he is the intimate Confidant of Him (Allah) who possesses Permanence.",
+          "fr.karamati": "Il (Muḥammad) est le Manifeste, il est le Caché, il est le Confident intime de Celui (Allah) qui possède la Permanence."
+        },
+        "appNumber": 87
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "لَهُ الْخِطَابُ لَهُ الْجَوَابُ ۞ لَهُ الصَّوَابُ مَعَ الرِّضَآءِ",
+        "translations": {
+          "it.karamati": "A lui è rivolta la Parola (divina), a lui spetta la risposta, a lui la rettitudine, insieme al compiacimento.",
+          "en.karamati": "To him the (divine) Word is addressed, his is the answer, his the rightness, together with good pleasure.",
+          "fr.karamati": "À lui s'adresse la Parole (divine), à lui revient la réponse, à lui la justesse, avec l'agrément."
+        },
+        "appNumber": 88
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "لَهُ الْبُرُورُ لَهُ السُّرُورُ ۞ تَلْقَاهُ حُورُ بَعْدَ الْقَضَآءِ",
+        "translations": {
+          "it.karamati": "A lui la pietà, a lui la letizia: lo accolgono le Uri (del Paradiso) dopo il compimento del Decreto.",
+          "en.karamati": "His is piety, his is joy: the Houris (of Paradise) receive him after the Decree is fulfilled.",
+          "fr.karamati": "À lui la piété, à lui la joie : les Houris (du Paradis) l'accueillent après l'accomplissement du Décret."
+        },
+        "appNumber": 89
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "لَهُ الْخِطَابِى بَعْدَ مَتَابِى ۞ مِنْ كُلِّ عَابِ مَعَ الْمَضَآءِ",
+        "translations": {
+          "it.karamati": "A lui si rivolge la mia parola, dopo il mio pentimento da ogni difetto, con ferma risolutezza.",
+          "en.karamati": "To him my words are addressed, after my repentance from every fault, with firm resolve.",
+          "fr.karamati": "À lui s'adresse ma parole, après mon repentir de tout défaut, avec une ferme résolution."
+        },
+        "appNumber": 90
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "لَكَ خَوَارِقْ مِنْ ذِى الْخَلَآئِقْ ۞ لَيْسَتْ لِسَابِقْ وَلَا لِجَآءِ",
+        "translations": {
+          "it.karamati": "A te (o Profeta) appartengono prodigi, da parte del Signore delle creature, che non furono di alcun predecessore né saranno di alcun successore.",
+          "en.karamati": "Yours (O Prophet) are wonders, from the Lord of creatures, that belonged to no predecessor and will belong to no successor.",
+          "fr.karamati": "À toi (ô Prophète) appartiennent des prodiges, de la part du Maître des créatures, qui ne furent à aucun prédécesseur et ne seront à aucun successeur."
+        },
+        "appNumber": 91
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "مِنْهَا انْصِرَافُ شَىْءٍ يُعَافُ ۞ عَمَّنْ يَخَافُ بَعْدَ الْتِجَآءِ",
+        "translations": {
+          "it.karamati": "Tra essi, l'allontanare ogni cosa aborrita da chi teme, dopo che (a te) ha cercato rifugio.",
+          "en.karamati": "Among them, the turning away of every loathsome thing from whoever fears, after he has sought refuge (with you).",
+          "fr.karamati": "Parmi eux, l'éloignement de toute chose abhorrée de celui qui craint, après qu'il a cherché refuge (auprès de toi)."
+        },
+        "appNumber": 92
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "خَيْرَ الْبَرَايَا ذُدْتَّ الْبَلَايَا ۞ لِذِى الْخَطَايَا رُمْتَ نَجَآئِى",
+        "translations": {
+          "it.karamati": "O migliore delle creature, hai respinto le sventure da chi era carico di colpe: hai voluto la mia salvezza.",
+          "en.karamati": "O best of creatures, you have driven calamities away from the one laden with sins: you have willed my salvation.",
+          "fr.karamati": "Ô le meilleur des créatures, tu as repoussé les malheurs de celui qui était chargé de fautes : tu as voulu mon salut."
+        },
+        "appNumber": 93
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "أَنْتَ الْكَرِيمُ أَنَا الْخَدِيمُ ۞ دَهْرًا أُدِيمُ فِيكَ ثَنَآئِى",
+        "translations": {
+          "it.karamati": "Tu sei il Generoso, io sono il Servitore (Khadīm): per sempre farò perdurare in te la mia lode.",
+          "en.karamati": "You are the Generous, I am the Servant (Khadīm): forever I shall make my praise of you endure.",
+          "fr.karamati": "Tu es le Généreux, je suis le Serviteur (Khadīm) : à jamais je ferai perdurer en toi ma louange."
+        },
+        "appNumber": 94
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "رُمْتُ امْتِدَاحَا يُعْطِى فَلَاحَا ۞ يَكْفِى افْتِضَاحَا مَعَ الْعَنَآءِ",
+        "translations": {
+          "it.karamati": "Ho cercato un elogio che doni la riuscita, che basti a preservare dall'infamia e dalla pena.",
+          "en.karamati": "I have sought a eulogy that grants success, that suffices against disgrace and hardship.",
+          "fr.karamati": "J'ai recherché un éloge qui donne la réussite, qui suffise à préserver de l'infamie et de la peine."
+        },
+        "appNumber": 95
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "إِنِّى بِمَدْحِى عَايَنْتُ رِبْحِى ۞ قَطْعًا وَنُجْحِى مَعَ الْبِنَآءِ",
+        "translations": {
+          "it.karamati": "In verità, con il mio elogio ho veduto con certezza il mio guadagno, e la mia riuscita insieme all'edificio (che innalzo).",
+          "en.karamati": "Truly, through my eulogy I have beheld my gain with certainty, and my success together with the edifice (I raise).",
+          "fr.karamati": "En vérité, par mon éloge j'ai vu avec certitude mon gain, et ma réussite avec l'édifice (que j'élève)."
+        },
+        "appNumber": 96
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "لَاكِنْ عَجَزْتُ عَمَّا الْتَمَسْتُ ۞ وَمَا مَدَحْتُ كَالنُّبَلَآءِ",
+        "translations": {
+          "it.karamati": "Ma sono rimasto impotente di fronte a ciò che cercavo, e non ho lodato (come avrei voluto), al pari dei nobili.",
+          "en.karamati": "But I have fallen short of what I sought, and I have not praised (as I would wish), like the noble ones.",
+          "fr.karamati": "Mais je suis demeuré impuissant devant ce que je recherchais, et je n'ai pas loué (comme je l'aurais voulu), à l'égal des nobles."
+        },
+        "appNumber": 97
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "غَارَ مِدَادِى حَارَ فُؤَادِى ۞ عَنْ مَّدْحِ هَادِ لِلْبُدَلَآءِ",
+        "translations": {
+          "it.karamati": "Il mio inchiostro si è inaridito, il mio cuore è rimasto smarrito nel lodare la Guida dei Sostituti (al-Abdāl).",
+          "en.karamati": "My ink has run dry, my heart has been left bewildered in praising the Guide of the Substitutes (al-Abdāl).",
+          "fr.karamati": "Mon encre s'est tarie, mon cœur est resté interdit à louer le Guide des Substituts (al-Abdāl)."
+        },
+        "appNumber": 98
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "فَكَيْفَ أَحْوِى مَدْحًا لِمُحْيِى ۞ وَالْمَدْحُ مُعْىِ لِلْعُقَلَآءِ",
+        "translations": {
+          "it.karamati": "Come potrei dunque abbracciare la lode di colui (Muḥammad) che dà vita (ai cuori), quando la sua lode estenua perfino i saggi?",
+          "en.karamati": "How then could I encompass the praise of him (Muḥammad) who gives life (to hearts), when his praise exhausts even the wise?",
+          "fr.karamati": "Comment donc pourrais-je embrasser l'éloge de celui (Muḥammad) qui donne vie (aux cœurs), alors que son éloge épuise même les sages ?"
+        },
+        "appNumber": 99
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "لَاكِنْ أُنَادِى كُلَّ الْعِبَادِ ۞ إِلَى عِمَادِى بِلَا جَلَآءِ",
+        "translations": {
+          "it.karamati": "Ma io chiamo tutti i servi verso il mio sostegno (Muḥammad), senza che alcuno sia respinto.",
+          "en.karamati": "But I call all the servants to my pillar (Muḥammad), with none sent away.",
+          "fr.karamati": "Mais j'appelle tous les serviteurs vers mon soutien (Muḥammad), sans que nul ne soit repoussé."
+        },
+        "appNumber": 100
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "يَا أَهْلَ بَرِّ يَا أَهْلَ بَحْرِ ۞ عُوجُواْ لِبَرِّ بَحْرِ السَّخَآءِ",
+        "translations": {
+          "it.karamati": "O gente della terraferma, o gente del mare, volgetevi verso il Benevolo, oceano di generosità!",
+          "en.karamati": "O people of the land, O people of the sea, turn towards the Kind One, ocean of generosity!",
+          "fr.karamati": "Ô gens de la terre ferme, ô gens de la mer, tournez-vous vers le Bienfaisant, océan de générosité !"
+        },
+        "appNumber": 101
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "مَاحِى عُيُوبِى مُبْدِى غُيُوبِى ۞ مُنْقِى جُيُوبِى مِنَ الطَّخَآءِ",
+        "translations": {
+          "it.karamati": "Egli cancella i miei difetti, svela i misteri a me celati, purifica il mio intimo dall'oscurità.",
+          "en.karamati": "He erases my faults, unveils the mysteries hidden from me, cleanses my inmost being of darkness.",
+          "fr.karamati": "Il efface mes défauts, dévoile les mystères qui me sont cachés, purifie mon intime de l'obscurité."
+        },
+        "appNumber": 102
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "مُسْدِى أَيَادِى مُرْدِى أَعَادِى ۞ مُعْطِى مُرَادِى مَعَ الرَّخَآءِ",
+        "translations": {
+          "it.karamati": "Egli dispensa benefici, abbatte i miei nemici, concede ciò che desidero, nell'agiatezza.",
+          "en.karamati": "He bestows benefits, fells my enemies, grants what I desire, in ease.",
+          "fr.karamati": "Il dispense les bienfaits, terrasse mes ennemis, accorde ce que je désire, dans l'aisance."
+        },
+        "appNumber": 103
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "مَاحِى الرَّذَآئِلْ مُعْطِى الْفَضَآئِلْ ۞ مُحْيِى الْمَنَازِلْ بَعْدَ الْعَفَآءِ",
+        "translations": {
+          "it.karamati": "Egli cancella i vizi, concede le virtù, ravviva le dimore dopo che erano state cancellate.",
+          "en.karamati": "He erases vices, grants virtues, revives dwellings after they have been effaced.",
+          "fr.karamati": "Il efface les vices, accorde les vertus, ravive les demeures après qu'elles se sont effacées."
+        },
+        "appNumber": 104
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "نِعْمَ الْحَبِيبُ نِعْمَ الْقَرِيبُ ۞ نِعْمَ اللَّبِيبُ مَاحِى الْخَفَآءِ",
+        "translations": {
+          "it.karamati": "Quale eccelso Amato! Quale eccelso Vicino! Quale eccelso Saggio, che cancella ciò che è celato!",
+          "en.karamati": "How excellent a Beloved! How excellent a Near One! How excellent a Wise One, effacer of what is hidden!",
+          "fr.karamati": "Quel excellent Bien-Aimé ! Quel excellent Proche ! Quel excellent Sage, qui efface ce qui est caché !"
+        },
+        "appNumber": 105
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "حَمَى الْعِيَالَا كَفَى الْقِتَالَا ۞ مَحَا الْمَجَالَا بِلَا رِفَآءِ",
+        "translations": {
+          "it.karamati": "Ha protetto la famiglia, ha risparmiato il combattimento, ha cancellato il campo (della contesa), senza riconciliazione.",
+          "en.karamati": "He protected the family, spared the fighting, erased the arena (of strife), without reconciliation.",
+          "fr.karamati": "Il a protégé la famille, épargné le combat, effacé l'arène (de la discorde), sans réconciliation."
+        },
+        "appNumber": 106
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "text": "أَخْفَى الشُّرُورَا أَبْدَى الْخُيُورَا ۞ قَادَ السُّرُورَا لِذِى الرَّجَآءِ",
+        "translations": {
+          "it.karamati": "Ha celato i mali, ha manifestato i beni, ha condotto la letizia a chi spera.",
+          "en.karamati": "He has hidden evils, made good things manifest, led joy to whoever hopes.",
+          "fr.karamati": "Il a caché les maux, manifesté les biens, conduit la joie vers celui qui espère."
+        },
+        "appNumber": 107
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "text": "شَفَى السَّقِيمَا نَفَى الْأَلِيمَا ۞ قَادَ الْخَدِيمَا إِلَى النَّجَآءِ",
+        "translations": {
+          "it.karamati": "Ha guarito il malato, ha bandito il dolore, ha condotto il Servitore (Khadīm) verso la salvezza.",
+          "en.karamati": "He has healed the sick, banished pain, led the Servant (Khadīm) to salvation.",
+          "fr.karamati": "Il a guéri le malade, banni la douleur, conduit le Serviteur (Khadīm) vers le salut."
+        },
+        "appNumber": 108
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "text": "قَدْ فَكَّ كَبْلَا قَدْ بَثَّ فَضْلَا ۞ فَالضُّرُّ وَلَّى وَالنَّفْعُ جَآءِ",
+        "translations": {
+          "it.karamati": "Ha sciolto le catene, ha diffuso la grazia: il male ha voltato le spalle, e il beneficio è giunto.",
+          "en.karamati": "He has loosed the fetters, spread grace: harm has turned its back, and benefit has come.",
+          "fr.karamati": "Il a dénoué les chaînes, répandu la grâce : le mal a tourné le dos, et le bienfait est venu."
+        },
+        "appNumber": 109
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "text": "جَالِى النَّوَآئِبْ مُبْدِى عَجَآئِبْ ۞ نَافِى مَصَآئِبْ بَادِى اللُّهَآءِ",
+        "translations": {
+          "it.karamati": "Egli dissipa le sciagure, manifesta prodigi, bandisce le calamità, è manifesto nei suoi doni.",
+          "en.karamati": "He dispels misfortunes, manifests wonders, banishes calamities, he is manifest in his gifts.",
+          "fr.karamati": "Il dissipe les infortunes, manifeste des prodiges, bannit les calamités, il est manifeste en ses dons."
+        },
+        "appNumber": 110
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "text": "مُسْدِى الْخُيُورِ إِلَى الْقُصُورِ ۞ بَادِى النُّصُورِ  بَادِى الْبَهَآءِ",
+        "translations": {
+          "it.karamati": "Egli dispensa i beni fin nei palazzi, è manifesto nelle vittorie, è manifesto nello splendore.",
+          "en.karamati": "He bestows good things even upon the palaces, he is manifest in victories, he is manifest in splendour.",
+          "fr.karamati": "Il dispense les biens jusque dans les palais, il est manifeste dans les victoires, il est manifeste dans la splendeur."
+        },
+        "appNumber": 111
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 186,
+    "name": "Yaa Mukrima Dayfi",
+    "transliterationName": "Yaa Mukrima Dayfi",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "yaa mukrimad dayfi jaaran kaana aw zaaraa"
+      },
+      {
+        "number": 2,
+        "text": "yaa maahiyan han khadiimin qablu aw zaaraa"
+      },
+      {
+        "number": 3,
+        "text": "naadaaka fil barri bahdal bahri khaadimukum"
+      },
+      {
+        "number": 4,
+        "text": "wal yawma qudtta lahu bil laahi makhtaaraa"
+      },
+      {
+        "number": 5,
+        "text": "akramtahu biqiraa amrin wa takrimatin"
+      },
+      {
+        "number": 6,
+        "text": "fahaaza han jumlatil aswaa-i astaaraa"
+      },
+      {
+        "number": 7,
+        "text": "khallaytahu han siwar ridwaani qablu kamaa"
+      },
+      {
+        "number": 8,
+        "text": "hallaytahu bimunad daarayni mibraaraa"
+      },
+      {
+        "number": 9,
+        "text": "bikan tahaa sayhruhu lil laahi murtadiyan"
+      },
+      {
+        "number": 10,
+        "text": "hankum wa qad haaza anwaaran wa asraaraa"
+      },
+      {
+        "number": 11,
+        "text": "ammantahu min shaqaa-in faa-izan abadan"
+      },
+      {
+        "number": 12,
+        "text": "khillan wa hibban lakum laa yadkhulun naaraa"
+      },
+      {
+        "number": 13,
+        "text": "naalal munaa mah safaa maa bahdahu kadarun"
+      },
+      {
+        "number": 14,
+        "text": "min mushtarin minhu hindal bahri diinaaraa"
+      },
+      {
+        "number": 15,
+        "text": "minhush taral lahu kah haysun tahat abadan"
+      },
+      {
+        "number": 16,
+        "text": "kamaa lahu qaada maa yahwaahu aw taaraa"
+      },
+      {
+        "number": 17,
+        "text": "wallal lahiinu biya-sin minhu munsarifan"
+      },
+      {
+        "number": 18,
+        "text": "wa kullu maa fiihi durrun dabba aw taaraa"
+      },
+      {
+        "number": 19,
+        "text": "lighayrihi yantahii ibliisu fii abadin"
+      },
+      {
+        "number": 20,
+        "text": "kafaahu rabbuka takhmiinan wa akdaaraa"
+      },
+      {
+        "number": 21,
+        "text": "antan nabiyyur rasuulul mustafaa halaman"
+      },
+      {
+        "number": 22,
+        "text": "sallaa halaykal lazii tafdiilu qad daaraa"
+      },
+      {
+        "number": 23,
+        "text": "innii lajuuruka yaa khayral waraa abadan"
+      },
+      {
+        "number": 24,
+        "text": "halayka sallama man kullii lahu saaraa"
+      },
+      {
+        "number": 25,
+        "text": "sallaa wa sallama baaqin laa shariika lahu"
+      },
+      {
+        "number": 26,
+        "text": "halayka yaa man bihi lii qudtta ansaaraa"
+      },
+      {
+        "number": 27,
+        "text": "lii qudtta matlabatii qadayta lii arabii"
+      },
+      {
+        "number": 28,
+        "text": "mahawta hanniya qablal yawmi aw zaaraa"
+      }
+    ]
+  }
+}

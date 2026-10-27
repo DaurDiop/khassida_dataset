@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 79,
+    "name": "Madhun Nabiyyil Muntaqa",
+    "transliterationName": "Madhun Nabiyyil Muntaqa",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "madhun nabiyyil muntaqaa zaadun ilaa"
+      },
+      {
+        "number": 2,
+        "text": "baytil ilaahin naasi waahibil ilaa"
+      },
+      {
+        "number": 3,
+        "text": "hubbun nabiyyi li-ilaahi sawwarah"
+      },
+      {
+        "number": 4,
+        "text": "zaadun ilal madiinatil munawwarah"
+      },
+      {
+        "number": 5,
+        "text": "muhammadun sallaa halayhil laahu"
+      },
+      {
+        "number": 6,
+        "text": "musalliman badat lanaa hulaahu"
+      },
+      {
+        "number": 7,
+        "text": "muhammadun fardun yafuuqu tasbiyah"
+      },
+      {
+        "number": 8,
+        "text": "wa faaqa jamhan wal hadaayaa mughniyah"
+      },
+      {
+        "number": 9,
+        "text": "darajatul mukhtaari hibbil mursili"
+      },
+      {
+        "number": 10,
+        "text": "bihah tilaa-u darajaatir rusuli"
+      },
+      {
+        "number": 11,
+        "text": "kullu nabiyyin wa rasuulin yatbahu"
+      },
+      {
+        "number": 12,
+        "text": "khalqa wasiilatii huwal muttabahu"
+      },
+      {
+        "number": 13,
+        "text": "ahmadunal maahii mahaa maasaa-aa"
+      },
+      {
+        "number": 14,
+        "text": "wa lisiwaanaa saaqa man asaa-aa"
+      },
+      {
+        "number": 15,
+        "text": "li-ahmadal mukhtaari maa lam yakuni"
+      },
+      {
+        "number": 16,
+        "text": "walaa yakuunu abadan limumkini"
+      },
+      {
+        "number": 17,
+        "text": "jamaaluhu yasbii fu-aadar raa-i"
+      },
+      {
+        "number": 18,
+        "text": "wa nahjuhu yughnii hanif tiraa-i"
+      },
+      {
+        "number": 19,
+        "text": "madda lanal iimaana wal islaamaa"
+      },
+      {
+        "number": 20,
+        "text": "wa ahsanal ihsaani lan nulaamaa"
+      },
+      {
+        "number": 21,
+        "text": "yasurruhu khattiya fii kulli sanah"
+      },
+      {
+        "number": 22,
+        "text": "wa ghayruhu min khidmatin mustahsanah"
+      },
+      {
+        "number": 23,
+        "text": "lam yakhfa kawnul madhi wal hubbi ilaa"
+      },
+      {
+        "number": 24,
+        "text": "rawdatihin wal bayti zaadun wa ilaa"
+      }
+    ]
+  }
+}

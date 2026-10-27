@@ -1,0 +1,77 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 161,
+    "name": "Shakuru Rafihu",
+    "transliterationName": "Shakuru Rafihu",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "shukrii lirabbin kariimin kaana shakkaaraa"
+      },
+      {
+        "number": 2,
+        "text": "wa artajii minhu fid daarayni abkaaraa"
+      },
+      {
+        "number": 3,
+        "text": "katabtu shukran lahu maa qad rajawtu bihi"
+      },
+      {
+        "number": 4,
+        "text": "kawnii sahidan wa shakkaaran wa zakkaaraa"
+      },
+      {
+        "number": 5,
+        "text": "wajjahtu wajhiya fii shahrinin nabii sanadii"
+      },
+      {
+        "number": 6,
+        "text": "lil akrimir raafihil wahhaabi shakkaaraa"
+      },
+      {
+        "number": 7,
+        "text": "rajawtu minhu tahaalaa shukrahu hamalii"
+      },
+      {
+        "number": 8,
+        "text": "wa rafhahul yawma hannii nihma ghaffaaraa"
+      },
+      {
+        "number": 9,
+        "text": "rajawtu an yamhuz zalaati jumlatahaa"
+      },
+      {
+        "number": 10,
+        "text": "hannii wa tasjiirahu lid dahra kuffaaraa"
+      },
+      {
+        "number": 11,
+        "text": "innii ukhaatibuhu fil bahri mughtariban"
+      },
+      {
+        "number": 12,
+        "text": "wa lam yazal jalla qahhaaran wa jabbaaraa"
+      },
+      {
+        "number": 13,
+        "text": "faja-tanii rabbi bil aalaali hab liya an"
+      },
+      {
+        "number": 14,
+        "text": "ahuudu lil barri rud lii kulla man baaraa"
+      },
+      {
+        "number": 15,
+        "text": "halan nabii salli bit tasliimin bil kuramaa"
+      },
+      {
+        "number": 16,
+        "text": "warfah wa zidniya bahdar rafhi abkaaraa"
+      }
+    ]
+  }
+}

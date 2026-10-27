@@ -1,0 +1,61 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 4,
+    "name": "Ajabani Khayru Baaqin",
+    "transliterationName": "Ajabani Khayru Baaqin",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "ajaabanii khayru baaqin fiihi qad taabaa"
+      },
+      {
+        "number": 2,
+        "text": "kullii wa raqqaa bimaa lii qaada aqtaabaa"
+      },
+      {
+        "number": 3,
+        "text": "liwajhi baaqin mahaa qasdal mabiihi lanaa"
+      },
+      {
+        "number": 4,
+        "text": "faaraqtuhu wahwa laj wal amlu maa khaabaa"
+      },
+      {
+        "number": 5,
+        "text": "bihtul lazii laysa yanhuunii wa lii badalii"
+      },
+      {
+        "number": 6,
+        "text": "wa lii yukhalliduhu man kabba sakhkhaabaa"
+      },
+      {
+        "number": 7,
+        "text": "ilaa siwaayal hidaa tanhuu bimaa mahahum"
+      },
+      {
+        "number": 8,
+        "text": "wa bii yusaffii ilaahid dahra albaabaa"
+      },
+      {
+        "number": 9,
+        "text": "quluubu man lam yahibbuunii halaa wajalin"
+      },
+      {
+        "number": 10,
+        "text": "walaa yulaaquuna maaraamu walal baabaa"
+      },
+      {
+        "number": 11,
+        "text": "yanqaadu lii kullu maaraamal kiraamu munan"
+      },
+      {
+        "number": 12,
+        "text": "wal laahu raqqaa bimaa lii qaada aqtaabaa"
+      }
+    ]
+  }
+}

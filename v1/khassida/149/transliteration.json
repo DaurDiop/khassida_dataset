@@ -1,0 +1,93 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 149,
+    "name": "Qalu Liyarkan",
+    "transliterationName": "Qalu Liyarkan",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "qaaluu liyarkan li-abwaabis salaatiini"
+      },
+      {
+        "number": 2,
+        "text": "tahuz jawaabiza tughnii kulla maa hiini"
+      },
+      {
+        "number": 3,
+        "text": "faqultu hasniya rabbii waktafaytu bihi"
+      },
+      {
+        "number": 4,
+        "text": "wa lastu radiya khayral hilmi wad diini"
+      },
+      {
+        "number": 5,
+        "text": "wa lastu arjuu wa laa akhshaa siwaa malikii"
+      },
+      {
+        "number": 6,
+        "text": "li-abahu jalla yughninii wa yunjiini"
+      },
+      {
+        "number": 7,
+        "text": "annii afawwidu ahwaa lii liman hajazuu"
+      },
+      {
+        "number": 8,
+        "text": "han haala anfusihim hajzal masaakiini"
+      },
+      {
+        "number": 9,
+        "text": "awkayfa yabhasunii hubbul hutaami ilaa"
+      },
+      {
+        "number": 10,
+        "text": "jiwaari man duuruhum rawdush shayaatiini"
+      },
+      {
+        "number": 11,
+        "text": "in kuntu zaa hazanin awkubtu zaa wa tarin"
+      },
+      {
+        "number": 12,
+        "text": "dahawtu zal hayni qablar raa-i wash shiini"
+      },
+      {
+        "number": 13,
+        "text": "wahwal muhiinul lazii laa shay-a yuhjizuhu"
+      },
+      {
+        "number": 14,
+        "text": "wahwal mukawwinu maashaa ayya takwiini"
+      },
+      {
+        "number": 15,
+        "text": "in shaa-a tahajiila amri kaana zaa hajalin"
+      },
+      {
+        "number": 16,
+        "text": "aw shaa-a taajiilahu yabtaa ilal hiini"
+      },
+      {
+        "number": 17,
+        "text": "yaa man yaluumu falaa tuksir wa dah haza lii"
+      },
+      {
+        "number": 18,
+        "text": "iz lastu min faqdatid dunyaa bimahzuuni"
+      },
+      {
+        "number": 19,
+        "text": "in kaana haybiya zahdun fii hutaamihimu"
+      },
+      {
+        "number": 20,
+        "text": "fazaaka haybun nafiisun laysa yukhziini"
+      }
+    ]
+  }
+}

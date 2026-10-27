@@ -1,0 +1,604 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 41,
+    "name": "Huqqal Bukaa 1",
+    "transliterationName": "Huqqal Bukaa 1",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "حُقَّ الْبُكَآءُ عَلَى سَدَاتٍ أَمْوَاتِ",
+        "transcription": "huqqal bukaa-u halaa sadaatin amwaati",
+        "translations": {
+          "fr": "Faut-il pleurer les nobles morts"
+        }
+      },
+      {
+        "number": 2,
+        "text": "تَبْكِى الْأَرَاضِى عَلَيْهِمْ كَالسَّمَاوَاتِ",
+        "transcription": "tabkil araadii halayhim kas samaawaati",
+        "translations": {
+          "fr": "qui ont été pleurés même par la terre et les cieux ?"
+        }
+      },
+      {
+        "number": 3,
+        "text": "أَبْكِى عَلَيْهِمْ وَأَرْجُو فِى الْبُكَآءِ غَدًا",
+        "transcription": "abkii halayhim wa arjuu fil bukaa-i ghadan",
+        "translations": {
+          "fr": "Je les pleure espérant de ce fait,"
+        }
+      },
+      {
+        "number": 4,
+        "text": "رِضْوَانَ مَنْ فِيهِ غَابُواْ بِالْحَلَاوَاتِ",
+        "transcription": "ridwaana man fiihi ghaabuu bil halaawaati",
+        "translations": {
+          "fr": "la grâce de Celui en Qui ils se sont anéantis avec plaisir."
+        }
+      },
+      {
+        "number": 5,
+        "text": "يَالَهْفَ نَفْسِى عَلَى فَغْدِ الْأَكَابِرِ مَنْ",
+        "transcription": "yaa lahfa nafsii halaa faghdil akaabiri man",
+        "translations": {
+          "fr": "Ô douleur! cette peine qui frappe mon âme par la perte d'éminents saints"
+        }
+      },
+      {
+        "number": 6,
+        "text": "غَابُواْ لِرَبٍّ دَعَاهُمْ لِلْعُلُوَّاتِ",
+        "transcription": "ghaabuu lirabbin dahaahum lil huluwwaati",
+        "translations": {
+          "fr": "qui ont quitté ce monde vers un Seigneur qui les a appelés aux délices!"
+        }
+      },
+      {
+        "number": 7,
+        "text": "تَبْكِى اللَّيَالِى عَلَيْهِمْ وَالشُّهُورُ مَعًا",
+        "transcription": "tabkil layaalii halayhim wash shuhuuru mahan",
+        "translations": {
+          "fr": "Les nuits aussi bien que les mois,"
+        }
+      },
+      {
+        "number": 8,
+        "text": "مِثْلَ الْعَشِىِّ بِوَجْدِ وَالْغُدُوَّاتِ",
+        "transcription": "mislal hashiyyi biwajdi wal ghuduwwaati",
+        "translations": {
+          "fr": "les pleurent de même que le soir et le matin avec douleur."
+        }
+      },
+      {
+        "number": 9,
+        "text": "كَانُواْ عِبَادًا بِطَاعَاتٍ لِّرَبِّهِمُ",
+        "transcription": "kaanuu hibaadan bitaahaatin lirabbihimu",
+        "translations": {
+          "fr": "Ils furent des fidéles et sérieux serviteurs, obéissant à leur Maître"
+        }
+      },
+      {
+        "number": 10,
+        "text": "وَكَانَ جَلَّ لَهُمْ رَبًّا بِمِنَّاتِ",
+        "transcription": "wa kaana jalla lahum rabban biminnaati",
+        "translations": {
+          "fr": "et celui-ci Très Haut se montra pour eux, un Seigneur Munificent et Miséricordieux."
+        }
+      },
+      {
+        "number": 11,
+        "text": "كَانُواْ يَعُدُّونَ تَرْكَ الْوِرْدِ مَعْ شِبَعٍ",
+        "transcription": "kaanuu yuhudduuna tarkal wirdi mah shibahin",
+        "translations": {
+          "fr": "Ils considéraient comme cause efficiente de catastrophes, le fait de manquer un \"wird\""
+        }
+      },
+      {
+        "number": 12,
+        "text": "مِنَ الْحَلَالِ مِنَ اسْبَابِ الْمُصِيبَاتِ",
+        "transcription": "minal halaali minas baabil musiibaati",
+        "translations": {
+          "fr": "ou de se gaver d'aliments, fussent-ils licites aux yeux de la loi!"
+        }
+      },
+      {
+        "number": 13,
+        "text": "كَانُواْ إِذَا الَّيْلُ أَرْخَى السِّتْرَ ذَا حَلَكٍ",
+        "transcription": "kaanuu izal laylu arkhas sitra zaa halakin",
+        "translations": {
+          "fr": "Quand la nuit, de ses ténèbres opaques, couvrait la face du monde,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "قَامُواْ سِرَاعًا لِإِحْيَآءِ الدُّجُنَّاتِ",
+        "transcription": "qaamuu siraahan li-ihyaa-id dujunnaati",
+        "translations": {
+          "fr": "ils se levaient en sursaut pour vivifier la nuit noire."
+        }
+      },
+      {
+        "number": 15,
+        "text": "بَاعُواْ فُضُو لَآبِذِكْرِ اللَّهِ خَالِقِهِمْ",
+        "transcription": "baahuu fuduu laa bizikril laahi khaaliqihim",
+        "translations": {
+          "fr": "Ils immolèrent toute passion et vanité à l'évocation de leur Seigneur créateur,"
+        }
+      },
+      {
+        "number": 16,
+        "text": "فَالنَّوْمَ فِى الَّيْلِ بَاعُواْ بِالْمُنَاجَاتِ",
+        "transcription": "fan nawma fil layli baahuu bil munaajaati",
+        "translations": {
+          "fr": "sacrifiant leur sommeil de nuit à l'intimité (avec DIEU)."
+        }
+      },
+      {
+        "number": 17,
+        "text": "تَجْفُو الْمَضَاجِعَ فِى لَيْلٍ جُنُوبُهُمُ",
+        "transcription": "tajful madaajiha fii laylin junuubuhumu",
+        "translations": {
+          "fr": "La nuit, ils fuyaient leur lit,"
+        }
+      },
+      {
+        "number": 18,
+        "text": "نَاسِينَ سَلْمَى وَلَيْلَى بِالْبُشَارَاتِ",
+        "transcription": "naasiina salmaa wa laylaa bil bushaaraati",
+        "translations": {
+          "fr": "oubliant \"Salma\" et \"Layla\" avec plaisir et satisfaction."
+        }
+      },
+      {
+        "number": 19,
+        "text": "فَحَيْثُمَا بَرَزَتْ لَيْلَى بِبَهْجَتِهَا",
+        "transcription": "fahaysumaa barazat laylaa bibahjatihaa",
+        "translations": {
+          "fr": "La plus belle femme, apparaissait-elle dans toute sa beauté"
+        }
+      },
+      {
+        "number": 20,
+        "text": "عَنْهَا تَوَلَّوْاْ إِلَى الْمَوْلَى بِطَاعَاتِ",
+        "transcription": "hanhaa tawallaw ilal mawlaa bitaahaati",
+        "translations": {
+          "fr": "ils lui tournaient le dos pour s'adonner, corps et âme, à leur Seigneur avec ferveur."
+        }
+      },
+      {
+        "number": 21,
+        "text": "يَنْسَوْنَ لَيْلَى وَسُعْدَى فِى قِيَامِهِمُ",
+        "transcription": "yansawna laylaa wa suhdaa fii qiyaamihimu",
+        "translations": {
+          "fr": "Ils oubliaient \"Layla\" et \"Souda\" dans leurs prières"
+        }
+      },
+      {
+        "number": 22,
+        "text": "مُسْتَانِسِينَ بِأَذْكَارٍ وَءَايَاتِ",
+        "transcription": "mustaanisiina bi-azkaarin wa aayaati",
+        "translations": {
+          "fr": "se plaisant aux incantations et aux versets."
+        }
+      },
+      {
+        "number": 23,
+        "text": "حَدِيثُهُمْ ذِكْرُ مُغْنٍ نَّافِعٍ صَمَدٍ",
+        "transcription": "hadysuhum zikru mughnin naafihin samadin",
+        "translations": {
+          "fr": "Leurs sujets de conversation ne portaient jamais que sur la mention de L'Absolu, le Pourvoyeur munificent."
+        }
+      },
+      {
+        "number": 24,
+        "text": "لَاذِكْرُ هِنْدٍ وَلُبْنَى فِى الْمَقَالَاتِ",
+        "transcription": "laa zikru hindin wa lubnaa fil maqaalaati",
+        "translations": {
+          "fr": "On n'entendait guère \"Hind\" ou \"Loubna\" dans leurs propos."
+        }
+      },
+      {
+        "number": 25,
+        "text": "قَوْمٌ بِأَسْلِحَةٍ أَعْدَآءَهُمْ قَهَرُواْ",
+        "transcription": "qawmun bi-aslihatin ahdaa-ahum qahruu",
+        "translations": {
+          "fr": "Gens qui, par les armes, vainquirent leurs ennemis"
+        }
+      },
+      {
+        "number": 26,
+        "text": "حَتَّى عَلَوْاْ بِالْمَزَايَا وَالْكَرَامَاتِ",
+        "transcription": "hattaa halaw bil mazaayaa wal karaamaati",
+        "translations": {
+          "fr": "et devinrent haut placés, comblés de dons et d'honneurs."
+        }
+      },
+      {
+        "number": 27,
+        "text": "أَرْكَانُ بَيْتِ جَمِيعِ الْقَوْمِ أَرْبَعَةٌ",
+        "transcription": "arkanu bayti jamiihil qawmi arbahatun",
+        "translations": {
+          "fr": "Les principaux piliers de la maison des mystiques sont au nombre de quatre,"
+        }
+      },
+      {
+        "number": 28,
+        "text": "بِهَا يُؤَسَّسُ بُنْيَانُ الْوِلَايَاتِ",
+        "transcription": "bihaa yu-assasu bunyaanul wilaayaati",
+        "translations": {
+          "fr": "servant de fondation à l'édifice de la Sainteté (à savoir)."
+        }
+      },
+      {
+        "number": 29,
+        "text": "صُمْتٌ وَجُوعٌ طَوِيلٌ بَعْدَهُ سَهَرٌ",
+        "transcription": "sumtun wa juuhun tawiilun bahdahu saharun",
+        "translations": {
+          "fr": "Le silence et la faim patiemment endurée,"
+        }
+      },
+      {
+        "number": 30,
+        "text": "وَعُزْلَةٌ عَنْ شُيُوخٍ بِالْإِشَارَاتِ",
+        "transcription": "wa huzlatun han shuyuukhin bil ishaaraati",
+        "translations": {
+          "fr": "la veillée et l'esseulement sous le guide d'un directeur spirituel par les signes."
+        }
+      },
+      {
+        "number": 31,
+        "text": "قَوْمٌ طَرِيقَتُهُمْ تَكْفِى الْمُرِيدَآ أَذًى",
+        "transcription": "qawmun tariiqatuhum takfil muriidaa azan",
+        "translations": {
+          "fr": "Gens dont la voie préserve le disciple du mal provenant de Satan,"
+        }
+      },
+      {
+        "number": 32,
+        "text": "مِنَ الْمَرِيدِ وَأَنْوَاعَ الْغُرُورَاتِ",
+        "transcription": "minal mariidi wa anwaahal ghuruuraati",
+        "translations": {
+          "fr": "le grand Rebelle et de toutes sortes d'illusions."
+        }
+      },
+      {
+        "number": 33,
+        "text": "طَرِيقَهُمْ قَصْدُ وَجْهِ اللَّهِ دُونَ هَوًى",
+        "transcription": "tariiqahum qasdu wajhil laahi duuna hawan",
+        "translations": {
+          "fr": "Leur conduite était de viser la Face de DIEU à l'exclusion de toute autre passion,"
+        }
+      },
+      {
+        "number": 34,
+        "text": "مَعَ الْأُصُولِ الَّتِى تَنْفِى الرُّعُونَاتِ",
+        "transcription": "mahal usuulil latii tanfir ruhuunaati",
+        "translations": {
+          "fr": "appliquant les principes qui éliminent les facteurs de la débauche."
+        }
+      },
+      {
+        "number": 35,
+        "text": "مِنْ تَوْبَةٍ قُدِّمَتْ خَوْفٍ رَّجًا مَّعَهُ",
+        "transcription": "min tawbatin quddimat khawfin rajan mahahu",
+        "translations": {
+          "fr": "A savoir le repentir, la crainte de DIEU, l'espérance,"
+        }
+      },
+      {
+        "number": 36,
+        "text": "إِكْثَارُ حُزْنٍ دَوَامًا بِالْقَنَاعَاتِ",
+        "transcription": "iksaaru huznin dawaaman bil qanaahaati",
+        "translations": {
+          "fr": "l'attrition permanente en se contentant du strict nécessaire."
+        }
+      },
+      {
+        "number": 37,
+        "text": "وَالزَّهْدُ فِى كُلِّ فَانٍ بَعْدَهُ وَرَعٌ",
+        "transcription": "waz zahdu fii kulli faanin bahdahu wa rahun",
+        "translations": {
+          "fr": "Le fait de tourner le dos à tout ce qui est temporel, puis, la probité"
+        }
+      },
+      {
+        "number": 38,
+        "text": "مَعَ التَّوَكُّلِ صَبْرٌ كُلَّ سَاعَاتِ",
+        "transcription": "mahat tawakkuli sabrun kulla saahaati",
+        "translations": {
+          "fr": "et l'abandon à DIEU ainsi que la longanimité continuelle."
+        }
+      },
+      {
+        "number": 39,
+        "text": "جِهَادُ نَفْسٍ وَشُكْرٌ بِالْقَضَآءِ رِضًى",
+        "transcription": "jihaadu nafsin wa shukrun bil qadaa-i ridan",
+        "translations": {
+          "fr": "La lutte contre l'âme charnelle, être reconnaissant envers DIEU devant son vouloir transcendant,"
+        }
+      },
+      {
+        "number": 40,
+        "text": "تَرْكُ الْتِفَاتٍ إِلَى حَالِ الْبَرِيَّاتِ",
+        "transcription": "tarkul tifaatin ilaa haalil bariyyaati",
+        "translations": {
+          "fr": "être satisfait de ce qui est sa volonté et cesser de porter le regard sur l'état mondain des créatures."
+        }
+      },
+      {
+        "number": 41,
+        "text": "طَرِيقَهُمْ عَشْرَةً جَائَتْ لَوَازِمُهَا",
+        "transcription": "tariiqahum hashratan jaa-at lawaazimuhaa",
+        "translations": {
+          "fr": "Le voyage des mystiques requiert dix apprêts"
+        }
+      },
+      {
+        "number": 42,
+        "text": "لَابُدَّ مِنْهَا لِأَرْبَابِ الْإِرَادَاتِ",
+        "transcription": "laa budda minhaa li-arbaabil iraadaati",
+        "translations": {
+          "fr": "qui sont indispensables aux aspirants déterminés:"
+        }
+      },
+      {
+        "number": 43,
+        "text": "فَمَقْصَدٌ وَهْوَ مَا يُفْضِى إِلَى سَفَرٍ",
+        "transcription": "famaqsadun wahwa maa yufdii ilaa safarin",
+        "translations": {
+          "fr": "La résolution qui précède le voyage,"
+        }
+      },
+      {
+        "number": 44,
+        "text": "مِنْهَا دَلِيلٌ كَشَيْخٍ ذِى فُتُوحَاتِ",
+        "transcription": "minhaa daliilun kashaykhin zii futuuhaati",
+        "translations": {
+          "fr": "le guide qui n'est que le chef spirituel assez illuminé."
+        }
+      },
+      {
+        "number": 45,
+        "text": "وَالزَّادُ وَهْوَ التُّقَى مِنْهَا سِلَاحُهُمُ",
+        "transcription": "waz zaadu wahwat tuqaa minhaa silaahuhumu",
+        "translations": {
+          "fr": "La ferveur pieuse qui sert de viatique, l'ablution qui tient lieu d'armes"
+        }
+      },
+      {
+        "number": 46,
+        "text": "وَهْوَ الْوُضُؤَ الَّذِى يَنْفِى النَّجَاسَاتِ",
+        "transcription": "wahwal wudu-al lazii yanfin najaasaati",
+        "translations": {
+          "fr": "et qui élimine l'état d'impureté."
+        }
+      },
+      {
+        "number": 47,
+        "text": "مِنْهَا السِّرَاجُ بِذِكْرِ اللَّهِ جَلَّ عَلَا",
+        "transcription": "minhas siraaju bizikril laahi jalla halaa",
+        "translations": {
+          "fr": "La répétition sans cesse du glorieux Nom de DIEU qui est leur lanterne,"
+        }
+      },
+      {
+        "number": 48,
+        "text": "مِنْهَا الْمَطَا يَابِهِمَّاتٍ عَلِيَّاتِ",
+        "transcription": "minhal mataa yaa bihimmaatin haliyyaati",
+        "translations": {
+          "fr": "aussi un haut souci de bonne volonté qui tient lieu de monture."
+        }
+      },
+      {
+        "number": 49,
+        "text": "مِنْهَا الْعُكَازُ بِعَجْزٍ وَالْحِزَامُ لَدَى",
+        "transcription": "minhal hukaazu bihajrin wal hizaamu ladaa",
+        "translations": {
+          "fr": "La conscience de son impuissance dans l'abandon à DIEU, sert au Soufi de bêton d'appui,"
+        }
+      },
+      {
+        "number": 50,
+        "text": "أَهْلِ الطَّرِيقَةِ حَزْمٌ بِالْحَقِيقَاتِ",
+        "transcription": "ahlit tariiqati hazmun bil haqiiqaati",
+        "translations": {
+          "fr": "la détermination qui, en réalité, est sa ceinture selon l'avis des gens de la voie."
+        }
+      },
+      {
+        "number": 51,
+        "text": "وَمِنْ لَّوَازِمِهَا مِنْهَا جُهَآ أَبَدًا",
+        "transcription": "wa min lawaazimihaa minhaa juhaa abadan",
+        "translations": {
+          "fr": "La \"sharîa\" constitue la route"
+        }
+      },
+      {
+        "number": 52,
+        "text": "وَهْىَ الشَّرِيعَةُ فِى بَدْءٍ وَغَايَاتِ",
+        "transcription": "wah-yash shariihatu fii bad-in wa ghaayaati",
+        "translations": {
+          "fr": "qu'il suit du début à la fin."
+        }
+      },
+      {
+        "number": 53,
+        "text": "وَرُفْقَةٌ وَهْىَ إِخْوَانٌ لَّهُمْ هِمَمٌ",
+        "transcription": "wa rufqatun wah-ya ikhwaanun lahum himamun",
+        "translations": {
+          "fr": "Des frères de même but, déterminés, fidéles"
+        }
+      },
+      {
+        "number": 54,
+        "text": "مَعَ الْوَفَآءِ بِصِدْقٍ فِى الْأُخَوَّاتِ",
+        "transcription": "mahal wafaa-i bisidqin fil ukhuwwaati",
+        "translations": {
+          "fr": "et sincères dans la fraternité, servant de compagnons de route."
+        }
+      },
+      {
+        "number": 55,
+        "text": "وَالْكُلُّ مِنْ جُمْلَةِ السَّادَاتِ ذُورَتَبٍ",
+        "transcription": "wal kullu min jumlatis saadaati zuu ratabin",
+        "translations": {
+          "fr": "Chacun de l'ensemble de ces nobles appartient à un haut rang,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "يَكْفِى الْمُرِيدَ مَرِيدًا ذَا غَوَايَاتِ",
+        "transcription": "yakfil muriida mariidan zaa ghawaayaati",
+        "translations": {
+          "fr": "capable de protéger l'aspirant contre le mal d'un rebelle pervers."
+        }
+      },
+      {
+        "number": 57,
+        "text": "كُلٌّ مِنَ الْقَوْمِ شَيْخٌ عَالِمٌ وَرِعٌ",
+        "transcription": "kullun minal qawmi shaykhun haalimun wa rihun",
+        "translations": {
+          "fr": "Chacun d'eux est un grand directeur spirituel, un érudit et un probe."
+        }
+      },
+      {
+        "number": 58,
+        "text": "مِنْهُمْ مُّرَبٍّ بِأَذْكَارٍ وَحَالَاتِ",
+        "transcription": "minhum murabbin bi-azkaarin wa haalaati",
+        "translations": {
+          "fr": "Certains d'entre eux éduquent par des incantations et des états mystiques."
+        }
+      },
+      {
+        "number": 59,
+        "text": "مِنْهُمْ مُّرَقٍ بِحَالٍ وَحْدَهَا أَبَدًا",
+        "transcription": "minhum muraqin bihaalin wahdahaa abadan",
+        "translations": {
+          "fr": "Parmi eux, il y'en a qui élèvent leurs disciples, tout le temps,"
+        }
+      },
+      {
+        "number": 60,
+        "text": "مِنْهُمْ مُّرَبٍّ مُّرَقٍ بِالْإِشَارَاتِ",
+        "transcription": "minhum murabbin muraqin bil ishaaraati",
+        "translations": {
+          "fr": "par un seul état, mais d'autres éduquent et élèvent par des signes (efficaces)."
+        }
+      },
+      {
+        "number": 61,
+        "text": "كُلٌّ خَبِيرٌ بِأَذْوَآءِ الْقُلُوبِ مَعًا",
+        "transcription": "kullun khabiirun bi-azwaa-il quluubi mahan",
+        "translations": {
+          "fr": "Chacun est un connaisseur sagace, connaissant l'ensemble des maladies spirituelles,"
+        }
+      },
+      {
+        "number": 62,
+        "text": "يَكْفِى الْمُرِدِينَ أَنْوَاعَ الشَّقَاوَاتِ",
+        "transcription": "yakfil muridiina anwaahash shaqaawaati",
+        "translations": {
+          "fr": "préservant les aspirants (le mouride) de diverses sortes de malheurs."
+        }
+      },
+      {
+        "number": 63,
+        "text": "كُلٌّ كَرِيمٌ تَقِىٌّ ذُو هُدًى وَسَخًا",
+        "transcription": "kullun kariimun taqiyyun zuu hudan wa sakhan",
+        "translations": {
+          "fr": "Chacun est un noble, généreux, dévot et sage,"
+        }
+      },
+      {
+        "number": 64,
+        "text": "يُمْضِى النَّصِيحَةَ فِى كُلِّ الْبَرِيَّاتِ",
+        "transcription": "yumdin nasiihata fii kullil bariyyaati",
+        "translations": {
+          "fr": "prodiguant les plus précieux conseils à l'ensemble des humains."
+        }
+      },
+      {
+        "number": 65,
+        "text": "يَنْحُو بِتَقْوًى حُظُوظَ النَّفْسِ جُمْلَتَهَا",
+        "transcription": "yanhuu bitaqwan huzuuzan nafsi jumlatahaa",
+        "translations": {
+          "fr": "Guérissant l'âme de tous ses vices, par Sa ferveur,"
+        }
+      },
+      {
+        "number": 66,
+        "text": "يَعِى عُلُومًا مِّنْ الْمَوْلَى سَنِيَّاتِ",
+        "transcription": "yahii huluuman minal mawlaa saniyyaati",
+        "translations": {
+          "fr": "ayant reçu du Seigneur des sciences Très éminentes."
+        }
+      },
+      {
+        "number": 67,
+        "text": "يُبْدِى طَرِيقَةَ أَهْلِ اللَّهِ وَاضِحَةً",
+        "transcription": "yubdii tariiqata ahlil laahi waadihatan",
+        "translations": {
+          "fr": "Vulgarisant les connaissances de la voie des \"hommes de DIEU\""
+        }
+      },
+      {
+        "number": 68,
+        "text": "لِلْمُهْتَدِيَنَ جَمِيعًا بِالْفُيُوضَاتِ",
+        "transcription": "lil muhtadiina jamiihan bil fuyuudaati",
+        "translations": {
+          "fr": "pour tous ceux qui veulent s'y soumettre, par des inspirations (divines)."
+        }
+      },
+      {
+        "number": 69,
+        "text": "كُلٌّ لَّهُ هِمَّةٌ يَرْقَى بِهَآ أَبَدًا",
+        "transcription": "kullun lahu himmatun yarqaa bihaa abadan",
+        "translations": {
+          "fr": "Chacun a un souci Très élevé par lequel il se hisse, tout le temps,"
+        }
+      },
+      {
+        "number": 70,
+        "text": "إِلَى عَزِيزٍ مُّعِزٍّ بِالْفُتُوحَاتِ",
+        "transcription": "ilaa haziizin muhizzin bil futuuhaati",
+        "translations": {
+          "fr": "vers l'Omnipotent qui confère la force et l'illumination."
+        }
+      },
+      {
+        "number": 71,
+        "text": "يَرَى الْخَفَايَا بِعَيْنِ الْقَلْبِ ظَاهِرَةً",
+        "transcription": "yaral khafaayaa bihaynil qalbi zaahiratan",
+        "translations": {
+          "fr": "Voyant clairement ce qui est caché, par l'oeil de son coeur,"
+        }
+      },
+      {
+        "number": 72,
+        "text": "كَمَا يُشَاهِدُ مَا تَحْتَ الْأَكِنَّاتِ",
+        "transcription": "kamaa yushaahidu maa tahtal akinnaati",
+        "translations": {
+          "fr": "de même qu'il scrute et discerne ce qui est dissimulé dans les ténèbres."
+        }
+      },
+      {
+        "number": 73,
+        "text": "يَحْوِى ضِيَآءً كَضَوْءِ الشَّمْسِ حَيْثُ نَحَا",
+        "transcription": "yahwii diyaa-an kadaw-ish shamsi haysu nahaa",
+        "translations": {
+          "fr": "Chacun d'eux posséde une lumière semblable à celle d'un soleil"
+        }
+      },
+      {
+        "number": 74,
+        "text": "يَحْظَى بِهَا كُلُّ شَخْصٍ ذِى اسْتِنَارَاتِ",
+        "transcription": "yahzaa bihaa kullu shakhsin zis tinaaraati",
+        "translations": {
+          "fr": "par laquelle il illumine toute personne qui cherche à être éclairée."
+        }
+      }
+    ]
+  }
+}

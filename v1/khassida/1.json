@@ -1,0 +1,412 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 1,
+    "name": "Ahazanil Baaqi",
+    "transliterationName": "Ahazanil Baaqi",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "أَعَاذَنِى الْبَاقِى مِنَ الشَّيْطَانِ",
+        "transcription": "ahaazanil baaqii minash shaytaani",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "عِنْدَ مَمَرِّىَ وَفِى الْأَوْطَانِ",
+        "transcription": "hinda mamarriya wa fil awtaani",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "عِبَادَتِى ابْدَأْتُ بِسْمِ اللَّهِ",
+        "transcription": "hibaadatib da-tu bismil laahi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَهْوَ كَفَانِىَ ذَوِى الْمَلَاهِى",
+        "transcription": "wahwa kafaaniya zawil malaahii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "وَجَّهْتُ كُلَّ الْحَمْدِ وَالشُّكُورِ",
+        "transcription": "wajjahtu kullal hamdi wash shukuuri",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "لِلْمَالِكِ الرَّحْمَانِ وَالشَّكُورِ",
+        "transcription": "lil maalikir rahmaani wash shakuuri",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "ذَكَى الرَّحِيمُ بِالنَّبِى رَجِيمِى",
+        "transcription": "zakar rahiimu bin nabii rajiimii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَءَالِهِ وَصَحْبِهِ النُّجُومِ",
+        "transcription": "wa aalihi wa sahbihin nujuumi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "بِاللَّهِ فَارَقْتُ النَّصَارَى جِوَلِ",
+        "transcription": "bil laahi faaraqtun nasaaraa jiwali",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "وَغَيْرِهِ قَطْعًا بِلَا تَنَاوُلِ",
+        "transcription": "wa ghayrihi qat-han bilaa tanaawuli",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "إِلَى النَّبِى وَجَهْتُ قَبْلُ فِى انْدَرِ",
+        "transcription": "ilan nabii wajjahtu qablu fin dari",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "مَا قَدْ كَفَانِىَ الْعِدَى كَالْكَدَرِ",
+        "transcription": "maa qad kafaaniyal hidaa kal kadari",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "لِلْمُنْتَقَى وَجَّهْتُ فِى انْدَكَارُ",
+        "transcription": "lil muntaqaa wajjahtu fin dakaaru",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "ذِكْرًا بِهِ قَدْ كُبْكِبَ الْمَكَّارُ",
+        "transcription": "zikran bihi qad kubkibal makkaaru",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "لِلْمُجْتَبَى وَجَّهْتُ فِى السَّفِينَهْ",
+        "transcription": "lil mujtabaa wajjahtu fis safiinah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "قَبْلُ ثَنَآ يَخْلُدُ فِى الْمَدِينَهْ",
+        "transcription": "qablu sanaa yakhludu fil madiinah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "أَخْلَصْتُ خِدْمَتِى لَدَى كُنَاكِرِ",
+        "transcription": "akhlastu khidmatii ladaa kunaakiri",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "لِلْمُصْطَفَى الْمَاحِى بِلَا مَنَاكِرِ",
+        "transcription": "lil mustafaal maahii bilaa manaakiri",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "هَرَبَ مِنِّى قَبْلُ فِى كَرَمْبَسَا",
+        "transcription": "haraba minnii qablu fii karambasaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "مُبَارِزِى وَلِسِوَاىَ حُبِسَا",
+        "transcription": "mubaarizii wa lisiwaaya hubisaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "مَلَّكَنِى الْمَالِكُ عِنْدَ دَاوُمِ",
+        "transcription": "mallakanil maaliku hinda daawumi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "مَا قَدْ كَفَانِىَ عِدَى تَسَاوُمِ",
+        "transcription": "maa qad kafaaniya hidaa tasaawumi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "نَفَعَنِى النَّافِعُ فِى لِبَرْوَلِ",
+        "transcription": "nafahaniin naafihu fii libarwali",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "بِمَا بِهِ يَغْبِطُنِى كُلُّ وَلِى",
+        "transcription": "bimaa bihi yaghbitunii kullu walii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 25,
+        "text": "إِلَى النَّبِى وَجَّهْتُ عِنْدَ بَافَلِ",
+        "transcription": "ilan nabii wajjahtu hinda baafali",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 26,
+        "text": "قَبْلُ بِمَا بِهِ أَنَارَ مَحْفَلِى",
+        "transcription": "qablu bimaa bihi anaara mahfalii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 27,
+        "text": "لِلْمُنْتَقَى وَجَّهْتُ فِى كَبْلَبِسَا",
+        "transcription": "lil muntaqaa wajjahtu fii kablabisaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 28,
+        "text": "مَا قَدْ كَفَانِىَ عَدُوًّا حُبِسَا",
+        "transcription": "maa qad kafaaniya haduwwan hubisaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 29,
+        "text": "شَقَّ عَلَى الشَّيْطَانِ عِنْدَ كَلْوَى",
+        "transcription": "shaqqa halash shaytaani hinda kalwaa (galwaa)",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 30,
+        "text": "كَوْنِى خَدِيمَ مَنْ كَفَانِى الْبَلْوَى",
+        "transcription": "kawnii khadiima man kafaanil balwaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 31,
+        "text": "يَسُوقُ سَرْمَدًا لِّغَيْرِى اللَّهُ",
+        "transcription": "yasuuqu sarmadan lighayril laahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 32,
+        "text": "ضُرًّا وَلَآ إِلَاهَ إِلَّا اللَّهُ",
+        "transcription": "durran walaa ilaaha illal laahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 33,
+        "text": "طَوَافُ كُلِّ مَنْ عَلَىَّ أَنْكَرَا",
+        "transcription": "tawaafu kulli man halayya ankara",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 34,
+        "text": "عِنْدَ الْإِلَهِ وَالنَّبِى لَنْ يُّشْكَرَا",
+        "transcription": "hindal ilaahi wan nabii lan yushkaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 35,
+        "text": "إِلَى سِوَىَ كُلُّ مَنْ لَّمْ يَهْوُنِى",
+        "transcription": "ilaa siwaaya kullu man lam yahwunii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَلِسِوَى اللَّهِ الْعَالِى الْمُكَوِّنِ",
+        "transcription": "wa lisiwal laahil haalil mukawwini",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 37,
+        "text": "نَفَى لِغَيْرِى كُلَّ مَنْ تَكَبَّرَا",
+        "transcription": "nafaa lighayrii kulla man takabbaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 38,
+        "text": "بَاقٍ حَبَانِى بِمَزَايَا الْكُبَرَآ",
+        "transcription": "baaqin habaanii bimazayal kubaraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 39,
+        "text": "إِلَى سِوَاىَ وَلِغَيْرِ الْمُنْتَقَى",
+        "transcription": "ilaa siwaya wa lighayril muntaqaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 40,
+        "text": "مَنْ لَّا يُحِبُّنِى وَيَلْقَى مَااتَّفَى",
+        "transcription": "man laa yuhibbunii wa yalqaa mat tafaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 41,
+        "text": "لِغَيْرِ رَبِّى وَلِغَيْرِ الْمُنْتَجَبْ",
+        "transcription": "lighayri rabbii wa lighayril muntajab",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 42,
+        "text": "يُسَاقُ مَنْ زَهِدَ فِىَّ وَاحْتَجَبْ",
+        "transcription": "yusaaqu man zahida fiyya wahtajab",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 43,
+        "text": "رَدَدْتُّ أَعْدَآءَ الْإِلَهَ وَالنَّبِى",
+        "transcription": "radadttu ahdaa-al ilaaha wan nabii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 44,
+        "text": "وَلَا يَزَالُ مُبْغِضِى بِمُذْنِبِ",
+        "transcription": "walaa yazaalu mubghidii bimuznibi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 45,
+        "text": "بِهَادِىَ انْقَضَى وَبَيْعِى رَبِحَا",
+        "transcription": "bihaadiyan qadaa wa bayhii rabihaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 46,
+        "text": "وَلِسِوَاىَ كُلُّ كَلْبٍ نَّبَحَا",
+        "transcription": "wa lisiwaaya kullu kalbin nabahaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 47,
+        "text": "يَنْدَمُ فِى الدَّارَيْنِ مَنْ عَادَانِى",
+        "transcription": "yandamu fid daarayni man haadaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 48,
+        "text": "بِعَدْلِ بَاقٍ فَضْلُهُ هَدَانِى",
+        "transcription": "bihadli baaqin fadluhu hadaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 49,
+        "text": "مِنْ غَيْرِ بِشْرٍ وَمِنَ الشَّيْطَانِ",
+        "transcription": "min ghayri bishrin wa minash shaytaani",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 50,
+        "text": "أَعَاذَنِى مَنْ جَادَ بِالْأَوْطَانِ",
+        "transcription": "ahaazanii man jaada bil awtaani",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

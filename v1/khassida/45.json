@@ -1,0 +1,220 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 45,
+    "name": "Ilaa Nabiyyin",
+    "transliterationName": "Ilaa Nabiyyin",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "إِلَى نَبِىٍّ رَّسُولٍ جَآءَنَا بِهُدَى",
+        "transcription": "ilaa nabiyyin rasuulin jaa-anaa bihudaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "مُذِ اهْتَدَى بِكِتَابٍ جَآبِهِ فَهَدَى",
+        "transcription": "muzih tadaa bikitaabin jaabihi fahadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "أَبْقَى تَحَايَا بِلَا غِشٍ وَلَا كَدَرٍ",
+        "transcription": "abqaa tahaayaa bilaa ghishin walaa kadarin",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "مِنَ الْخَدِيمِ الَّذِى يَنْحُوهُ مُلْتَحَدَا",
+        "transcription": "minal khadiimil lazii yanhuuhu multahadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "لِئَالِهِ الْغُرِّ وَالْأَصْحَابِ قَاطِبَةً",
+        "transcription": "li-aalihil ghurri wal as-haabi qaatibatan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "مِّنِّى سَلَامٌ يُدِيمُ الْأَمْنَ وَالرَّغَدَا",
+        "transcription": "minnii salaamun yudiimul amna war raghadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "يَاسَيِّدِى يَارَسُولَ اللَّهِ يَآ أَمَلِى",
+        "transcription": "yaa sayyidii yaa rasuulal laahi yaa amalii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "صَلَّى عَلَيْكَ الَّذِى قَصَّى الَّذِى مَرَدَا",
+        "transcription": "sallaa halaykal lazii qassal lazii maradaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "يَامُنْتَقَى يَآ إِمَامَ الْمُرْسَلِينَ مَعًا",
+        "transcription": "yaa muntaqaa yaa imaamal mursaliina mahan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "عَلَيْكَ تَسْلِيمُ مَنْ صَفَّى بِكَ الْخَلَدَا",
+        "transcription": "halayka tasliimu man saffaa bikal khaladaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "صَلَّى عَلَيْكَ بِتَسْلِيمٍ بِلَا عَدَدٍ",
+        "transcription": "sallaa halayka bitasliimin bilaa hadadin",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "مَنْ لَّمْ يَكُنْ قَطُّ مَوْلُودًا وَلَمْ يَلِدَا",
+        "transcription": "man lam yakun qattu mawluudan wa lam yalidaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "صَلَّى وَسَلَّمَ بَاقٍ لَّاشَرِيكَ لَهُ",
+        "transcription": "sallaa wa sallama baaqin laa shariika lahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "عَلَيْكَ بِالْئَالِ يَامَنْ زَحْزَحَ الْفَنَدَا",
+        "transcription": "halayka bil aali yaa man zahzahal fanadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "صَلَّى وَسَلَّمَ بَاقٍ لَّانَفَادَ لَهُ",
+        "transcription": "sallaa wa sallamaa baaqin laa nafaada lahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "عَلَيْكَ بِالصَّحْبِ يَامَنْ قَرَّبَ الرَّشَدَا",
+        "transcription": "halayka bis sahbi yaa man qarrabar rashadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "أَهْلُ الْمَدِينَةِ مِنِّى سَرْمَدًا لَّكُمُ",
+        "transcription": "ahlul madiinati minnii sarmadan lakumu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "أَبْقَى سَلَامٍ يُطِيبُ الْقَلْبَ وَالْجَسَدَا",
+        "transcription": "abqaa salaamin yutiibul qalba wal jasadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "لَازِلْتُمُ الدَّهْرَ فِى صَفْوٍ وَتَوْسِعَةٍ",
+        "transcription": "laa ziltumud dahra fii sawfin wa tawsihatin",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "يَكْفِيكُمُ اللَّهُ لِلْجَنَّاتِ مَنْ عَنَدَا",
+        "transcription": "yakfiikumul laahu lil jannaati man hanadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "فُزْتُمْ بِكَوْنِ ابْنِ عَبْدِ اللَّهِ جَارَكُمُ",
+        "transcription": "fuztum bikawnibni habdil laahi jaarakumu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَكَوْنَكُمْ حَوْلَهُ فَلْتَحْمَدُواْ الصَّمَدَا",
+        "transcription": "wa kawnakum hawlahu faltahmadus samadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "صَلَّى عَلَيْهِ الَّذِى يَنْفِى الْعِدَى أَبَدًا",
+        "transcription": "sallaa halayhil lazii yanfil hidaa abadan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "إِلَى سِوَى مَنْ نَّحَاهُ الدَّهْرَ مُلْتَحَدَا",
+        "transcription": "ilaa siwaa man nahaahud dahra multahadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 25,
+        "text": "تَسُرُّهُ مِنْ حَيَاتِى خِدْمَةٌ قُبِلَتْ",
+        "transcription": "tasurruhu min hayaatii khidmatun qubilat",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 26,
+        "text": "مِنِّى بِفَضْلِ الَّذِى أَهْدَى بِهِ فَهَدَى",
+        "transcription": "minnii bifadlil lazii ahdaa bihi fahadaa",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 181,
+    "name": "Walaqad Karamna 2",
+    "transliterationName": "Walaqad Karamna 2",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "rud lis salaatiina yaa qahhaaru fii abadin"
+      },
+      {
+        "number": 2,
+        "text": "waltahminii wakfinii makran wa shaytaanaa"
+      },
+      {
+        "number": 3,
+        "text": "rajawtu annaka tahmiinii wa tansurunii"
+      },
+      {
+        "number": 4,
+        "text": "nasran haziizan binaylii minka ridwaanaa"
+      },
+      {
+        "number": 5,
+        "text": "wa qaytanii makra ahdaa-ii wa man mahahum"
+      },
+      {
+        "number": 6,
+        "text": "faltakfinii sarmadan hiqdan wa hudwaanaa"
+      },
+      {
+        "number": 7,
+        "text": "ighfir zunuubii wa hab lil yawma matlabatii"
+      },
+      {
+        "number": 8,
+        "text": "bikun wa rumma bihi lii sarmadan shaanaa"
+      },
+      {
+        "number": 9,
+        "text": "lii hab firaaqil lazii lam tardahu khuluqan"
+      },
+      {
+        "number": 10,
+        "text": "waltamhu hanniya yaa ghaffaaru maa shaanaa"
+      },
+      {
+        "number": 11,
+        "text": "bihurmatil mustafaa man sirtu khaadimahu"
+      },
+      {
+        "number": 12,
+        "text": "bin nazmi wan nashri sajhan summa miizaanaa"
+      },
+      {
+        "number": 13,
+        "text": "hajjii biqalbii taqabbal wakfinii khata-an"
+      },
+      {
+        "number": 14,
+        "text": "waltamhu shaynii waa kammilnii bimaa zaanaa"
+      },
+      {
+        "number": 15,
+        "text": "rabbis tajib waltukamil maa nawaytu ladaa"
+      },
+      {
+        "number": 16,
+        "text": "tuubal latii bika tubnaa fiika bun-yaanaa"
+      },
+      {
+        "number": 17,
+        "text": "wajjahtu wajhiya yawmas sabti murtadiyan"
+      },
+      {
+        "number": 18,
+        "text": "ilal lazii sarmadan in qaala kun kaanaa"
+      },
+      {
+        "number": 19,
+        "text": "rabbun kariimun hafiizun waasihun samadun"
+      },
+      {
+        "number": 20,
+        "text": "wa abtaghii minhu taysiran wa iskaanaa"
+      },
+      {
+        "number": 21,
+        "text": "zid hilmiyal yawma zaydan qad yubashshirunii"
+      },
+      {
+        "number": 22,
+        "text": "fat-han wa faydan wa rud lid dahra sajjaanaa"
+      },
+      {
+        "number": 23,
+        "text": "qadiiru qahhaaru yaa jabbaaru yaa gharadii"
+      },
+      {
+        "number": 24,
+        "text": "rud lil lazii yaa khuzul amwaala majjaanaa"
+      },
+      {
+        "number": 25,
+        "text": "naajaytukal yawma yaa barran halayya lahu"
+      },
+      {
+        "number": 26,
+        "text": "shukrun yukhajjilu yaa quutan wa marjaanaa"
+      },
+      {
+        "number": 27,
+        "text": "antal haliyyul haziimul hadlu yaa amalii"
+      },
+      {
+        "number": 28,
+        "text": "antal haliimul haliimul barru rahmaanaa"
+      },
+      {
+        "number": 29,
+        "text": "hab lii bihaqqi tihil asmaa-i qahriya man"
+      },
+      {
+        "number": 30,
+        "text": "amsaa yukaabidu ahlal haqqi azmaanaa"
+      },
+      {
+        "number": 31,
+        "text": "minkal tamastul lazii ahtaytahus sulahaa"
+      },
+      {
+        "number": 32,
+        "text": "hattaa bihi qaharul ahdaa-i idmaanaa"
+      },
+      {
+        "number": 33,
+        "text": "mallikniyal yawma yaa wahhaabu matlabatii"
+      },
+      {
+        "number": 34,
+        "text": "waltakfinii kayda man lil hirsi qad maanaa"
+      },
+      {
+        "number": 35,
+        "text": "naajaytukal yawma zaa faqrin ilayka fakun"
+      },
+      {
+        "number": 36,
+        "text": "lii mughniyan waftahan lil yawma biibaanaa"
+      },
+      {
+        "number": 37,
+        "text": "iftah liyal yawma bil mukhtaari sayyidinaa"
+      },
+      {
+        "number": 38,
+        "text": "abwaaba khayrin tajurrur rizqa ibbaanaa"
+      },
+      {
+        "number": 39,
+        "text": "lii kun bijuudin wa is-haadin wa marhamatin"
+      },
+      {
+        "number": 40,
+        "text": "wa bil bushaaraati yaa man fadluhu baanaa"
+      },
+      {
+        "number": 41,
+        "text": "tayyib hayaatii bilaa mawtin walaa dararin"
+      },
+      {
+        "number": 42,
+        "text": "wajhal bifadlika muksii rabbi qurbaanaa"
+      },
+      {
+        "number": 43,
+        "text": "yassir jamiihal lazii arjuu wa atlubuhu"
+      },
+      {
+        "number": 44,
+        "text": "hattaa akuuna qariiral hayni jazlaanaa"
+      },
+      {
+        "number": 45,
+        "text": "yaa rabbi qud liya fid daarayni kulla munan"
+      },
+      {
+        "number": 46,
+        "text": "waltakfinii abadan makran wa khizlaanaa"
+      },
+      {
+        "number": 47,
+        "text": "bayyin liyal haqqa kashfan laa yufaariqunii"
+      },
+      {
+        "number": 48,
+        "text": "kamaaa kashafta li-ahlil laahi tib-yaanaa"
+      },
+      {
+        "number": 49,
+        "text": "isrif quluubal ahaadii han azaaya mahan"
+      },
+      {
+        "number": 50,
+        "text": "linusrati wahdibi shiiban wa fit-yaanaa"
+      },
+      {
+        "number": 51,
+        "text": "tarakut amsil lazii qad bihtuhu wa madaa"
+      },
+      {
+        "number": 52,
+        "text": "fad dahra baddil wa hannii kuffa khiz-yaanaa"
+      },
+      {
+        "number": 53,
+        "text": "wajjih liyal kashfa wat taskhiina duura hanan"
+      },
+      {
+        "number": 54,
+        "text": "waltakfinii sarmadan jahlan wa khusraanaa"
+      },
+      {
+        "number": 55,
+        "text": "fattaahu hab liya fat-han qad yurii hajaban"
+      },
+      {
+        "number": 56,
+        "text": "yaa khayra haadin hadaa ghumran wa hayraanaa"
+      },
+      {
+        "number": 57,
+        "text": "diftul kariimal lazii yuqrii bikun abadan"
+      },
+      {
+        "number": 58,
+        "text": "wa an uhaawana fii tuubaaya qad aanaa"
+      },
+      {
+        "number": 59,
+        "text": "diftul kariimal lazii fil barri karramanii"
+      },
+      {
+        "number": 60,
+        "text": "wal bahri iz saaqa lii bil faydi qur-aanaa"
+      }
+    ]
+  }
+}

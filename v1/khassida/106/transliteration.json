@@ -1,0 +1,133 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 106,
+    "name": "Miftahun Nasri",
+    "transliterationName": "Miftahun Nasri",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "al hamdu lil laahil mujiibi zil qadar"
+      },
+      {
+        "number": 2,
+        "text": "man khassanaa fadlan bilaylatil qadar"
+      },
+      {
+        "number": 3,
+        "text": "muhazziman lisha-nihaa fid dahri"
+      },
+      {
+        "number": 4,
+        "text": "hattaa ghadat khayran minal fi shahri"
+      },
+      {
+        "number": 5,
+        "text": "summa salaatu was salaamu abadaa"
+      },
+      {
+        "number": 6,
+        "text": "halal lazii khayral bariyyati badaa"
+      },
+      {
+        "number": 7,
+        "text": "muhammadin wal aali was sahbil kiraam"
+      },
+      {
+        "number": 8,
+        "text": "maa zafirad daahii bi-afdali maraam"
+      },
+      {
+        "number": 9,
+        "text": "haazaa wa innil yawma zus timtaari"
+      },
+      {
+        "number": 10,
+        "text": "minal kariimi kulla maa awtaari"
+      },
+      {
+        "number": 11,
+        "text": "yaa rabbanaa bifadli haazil laylati"
+      },
+      {
+        "number": 12,
+        "text": "fastur mahaa-ibiya wasmah qawlatii"
+      },
+      {
+        "number": 13,
+        "text": "yaa rabbanaa bifadli haazal yawmi"
+      },
+      {
+        "number": 14,
+        "text": "aslih umuurii wa umuura qawmii"
+      },
+      {
+        "number": 15,
+        "text": "yaa rabbanaa bifadlihak fi kulla maa"
+      },
+      {
+        "number": 16,
+        "text": "yadurrunii wa lil hudajhal sullamaa"
+      },
+      {
+        "number": 17,
+        "text": "yaa rabbanaa biyumnihal jinaanaa"
+      },
+      {
+        "number": 18,
+        "text": "hab lii wa tahhiran liyal janaanaa"
+      },
+      {
+        "number": 19,
+        "text": "yaa rabbanaa bijaahihan nuurayni"
+      },
+      {
+        "number": 20,
+        "text": "hab lii wa lil ummati fid daarayni"
+      },
+      {
+        "number": 21,
+        "text": "wasluk binaa nahja najaahin wa falaah"
+      },
+      {
+        "number": 22,
+        "text": "wajzub quluubanaa lizuhdin wa salaah"
+      },
+      {
+        "number": 23,
+        "text": "wa awlinaa sahaadatan taduumu"
+      },
+      {
+        "number": 24,
+        "text": "wal fadla yaa man mulkuhu yaduumu"
+      },
+      {
+        "number": 25,
+        "text": "wa salliyan khayra salaatin wa salaam"
+      },
+      {
+        "number": 26,
+        "text": "halal lazii min duurihi daarus salaam"
+      },
+      {
+        "number": 27,
+        "text": "muhammadin baabil hudaa naafir radaa"
+      },
+      {
+        "number": 28,
+        "text": "naa-il madaa jaalid dujaa muz wa radaa"
+      },
+      {
+        "number": 29,
+        "text": "wal aali was sahbi wa man laka dahaa"
+      },
+      {
+        "number": 30,
+        "text": "maa aaba bil fawzil haziimi man dahaa"
+      }
+    ]
+  }
+}

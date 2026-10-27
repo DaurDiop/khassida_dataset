@@ -1,0 +1,460 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "Lil Mustafa Nawaytu",
+    "transliterationName": "Lil Mustafa Nawaytu",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "لِلْمُصْطَفَى نَوَيْتُ مَا يُجَدِّدُ",
+        "transcription": "lil mustafaa nawaytu maa yujaddidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "سُنَّتَهُ الْغَرَّآ وَإِنِّى أَحْمَدُ",
+        "transcription": "sunnatahul gharaa wa innii ahmadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "يُعِينُنِى عَلَى الصَّوَابِ الصَّمَدُ",
+        "transcription": "yuhiinunii halas sawaabis samadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "بِجَاهِ خَيْرَ الْخَلْقِ نِعْمَ الْجَيِّدُ",
+        "transcription": "bijaahi khayril khalqi nihmal jayyidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "أَرْسَلَ خَيْرَ الْعَالَمِينَ الْأَحَدُ",
+        "transcription": "arsala khayral haalamiinal ahadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "نِعْمَ الْإِلَاهُ الْأَكْرَمُ الْمُوَحَّدُ",
+        "transcription": "nihmal ilaahul akramul muwahhadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "لِلَّهِ حَمْدٌ مَّعَ شُكْرٍ يُخْلَدُ",
+        "transcription": "lil laahi hamdun maha shukrin yukhladu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "دَوَامَ مُلْكٍ نَّفِعٍ يَنْفَرِدُ",
+        "transcription": "dawaama mulkin naafihin yanfaridu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "لَهُ خِطَابِى حَامِدًا وَيُنْجِدُ",
+        "transcription": "lahu khitaabii haamidan wa yunjidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "عَلَى الَّذِى بِهِ الْجِنَانَ أَقْصِدُ",
+        "transcription": "halal lazii bihil jinaana aqsidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "هَبْ لِى كِتَابَكَ وَسُقْ مَا يُخْلِدُ",
+        "transcription": "hab lii kitaabaka wa suq maa yukhlidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "بِشْرِىَ لِى يَآ أَكْرَمًا أُوَحِّدُ",
+        "transcription": "bishriya lii yaa akraman uwahhidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "إِنَّ كِتَابً جَآبِهِ مُحَمَّدُ",
+        "transcription": "inna kitaaban jaabihi muhammadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "صَلَّى عَلَيْهِ بِالسَّلَامِ الصَّمَدُ",
+        "transcription": "sallaa halayhi bis salaamis samadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "لَنَا بِهِ انْقَادَ هُدًى وَرَشَدُ",
+        "transcription": "lanaa bihin qaada hudan wa rashadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "بِهِ عَلَى رَبِّ الْوَرَى نَعْتَمِدُ",
+        "transcription": "bihi halaa rabbil waraa nahtamidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "قَادَ لَنَا الْقُرْءَانُ مَا لَانَجِدُ",
+        "transcription": "qaada lanal qur-aanu maa laa najidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "فِى غَيْرِهِ نِعْمَ الْكِتَابُ الْأَفْيَدُ",
+        "transcription": "fii ghayrihi nihmal kitaabul af-yadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "رَدَّ مَكَارِهِى وَلِى لَاتَرِدُ",
+        "transcription": "radda makaarihii wa lii laa taridu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "بَاقٍ بِهِ لِىَ الْمُنَى يُخَلِّدُ",
+        "transcription": "baaqin bihi liyal munaa yukhallidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "ءَايَاتُهُ إِلَى سِوَانَا تَطْرُدُ",
+        "transcription": "aayaatuhu ilaa siwaanaa tatrudu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "بِلَا انْتِهًا قَبْلَ انْتِحًا مَّنْ يَّرْصُدُ",
+        "transcription": "bilaan tihan qablan tihan man yarsudu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "إِلَى سِوَانَا مَا يَسُوءُ يَقْصُدُ",
+        "transcription": "ilaa siwaanaa maa yasuu-u yaqsudu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "فِى أَبَدٍ بِهِ الْجَنَانَ نَرِدُ",
+        "transcription": "fii abadin bihil jinaana naridu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 25,
+        "text": "نَفَى لِقَيْرِنَا بِهِ مُحَمَّدُ",
+        "transcription": "nafaa lighayrinaa bihi muhammadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 26,
+        "text": "مَاسَاءَنَا وَقَدْ نَفَاهُ الصَّمَدُ",
+        "transcription": "maasaa-anaa wa qad nafaahus samadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 27,
+        "text": "جَمِيلُ تَسْلِيمٍ يَدُومُ الْمَدَدُ",
+        "transcription": "jamiilu tasliimin yaduumul madadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 28,
+        "text": "بِهِ عَلَى نَدْبٍ أَمِينٍ يُحْمَدُ",
+        "transcription": "bihi halaa nadbin amiinin yuhmadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 29,
+        "text": "بَرَكَةٌ عَظِيمَةٌ لَّا تَنْفَدُ",
+        "transcription": "barakatun haziimatun laa tanfadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 30,
+        "text": "عَلَى أَمِينٍ فِى الْكِرَامِ يُعْهَدُ",
+        "transcription": "halaa amiinin fil kiraami yuh-hadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 31,
+        "text": "رُمْنَآ سَلَامًا بِثَّنَا يُجَدَّدُ",
+        "transcription": "rumnaa salaaman bis sanaa yujaddadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 32,
+        "text": "لِقَاءِدٍ هُوَ الْمُطَاهُ الْأَمْجَدُ",
+        "transcription": "liqaa-idin huwal mutaahul amjadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 33,
+        "text": "يَاللَّهُ يَارَبَّ الْوَرَى يَاصَمَدُ",
+        "transcription": "yal laahu yaa rabbal waraa yaa samadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 34,
+        "text": "يَامَنْ بِهِ اهْتَدَتْ كِرَامٌ عُبَّدُ",
+        "transcription": "yaa man bihih tadat kiraamun hubbadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 35,
+        "text": "لِمَنْ بِهِ مِنْكَ أَتَاهُمْ مَّدَدُ",
+        "transcription": "liman bihi minka ataahum madadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 36,
+        "text": "خَلِّدْ صَلَاةً بِسَلَامٍ يُحْمَدُ",
+        "transcription": "khallid salaatan bisalaamin yuhmadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 37,
+        "text": "مَنْ مِّثْلَ أَحْمَدَ ابْتَقَى لَايَجِدُ",
+        "transcription": "man misla ahmadab taqaa laa yajidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 38,
+        "text": "فَالْمِثْلُ لَمْ يَرِدْ وَلَيْسَ يَرِدُ",
+        "transcription": "fal mislu lam yarid wa laysa yaridu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 39,
+        "text": "حَوَى نَبِيُّنَا الرَّسُولُ أَحْمَدُ",
+        "transcription": "hawaa nabiyyunar rasuulu ahmadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 40,
+        "text": "تَقْدِيمُ مَنْ هُوَ الْقَدِيمُ الْأَحَدُ",
+        "transcription": "taqdiimu man huwal qadiimul ahadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 41,
+        "text": "مِنْ يُّمْنِهِ أَتَى الْكِرَامُ الْمَدَدُ",
+        "transcription": "min yumnihi atal kiraamul madadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 42,
+        "text": "هُوَ الْإِمَامُ وَالشَّفِيعُ الْأَجْوَدُ",
+        "transcription": "huwal imaamu wash shafiihul ajwadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 43,
+        "text": "مِنْ رَبِّنَا بِهِ يَدُومُ الرَّغَدُ",
+        "transcription": "min rabbinaa bihi yaduumur raghadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 44,
+        "text": "لَنَا وَيَنْحُو لِسِوَانَا النَّكَدُ",
+        "transcription": "lanaa wa yanhuu lisiwaanan nakadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 45,
+        "text": "دَجَرَةُ الْمُخْتَارِ لَيْسَتْ تُّجْحَدُ",
+        "transcription": "darajatul mukhtaari laysa tujhadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 46,
+        "text": "وَنُرُوهُ اسَّاطِعُ لَيْسَ يُخْمَدُ",
+        "transcription": "wa nuruuhus saatihu laysa yukhmadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 47,
+        "text": "مِنْ رَّبِّنَا بِهِ يَدُومُ الْأَفْيَدُ",
+        "transcription": "min rabbinaa bihi yaduumul af-yadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 48,
+        "text": "لَنَا وَيَنْحُو لِسِوَانَا الْكَمَدُ",
+        "transcription": "lanaa wa yanhuu lisiwaanal kamadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 49,
+        "text": "حَبِيبُنَا الْمُخْتَارُ بَانَ السُّودَدُ",
+        "transcription": "habiibunal mukhtaaru baanas suudadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 50,
+        "text": "وَمَا حَوَى فِى الْغُرِّ لَيْسَ يُوجَدُ",
+        "transcription": "wa maa hawaa fil ghurri laysa yuujadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 51,
+        "text": "مُحَمَّدٌ هُوَ الشُّجَاعُ السَّنَدُ",
+        "transcription": "muhammadun huwash shujaahus sanadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 52,
+        "text": "هُوَ الْجَمِيلُ وَالسَّخِىُّ السَّيِّدُ",
+        "transcription": "huwal jamiilu was sakhiyyus sayyidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 53,
+        "text": "مُحَمَّدٌ هُوَ الْكَرِيمُ الْمُفْرَدُ",
+        "transcription": "muhammadun huwal kariimul mufradu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 54,
+        "text": "هُوَ النَّبِىُّ وَالرَّسُولُ الْمُنْجِدُ",
+        "transcription": "huwan nabiyyu war rasuulul munjidu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 55,
+        "text": "دِينٌ سِوَى إِسْلَامِهِ لَايُحْمَدُ",
+        "transcription": "diinun siwaa islaamihi laa yuhmadu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 56,
+        "text": "عِنْدَ الْإِلَاهِ وَبِهِ نُجَدِّدُ",
+        "transcription": "hindal ilaahi wa bihi nujaddidu",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

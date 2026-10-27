@@ -1,0 +1,93 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 108,
+    "name": "Minal Haqqi",
+    "transliterationName": "Minal Haqqi",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "minal haqqi jaa-al haqqu lil haqqi fis sahbi"
+      },
+      {
+        "number": 2,
+        "text": "bihaqqi mubiini laa yuhaaniihi min sahbi"
+      },
+      {
+        "number": 3,
+        "text": "kitaabun bihi narjuu minal laahi rahmatan"
+      },
+      {
+        "number": 4,
+        "text": "wa nanjuu bihi dunyaa wa ukhraa minal karbi"
+      },
+      {
+        "number": 5,
+        "text": "rajawnaa minal mawlaa bihi khayra matlabin"
+      },
+      {
+        "number": 6,
+        "text": "wa fuznaa bihi fii kulli dafhin wa fii jalbi"
+      },
+      {
+        "number": 7,
+        "text": "laqad saara kanzan baaqiyan hizzatan lanaa"
+      },
+      {
+        "number": 8,
+        "text": "yaqiinaa bihil mawlaa azaa kulli zii dabbi"
+      },
+      {
+        "number": 9,
+        "text": "izaa maatalawnal aaya fuznaa bimakh tafaa"
+      },
+      {
+        "number": 10,
+        "text": "halaa ghayrinaa min sirrihi jaalibil hubbi"
+      },
+      {
+        "number": 11,
+        "text": "qaharnaa bihil ahdaa-a turran wa qaadanaa"
+      },
+      {
+        "number": 12,
+        "text": "ilal akramil wahhabi fil buhdi wal qurbi"
+      },
+      {
+        "number": 13,
+        "text": "tafaraqanal ahdaa-u wash shakku wal balaa"
+      },
+      {
+        "number": 14,
+        "text": "bihi wa unilnal khisba bahdan tifal jadbi"
+      },
+      {
+        "number": 15,
+        "text": "zafirnaa bihi mimman hadaanaa talaqqiyan"
+      },
+      {
+        "number": 16,
+        "text": "bijaahil lazii amdaahuhu qad ghadat da-bii"
+      },
+      {
+        "number": 17,
+        "text": "halayhi salaatul laahi jalla jalaaluhu"
+      },
+      {
+        "number": 18,
+        "text": "bi as-haabihi han aalihi afdalil hizbi"
+      },
+      {
+        "number": 19,
+        "text": "halayhi salaamul laahi maadaama mustafaa"
+      },
+      {
+        "number": 20,
+        "text": "wa maa layynal mawlaa bihi as-habis sahbi"
+      }
+    ]
+  }
+}

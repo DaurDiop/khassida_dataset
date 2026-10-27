@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "name": "Mim Ra Shin",
+    "transliterationName": "Mim Ra Shin",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "midaadii wa aqlaamii wa qalbii wa jusmaanii"
+      },
+      {
+        "number": 2,
+        "text": "limughnin badiihin lii yusakhiru azmaanii"
+      },
+      {
+        "number": 3,
+        "text": "rabaahii kitaabun jaa-anaa minhu muhkaman"
+      },
+      {
+        "number": 4,
+        "text": "ataa min rahiimin lam yazal khayrar rahmaani"
+      },
+      {
+        "number": 5,
+        "text": "shukuuriya fid daarayni lil laahi wahdahu"
+      },
+      {
+        "number": 6,
+        "text": "halaa man bihi abqaa fu-aadii wa jusmaanii"
+      }
+    ]
+  }
+}

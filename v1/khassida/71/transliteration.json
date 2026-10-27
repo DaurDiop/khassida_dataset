@@ -1,0 +1,77 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 71,
+    "name": "Kun Katiman",
+    "transliterationName": "Kun Katiman",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "kun kaatiman liddurri wal buusaa tanal"
+      },
+      {
+        "number": 2,
+        "text": "qasdan wa tahlul jiila yaa mutahallimu"
+      },
+      {
+        "number": 3,
+        "text": "laa tuksirish  shakwaa fakun mutajallidan"
+      },
+      {
+        "number": 4,
+        "text": "hattaa tazunnan naasu annaka munhamu"
+      },
+      {
+        "number": 5,
+        "text": "fal hilmu laa yuhtaa liman yakhshaa tawan"
+      },
+      {
+        "number": 6,
+        "text": "bal rabbunaa habdan sabuuran yulhimu"
+      },
+      {
+        "number": 7,
+        "text": "daawim halaa darsil huluumi mutaalihan"
+      },
+      {
+        "number": 8,
+        "text": "yaa wayha timsin littawaa yatajamjamu"
+      },
+      {
+        "number": 9,
+        "text": "laa tashtaghil bir rizqi iz rabbul waraa"
+      },
+      {
+        "number": 10,
+        "text": "mutakaffilun rizqal lazii yatahallamu"
+      },
+      {
+        "number": 11,
+        "text": "wakhshal ilaaha lidiinihi mutahaafizan"
+      },
+      {
+        "number": 12,
+        "text": "iz laa yanaalul hilma haasin mujrimu"
+      },
+      {
+        "number": 13,
+        "text": "naa-il kawaahiba wal ghawaaniya wahtazil"
+      },
+      {
+        "number": 14,
+        "text": "in tadnu minhaa min radan laa taslamu"
+      },
+      {
+        "number": 15,
+        "text": "laa tashtarid dunyaa bi-ukhraa yaa fataa"
+      },
+      {
+        "number": 16,
+        "text": "man baaha nuuran bid dujaa fasayandamu"
+      }
+    ]
+  }
+}

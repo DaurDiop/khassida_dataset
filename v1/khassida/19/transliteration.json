@@ -1,0 +1,245 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 19,
+    "name": "Ataaba 3",
+    "transliterationName": "Ataaba 3",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "hawaytu fil qur-aani sirran wa jabaa"
+      },
+      {
+        "number": 2,
+        "text": "an laa yazaala abadan muhtajabaa"
+      },
+      {
+        "number": 3,
+        "text": "atlul kitaaba raadiyan han munzili"
+      },
+      {
+        "number": 4,
+        "text": "radiya hannii maahiban tazalzulii"
+      },
+      {
+        "number": 5,
+        "text": "sallaa halaa sayyidinaa muhammadi"
+      },
+      {
+        "number": 6,
+        "text": "musalliman halayhi khayru samadi"
+      },
+      {
+        "number": 7,
+        "text": "jaada liyal jaamihu bil munaafihi"
+      },
+      {
+        "number": 8,
+        "text": "mustaghniyan bihi hanil madaafihi"
+      },
+      {
+        "number": 9,
+        "text": "mahaa huyuubii man hamaanii han nifaaq"
+      },
+      {
+        "number": 10,
+        "text": "bil muntaqal lazii jamiihal khalqi faaq"
+      },
+      {
+        "number": 11,
+        "text": "tasliimu man qabla minnil fardaa"
+      },
+      {
+        "number": 12,
+        "text": "halal lazii bihi dafahtul qardaa"
+      },
+      {
+        "number": 13,
+        "text": "taaba fu-aadii bitawajjuhi jazaa"
+      },
+      {
+        "number": 14,
+        "text": "rabbiya lii fiimaa katabtu rajazaa"
+      },
+      {
+        "number": 15,
+        "text": "tawajjahat liya minal jamiili"
+      },
+      {
+        "number": 16,
+        "text": "tahliyatul baaqii bilaa khumuuli"
+      },
+      {
+        "number": 17,
+        "text": "mallakanil mughnii hanil muluuki"
+      },
+      {
+        "number": 18,
+        "text": "bihi bil maahii hanis suluuki"
+      },
+      {
+        "number": 19,
+        "text": "qaddamanil laahu halal khuddaami"
+      },
+      {
+        "number": 20,
+        "text": "bil muntaqal musabbitil aqdaami"
+      },
+      {
+        "number": 21,
+        "text": "huztul mawaahiba bighayri kasbi"
+      },
+      {
+        "number": 22,
+        "text": "bal bil ilaahu wal ilaahu hasbii"
+      },
+      {
+        "number": 23,
+        "text": "madda liyal baaqil jamiilu madadaa"
+      },
+      {
+        "number": 24,
+        "text": "bil mustafal lazii lisaanii saddadaa"
+      },
+      {
+        "number": 25,
+        "text": "nabiyyunaa ahmadu zaadil ilaah"
+      },
+      {
+        "number": 26,
+        "text": "bihi kafaanil laahu durra kulli laah"
+      },
+      {
+        "number": 27,
+        "text": "judttu lahu munzu haqaltu bil qilaam"
+      },
+      {
+        "number": 28,
+        "text": "wa qaada lii maa qad mahaa kulla malaam"
+      },
+      {
+        "number": 29,
+        "text": "manna halayya bil munal mannaanu"
+      },
+      {
+        "number": 30,
+        "text": "wa bin nabii tasfuu liyal janaanu"
+      },
+      {
+        "number": 31,
+        "text": "manna halayya bis safad dayyaanu"
+      },
+      {
+        "number": 32,
+        "text": "wa bin nabii faraqanil his-yaanu"
+      },
+      {
+        "number": 33,
+        "text": "quluubu ahlil laahi lii qad aqbalat"
+      },
+      {
+        "number": 34,
+        "text": "bijaahi maahin lii hulaahu qad jalat"
+      },
+      {
+        "number": 35,
+        "text": "amdaahu khayril halaamina akhrajat"
+      },
+      {
+        "number": 36,
+        "text": "minnii huyuuban nafsi wah-ya kharajat"
+      },
+      {
+        "number": 37,
+        "text": "muhammadun zaahiruhu mutahhiru"
+      },
+      {
+        "number": 38,
+        "text": "zaahira man himmatuhut tatahhuru"
+      },
+      {
+        "number": 39,
+        "text": "nabiyyunaa baatinuhu muqaddisu"
+      },
+      {
+        "number": 40,
+        "text": "mutahhirun manih taraahu hindisu"
+      },
+      {
+        "number": 41,
+        "text": "nazaha madhuhu ilayya sirraa"
+      },
+      {
+        "number": 42,
+        "text": "kulliyyatii kafal azaa wash sharraa"
+      },
+      {
+        "number": 43,
+        "text": "hibaadatii tawhiidu rabbii wash shanaa"
+      },
+      {
+        "number": 44,
+        "text": "halal lazii saaqa lighayril wasanaa"
+      },
+      {
+        "number": 45,
+        "text": "tasliimu man jalla hanil misaali"
+      },
+      {
+        "number": 46,
+        "text": "halan nabiyyil faa-iqil amsaali"
+      },
+      {
+        "number": 47,
+        "text": "ilayya qaada bin nabiyyil laahu"
+      },
+      {
+        "number": 48,
+        "text": "bushara laa ilaaha illal laahu"
+      },
+      {
+        "number": 49,
+        "text": "mahaa tawajjuhal azaa lis samadu"
+      },
+      {
+        "number": 50,
+        "text": "qablu biman huwan nabii muhammadu"
+      },
+      {
+        "number": 51,
+        "text": "ilaa siwaaya yantahid dajjaalu"
+      },
+      {
+        "number": 52,
+        "text": "wa kullu maa waalaahu wal awjaalu"
+      },
+      {
+        "number": 53,
+        "text": "battal ilaahu bin nabiyyi sarmadaa"
+      },
+      {
+        "number": 54,
+        "text": "baynii wa bayna kulli maa lam yuhmadaa"
+      },
+      {
+        "number": 55,
+        "text": "tawaafu man laa yuhbudul laahun tahaa"
+      },
+      {
+        "number": 56,
+        "text": "ilaa siwaaya war ridaa lii zun tihaa"
+      },
+      {
+        "number": 57,
+        "text": "subhaana man ilal jinaani hasamaa"
+      },
+      {
+        "number": 58,
+        "text": "kulliyyatii habdan bihi muhtasimaa"
+      }
+    ]
+  }
+}

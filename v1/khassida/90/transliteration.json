@@ -1,0 +1,205 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 90,
+    "name": "Mafatihul Jinan 5",
+    "transliterationName": "Mafatihul Jinan 5",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "madadttu lil laahi yadii"
+      },
+      {
+        "number": 2,
+        "text": "bil muntaqal mu-ayyadi"
+      },
+      {
+        "number": 3,
+        "text": "wa qaadanii bil af-yadi"
+      },
+      {
+        "number": 4,
+        "text": "wa kaana lii bil karami"
+      },
+      {
+        "number": 5,
+        "text": "nafahanii rabbus samaa"
+      },
+      {
+        "number": 6,
+        "text": "wal ardi nafhan qad samaa"
+      },
+      {
+        "number": 7,
+        "text": "wa qaada lii maa qasamaa"
+      },
+      {
+        "number": 8,
+        "text": "liya mahat takarrumi"
+      },
+      {
+        "number": 9,
+        "text": "ilayya qaada rabbiyaa"
+      },
+      {
+        "number": 10,
+        "text": "fadlan yaziidu qurbiyaa"
+      },
+      {
+        "number": 11,
+        "text": "bijaahi khayril anbiyaa"
+      },
+      {
+        "number": 12,
+        "text": "ahmadinal mukarrami"
+      },
+      {
+        "number": 13,
+        "text": "lam yanhunii daahih tilaal"
+      },
+      {
+        "number": 14,
+        "text": "aw ghadabun walaa dalaal"
+      },
+      {
+        "number": 15,
+        "text": "wa qaada lii khayra halaal"
+      },
+      {
+        "number": 16,
+        "text": "mukarrimii bil ahzami"
+      },
+      {
+        "number": 17,
+        "text": "madhun nabiyyil muntaqaa"
+      },
+      {
+        "number": 18,
+        "text": "saaqa lighayril muttaqaa"
+      },
+      {
+        "number": 19,
+        "text": "qablu wa qaada lit tuqaa"
+      },
+      {
+        "number": 20,
+        "text": "maha ridan muhazzami"
+      },
+      {
+        "number": 21,
+        "text": "khidmatu khayril haalamiin"
+      },
+      {
+        "number": 22,
+        "text": "zabbat lighayrii man yamiin"
+      },
+      {
+        "number": 23,
+        "text": "wa bil amiini wal amiin"
+      },
+      {
+        "number": 24,
+        "text": "fuztu bilaa tahazzumi"
+      },
+      {
+        "number": 25,
+        "text": "lam yanhunii kufrun walaa"
+      },
+      {
+        "number": 26,
+        "text": "fisqun walaa shirkun walaa"
+      },
+      {
+        "number": 27,
+        "text": "maa yajlubut taqawwulaa"
+      },
+      {
+        "number": 28,
+        "text": "wal laahu ahlaa qalami"
+      },
+      {
+        "number": 29,
+        "text": "saana janaabiyal muqiit"
+      },
+      {
+        "number": 30,
+        "text": "lam tanhu durriyal wuquut"
+      },
+      {
+        "number": 31,
+        "text": "wa lii yaquudu khayra quut"
+      },
+      {
+        "number": 32,
+        "text": "man saananii han zulami"
+      },
+      {
+        "number": 33,
+        "text": "yashkuru zal harshil haziim"
+      },
+      {
+        "number": 34,
+        "text": "khattiya bid durrin naziim"
+      },
+      {
+        "number": 35,
+        "text": "wan qaada lii sirrun haziim"
+      },
+      {
+        "number": 36,
+        "text": "min lawhihi wal qalami"
+      },
+      {
+        "number": 37,
+        "text": "naajaytu rabbiya siniin"
+      },
+      {
+        "number": 38,
+        "text": "wa qaada lii khayra qunuun"
+      },
+      {
+        "number": 39,
+        "text": "walaa araa zawil aniin"
+      },
+      {
+        "number": 40,
+        "text": "wa jaalibaatil alami"
+      },
+      {
+        "number": 41,
+        "text": "bayhii taqabbalal kariim"
+      },
+      {
+        "number": 42,
+        "text": "bisamanin laysa yariim"
+      },
+      {
+        "number": 43,
+        "text": "wa lii yaqudu maa aruum"
+      },
+      {
+        "number": 44,
+        "text": "hilman bilaa tahalumi"
+      },
+      {
+        "number": 45,
+        "text": "karaamatii khattu yadii"
+      },
+      {
+        "number": 46,
+        "text": "fii khidmatil mu-ayyadi"
+      },
+      {
+        "number": 47,
+        "text": "wa kaana lii bil af-yadi"
+      },
+      {
+        "number": 48,
+        "text": "al laahu muulil karami"
+      }
+    ]
+  }
+}

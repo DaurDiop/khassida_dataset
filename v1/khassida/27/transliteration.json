@@ -1,0 +1,213 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 27,
+    "name": "Bushra Lana",
+    "transliterationName": "Bushra Lana",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "bushraa lanaa qad ataanal juudu wal karamu"
+      },
+      {
+        "number": 2,
+        "text": "lammas tahallat halaynaa lashhurul hurumu"
+      },
+      {
+        "number": 3,
+        "text": "huznaa mataaban mahal ghufraani fii rajabin"
+      },
+      {
+        "number": 4,
+        "text": "wa nartajii fil bawaaqii rawda man hurimuu"
+      },
+      {
+        "number": 5,
+        "text": "narjuu minal waahidil qahhaari khaaliqinaa"
+      },
+      {
+        "number": 6,
+        "text": "qahral hidaa wahwa jabbaarun wa muntaqimu"
+      },
+      {
+        "number": 7,
+        "text": "wahwal mughiisul lazii arjuu ighaasatahu"
+      },
+      {
+        "number": 8,
+        "text": "wa lastu lin nafsi fid daarayni antaqimu"
+      },
+      {
+        "number": 9,
+        "text": "wahwal hakiimul lazii maa shaa-a kaana wa maa"
+      },
+      {
+        "number": 10,
+        "text": "lam yaku shaa-iyahu fad dahra yanhadimu"
+      },
+      {
+        "number": 11,
+        "text": "lahul baraayaa lahu afhaa lahum wa lahu"
+      },
+      {
+        "number": 12,
+        "text": "jallal wujuudul lazii qadzaa nahul qidamu"
+      },
+      {
+        "number": 13,
+        "text": "faman lahu jalla yanmii sarmadan wa ladan"
+      },
+      {
+        "number": 14,
+        "text": "musallisan fiihi qad zallat lahul qadamu"
+      },
+      {
+        "number": 15,
+        "text": "tuubuu lahu yaa zawit tasliisi fii hajalin"
+      },
+      {
+        "number": 16,
+        "text": "wa saarihuu qabla mawti bahdahu nadamu"
+      },
+      {
+        "number": 17,
+        "text": "lirabbikum saarihuu mustaslimiina mahan"
+      },
+      {
+        "number": 18,
+        "text": "biqafwi man zuhzihat han hizbihiz zulamu"
+      },
+      {
+        "number": 19,
+        "text": "al laahu baaqin qadiimun laa yashaa bihu maa"
+      },
+      {
+        "number": 20,
+        "text": "bil baali yakhturu wahwal mufradul halamu"
+      },
+      {
+        "number": 21,
+        "text": "wa man yusallis fariidan maalikan samadan"
+      },
+      {
+        "number": 22,
+        "text": "fajaahilun wa yulaa fii kullahul alamu"
+      },
+      {
+        "number": 23,
+        "text": "antum huyaaraa usaaraa lil lahiini mahan"
+      },
+      {
+        "number": 24,
+        "text": "summun wa humyun kazaa fil alsunil bakamu"
+      },
+      {
+        "number": 25,
+        "text": "innii laa ahmadu rabban laa shariika lahu"
+      },
+      {
+        "number": 26,
+        "text": "fil barri wal bahri wahwal waasihul hakamu"
+      },
+      {
+        "number": 27,
+        "text": "adhuuhu wahwa kariimun laa yukhayyibunii"
+      },
+      {
+        "number": 28,
+        "text": "bi-iz bihi minhu taatii qalbiyal hikamu"
+      },
+      {
+        "number": 29,
+        "text": "wahwal lazii kawnuhu lil yawma farrahanii"
+      },
+      {
+        "number": 30,
+        "text": "wa han fu-aadiya zaalash shakku wal ghumamu"
+      },
+      {
+        "number": 31,
+        "text": "yaa layta qawmiya fii zal yawmi qad halimuu"
+      },
+      {
+        "number": 32,
+        "text": "bikawnihi liya iz hannii mahal lamamu"
+      },
+      {
+        "number": 33,
+        "text": "qad kaana lii wa lahu shukri wa mahmadatii"
+      },
+      {
+        "number": 34,
+        "text": "lahu fu-aadiya wal jusmaanu wal ghalamu"
+      },
+      {
+        "number": 35,
+        "text": "lahu shukuuri biqur-aanin urattiluhu"
+      },
+      {
+        "number": 36,
+        "text": "min saahatii lirtifaahii wahwa lii wa lamu"
+      },
+      {
+        "number": 37,
+        "text": "wahwal kitaabul lazii man kaana khaadimahu"
+      },
+      {
+        "number": 38,
+        "text": "zakaa lahul hilmu wal ahmaalu wash shiyamu"
+      },
+      {
+        "number": 39,
+        "text": "wa innanii ahbudul mawlaa bihi abadan"
+      },
+      {
+        "number": 40,
+        "text": "zaa khidmatin lishafiihin juduuhu diyamu"
+      },
+      {
+        "number": 41,
+        "text": "wahwal kariimul lazii arjuu bikhidmatihi"
+      },
+      {
+        "number": 42,
+        "text": "maafaa wa maa lizuhayrin qaadahu harimu"
+      },
+      {
+        "number": 43,
+        "text": "arjuu bikhidmatihi kawnii hunaa wa ghadan"
+      },
+      {
+        "number": 44,
+        "text": "hindal muqaddami mislas sahbi man karumuu"
+      },
+      {
+        "number": 45,
+        "text": "sallaa halayhi bitasliimin biman mahahu"
+      },
+      {
+        "number": 46,
+        "text": "wa kaana lii wa bihi lii raada man hurimuu"
+      },
+      {
+        "number": 47,
+        "text": "wa saaqan lii kulla maa ahwaa bilaa talabin"
+      },
+      {
+        "number": 48,
+        "text": "sawqaa bihi yastabiinul judu wal karamu"
+      },
+      {
+        "number": 49,
+        "text": "maadaama rabbii wa daamal mustafaa wazari"
+      },
+      {
+        "number": 50,
+        "text": "wa bil bushaaraati tatii lashhurul hurumu"
+      }
+    ]
+  }
+}

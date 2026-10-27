@@ -1,0 +1,1358 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 115,
+    "name": "Muqadamatul Amdah 1",
+    "transliterationName": "Muqadamatul Amdah 1",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "وَثِقْتُ بِرَبِّ الْعَرْشِ ذِى الْجُودِ وَالْعَفْوِ",
+        "transcription": "wasiqtu birabbil harshi zil juudi wal hafwi",
+        "translations": {
+          "fr": "Je me confie totalement au MAITRE du Trône, SEIGNEUR de la Générosité et du Pardon,"
+        }
+      },
+      {
+        "number": 2,
+        "text": "مَعَ الْمُصْطَفَى وَاللَّهُ لِى مُخْلِدٌ صَفْوِى",
+        "transcription": "mahal mustafaa wal laahu lii mukhlidun safwii",
+        "translations": {
+          "fr": "de connivence avec l'Elu le Plus Pur (Al Mustafaa) et DIEU perpétue ma pureté."
+        }
+      },
+      {
+        "number": 3,
+        "text": "وَثِقْتُ مَعَ الْمُخْتَارِ بِاللَّهِ وَحْدَهُ",
+        "transcription": "wasiqtu mahal mukhtaari bil laahi wahdahu",
+        "translations": {
+          "fr": "Je me confie entièrement avec Celui qui est le Choisi le Meilleur (Al Mukhtaar) à DIEU l'UNIQUE;"
+        }
+      },
+      {
+        "number": 4,
+        "text": "عَلَيْهِ سَلَامَا مَنْ بِهِ قَدْ مَحَا لَغْوِى",
+        "transcription": "halayhi salaamaa man bihi qad mahaa laghwii",
+        "translations": {
+          "fr": "que les deux Prières de CELUI Qui a effacé ma vanité grâce à Lui soient sur Lui."
+        }
+      },
+      {
+        "number": 5,
+        "text": "وَقَانِى بِهِ السُّوإِى وَلِى كَانَ بِالْمُنَى",
+        "transcription": "waqaanii bihis suu-ii wa lii kaana bil munaa",
+        "translations": {
+          "fr": "IL (DIEU) m'a préservé, grâce à Lui (le Prophète), de la vilenie, s'est accordé à réaliser mes voeux"
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَلِى قَادَ إِخْلَاصًا بِهِ قَدْ مَحَا سَهْوِى",
+        "transcription": "wa lii qaada ikhlaasan bihi qad mahaa sahwii",
+        "translations": {
+          "fr": "et m'a pourvu d'une exclusivité du culte par laquelle IL a enrayé mes erreurs."
+        }
+      },
+      {
+        "number": 7,
+        "text": "وَلَجْتُ خَدِيمًا فِى امْتِدَاحِى مُحَمَّدًا",
+        "transcription": "walajtu khadiiman fim tidaahii muhammadan",
+        "translations": {
+          "fr": "J'ai emprunté la voie du serviteur par mon panégyrique à Mouhammad;"
+        }
+      },
+      {
+        "number": 8,
+        "text": "عَلَيْهِ صَلَاةُ اللَّهِ مَاصَانَ لِى نَحْوِى",
+        "transcription": "halayhi salaatul laahi maa saana lii nahwii",
+        "translations": {
+          "fr": "sur Lui la Prière de DIEU, tant qu'IL préserve mon camp."
+        }
+      },
+      {
+        "number": 9,
+        "text": "وَلَجْتُ خَدِيمًا فِى امْتِدَاحِى وَسِيلَتِى",
+        "transcription": "walajtu khadiiman fim tidaahi wasiilatii",
+        "translations": {
+          "fr": "Je me suis lancé dans la voie du serviteur par mes louanges à mon Intermédiaire (Auprès de DIEU);"
+        }
+      },
+      {
+        "number": 10,
+        "text": "عَلَيْهِ سَلَامَا اللَّهِ مُعْلِهِ ذَا فَشْوِ",
+        "transcription": "halayhi salaamal laahi muhlihi zaa fashwi",
+        "translations": {
+          "fr": "sur Lui les deux Prières de DIEU Qui a exalté sa Réputation."
+        }
+      },
+      {
+        "number": 11,
+        "text": "وَنَى كَلُّ ذِى عِلْمٍ وَسَعْىٍ وَرُتْبَةٍ",
+        "transcription": "wanaa kullu zii hilmin wa sah-yin wa rutbatin",
+        "translations": {
+          "fr": "Tout homme de science, d'action ou de mérite est impuissant à égaler"
+        }
+      },
+      {
+        "number": 12,
+        "text": "عَنِ الْمُصْطَفَى فِى خُلْقِهِ الْحَآئِزِ الْعُلْوِ",
+        "transcription": "hanil mustafaa fii khulqihil haa-izil hulwi",
+        "translations": {
+          "fr": "l'Elu le Plus Pur (Al Mustafaa) dans son Caractère qui est Hautement Sublime."
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَجِيهٌ وَصُولٌ وَاصِلٌ وَاسِيعٌ لَّهُ",
+        "transcription": "wa jiihun wa suulun waasilun waasiihun lahu",
+        "translations": {
+          "fr": "Il est Prestigieux, il fait accéder à la Conjonction DIVINE, il est le Parvenu à la Proximité de DIEU,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "صِحَابٌ بِهِمْ أَغْنَانِىَ اللَّهُ عَنْ غَزْوِ",
+        "transcription": "sihaabun bihim aghnaaniyal laahu han ghazwi",
+        "translations": {
+          "fr": "le Considérable qui a des compagnons grâce auxquels DIEU m'a dispensé du combat."
+        }
+      },
+      {
+        "number": 15,
+        "text": "وَسِيمٌ وَوَهَّابٌ وَصِىٌّ وَسِيلَةٌ",
+        "transcription": "wa siimun wa wahhaabun wa siyyun wasiilatun",
+        "translations": {
+          "fr": "Il est Gracieux, Donateur, Tuteur et Intermédiaire"
+        }
+      },
+      {
+        "number": 16,
+        "text": "إِلَى خَيْرِ رَبٍّ ذِكْرُهُ قَدْ مَحَا لَهْوِى",
+        "transcription": "ilaa khayri rabbin zikruhu qad mahaa lahwii",
+        "translations": {
+          "fr": "Auprès du MEILLEUR SEIGNEUR dont l'évocation a effacé mon laxisme."
+        }
+      },
+      {
+        "number": 17,
+        "text": "وَفِىٌّ كَرِيمٌ وَاعِدٌ وَعْدَهُ أَتَى",
+        "transcription": "wafiyyun kariimun waahidun wahdahu ataa",
+        "translations": {
+          "fr": "Il est Impeccable, Illustre, Fidèle à l'échéance de ses Promesses"
+        }
+      },
+      {
+        "number": 18,
+        "text": "بِهِ لِسِوَانَا مَالَ ذُو الْجَوْرِ بِالرَّعْوِ",
+        "transcription": "bihi lisiwaanaa maala zul jawri bir rahwi",
+        "translations": {
+          "fr": "c'est grâce à Lui que tous les injustes se sont écartés de mon voisinage, avec frayeur."
+        }
+      },
+      {
+        "number": 19,
+        "text": "وَلِىٌّ نَبِىٌّ لِّلْبَرَايَا رَسُولُ مَنْ",
+        "transcription": "waliyyun nabiyyun lil baraayaa rasuulu man",
+        "translations": {
+          "fr": "Il est un Saint-Homme, le Prophète des créatures et l'Envoyé de CELUI"
+        }
+      },
+      {
+        "number": 20,
+        "text": "بِهِ لِسِوَانَا سَاقَ ذَا الظُّلْمِ وَالسَّطْوِ",
+        "transcription": "bihi lisiwaanaa saaqa zaz zulmi was satwi",
+        "translations": {
+          "fr": "Qui éloigne de moi le coupable et l'agresseur."
+        }
+      },
+      {
+        "number": 21,
+        "text": "وِدَادِى لِرَبِّى وَالْمُقَفَّى وَحِزْبِهِ",
+        "transcription": "widaadii lirabbii wal muqaffaa wa hizbihi",
+        "translations": {
+          "fr": "Mon attachement est dévolu à mon SEIGNEUR et à Celui dont les Traces sont suivies (Al Muqaffaa), à sa faction,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَمَنْ حَبَّهُمْ وَاللَّهُ لِى كَانَ بِالْعَفْوِ",
+        "transcription": "wa man habbahum wal laahu lii kaana bil hafwi",
+        "translations": {
+          "fr": "ainsi qu'à tous ceux qui les aiment, et DIEU est en ma faveur par le Pardon."
+        }
+      },
+      {
+        "number": 23,
+        "text": "وَثِقْتُ بِبَاقٍ صِرْتُ عَبْدًا لَّهُ بِهِ",
+        "transcription": "wasiqtu bibaaqin sirtu habdan lahu bihi",
+        "translations": {
+          "fr": "Je me confie totalement à 1'ETERNEL pour Qui je deviens un esclave"
+        }
+      },
+      {
+        "number": 24,
+        "text": "خَدِيمًا لِّخَيْرِ الْخَلْقِ بِالْمُكْثِ وَالصَّفْوِ",
+        "transcription": "khadiiman likhayril khalqi bil muksi was safwi",
+        "translations": {
+          "fr": "et par Qui je deviens le serviteur de la Meilleure Créature, avec persévérance et pureté."
+        }
+      },
+      {
+        "number": 25,
+        "text": "أَرُومُ رِضَى مَنْ كُلِّىَ الدَّهْرَ يَكْلَأُ",
+        "transcription": "aruumu ridaa man kulliyad dahra yakla-u",
+        "translations": {
+          "fr": "Je sollicite ardemment l'Agrément de CELUI Qui protège tout le temps mon intégralité,"
+        }
+      },
+      {
+        "number": 26,
+        "text": "لِأَصْحَابِ مَنْ قَلْبِى هَوَاهُ وَيَمْلَأُ",
+        "transcription": "li as-haabi man qalbii hawaahu wa yamla-u",
+        "translations": {
+          "fr": "pour les compagnons de Celui dont l'amour remplit mon coeur."
+        }
+      },
+      {
+        "number": 27,
+        "text": "إِلَاهِى ارْضَ عَنْ صَحْبِ النَّبِى قَآئِدًا لَّهُمْ",
+        "transcription": "ilaahirda han sahbin nabii qaa-idan lahum",
+        "translations": {
+          "fr": "SEIGNEUR ! Sois Satisfait des compagnons du Prophète"
+        }
+      },
+      {
+        "number": 28,
+        "text": "سُرُورًا مَّتِى يَنْطِقْ بِمَدْحِىَ مُطْرِءُ",
+        "transcription": "suruuran matii yantiq bimadhiya mutri-u",
+        "translations": {
+          "fr": "et procure-leur la joie chaque fois qu'une personne qui Le loue récite mon panégyrique."
+        }
+      },
+      {
+        "number": 29,
+        "text": "أَحِبَّتَىَ الدَّارَيْنِ صَحْبٌ نَّفَى بِهِمْ",
+        "transcription": "ahibbatayad daarayni sahbun nafaa bihim",
+        "translations": {
+          "fr": "Mes bien-aimés, dans les deux Demeures, sont les compagnons (du Prophète)"
+        }
+      },
+      {
+        "number": 30,
+        "text": "إِلَاهِى لِغَيْرِى كُلَّ مَنْ لَيْسَ يَبْرَءُ",
+        "transcription": "ilaahii lighayrii kulla man laysa yabra-u",
+        "translations": {
+          "fr": "grâce à qui mon SEIGNEUR a éloigné vers un autre que moi ceux qui ne sont point guéris (des vices)."
+        }
+      },
+      {
+        "number": 31,
+        "text": "أَبَى اللَّهُ إِلَّا كَوْنَهُ سَىيِّدًا بِهِمْ",
+        "transcription": "abal laahu illaa kawnuhu sayyidan bihim",
+        "translations": {
+          "fr": "DIEU refuse qu'un autre que le Prophète soit leur Seigneur,"
+        }
+      },
+      {
+        "number": 32,
+        "text": "وَقَدْ دَّوَّخُواْ الْكُفَّارَ وَالْكُلُّ جَزَّاءُواْ",
+        "transcription": "wa qad dawwakhul kuffaara wal kullu jazzaa-uu",
+        "translations": {
+          "fr": "ils ont occi les mécréants en les exterminant."
+        }
+      },
+      {
+        "number": 33,
+        "text": "أُسُودٌ عَلَى الْأَعْدَآ مَصَابِيحُ فِى الدُّجَى",
+        "transcription": "usuudun halal ahdaa masaabiihu fid dujaa",
+        "translations": {
+          "fr": "Ils sont des lions pour les ennemis, des flambeaux dans les ténèbres,"
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَكُلٌّ شُجَاعٌ رَاْسَ ذِى الْكُفْرِ يَجْزَءُ",
+        "transcription": "wa kullun shujaa-un ra-sa zil kufri yajza-u",
+        "translations": {
+          "fr": "chacun est un héros courageux, décapitant les infidèles."
+        }
+      },
+      {
+        "number": 35,
+        "text": "أُسُودٌ مَّتَى يَقْصِدُ لَهُمْ ذُو تَجَرُّءٍ",
+        "transcription": "usuudun matii yaqsidu lahum zuu tajjaru-in",
+        "translations": {
+          "fr": "Des lions qui, chaque fois qu'ils sont attaqués par un téméraire,"
+        }
+      },
+      {
+        "number": 36,
+        "text": "يَبُءْ جُبَّئًا يَبْكِى وَيُمْحَى التَّجَرُّءُ",
+        "transcription": "yabuh jubba-an yabkii wa yumhat tajjarru-u",
+        "translations": {
+          "fr": "ce dernier recule en lâche, pleurant et oubliant sa témérité."
+        }
+      },
+      {
+        "number": 37,
+        "text": "أَيَاخَادِمَ الْمُخْتَارِ لَا تَنْسَ صَحْبَهُ",
+        "transcription": "ayaa khaadimal mukhtaari laa tansa sahbahu",
+        "translations": {
+          "fr": "Ô Toi serviteur de l'Elu Choisi le Meilleur (Al Mukhtar)! N'oublie pas ses compagnons,"
+        }
+      },
+      {
+        "number": 38,
+        "text": "فَمَنْ يَنْسَهُمْ فَالْمَدْحُ مَدْحٌ مُّخَطَّأُ",
+        "transcription": "faman yansahum fal madhu madhun mukhatta-u",
+        "translations": {
+          "fr": "car quiconque les oublie dans son panégyrique, celui-ci est erroné."
+        }
+      },
+      {
+        "number": 39,
+        "text": "أَبُو بَكْرٍ الصِّدِّيقُ ذُو الصِّدْقِ وَالْوَفَآ",
+        "transcription": "abuu bakrinis siddiiqu zus sidqi wal wafaa",
+        "translations": {
+          "fr": "Abuu Bakr le véridique, l'homme de la vérité et de la fidélité,"
+        }
+      },
+      {
+        "number": 40,
+        "text": "رَفِيقُ النَّبِىِّ الْمُصْطَفَى الْغَارَ أَنْبَأُ",
+        "transcription": "rafiiqun nabiyyil mustafal ghaara anba-u",
+        "translations": {
+          "fr": "le compagnon du Prophète, l'Elu le Plus Pur (Al Mustafaa), la grotte en est témoin."
+        }
+      },
+      {
+        "number": 41,
+        "text": "أَبُو حَفْصٍ الْفَرُوقِ شَرْوَاهُ نَادِرٌ",
+        "transcription": "abuu hafsinil faruuqi sharwaahu naadirun",
+        "translations": {
+          "fr": "Abuu Hafsin le discriminateur (Al Faaruuq) notre seigneur (Umar) dont l'égal est rare,"
+        }
+      },
+      {
+        "number": 42,
+        "text": "بِهِ اعْتَزَّ دِينُ الْمُصْطَفَى إِذْ يُزَأْزَءُ",
+        "transcription": "bihih tazza diinul mustafaa iz yuza-za-u",
+        "translations": {
+          "fr": "c'est grâce à lui que la Religion de l'Elu le Plus Pur (Al Mustafaa) s'est fortifiée à ses moments les plus secoués."
+        }
+      },
+      {
+        "number": 43,
+        "text": "أَفِى الصَّحْبِ مَنْ ضَهَى ابْنَ عَفَّارَ ذَاالْحَيَآ",
+        "transcription": "afis sahbi man dahabna haffaara zal hayaa",
+        "translations": {
+          "fr": "Y'a-t-il parmi les compagnons un seul qui ressemble au fils de Caffaan (notre seigneur Uthman) qui est imbu de pudeur?"
+        }
+      },
+      {
+        "number": 44,
+        "text": "لَهُ النُّورُ ثُمَّ النُّورُ نِعْمَ الْمُبَوِّءُ",
+        "transcription": "lahun nuuru summan nuuru nihmal mubawwi-u",
+        "translations": {
+          "fr": "il possède une lumière puis une autre, quelle merveilleuse position!"
+        }
+      },
+      {
+        "number": 45,
+        "text": "أَبُو سِبْطَىِ الْمُخْتَارِ وَهْوَ ابْنُ عَمِّهِ",
+        "transcription": "abuu sibtayil mukhtaari wahwabnu hammihi",
+        "translations": {
+          "fr": "Le père des deux petits-fils de l'Elu Choisi le Meilleur (Al Mukhtaar),"
+        }
+      },
+      {
+        "number": 46,
+        "text": "عَلِىٌّ عَلَا فَاخْتِيرَ نِعْمَ الْمُجَرَّءُ",
+        "transcription": "haliyyun halaa fakhtiira nihmal mujjara-u",
+        "translations": {
+          "fr": "Celui-ci étant son cousin (Notre seigneur Ali), est éminent et privilégié; Ô quels braves héros!"
+        }
+      },
+      {
+        "number": 47,
+        "text": "أَصْحَبَ رَسُولِ اللَّهِ إِنِّى خَدِيمُهُ",
+        "transcription": "as-haba rasuulil laahi innii khadiimuhu",
+        "translations": {
+          "fr": "Ô vous compagnons de l'Envoyé d'ALLAH! Je suis quant à moi son serviteur"
+        }
+      },
+      {
+        "number": 48,
+        "text": "مُحِبًّا لَكُمْ فِى اللَّهِ وَاللَّهُ يَكْلَأُ",
+        "transcription": "muhibban lakum fil laahi wal laahu yakla-u",
+        "translations": {
+          "fr": "épris de vous pour l'Amour de DIEU, et DIEU en est TEMOIN."
+        }
+      },
+      {
+        "number": 49,
+        "text": "نَهَانِىَ حُبُّ اللَّهِ نِعْمَ الْمُهَيْمِنُ",
+        "transcription": "nahaanii hubbul laahi nihmal muhayminu",
+        "translations": {
+          "fr": "L'amour de DIEU m'a empêché de pencher vers ce qui n'est pas choisi"
+        }
+      },
+      {
+        "number": 50,
+        "text": "عَنِ الْمَيْلِ عَمَّا اخْتِيرَ وَالْحَقُّ أَقْمَنُ",
+        "transcription": "hanil mayli hammakh tiira wal haqqu aqmanu",
+        "translations": {
+          "fr": "Qu'IL est BON SURVEILLANT! - et certes la Vérité est la chose la plus convenable."
+        }
+      },
+      {
+        "number": 51,
+        "text": "نَبَذْتُ اللَّقَى عَبْدًا لِّمَوْلَاىَ وَحْدَهُ",
+        "transcription": "nabaztul laqaa habdan limawlaayaa wahdahu",
+        "translations": {
+          "fr": "J'ai banni le faux, étant esclave de mon SEIGNEUR exclusivement"
+        }
+      },
+      {
+        "number": 52,
+        "text": "خَدِيمًا لِّمَنْ عَنْ دَرْكِهِ كَلَّتَ الْسُنُ",
+        "transcription": "khadiiman liman han darkihi kallatal sunu",
+        "translations": {
+          "fr": "et serviteur de Celui que les langues sont impuissantes à louer convenablement."
+        }
+      },
+      {
+        "number": 53,
+        "text": "نَسَفْتُ بِنَآءَ الْمَيْنِ بِالْحَقِّ مَادِحًا",
+        "transcription": "nasaftu binaa-al mayni bil haqqi maadihan",
+        "translations": {
+          "fr": "J'ai démoli l'édifice du mensonge par la Vérité,"
+        }
+      },
+      {
+        "number": 54,
+        "text": "لِفَرْدٍ عَلَى خُلْقٍ وَنَى عَنْهُ دَيْدَنُ",
+        "transcription": "lifardin halaa khulqi wanaa hanhu daydanu",
+        "translations": {
+          "fr": "en faisant le panégyrique de Celui dont la Singularité du Caractère est Au-Dessus de tout autre caractère."
+        }
+      },
+      {
+        "number": 55,
+        "text": "نَوَيْتُ دَوَامَ الذِّكْرِ وَالشُّكْرِ خَادِمًا",
+        "transcription": "nawaytu dawaamaz zikri wash shukri khaadiman",
+        "translations": {
+          "fr": "J'ai pour ambition l'évocation et la reconnaissance en permanence Envers DIEU, étant le serviteur du Meilleur des humains;"
+        }
+      },
+      {
+        "number": 56,
+        "text": "لِخَيْرِ الْوَرَى نِعْمَ الْحَسِينُ الْمُزَيَّنُ",
+        "transcription": "likhayril waraa nihmal hasiinul muzayyanu",
+        "translations": {
+          "fr": "qu'il est Parfait, l'Homme paré des Vertus!"
+        }
+      },
+      {
+        "number": 57,
+        "text": "نَبِىٌّ رَّسُولٌ خَيْرُ عَبْدٍ وَسَيِّدٌ",
+        "transcription": "nabiyyun rasuulun khayru habdin wa sayyidun",
+        "translations": {
+          "fr": "Il est le Prophète-Envoyé, il est le Meilleur Serviteur et Seigneur,"
+        }
+      },
+      {
+        "number": 58,
+        "text": "خَلِيلٌ حَبِيبٌ مِثْلُهُ لَيْسِ يُعْلَنُ",
+        "transcription": "khaliilun habiibun misluhu laysi yuhlanu",
+        "translations": {
+          "fr": "il est l'Ami Intime et le Bien-Aimé, son égal ne se trouve nulle part."
+        }
+      },
+      {
+        "number": 59,
+        "text": "نَجِىٌّ قَرِيبٌ ذَاكِرٌ وَهْوَ شَاكِرٌ",
+        "transcription": "najiyyun qariibun zaakirun wahwa shaakirun",
+        "translations": {
+          "fr": "Il est l'Interlocuteur, le Proche, l'Evocateur et le Reconnaissant,"
+        }
+      },
+      {
+        "number": 60,
+        "text": "جَوَادٌ كَرِيمٌ بِالْمَكَارِمِ يُحْسِنُ",
+        "transcription": "jawaadun kariimun bil makaarimi yuhsinu",
+        "translations": {
+          "fr": "Il est un Généreux et un Honorable qui pratique la bienfaisance par des actions nobles et généreuses."
+        }
+      },
+      {
+        "number": 61,
+        "text": "نَقِىٌّ تَقِىٌّ صَلِحٌ وَهْوَ مُصْلِحٌ",
+        "transcription": "naqiyyun taqiyyun salihun wahwa muslihun",
+        "translations": {
+          "fr": "Il est le Pur, le Pieux, le Vertueux, Il est le Réparateur"
+        }
+      },
+      {
+        "number": 62,
+        "text": "بَشِرٌ لِّمَنْ لِّلَّهِ بِالْحَقِّ يُذْعِنُ",
+        "transcription": "bashirun liman lil laahi bil haqqi yuzhinu",
+        "translations": {
+          "fr": "et le Porteur de Bonnes Nouvelles pour ceux qui se soumettent à DIEU par la Vérité."
+        }
+      },
+      {
+        "number": 63,
+        "text": "نَبِيهٌ أَدِيبٌ ذُو حَيَآءٍ مُّهَذَّبٌ",
+        "transcription": "nabiihun adiibun zuu hayaa-in muhazzabun",
+        "translations": {
+          "fr": "Il est le Célèbre, le Poli, le Pudique, le Bien-Eduqué,"
+        }
+      },
+      {
+        "number": 64,
+        "text": "نَذِيرٌ لِّمَنْ بِالْكُفْرِ وَالشِّرْكِ يُعْلِنُ",
+        "transcription": "naziirun liman bil kufri wash shirki yuhlinu",
+        "translations": {
+          "fr": "l'Avertisseur pour ceux qui manifestent la négation et le péché de l'association."
+        }
+      },
+      {
+        "number": 65,
+        "text": "نَصِحٌ بِلَا غِشٍّ عَلِيمٌ مُّعَلِّمٌ",
+        "transcription": "nasihun bilaa ghish-shin haliimun muhallamun",
+        "translations": {
+          "fr": "Il est Bon Conseiller, sans mauvaise intention, il est un Docte Bien Instruit,"
+        }
+      },
+      {
+        "number": 66,
+        "text": "سَخِىٌّ بِلَا مَنٍّ كَلَامًا يُلَيِّنُ",
+        "transcription": "sakhiyyun bilaa mannin kalaaman yulayyinu",
+        "translations": {
+          "fr": "il est un Munificent qui parle avec douceur."
+        }
+      },
+      {
+        "number": 67,
+        "text": "نَجِيبٌ عَجِيبٌ نَّاصِبٌ وَهْوَ نَاسِكٌ",
+        "transcription": "najiibun hajiibun naasibun wahwa naasikun",
+        "translations": {
+          "fr": "Il est Bien Elevé, Merveilleux, Il est Laborieux, c'est Lui le Dévot, Il est Celui qui prescrit et proscrit,"
+        }
+      },
+      {
+        "number": 68,
+        "text": "هُوَ الْئَامِرُ النَّاهِى الَّذِى الْخَيْرَ يُدْمِنُ",
+        "transcription": "huwal aamirun naahil lazil khayra yudminu",
+        "translations": {
+          "fr": "il est Celui qui s'attache constamment à la bienfaisance."
+        }
+      },
+      {
+        "number": 69,
+        "text": "نَقِيبٌ رَّقِيبٌ مُّسْتَجِيبٌ مَّشَذَّبٌ",
+        "transcription": "naqiibun raqiibun mustajiibun mashazzabun",
+        "translations": {
+          "fr": "Il est le Chef, Il est Vigilant, il est le Répondant, il est Pur de tous les vices,"
+        }
+      },
+      {
+        "number": 70,
+        "text": "مَسِيحٌ مَّلَاذٌ وَهْوَ مَاحٍ وَمُحْسِنُ",
+        "transcription": "masiihun malaazun wahwa maahin wa muhsinu",
+        "translations": {
+          "fr": "Il est le Messie, Il est le Tuteur qui efface et embellit."
+        }
+      },
+      {
+        "number": 71,
+        "text": "نَسِيبٌ حَسِيبٌ ذُو عَطَا يَامُقَدَّمٌ",
+        "transcription": "nasiibun hasiibun zuu hataa yaa muqaddamun",
+        "translations": {
+          "fr": "Il est Bien-Né, Glorieux, Riche en Dons, Il est à la Tête des créatures,"
+        }
+      },
+      {
+        "number": 72,
+        "text": "هُوَ النَّاسُ وَالْمِيزَانُ نِعْمَ الْمُمَكَّنُ",
+        "transcription": "huwan naasu wal miizaanu nihmal mumakkanu",
+        "translations": {
+          "fr": "Il est l'Archétype (de l'Humanité) \"an-Naas\" et la Balance (al Mizaan); qu'Il est solidement Bien Raffermi!"
+        }
+      },
+      {
+        "number": 73,
+        "text": "نَبِىٌّ لَّهُ شَأْنٌ عَظِيمٌ مُّبَيَّنُ",
+        "transcription": "nabiyyun lahu sha-nun haziimun mubayyanu",
+        "translations": {
+          "fr": "Il est un Prophète à la Dignité Incommensurable bien connue,"
+        }
+      },
+      {
+        "number": 74,
+        "text": "وَهْوَ الْمُصْطَفَى الْمُحْتَارِ وَهْوَ الْمُعَيَّنُ",
+        "transcription": "wahwal mustafal mukhtaari wahwal muhayyanu",
+        "translations": {
+          "fr": "c'est Lui l'Elu le Plus Pur (Al Mustafaa), le Choisi le Meilleur (Al Mukhtaar) et c'est Lui en vérité le Désigné."
+        }
+      },
+      {
+        "number": 75,
+        "text": "نُبُوَّتُهُ قَبْلَ الْبَرَايَا قَدِ انْجَلَتْ",
+        "transcription": "nubuwwatuhu qablal baraayaa qadin jalat",
+        "translations": {
+          "fr": "Sa Prophètie a existé avant la création;"
+        }
+      },
+      {
+        "number": 76,
+        "text": "لَهُ السَّبْقُ حِينَ الْجَدُّ فِى الطِّينِ يُخْزَنُ",
+        "transcription": "lahus sabqu hiinal jaddu fit tiini yukhzanu",
+        "translations": {
+          "fr": "Il avait donc une Primauté alors que l'Aïeul Adam était latent dans la boue."
+        }
+      },
+      {
+        "number": 77,
+        "text": "نَجِيدٌ مَّجِيدٌ مُّوصِلٌ مَّنْ لَّهُ انْتَحَى",
+        "transcription": "najiidun majiidun muusilun man lahun tahaa",
+        "translations": {
+          "fr": "Il est le Secourable, le Très-Glorieux, il est Celui qui fait parvenir (à DIEU) celui qui se dirige vers Lui,"
+        }
+      },
+      {
+        "number": 78,
+        "text": "مُعَلًّى وَمُفْضَلٌ وَمُغْنٍ وَمُعْلِنُ",
+        "transcription": "muhallan wa mufdalun wa mughnin wa muhlinu",
+        "translations": {
+          "fr": "Il est Eminent, Précellent, Munificent et Prédicateur."
+        }
+      },
+      {
+        "number": 79,
+        "text": "نِفَالِى وَإِبْقَآءِ وَفَوْزِى بِلَا عَنَّا",
+        "transcription": "nifaalii wa ibqaa-i wa fawzii bilaa hannaa",
+        "translations": {
+          "fr": "Mon bien, ma longévité et mon bonheur, sans peine,"
+        }
+      },
+      {
+        "number": 80,
+        "text": "بِكَوْنِى خَدِيمَ الْمُصْطَفَى تَتَبَيَّنُ",
+        "transcription": "bikawnii khadiimal mustafaa tatabayyanu",
+        "translations": {
+          "fr": "me seront assurés par ma qualité de serviteur de l'Elu le Plus Pur (Al Mustafaa)."
+        }
+      },
+      {
+        "number": 81,
+        "text": "نَصِيحَتُهُ فِى السِّرِّ وَالْجَهْرِ لِى بَدَتْ",
+        "transcription": "nasiihatuhu fis sirri wal jahri lii badat",
+        "translations": {
+          "fr": "Son Exhortation m'est parvenue secrètement et manifestement,"
+        }
+      },
+      {
+        "number": 82,
+        "text": "بِهِ قَادَلِى الرَّحْمَانُ سِتْرًا يُحَصِّنُ",
+        "transcription": "bihi qaadalir rahmaanu sitran yuhassinu",
+        "translations": {
+          "fr": "et c'est grâce à Lui que le CLEMENT m'a accordé un voile qui m'immunise."
+        }
+      },
+      {
+        "number": 83,
+        "text": "نَوَيْتُ رِضَى الرَّحْمَانِ فِى خِدْمَتِى لِمَنْ",
+        "transcription": "nawaytu ridar rahmaani fii khidmatii liman",
+        "translations": {
+          "fr": "Je vise l'Agrément du CLEMENT dans le service"
+        }
+      },
+      {
+        "number": 84,
+        "text": "إِلَى غَيْرِ نَحْوِى سَاقَ مَنْ لَّيْسَ يَذْعِنُ",
+        "transcription": "ilaa ghayri nahwii saaqa man laysa yazhinu",
+        "translations": {
+          "fr": "que je rends à Celui qui a écarté de ma direction ceux qui ne sont pas soumis."
+        }
+      },
+      {
+        "number": 85,
+        "text": "نَفَى لِسِوَانَا بِالنَّبِى اللَّهُ حُسَّدًا",
+        "transcription": "nafaa lisiwaanaa bin nabil laahu hussadan",
+        "translations": {
+          "fr": "DIEU a expulsé loin de mon voisinage le jaloux au Nom du Prophète"
+        }
+      },
+      {
+        "number": 86,
+        "text": "وَسِيقَ إِلَى غَيْرِ الَّذِى يَتَكَهَّنُ",
+        "transcription": "wa siiqa ilaa ghayril lazii yatakahhanu",
+        "translations": {
+          "fr": "et a conduit loin de moi ceux qui se perdent en conjectures."
+        }
+      },
+      {
+        "number": 87,
+        "text": "نَهَى الْوَاحِدُ الْقَهَّارُ عَنِّى الْعِدَى بِهِ",
+        "transcription": "nahal waahidul qahhaaru hannil hidaa bihi",
+        "translations": {
+          "fr": "L'UNIQUE DOMINATEUR m'a défendu grâce à Lui contre les ennemis qui,"
+        }
+      },
+      {
+        "number": 88,
+        "text": "فُرَادَى وَمَثْنَى أَدْبَرُواْ ثُمَّ لُيِّنُواْ",
+        "transcription": "furaadaa wa masnaa adbaruu summa luyyanuu",
+        "translations": {
+          "fr": "un à un ou deux à deux, se sont dispersés et se sont ramollis."
+        }
+      },
+      {
+        "number": 89,
+        "text": "نَفَقْتُ بِهِ أَرْضًا حَصَآئِدُهَا صَفَتْ",
+        "transcription": "nafaqtu bihi ardan hasaa-iduhaa safat",
+        "translations": {
+          "fr": "J'ai, par sa Grâce, ensemencé une terre dont les produits sont purs;"
+        }
+      },
+      {
+        "number": 90,
+        "text": "عَلَيْهِ سَلَامَا خَيْرِ مُغْنٍ يُمَكِّنُ",
+        "transcription": "halayhi salaamaa khayri mughnin yumakkinu",
+        "translations": {
+          "fr": "sur Lui les deux Prières du MEILLEUR POURVOYEUR Qui raffermit."
+        }
+      },
+      {
+        "number": 91,
+        "text": "نَظَافَتُهُ كُلِّى مِنَ اللَّغْوِ طَهَّرَتْ",
+        "transcription": "nazaafatuhu kullii minal laghwi tahharat",
+        "translations": {
+          "fr": "Sa Pureté Morale m'a intègralement débarrassé des vanités"
+        }
+      },
+      {
+        "number": 92,
+        "text": "وَسُنَّتَهُ إِنْ شَآءَ رَبِّى أُبَيِّنُ",
+        "transcription": "wa sunnatahu in shaa-a rabbii ubayyinu",
+        "translations": {
+          "fr": "et, s'il plaît à mon SEIGNEUR, je vivifierais sa Tradition."
+        }
+      },
+      {
+        "number": 93,
+        "text": "نَزَهْتُ بِكَوْنِى عَبْدَ رَبِّى خَدِيمَهُ",
+        "transcription": "nazahtu bikawnii habda rabbii khadiimahu",
+        "translations": {
+          "fr": "J'ai acquis la pureté de l'âme par ma qualité d'esclave de mon SEIGNEUR et de serviteur du Prophète,"
+        }
+      },
+      {
+        "number": 94,
+        "text": "وَصَفَّى بِهِ عُمْرِى وَدَارِى الْمُوَطِّنُ",
+        "transcription": "wa saffaa bihi humrii wa daaril muwattinu",
+        "translations": {
+          "fr": "et grâce à Lui, le REGISSEUR a purifié ma vie et ma demeure."
+        }
+      },
+      {
+        "number": 95,
+        "text": "نَوَيْتُ بِمَا لِى اخْتِيرَ شُكْرًا بِخِدْمَةٍ",
+        "transcription": "nawaytu bimaa likhtiira shukran bikhidmatin",
+        "translations": {
+          "fr": "J'ai l'intention de rendre grâce de ce dont je suis privilégié, par le service du Meilleur des humains;"
+        }
+      },
+      {
+        "number": 96,
+        "text": "لِّخَيْرِ الْوَرَى نِعْمَ الْمُقَفَّى الْمُعَيَّنُ",
+        "transcription": "likhayril waraa nihmal muqaffal muhayyanu",
+        "translations": {
+          "fr": "qu'Il est Bon, le Modèle Désigné!"
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "وَثِقْتُ بِرَبِّ الْعَرْشِ ذِى الْجُودِ وَالْعَفْوِ ۞ مَعَ الْمُصْطَفَى وَاللَّهُ لِى مُخْلِدٌ صَفْوِى",
+        "translations": {
+          "it.karamati": "Ho riposto la mia fiducia nel Signore del Trono, Colui che possiede la generosità e il perdono, insieme al Prescelto (Muḥammad); e Allah rende eterna per me la mia purezza.",
+          "en.karamati": "I have placed my trust in the Lord of the Throne, Possessor of generosity and pardon, together with the Chosen One (Muḥammad); and God makes my purity everlasting.",
+          "fr.karamati": "J'ai placé ma confiance dans le Seigneur du Trône, Celui qui possède la générosité et le pardon, avec l'Élu (Muḥammad) ; et Dieu rend éternelle pour moi ma pureté."
+        },
+        "appNumber": 1
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "وَثِقْتُ مَعَ الْمُخْتَارِ بِاللَّهِ وَحْدَهُ ۞ عَلَيْهِ سَلَامَا مَنْ بِهِ قَدْ مَحَا لَغْوِى",
+        "translations": {
+          "it.karamati": "Ho riposto la mia fiducia, insieme all'Eletto (Al-Mukhtār, Muḥammad), in Allah soltanto; su di lui i due saluti di pace di Colui (Allah) che per suo tramite ha cancellato le mie vane parole.",
+          "en.karamati": "I have placed my trust, together with the Chosen One (Al-Mukhtār, Muḥammad), in God alone; upon him the two salutations of peace of Him (Allah) who through him erased my idle words.",
+          "fr.karamati": "J'ai placé ma confiance, avec l'Élu (Al-Mukhtār, Muḥammad), en Dieu seul ; sur lui les deux saluts de paix de Celui (Allah) qui par lui a effacé mes paroles vaines."
+        },
+        "appNumber": 2
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "وَقَانِى بِهِ السُّوإِى وَلِى كَانَ بِالْمُنَى ۞ وَلِى قَادَ إِخْلَاصًا بِهِ قَدْ مَحَا سَهْوِى",
+        "translations": {
+          "it.karamati": "Per suo tramite Egli mi ha preservato dal male, è stato con me esaudendo i miei desideri, e ha condotto a me la sincerità, con la quale ha cancellato la mia distrazione.",
+          "en.karamati": "Through him He has kept me from evil, been with me in granting my wishes, and led to me sincerity, by which He erased my heedlessness.",
+          "fr.karamati": "Par lui Il m'a préservé du mal, Il a été avec moi en exauçant mes vœux, et Il a conduit vers moi la sincérité, par laquelle Il a effacé ma distraction."
+        },
+        "appNumber": 3
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَلَجْتُ خَدِيمًا فِى امْتِدَاحِى مُحَمَّدًا ۞ عَلَيْهِ صَلَاةُ اللَّهِ مَاصَانَ لِى نَحْوِى",
+        "translations": {
+          "it.karamati": "Sono entrato come Servitore (Khadīm) nel mio elogio di Muḥammad — su di lui la benedizione di Allah — finché Egli custodisce per me il mio cammino.",
+          "en.karamati": "I have entered as Servant (Khadīm) into my eulogy of Muḥammad — upon him God's blessing — as long as He guards my course for me.",
+          "fr.karamati": "Je suis entré en Serviteur (Khadīm) dans mon éloge de Muḥammad — sur lui la prière de Dieu — tant qu'Il garde pour moi ma route."
+        },
+        "appNumber": 4
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "وَلَجْتُ خَدِيمًا فِى امْتِدَاحِى وَسِيلَتِى ۞ عَلَيْهِ سَلَامَا اللَّهِ مُعْلِهِ ذَا فَشْوِ",
+        "translations": {
+          "it.karamati": "Sono entrato come Servitore (Khadīm) nel mio elogio del mio Tramite (Muḥammad); su di lui i due saluti di pace di Allah, che lo innalza e diffonde la sua fama.",
+          "en.karamati": "I have entered as Servant (Khadīm) into my eulogy of my Means (Muḥammad); upon him the two salutations of peace of God, who exalts him and spreads his renown.",
+          "fr.karamati": "Je suis entré en Serviteur (Khadīm) dans mon éloge de mon Intermédiaire (Muḥammad) ; sur lui les deux saluts de paix de Dieu, qui l'élève et répand sa renommée."
+        },
+        "appNumber": 5
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَنَى كَلُّ ذِى عِلْمٍ وَسَعْىٍ وَرُتْبَةٍ ۞ عَنِ الْمُصْطَفَى فِى خُلْقِهِ الْحَآئِزِ الْعُلْوِ",
+        "translations": {
+          "it.karamati": "Ogni possessore di scienza, di impegno e di rango è rimasto indietro rispetto al Prescelto (Muḥammad), nel suo carattere che racchiude ogni sublimità.",
+          "en.karamati": "Every possessor of knowledge, striving and rank has fallen short of the Chosen One (Muḥammad), in his character that encompasses all sublimity.",
+          "fr.karamati": "Tout détenteur de science, d'effort et de rang est resté en deçà de l'Élu (Muḥammad), en son caractère qui renferme toute sublimité."
+        },
+        "appNumber": 6
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "وَجِيهٌ وَصُولٌ وَاصِلٌ وَاسِيعٌ لَّهُ ۞ صِحَابٌ بِهِمْ أَغْنَانِىَ اللَّهُ عَنْ غَزْوِ",
+        "translations": {
+          "it.karamati": "Eminente, che unisce (a Dio), giunto (alla meta), vasto (nella grazia): egli ha Compagni per mezzo dei quali Allah mi ha dispensato dalla spedizione armata.",
+          "en.karamati": "Eminent, uniting (to God), arrived (at the goal), vast (in grace): he has Companions through whom God has spared me armed expedition.",
+          "fr.karamati": "Éminent, qui unit (à Dieu), parvenu (au but), vaste (en grâce) : il a des Compagnons par lesquels Dieu m'a dispensé de l'expédition armée."
+        },
+        "appNumber": 7
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "وَسِيمٌ وَوَهَّابٌ وَصِىٌّ وَسِيلَةٌ ۞ إِلَى خَيْرِ رَبٍّ ذِكْرُهُ قَدْ مَحَا لَهْوِى",
+        "translations": {
+          "it.karamati": "Bello d'aspetto, generoso nel donare, esecutore fedele, tramite verso il migliore dei Signori, il cui ricordo ha cancellato il mio svago.",
+          "en.karamati": "Handsome of face, generous in giving, faithful executor, means to the best of Lords, whose remembrance has erased my idle diversion.",
+          "fr.karamati": "Beau de visage, généreux en dons, exécuteur fidèle, intermédiaire vers le meilleur des Seigneurs, dont le rappel a effacé mon divertissement."
+        },
+        "appNumber": 8
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "وَفِىٌّ كَرِيمٌ وَاعِدٌ وَعْدَهُ أَتَى ۞ بِهِ لِسِوَانَا مَالَ ذُو الْجَوْرِ بِالرَّعْوِ",
+        "translations": {
+          "it.karamati": "Fedele alla parola, generoso, egli promette e la sua promessa si è avverata; per suo tramite l'ingiusto si è volto verso altri che noi, colto dallo spavento.",
+          "en.karamati": "True to his word, generous, he promises and his promise has come to pass; through him the unjust has turned towards others than us, seized with fright.",
+          "fr.karamati": "Fidèle à sa parole, généreux, il promet et sa promesse s'est accomplie ; par lui l'injuste s'est tourné vers d'autres que nous, saisi d'effroi."
+        },
+        "appNumber": 9
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "وَلِىٌّ نَبِىٌّ لِّلْبَرَايَا رَسُولُ مَنْ ۞ بِهِ لِسِوَانَا سَاقَ ذَا الظُّلْمِ وَالسَّطْوِ",
+        "translations": {
+          "it.karamati": "Amico (di Dio), Profeta per le creature, Messaggero di Colui (Allah) che per suo tramite ha sospinto verso altri che noi l'oppressore e l'aggressore.",
+          "en.karamati": "Friend (of God), Prophet to the creatures, Messenger of Him (Allah) who through him has driven the oppressor and the assailant towards others than us.",
+          "fr.karamati": "Ami (de Dieu), Prophète pour les créatures, Messager de Celui (Allah) qui par lui a poussé vers d'autres que nous l'oppresseur et l'agresseur."
+        },
+        "appNumber": 10
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "وِدَادِى لِرَبِّى وَالْمُقَفَّى وَحِزْبِهِ ۞ وَمَنْ حَبَّهُمْ وَاللَّهُ لِى كَانَ بِالْعَفْوِ",
+        "translations": {
+          "it.karamati": "Il mio amore va al mio Signore, a colui che è venuto per ultimo (Al-Muqaffā, Muḥammad), alla sua schiera e a chi li ama; e Allah è stato con me nel perdono.",
+          "en.karamati": "My love goes to my Lord, to the one who came last (Al-Muqaffā, Muḥammad), to his company and to whoever loves them; and God has been with me in pardon.",
+          "fr.karamati": "Mon amour va à mon Seigneur, à celui qui est venu en dernier (Al-Muqaffā, Muḥammad), à sa troupe et à qui les aime ; et Dieu a été avec moi dans le pardon."
+        },
+        "appNumber": 11
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "وَثِقْتُ بِبَاقٍ صِرْتُ عَبْدًا لَّهُ بِهِ ۞ خَدِيمًا لِّخَيْرِ الْخَلْقِ بِالْمُكْثِ وَالصَّفْوِ",
+        "translations": {
+          "it.karamati": "Ho riposto la mia fiducia nell'Eterno (Allah), per il Quale sono divenuto Suo servo e Servitore (Khadīm) del migliore delle creature, con costanza e purezza.",
+          "en.karamati": "I have placed my trust in the Everlasting (Allah), through whom I became His servant and Servant (Khadīm) of the best of creation, with constancy and purity.",
+          "fr.karamati": "J'ai placé ma confiance dans l'Éternel (Allah), par qui je suis devenu Son serviteur et Serviteur (Khadīm) du meilleur des créatures, avec constance et pureté."
+        },
+        "appNumber": 12
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "أَرُومُ رِضَى مَنْ كُلِّىَ الدَّهْرَ يَكْلَأُ ۞ لِأَصْحَابِ مَنْ قَلْبِى هَوَاهُ وَيَمْلَأُ",
+        "translations": {
+          "it.karamati": "Cerco il compiacimento di Colui (Allah) che custodisce in ogni tempo tutto il mio essere, per i Compagni di colui (Muḥammad) di cui il mio cuore è innamorato e colmo.",
+          "en.karamati": "I seek the good pleasure of Him (Allah) who guards my whole being at all times, for the Companions of him (Muḥammad) with whose love my heart is filled.",
+          "fr.karamati": "Je recherche l'agrément de Celui (Allah) qui garde en tout temps tout mon être, pour les Compagnons de celui (Muḥammad) dont mon cœur est épris et empli."
+        },
+        "appNumber": 13
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "إِلَاهِى ارْضَ عَنْ صَحْبِ النَّبِى قَآئِدًا لَّهُمْ ۞ سُرُورًا مَّتِى يَنْطِقْ بِمَدْحِىَ مُطْرِءُ",
+        "translations": {
+          "it.karamati": "Mio Dio, compiaciti dei Compagni del Profeta, conducendo loro la letizia ogni volta che chi loda pronuncia il mio elogio.",
+          "en.karamati": "My God, be well pleased with the Companions of the Prophet, leading joy to them whenever the praiser recites my eulogy.",
+          "fr.karamati": "Mon Dieu, agrée les Compagnons du Prophète, en leur conduisant la joie chaque fois que celui qui loue prononce mon éloge."
+        },
+        "appNumber": 14
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "أَحِبَّتَىَ الدَّارَيْنِ صَحْبٌ نَّفَى بِهِمْ ۞ إِلَاهِى لِغَيْرِى كُلَّ مَنْ لَيْسَ يَبْرَءُ",
+        "translations": {
+          "it.karamati": "I miei amati nelle due dimore sono i Compagni, per mezzo dei quali il mio Dio ha respinto verso altri che me chiunque non sia immune (dal male).",
+          "en.karamati": "My beloved ones in the two abodes are the Companions, through whom my God has driven towards others than me whoever is not free (of evil).",
+          "fr.karamati": "Mes bien-aimés dans les deux demeures sont les Compagnons, par lesquels mon Dieu a repoussé vers d'autres que moi quiconque n'est pas exempt (du mal)."
+        },
+        "appNumber": 15
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "أَبَى اللَّهُ إِلَّا كَوْنَهُ سَىيِّدًا بِهِمْ ۞ وَقَدْ دَّوَّخُواْ الْكُفَّارَ وَالْكُلُّ جَزَّاءُواْ",
+        "translations": {
+          "it.karamati": "Allah non ha voluto altro che egli (Muḥammad) fosse signore per mezzo loro; essi hanno soggiogato i miscredenti, e tutti (i nemici) li hanno abbattuti.",
+          "en.karamati": "God willed nothing but that he (Muḥammad) be master through them; they subdued the disbelievers, and all (the enemies) they struck down.",
+          "fr.karamati": "Dieu n'a voulu rien d'autre que d'en faire (Muḥammad) un maître par eux ; ils ont soumis les mécréants, et tous (les ennemis) ils les ont abattus."
+        },
+        "appNumber": 16
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "أُسُودٌ عَلَى الْأَعْدَآ مَصَابِيحُ فِى الدُّجَى ۞ وَكُلٌّ شُجَاعٌ رَاْسَ ذِى الْكُفْرِ يَجْزَءُ",
+        "translations": {
+          "it.karamati": "Leoni contro i nemici, lampade nelle tenebre; e ciascuno, valoroso, recide il capo di chi rinnega.",
+          "en.karamati": "Lions against the enemies, lamps in the darkness; and each, valiant, severs the head of the disbeliever.",
+          "fr.karamati": "Lions face aux ennemis, lampes dans les ténèbres ; et chacun, vaillant, tranche la tête de celui qui renie."
+        },
+        "appNumber": 17
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "أُسُودٌ مَّتَى يَقْصِدُ لَهُمْ ذُو تَجَرُّءٍ ۞ يَبُءْ جُبَّئًا يَبْكِى وَيُمْحَى التَّجَرُّءُ",
+        "translations": {
+          "it.karamati": "Leoni: ogni volta che un temerario li prende di mira, se ne torna codardo, piangendo, e la sua temerarietà è cancellata.",
+          "en.karamati": "Lions: whenever a rash one sets upon them, he returns a coward, weeping, and his rashness is erased.",
+          "fr.karamati": "Lions : chaque fois qu'un téméraire les prend pour cible, il s'en retourne lâche, en pleurant, et sa témérité est effacée."
+        },
+        "appNumber": 18
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "أَيَاخَادِمَ الْمُخْتَارِ لَا تَنْسَ صَحْبَهُ ۞ فَمَنْ يَنْسَهُمْ فَالْمَدْحُ مَدْحٌ مُّخَطَّأُ",
+        "translations": {
+          "it.karamati": "O Servitore dell'Eletto (Al-Mukhtār, Muḥammad), non dimenticare i suoi Compagni: chi li dimentica, il suo elogio è un elogio fallace.",
+          "en.karamati": "O Servant of the Chosen One (Al-Mukhtār, Muḥammad), do not forget his Companions: whoever forgets them, his eulogy is a faulty eulogy.",
+          "fr.karamati": "Ô Serviteur de l'Élu (Al-Mukhtār, Muḥammad), n'oublie pas ses Compagnons : qui les oublie, son éloge est un éloge fautif."
+        },
+        "appNumber": 19
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "أَبُو بَكْرٍ الصِّدِّيقُ ذُو الصِّدْقِ وَالْوَفَآ ۞ رَفِيقُ النَّبِىِّ الْمُصْطَفَى الْغَارَ أَنْبَأُ",
+        "translations": {
+          "it.karamati": "Abū Bakr aṣ-Ṣiddīq (il Veridico), uomo di sincerità e di fedeltà, compagno del Profeta, il Prescelto, nella grotta: essa ne rende testimonianza.",
+          "en.karamati": "Abū Bakr aṣ-Ṣiddīq (the Truthful), man of sincerity and fidelity, companion of the Prophet, the Chosen One, in the cave: it bears witness to this.",
+          "fr.karamati": "Abū Bakr aṣ-Ṣiddīq (le Véridique), homme de sincérité et de fidélité, compagnon du Prophète, l'Élu, dans la grotte : elle en témoigne."
+        },
+        "appNumber": 20
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "أَبُو حَفْصٍ الْفَرُوقِ شَرْوَاهُ نَادِرٌ ۞ بِهِ اعْتَزَّ دِينُ الْمُصْطَفَى إِذْ يُزَأْزَءُ",
+        "translations": {
+          "it.karamati": "Abū Ḥafṣ (ʿUmar) al-Fārūq (il Discriminatore), il cui pari è raro: per lui la religione del Prescelto si è rafforzata quando veniva scossa.",
+          "en.karamati": "Abū Ḥafṣ (ʿUmar) al-Fārūq (the Discerner), whose equal is rare: through him the religion of the Chosen One grew strong when it was being shaken.",
+          "fr.karamati": "Abū Ḥafṣ (ʿUmar) al-Fārūq (le Discriminateur), dont le pareil est rare : par lui la religion de l'Élu s'est affermie alors qu'elle était ébranlée."
+        },
+        "appNumber": 21
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "أَفِى الصَّحْبِ مَنْ ضَهَى ابْنَ عَفَّارَ ذَاالْحَيَآ ۞ لَهُ النُّورُ ثُمَّ النُّورُ نِعْمَ الْمُبَوِّءُ",
+        "translations": {
+          "it.karamati": "Vi è forse fra i Compagni chi somigli al figlio di ʿAffān (ʿUthmān), l'uomo del pudore? A lui la luce, poi (ancora) la luce (Dhū n-Nūrayn): quale eccelso colui che (gli) diede dimora!",
+          "en.karamati": "Is there among the Companions one who resembles the son of ʿAffān (ʿUthmān), the man of modesty? His the light, then (again) the light (Dhū n-Nūrayn): how excellent the one who gave (him) a home!",
+          "fr.karamati": "Y a-t-il parmi les Compagnons quelqu'un qui ressemble au fils de ʿAffān (ʿUthmān), l'homme de la pudeur ? À lui la lumière, puis (encore) la lumière (Dhū n-Nūrayn) : quel excellent celui qui (lui) donna demeure !"
+        },
+        "appNumber": 22
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "أَبُو سِبْطَىِ الْمُخْتَارِ وَهْوَ ابْنُ عَمِّهِ ۞ عَلِىٌّ عَلَا فَاخْتِيرَ نِعْمَ الْمُجَرَّءُ",
+        "translations": {
+          "it.karamati": "Il padre dei due nipoti dell'Eletto (Al-Ḥasan e Al-Ḥusayn), che è il figlio di suo zio, ʿAlī: si è elevato ed è stato prescelto; quale eccelso impavido!",
+          "en.karamati": "The father of the two grandsons of the Chosen One (Al-Ḥasan and Al-Ḥusayn), who is the son of his uncle, ʿAlī: he rose high and was chosen; how excellent a fearless one!",
+          "fr.karamati": "Le père des deux petits-fils de l'Élu (Al-Ḥasan et Al-Ḥusayn), qui est le fils de son oncle, ʿAlī : il s'est élevé et a été choisi ; quel excellent intrépide !"
+        },
+        "appNumber": 23
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "أَصْحَبَ رَسُولِ اللَّهِ إِنِّى خَدِيمُهُ ۞ مُحِبًّا لَكُمْ فِى اللَّهِ وَاللَّهُ يَكْلَأُ",
+        "translations": {
+          "it.karamati": "O Compagni del Messaggero di Allah, io sono il suo Servitore (Khadīm), che vi ama in Allah; e Allah custodisce (ogni cosa).",
+          "en.karamati": "O Companions of the Messenger of God, I am his Servant (Khadīm), who loves you in God; and God watches over (all).",
+          "fr.karamati": "Ô Compagnons du Messager de Dieu, je suis son Serviteur (Khadīm), qui vous aime en Dieu ; et Dieu garde (toute chose)."
+        },
+        "appNumber": 24
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "نَهَانِىَ حُبُّ اللَّهِ نِعْمَ الْمُهَيْمِنُ ۞ عَنِ الْمَيْلِ عَمَّا اخْتِيرَ وَالْحَقُّ أَقْمَنُ",
+        "translations": {
+          "it.karamati": "L'amore di Allah — quale eccelso Custode Vigile! — mi ha trattenuto dal deviare da ciò che è stato prescelto; e la Verità è la più degna (d'essere seguita).",
+          "en.karamati": "The love of God — how excellent a Vigilant Guardian! — has held me back from swerving from what was chosen; and Truth is most worthy (to be followed).",
+          "fr.karamati": "L'amour de Dieu — quel excellent Gardien Vigilant ! — m'a retenu de dévier de ce qui a été choisi ; et la Vérité est la plus digne (d'être suivie)."
+        },
+        "appNumber": 25
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "نَبَذْتُ اللَّقَى عَبْدًا لِّمَوْلَاىَ وَحْدَهُ ۞ خَدِيمًا لِّمَنْ عَنْ دَرْكِهِ كَلَّتَ الْسُنُ",
+        "translations": {
+          "it.karamati": "Ho gettato via le cose vili, come servo del mio solo Signore, Servitore di colui (Muḥammad) nel cogliere il quale le lingue si sono stancate.",
+          "en.karamati": "I have cast away worthless things, as servant of my Lord alone, Servant of him (Muḥammad) whom tongues have wearied of grasping.",
+          "fr.karamati": "J'ai rejeté les choses viles, en serviteur de mon seul Seigneur, Serviteur de celui (Muḥammad) que les langues se sont lassées à saisir."
+        },
+        "appNumber": 26
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "نَسَفْتُ بِنَآءَ الْمَيْنِ بِالْحَقِّ مَادِحًا ۞ لِفَرْدٍ عَلَى خُلْقٍ وَنَى عَنْهُ دَيْدَنُ",
+        "translations": {
+          "it.karamati": "Ho raso al suolo l'edificio della menzogna con la verità, lodando l'Incomparabile (Muḥammad), in un carattere rispetto al quale ogni consuetudine è venuta meno.",
+          "en.karamati": "I have razed the edifice of falsehood with truth, praising the Incomparable one (Muḥammad), of a character before which every custom falls short.",
+          "fr.karamati": "J'ai rasé l'édifice du mensonge par la vérité, louant l'Incomparable (Muḥammad), en un caractère devant lequel toute coutume a défailli."
+        },
+        "appNumber": 27
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "نَوَيْتُ دَوَامَ الذِّكْرِ وَالشُّكْرِ خَادِمًا ۞ لِخَيْرِ الْوَرَى نِعْمَ الْحَسِينُ الْمُزَيَّنُ",
+        "translations": {
+          "it.karamati": "Ho fatto proposito di perseverare nel ricordo e nel rendimento di grazie, come Servitore del migliore delle creature: quale eccelso, bello e adorno di grazia!",
+          "en.karamati": "I have resolved to persevere in remembrance and thanksgiving, as Servant of the best of creation: how excellent, handsome and adorned with grace!",
+          "fr.karamati": "J'ai résolu de persévérer dans le rappel et l'action de grâce, en Serviteur du meilleur des créatures : quel excellent, beau et paré de grâce !"
+        },
+        "appNumber": 28
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "نَبِىٌّ رَّسُولٌ خَيْرُ عَبْدٍ وَسَيِّدٌ ۞ خَلِيلٌ حَبِيبٌ مِثْلُهُ لَيْسِ يُعْلَنُ",
+        "translations": {
+          "it.karamati": "Profeta, Messaggero, il migliore dei servi e signore, Amico intimo, Amato, il cui pari non si manifesta.",
+          "en.karamati": "Prophet, Messenger, the best of servants and master, Intimate Friend, Beloved, whose like is never seen.",
+          "fr.karamati": "Prophète, Messager, le meilleur des serviteurs et maître, Ami intime, Bien-Aimé, dont le pareil ne se montre pas."
+        },
+        "appNumber": 29
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "نَجِىٌّ قَرِيبٌ ذَاكِرٌ وَهْوَ شَاكِرٌ ۞ جَوَادٌ كَرِيمٌ بِالْمَكَارِمِ يُحْسِنُ",
+        "translations": {
+          "it.karamati": "Confidente intimo (di Dio), vicino, colui che ricorda ed è riconoscente, munifico, generoso, che fa il bene con le nobili azioni.",
+          "en.karamati": "Intimate confidant (of God), near, the one who remembers and gives thanks, bountiful, generous, doing good with noble deeds.",
+          "fr.karamati": "Confident intime (de Dieu), proche, celui qui rappelle et rend grâce, munificent, généreux, qui fait le bien par les nobles actions."
+        },
+        "appNumber": 30
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "نَقِىٌّ تَقِىٌّ صَلِحٌ وَهْوَ مُصْلِحٌ ۞ بَشِرٌ لِّمَنْ لِّلَّهِ بِالْحَقِّ يُذْعِنُ",
+        "translations": {
+          "it.karamati": "Puro, timorato, giusto ed egli stesso riformatore, Nunzio di lieto annuncio per chi si sottomette ad Allah nella verità.",
+          "en.karamati": "Pure, God-fearing, righteous and himself a reformer, Bearer of glad tidings for whoever submits to God in truth.",
+          "fr.karamati": "Pur, pieux, vertueux et lui-même réformateur, Annonciateur de la bonne nouvelle pour qui se soumet à Dieu dans la vérité."
+        },
+        "appNumber": 31
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "نَبِيهٌ أَدِيبٌ ذُو حَيَآءٍ مُّهَذَّبٌ ۞ نَذِيرٌ لِّمَنْ بِالْكُفْرِ وَالشِّرْكِ يُعْلِنُ",
+        "translations": {
+          "it.karamati": "Illustre, educato al buon costume, pudico, raffinato, Ammonitore per chi proclama la miscredenza e l'associazione.",
+          "en.karamati": "Illustrious, refined in conduct, modest, polished, a Warner to whoever proclaims disbelief and association.",
+          "fr.karamati": "Illustre, éduqué au bon comportement, pudique, raffiné, Avertisseur pour qui proclame la mécréance et l'association."
+        },
+        "appNumber": 32
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "نَصِحٌ بِلَا غِشٍّ عَلِيمٌ مُّعَلِّمٌ ۞ سَخِىٌّ بِلَا مَنٍّ كَلَامًا يُلَيِّنُ",
+        "translations": {
+          "it.karamati": "Consigliere sincero senza inganno, sapiente e maestro, munifico senza rinfacciare, dalla parola che addolcisce.",
+          "en.karamati": "Sincere counsellor without deceit, knowing and teaching, bountiful without reproach, of softening speech.",
+          "fr.karamati": "Conseiller sincère sans tromperie, savant et maître, munificent sans reprocher, à la parole qui adoucit."
+        },
+        "appNumber": 33
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "نَجِيبٌ عَجِيبٌ نَّاصِبٌ وَهْوَ نَاسِكٌ ۞ هُوَ الْئَامِرُ النَّاهِى الَّذِى الْخَيْرَ يُدْمِنُ",
+        "translations": {
+          "it.karamati": "Nobile, meraviglioso, infaticabile (nell'adorazione) ed asceta: egli è colui che ordina (il bene) e proibisce (il male), che persevera nel bene.",
+          "en.karamati": "Noble, wondrous, tireless (in worship) and an ascetic: he is the one who enjoins (good) and forbids (evil), who perseveres in good.",
+          "fr.karamati": "Noble, merveilleux, infatigable (dans l'adoration) et ascète : il est celui qui ordonne (le bien) et interdit (le mal), qui persévère dans le bien."
+        },
+        "appNumber": 34
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "نَقِيبٌ رَّقِيبٌ مُّسْتَجِيبٌ مَّشَذَّبٌ ۞ مَسِيحٌ مَّلَاذٌ وَهْوَ مَاحٍ وَمُحْسِنُ",
+        "translations": {
+          "it.karamati": "Capo, vigile, che esaudisce, purificato, il Messia (Al-Masīḥ, nome del Profeta), rifugio; egli è Colui che cancella (Al-Māḥī) ed è il benefattore.",
+          "en.karamati": "Chief, watchful, answering, purified, the Messiah (Al-Masīḥ, a name of the Prophet), refuge; he is the Effacer (Al-Māḥī) and the benefactor.",
+          "fr.karamati": "Chef, vigilant, qui exauce, purifié, le Messie (Al-Masīḥ, nom du Prophète), refuge ; il est Celui qui efface (Al-Māḥī) et le bienfaiteur."
+        },
+        "appNumber": 35
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "نَسِيبٌ حَسِيبٌ ذُو عَطَا يَامُقَدَّمٌ ۞ هُوَ النَّاسُ وَالْمِيزَانُ نِعْمَ الْمُمَكَّنُ",
+        "translations": {
+          "it.karamati": "Di nobile stirpe, di nobile rango, ricco di doni, o Posto innanzi! Egli è «l'Uomo» (an-Nās) e la Bilancia: quale eccelso colui che è stato reso saldo!",
+          "en.karamati": "Of noble lineage, of noble rank, rich in gifts, O Placed Foremost! He is \"Mankind\" (an-Nās) and the Balance: how excellent the one made firm!",
+          "fr.karamati": "De noble lignée, de noble rang, riche en dons, ô Placé en tête ! Il est « l'Homme » (an-Nās) et la Balance : quel excellent celui qui a été affermi !"
+        },
+        "appNumber": 36
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "نَبِىٌّ لَّهُ شَأْنٌ عَظِيمٌ مُّبَيَّنُ ۞ وَهْوَ الْمُصْطَفَى الْمُحْتَارِ وَهْوَ الْمُعَيَّنُ",
+        "translations": {
+          "it.karamati": "Profeta dal rango immenso e manifesto: egli è il Prescelto (Al-Muṣṭafā), l'Eletto (Al-Mukhtār), egli è il Designato.",
+          "en.karamati": "A Prophet of immense and manifest rank: he is the Chosen (Al-Muṣṭafā), the Elect (Al-Mukhtār), he is the Designated.",
+          "fr.karamati": "Prophète au rang immense et manifeste : il est l'Élu (Al-Muṣṭafā), le Choisi (Al-Mukhtār), il est le Désigné."
+        },
+        "appNumber": 37
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "نُبُوَّتُهُ قَبْلَ الْبَرَايَا قَدِ انْجَلَتْ ۞ لَهُ السَّبْقُ حِينَ الْجَدُّ فِى الطِّينِ يُخْزَنُ",
+        "translations": {
+          "it.karamati": "La sua Profezia si è manifestata prima delle creature; a lui la precedenza quando il progenitore (Adamo) era ancora custodito nell'argilla.",
+          "en.karamati": "His Prophethood was manifest before creation; his was the precedence when the forefather (Adam) was still kept in clay.",
+          "fr.karamati": "Sa Prophétie s'est manifestée avant les créatures ; à lui la préséance quand l'ancêtre (Adam) était encore gardé dans l'argile."
+        },
+        "appNumber": 38
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "نَجِيدٌ مَّجِيدٌ مُّوصِلٌ مَّنْ لَّهُ انْتَحَى ۞ مُعَلًّى وَمُفْضَلٌ وَمُغْنٍ وَمُعْلِنُ",
+        "translations": {
+          "it.karamati": "Prode, glorioso, che fa giungere (a Dio) chi si dirige verso di lui; innalzato, prediletto, colui che arricchisce e che proclama (la Verità).",
+          "en.karamati": "Valiant, glorious, bringing (to God) whoever turns to him; exalted, favoured, the one who enriches and who proclaims (the Truth).",
+          "fr.karamati": "Preux, glorieux, qui fait parvenir (à Dieu) qui se dirige vers lui ; élevé, privilégié, celui qui enrichit et qui proclame (la Vérité)."
+        },
+        "appNumber": 39
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "نِفَالِى وَإِبْقَآءِ وَفَوْزِى بِلَا عَنَّا ۞ بِكَوْنِى خَدِيمَ الْمُصْطَفَى تَتَبَيَّنُ",
+        "translations": {
+          "it.karamati": "Il mio guadagno, la mia permanenza e il mio trionfo, senza pena, si manifestano nel mio essere il Servitore (Khadīm) del Prescelto (Muḥammad).",
+          "en.karamati": "My gain, my permanence and my triumph, without hardship, are made manifest in my being the Servant (Khadīm) of the Chosen One (Muḥammad).",
+          "fr.karamati": "Mon gain, ma permanence et mon triomphe, sans peine, se manifestent en ce que je suis le Serviteur (Khadīm) de l'Élu (Muḥammad)."
+        },
+        "appNumber": 40
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "نَصِيحَتُهُ فِى السِّرِّ وَالْجَهْرِ لِى بَدَتْ ۞ بِهِ قَادَلِى الرَّحْمَانُ سِتْرًا يُحَصِّنُ",
+        "translations": {
+          "it.karamati": "Il suo sincero consiglio mi si è manifestato nel segreto e nel palese; per suo tramite il Compassionevole (Ar-Raḥmān) ha condotto a me un velo che protegge come fortezza.",
+          "en.karamati": "His sincere counsel has appeared to me in secret and in the open; through him the All-Merciful (Ar-Raḥmān) has led to me a veil that guards like a fortress.",
+          "fr.karamati": "Son conseil sincère m'est apparu en secret et en public ; par lui le Tout-Miséricordieux (Ar-Raḥmān) a conduit vers moi un voile qui protège comme une forteresse."
+        },
+        "appNumber": 41
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "نَوَيْتُ رِضَى الرَّحْمَانِ فِى خِدْمَتِى لِمَنْ ۞ إِلَى غَيْرِ نَحْوِى سَاقَ مَنْ لَّيْسَ يَذْعِنُ",
+        "translations": {
+          "it.karamati": "Ho inteso il compiacimento del Compassionevole nel mio servizio a colui (Muḥammad) per il quale (Allah) ha sospinto lontano dal mio cammino chi non si sottomette.",
+          "en.karamati": "I have intended the good pleasure of the All-Merciful in my service to him (Muḥammad) through whom (God) has driven away from my path whoever does not submit.",
+          "fr.karamati": "J'ai visé l'agrément du Tout-Miséricordieux dans mon service de celui (Muḥammad) par qui (Dieu) a poussé loin de ma route celui qui ne se soumet pas."
+        },
+        "appNumber": 42
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "نَفَى لِسِوَانَا بِالنَّبِى اللَّهُ حُسَّدًا ۞ وَسِيقَ إِلَى غَيْرِ الَّذِى يَتَكَهَّنُ",
+        "translations": {
+          "it.karamati": "Per (la grazia del) Profeta, Allah ha respinto verso altri che noi gli invidiosi, ed essi sono stati sospinti verso altri, lontano da chi pratica la divinazione.",
+          "en.karamati": "By (the grace of) the Prophet, God has driven the envious towards others than us, and they have been driven towards others, away from the one who practises divination.",
+          "fr.karamati": "Par (la grâce du) Prophète, Dieu a repoussé vers d'autres que nous les envieux, et ils ont été poussés vers d'autres, loin de celui qui pratique la divination."
+        },
+        "appNumber": 43
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "نَهَى الْوَاحِدُ الْقَهَّارُ عَنِّى الْعِدَى بِهِ ۞ فُرَادَى وَمَثْنَى أَدْبَرُواْ ثُمَّ لُيِّنُواْ",
+        "translations": {
+          "it.karamati": "L'Unico (Al-Wāḥid), il Dominatore (Al-Qahhār), per suo tramite ha allontanato da me i nemici: uno a uno e a due a due hanno voltato le spalle, poi sono stati resi docili.",
+          "en.karamati": "The One (Al-Wāḥid), the Subduer (Al-Qahhār), through him has repelled the enemies from me: one by one and two by two they turned their backs, then were made to yield.",
+          "fr.karamati": "L'Unique (Al-Wāḥid), le Dominateur (Al-Qahhār), par lui a écarté de moi les ennemis : un à un et deux par deux ils ont tourné le dos, puis ont été rendus dociles."
+        },
+        "appNumber": 44
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "نَفَقْتُ بِهِ أَرْضًا حَصَآئِدُهَا صَفَتْ ۞ عَلَيْهِ سَلَامَا خَيْرِ مُغْنٍ يُمَكِّنُ",
+        "translations": {
+          "it.karamati": "Per suo tramite ho reso feconda una terra i cui raccolti sono divenuti puri; su di lui i due saluti di pace del Migliore di quanti arricchiscono, Colui che rende saldi.",
+          "en.karamati": "Through him I have made fruitful a land whose harvests have become pure; upon him the two salutations of peace of the Best of Enrichers, He who establishes.",
+          "fr.karamati": "Par lui j'ai rendu fertile une terre dont les moissons sont devenues pures ; sur lui les deux saluts de paix du Meilleur de ceux qui enrichissent, Celui qui affermit."
+        },
+        "appNumber": 45
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "نَظَافَتُهُ كُلِّى مِنَ اللَّغْوِ طَهَّرَتْ ۞ وَسُنَّتَهُ إِنْ شَآءَ رَبِّى أُبَيِّنُ",
+        "translations": {
+          "it.karamati": "La sua purezza ha mondato tutto il mio essere dalle vane parole; e la sua Sunna, se il mio Signore lo vorrà, io la renderò manifesta.",
+          "en.karamati": "His purity has cleansed my whole being of idle words; and his Sunna, if my Lord wills, I shall make manifest.",
+          "fr.karamati": "Sa pureté a purifié tout mon être des paroles vaines ; et sa Sunna, si mon Seigneur le veut, je la rendrai manifeste."
+        },
+        "appNumber": 46
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "نَزَهْتُ بِكَوْنِى عَبْدَ رَبِّى خَدِيمَهُ ۞ وَصَفَّى بِهِ عُمْرِى وَدَارِى الْمُوَطِّنُ",
+        "translations": {
+          "it.karamati": "Mi sono mantenuto puro nell'essere servo del mio Signore e Servitore di lui (Muḥammad); e per suo tramite Colui che dà dimora (Allah) ha purificato la mia vita e la mia casa.",
+          "en.karamati": "I have kept myself pure in being servant of my Lord and Servant of him (Muḥammad); and through him the Giver of abode (Allah) has purified my life and my home.",
+          "fr.karamati": "Je suis demeuré pur en étant serviteur de mon Seigneur et Serviteur de lui (Muḥammad) ; et par lui Celui qui donne demeure (Allah) a purifié ma vie et ma maison."
+        },
+        "appNumber": 47
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "نَوَيْتُ بِمَا لِى اخْتِيرَ شُكْرًا بِخِدْمَةٍ ۞ لِّخَيْرِ الْوَرَى نِعْمَ الْمُقَفَّى الْمُعَيَّنُ",
+        "translations": {
+          "it.karamati": "Ho fatto proposito, per ciò che è stato scelto per me, di rendere grazie servendo il migliore delle creature: quale eccelso colui che è venuto per ultimo, il Designato!",
+          "en.karamati": "I have resolved, for what has been chosen for me, to give thanks by serving the best of creation: how excellent the one who came last, the Designated!",
+          "fr.karamati": "J'ai résolu, pour ce qui a été choisi pour moi, de rendre grâce en servant le meilleur des créatures : quel excellent celui qui est venu en dernier, le Désigné !"
+        },
+        "appNumber": 48
+      }
+    ]
+  }
+}

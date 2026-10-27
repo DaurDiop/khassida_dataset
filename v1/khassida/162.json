@@ -1,0 +1,1414 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 162,
+    "name": "Sindidi",
+    "transliterationName": "Sindidi",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "يَاللَّهُ بِالْمُصْطَفَى الصِّنْدِيدِ يَاللَّهُ",
+        "transcription": "yal laahu bil mustafas sindiidi yal laahu",
+        "translations": {
+          "fr": "Ô mon Dieu ! Je t'invoque par considération pour l'Elu, le noble et généreux, Ô mon Dieu !",
+          "en": "Ya Allah! I implore thee by the blessings of Mustapha Ya Allah! And by the blessings of thy beloved friend Abraham Ya Allah!"
+        }
+      },
+      {
+        "number": 2,
+        "text": "وَبِخَلِيلِكَ إِبْرَاهِيمَ يَاللَّهُ",
+        "transcription": "wa bi khaliilika ibraahiima yal laahu",
+        "translations": {
+          "fr": "Et par considération pour ton ami Abraham, Ô mon Dieu !",
+          "en": "And by the blessings of thy interlocutor Moses, and Salih, Al Khidr, and by the blessings of Shu’aib, and by the blessings of Ishmael Ya Allah!"
+        }
+      },
+      {
+        "number": 3,
+        "text": "وَبِكَلِيمِكَ مُوسَى صَالِحٍ خَضِرٍ",
+        "transcription": "wa bi kaliimika muusaa saalihin khadirin",
+        "translations": {
+          "fr": "Par considération pour ton Interlocuteur Moussa, Sâlih, Khâdr,",
+          "en": "And by the blessings of Solomon, Noah, Jonah, Job, and by the blessings of Zakariah, John, and Hud O Allah!"
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَبِشُعَيْبٍ وَإِسْمَاعِيلَ يَاللَّهُ",
+        "transcription": "wa bi shuhaybin wa ismaahiila yal laahu",
+        "translations": {
+          "fr": "Chouaïb et Ismaîl, Ô mon Dieu !",
+          "en": "By the blessings of Aaron, Joshua, Elias, Adam, David, by the blessings of Dhul-kifl, Jesus, and Lot. Ya Allah!"
+        }
+      },
+      {
+        "number": 5,
+        "text": "وَبِسُلَيْمَانَ نُوحٍ يُونُسَ الْيَسَعِ",
+        "transcription": "wa bi sulaymaana nuuhin yuunusal yasahi",
+        "translations": {
+          "fr": "Par considération pour Salomon, Noé, Jonas, Yasa,",
+          "en": "By the blessings of Joseph, Isaac, and others among thy apostles and messengers Ya Allah!"
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَزَكَرِيَّاءَ يَحْيَى هُودَ يَاللَّهُ",
+        "transcription": "wa zakariyyaa-a yahyaa huuda yal laahu",
+        "translations": {
+          "fr": "Zakaria et Jean Baptiste, Ô mon Dieu !",
+          "en": "And by the blessings of the unity of the Angels, and those among them encompassed with the purest, Divine Essence such as Gabriel and Michael Ya Allah!"
+        }
+      },
+      {
+        "number": 7,
+        "text": "هَرُونَ يُوشُعَ إِلْيَاسٍ وَءَادَمَ دَا",
+        "transcription": "haruuna yuushuha ilyaasin wa aadama daa",
+        "translations": {
+          "fr": "Hâron, Josué, Elie, Adam,",
+          "en": "By the blessings of Israfil who is entrusted with Blowing the Trumpet, and Azrael who shall duly seize the soul of every creature Ya Allah!"
+        }
+      },
+      {
+        "number": 8,
+        "text": "وُودَ وَذِى الْكِفْلِ عِيسَى لُوطَ يَاللَّهُ",
+        "transcription": "wuuda wa zil kifli hiisaa luuta yal laahu",
+        "translations": {
+          "fr": "David, Dûl Kifli, Jésus, Loth, Ô mon Dieu !",
+          "en": "By the blessings of the companions of the Prophet and the friends of Allah, as well as those who actively practice their knowledge among the people of religious Authority Ya Allah!"
+        }
+      },
+      {
+        "number": 9,
+        "text": "وَيُوسُفٍ وَبِإِسْحَاقٍ وَغَيْرِهِمُ",
+        "transcription": "wa yuusufin wa bi is-haaqin wa ghayrihimu",
+        "translations": {
+          "fr": "Par Joseph et par Isaac, et par d'autres prophètes",
+          "en": "By the blessings of Abu Bakr the truthful, Omar who distinguished truth from falsehood, Uthman the possessor of two lights, and Ali, the father of the two grandsons of the Prophet Ya Allah!"
+        }
+      },
+      {
+        "number": 10,
+        "text": "مِنَ انْبِيَاءٍ وَرُسْلٍ لَّكَ يَاللَّهُ",
+        "transcription": "minan biyaa-in wa ruslin laka yal laahu",
+        "translations": {
+          "fr": "et apôtres qui sont les tiens, Ô mon Dieu.",
+          "en": "By the blessings of Imam Malik, the highly distinguished, Imam As Shafi, Imam Abu Hanafi, and the praiseworthy, Imam Ahmad Ibn Hanbal Ya Allah!"
+        }
+      },
+      {
+        "number": 11,
+        "text": "وَبِالْمَلَئِكِ طُرًّا ثُمَّ صَفْوَتِهِمْ",
+        "transcription": "wa bil malaa-iki turran summa safwatihim",
+        "translations": {
+          "fr": "Par tous les Anges, ensuite leur élite,",
+          "en": "By the blessings of the Exalted Pen, the Preserved Tablet, thy Magnificent Throne and Exalted Footstool Ya Allah!!"
+        }
+      },
+      {
+        "number": 12,
+        "text": "جِبْرِيلَ ثُمَّ بِمِيكَائِيلَ يَاللَّهُ",
+        "transcription": "jibriila summa bimiikaa-iila yal laahu",
+        "translations": {
+          "fr": "Gabriel, par Michel, Ô mon Dieu !",
+          "en": "By the blessings of the Quran, the Torah, The Psalms of David, and the Gospel of the Spirit of God, Ya Allah!"
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَصَاحِبِ النَّفْخِ إِسْرَافِيلَ قَابِضِ أَرْ",
+        "transcription": "wa saahibin nafkhi israafiila qaabidi ar",
+        "translations": {
+          "fr": "Et par le souffleur [de la trompête] Izrâfil,",
+          "en": "Transmit my salutations of peace and blessings upon him ( the Prophet), his family, companions, and wives Ya Allah!"
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَاحِ الْخَلَآئِىقِ عَزْرَآئِيلَ يَاللَّهُ",
+        "transcription": "waahil khalaa-iqi  hazraa-iila yal laahu",
+        "translations": {
+          "fr": "par le ravisseur de l'âme des êtres vivants Izrâ'îl, Ô mon Dieu !",
+          "en": "O Lord! Drape over us the cover of well-being and bestow upon us our goals in this world and in the Hereafter Ya Allah!"
+        }
+      },
+      {
+        "number": 15,
+        "text": "وَبِالصَّحَابَةِ ثُمَّ الْأَوْلِيَآءِ مَعًا",
+        "transcription": "wa bis sahaabati summal awliyaa-i mahan",
+        "translations": {
+          "fr": "Par les compagnons [du Prophète], puis par les saints",
+          "en": "Open for us all gates of graces that thou hath opened to those endowed with a complete state of piety Ya Allah!"
+        }
+      },
+      {
+        "number": 16,
+        "text": "وَالْعَامِلِينَ مِنَ الْأَحْبَارِ يَاللَّهُ",
+        "transcription": "wal haamiliina minal ahbaari yal laahu",
+        "translations": {
+          "fr": "et l'ensemble des docteurs de la loi, les ulémas, Ô mon Dieu !",
+          "en": "Impel us to trod on the distinct path of righteousness, Preserve us from the pitfalls and from the Evils of the Jinn and Satan Ya Allah!"
+        }
+      },
+      {
+        "number": 17,
+        "text": "وَبِالصِّدِّيقِ وَبِالْفَارُوقِ ثُمَّ بِذِ",
+        "transcription": "wa bis siddiiqi wa bil faaruuqi summa bizin",
+        "translations": {
+          "fr": "Par [Abou Bakr], le véridique, par [Omar], le Séparateur [du bien et du mal],",
+          "en": "Grant us all our ambitions, allow us to attain our objectives, bestow upon us any grace we choose Ya Allah."
+        }
+      },
+      {
+        "number": 18,
+        "text": "النُّورَيْنِ ثُمَّ أَبِى السِّبْطَيْنِ يَاللَّهُ",
+        "transcription": "nuurayni summa abis sibtayni yal laahu",
+        "translations": {
+          "fr": "puis par l'homme aux deux lumières [Ousmane], puis par [Alioune] le père des deux Petits-fils [du Prophète]",
+          "en": "Soften for us the hearts of any possessor of reluctance and oppression, smoothen all the hardships Ya Allah!"
+        }
+      },
+      {
+        "number": 19,
+        "text": "بِمَالِكٍ ذِى الْمَزَايَا الشَّافِعِىِّ أَبِى",
+        "transcription": "bi maalikin zil mazaayash shaafihiyyi abii",
+        "translations": {
+          "fr": "Par Mâlik [Ibn 'Anas], le trés distingué, par [Muhammad ibn' Idrîs] Achafi,",
+          "en": "Prolong our lives, strengthen our bodies, bestow guidance upon us, and grant us felicity (tawfiq) O Allah!"
+        }
+      },
+      {
+        "number": 20,
+        "text": "حَنِيفَةٍ أَحْمَدَ الْمَحْمُودِ يَاللَّهُ",
+        "transcription": "haniifatin ahmadal mahmuudi yal laahu",
+        "translations": {
+          "fr": "par Abou Hanîfa, par Ahmad [Ibn Man-hal] le digne d'éloges, Ô mon Dieu !",
+          "en": "Destroy any enemy whose intention is to cause harm before he gains access to us Ya Allah! Ya Allah!"
+        }
+      },
+      {
+        "number": 21,
+        "text": "بِاللَّوْحِ وَالْقَلَمِ الْمَحْفُوظِ  ثُمَّ بِعَرْ",
+        "transcription": "bil lawhi wal qalamil mahfuuzi summa bihar",
+        "translations": {
+          "fr": "Par la table, par la Plume bien gardée,",
+          "en": "Protect us from all kinds of ruin, deliver us from the calamities of the world, all the time Ya Allah!"
+        }
+      },
+      {
+        "number": 22,
+        "text": "شِكَ الْعَظِيمِ وَبِالْكُرْسِىِّ يَاللَّهُ",
+        "transcription": "shikal haziimi wa bil kursiyyi yal laahu",
+        "translations": {
+          "fr": "puis par ton trône immense et par le Siège, Ô mon Dieu !",
+          "en": "Protect us from epidemics, illness, agony, afflictions, vehement earthquakes as well as poverty Ya Allah!"
+        }
+      },
+      {
+        "number": 23,
+        "text": "وَبِالْقُرْءَانِ وَبِالتَّوْرِيةِ  ثُمَّ بِمَا",
+        "transcription": "wa bil qur-aani wa bit tawriiti summa bimaa",
+        "translations": {
+          "fr": "Par le Coran, la Thawra, par les Psaumes de David",
+          "en": "Protect us from blemishes, insufficiency, from the fury of a tyrant, vileness, debility, hunger and thirst Ya Allah!"
+        }
+      },
+      {
+        "number": 24,
+        "text": "دَاوُودَ جَآءَ بِهِ وَالرُوحُ  يَاللَّهُ",
+        "transcription": "daawudu jaa-a bihi war ruuhu yal laahu",
+        "translations": {
+          "fr": "et l'Evangile de Jésus l'Esprit, Ô mon Dieu !",
+          "en": "Protect us from all forms of trials, from disease from being burnt in fire, from being drowned in water, from lightning, thunder, theft and vain labor Ya Allah!"
+        }
+      },
+      {
+        "number": 25,
+        "text": "بَلِّغْ صَلَاتِى وَتَسْلِيمِى عَلَيْهِ لَهُ",
+        "transcription": "balligh salaati wa tasliimii halayhi lahu",
+        "translations": {
+          "fr": "Fais parvenir la bénédiction et le salut [de ma part] à lui [le Prophète],",
+          "en": "Protect us from excessive heat and cold, from plundering, from oppression, from hostility, from delusion, from grief, and from being paralyzed Ya Allah!"
+        }
+      },
+      {
+        "number": 26,
+        "text": "وَالْئَالِ وَالصَّحْبِ وَالْأَزْوَاجِ يَاللَّهُ",
+        "transcription": "wal aali was sahbi wal azwaaji yal laahu",
+        "translations": {
+          "fr": "aux siens et à ses épouses, Ô mon Dieu !",
+          "en": "Protect us from anxiety, from transgression, from stumbling in error, from transmutation, and from defamation Ya Allah!"
+        }
+      },
+      {
+        "number": 27,
+        "text": "وَأَسْبِلَنَّ عَلَيْنَا رَبِّ عَافِيَةً",
+        "transcription": "wa asbilanna halaynaa rabbi haafiyatan",
+        "translations": {
+          "fr": "Seigneur ! Fais descendre sur nous le voile de la bonne santé,",
+          "en": "Protect us from lack of sustenance, from the influences of evil spirits, and from fading away due to illness Ya Allah!"
+        }
+      },
+      {
+        "number": 28,
+        "text": "وَهَبْ لَنَا الْقَصْدَ فِى الدَّارَيْنِ يَاللَّهُ",
+        "transcription": "wa hab lanal qasda fid daarayni yal laahu",
+        "translations": {
+          "fr": "exauce nos voeux ici-bas et dans l'au-delà ! Ô mon Dieu !",
+          "en": "Protect us from the evils of this world and of the next as well as their dreadful humiliations Ya Allah!Ya Allah!"
+        }
+      },
+      {
+        "number": 29,
+        "text": "وَافْتَحْ لَنَا كُلَّ بَابٍ كُنْتَ فَاتِحَهُ",
+        "transcription": "waftah lanaa kulla baabin kunta faatihahu",
+        "translations": {
+          "fr": "Ouvre-nous toute porte de bienfaits,",
+          "en": "O thou who hath power over all things, overwhelming the entire creation, being firmly established in Thine Magnificent Throne of Authority Ya Allah!"
+        }
+      },
+      {
+        "number": 30,
+        "text": "لِلصَّالِحِينَ مِنَ الْخَيْرَاتِ يَاللَّهُ",
+        "transcription": "lis saalihiina minal khayraati yal laahu",
+        "translations": {
+          "fr": "ouverte par toi pour les vertueux ! Ô mon Dieu !",
+          "en": "Verily, I beg thee for a fearing heart and a humble one, an extensive knowledge of tremendous use Ya Allah!"
+        }
+      },
+      {
+        "number": 31,
+        "text": "وَاسْلُكْ بِنَا نَهْجَ رُشْدٍ وَاكْفِنَا زَلَلًا",
+        "transcription": "wasluk binaa nahja rushdin wakfinaa zalalan",
+        "translations": {
+          "fr": "Engage-nous dans le droit chemin. Evite-nous tout faux pas.",
+          "en": "I beg thee for an accepted repentance, a lofty station, a virtuous and pious wife O God!"
+        }
+      },
+      {
+        "number": 32,
+        "text": "وَاطْرُدْ لَنَا الْجِنَّ وَالشَّيْطَانَ يَاللَّهُ",
+        "transcription": "watrud lanal jinna wash shaytaana yal laahu",
+        "translations": {
+          "fr": "Chasse loin de nous djinns et satan ! Ô mon Dieu !",
+          "en": "Be our fortress against the evils of the possessor of envy, against the evils of the tongue, as well as against the evils of the eye Ya Allah!"
+        }
+      },
+      {
+        "number": 33,
+        "text": "وَكَمِّلَنْ كُلَّمَا نَنْحُو وَنَقْصُدُهُ",
+        "transcription": "wa kammilan kullamaa nanhuu wa naqsuduhu",
+        "translations": {
+          "fr": "Fais-nous obtenir complètement tout ce que nous désirons,",
+          "en": "Be our refuge against the evils of sorcery, the evils of the creatures, men or jinns, and against the evils of venomous creatures Ya Allah!"
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَهَبْ لَنَا كُلَّمَا نَخْتَارُ يَاللَّهُ",
+        "transcription": "wa hab lanaa kullamaa nakhtaaru yal laahu",
+        "translations": {
+          "fr": "et tout but que nous voulons atteindre. Donne-nous tout ce que nous aurons à choisir, Ô mon Dieu !",
+          "en": "O mine confident! I take Thee in this world and in the hereafter as my inaccessible fortress: the one in whom I seek shelter Ya Allah!"
+        }
+      },
+      {
+        "number": 35,
+        "text": "وَرُضْ لَنَا كُلَّ ذِى صَعْبٍ وَذِى حَرَنٍ",
+        "transcription": "wa rud lanaa kulla zii sahbin wa zii haranin",
+        "translations": {
+          "fr": "Aplanis pour nous toute difficulté et toute complication",
+          "en": "Abandon me not with my own soul (nafs), lest I go astray: be responsive whenever I beseech thee Ya Allah!"
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَيَسِّرَنْ كُلَّ ذِى التَّعْسِيرِ يَاللَّهُ",
+        "transcription": "wa yassiran kulla zit tahsiiri yal laahu",
+        "translations": {
+          "fr": "Résous au mieux tout problème difficile ! Ô mon Dieu !",
+          "en": "Cause my tongue and my heart to remember Thee and to hold a perfect belief in Thee at the crucial moment of death Ya Allah!"
+        }
+      },
+      {
+        "number": 37,
+        "text": "طَوِّلْ لَّنَا عُمْرَنَا صَحِّحْ لّنَا بَدَنًا",
+        "transcription": "tawwil lanaa humranaa sahhih lanaa badanan",
+        "translations": {
+          "fr": "Accorde-nous une longue vie ! Donne-nous une excellente santé !",
+          "en": "Establish permanently in mine heart the knowledge of Certainty (Yaqin); Let no fear abide therein, until I passionately love Thy Ultimate encounter Ya Allah!"
+        }
+      },
+      {
+        "number": 38,
+        "text": "وَهَبْ لَنَا الرُّشْدَ وَالتَّوفِيقَ يَاللَّهُ",
+        "transcription": "wa hab lanar rushda wat tawfiiqa yal laahu",
+        "translations": {
+          "fr": "Apporte-nous la bonne direction et la félicité ! Ô mon Dieu !",
+          "en": "Cause my death to be the announcement of good news, and to be a complete rest, and to be a protection against all pain, distress and fear Ya Allah!"
+        }
+      },
+      {
+        "number": 39,
+        "text": "وَدَمِّرَنْ كُلَّ أَعْدَآءٍ تُضِرُّ بِنَا",
+        "transcription": "wa dammiran kulla ahdaa-in tudirru binaa",
+        "translations": {
+          "fr": "Ecrase tous les ennemis qui veulent nous nuire",
+          "en": "Shield my body against tortures in the grave, whenever the soul is separated from me. Let it not undergo any deterioration nor hardship. Ya Allah!"
+        }
+      },
+      {
+        "number": 40,
+        "text": "قَبْلَ الْوُصُولِ لَنَا يَاللَّهُ يَاللَّهُ",
+        "transcription": "qablal wusuuli lanaa yal laahu yal laahu",
+        "translations": {
+          "fr": "avant qu'ils ne nous atteignent, Ô mon Dieu ! Ô mon Dieu !",
+          "en": "Be my Assistant and Companion at the time my body is buried in the grave, where I may become lonely Ya Allah!"
+        }
+      },
+      {
+        "number": 41,
+        "text": "وَكُنْ لَّنَا عَاصِمًا مِّنْ كُلِّ مَهْلَكَةٍ",
+        "transcription": "wa kun lanaa haasiman min kulli mahlakatin",
+        "translations": {
+          "fr": "Sois notre Protecteur contre toute cause de mort.",
+          "en": "Join me not with that which causes terror in the grave, preserve me from anything that I fear Ya Allah!"
+        }
+      },
+      {
+        "number": 42,
+        "text": "وَنَجِّنَا مِنْ بَلَا يَاالدَّهْرَ يَاللَّهُ",
+        "transcription": "wa najjinaa min balaa yad dahra yal laahu",
+        "translations": {
+          "fr": "Sauve-nous de tous les malheurs et pour toujours, Ô mon Dieu !",
+          "en": "Protect me, my mother and all those who bow to Thy will, Amen Ya Allah!"
+        }
+      },
+      {
+        "number": 43,
+        "text": "وَءَافَةٍ عَاهَةٍ مَّعْ غُصَّةٍ مِّحَنٍ",
+        "transcription": "wa aafatin haahatin mah ghussatin mihanin",
+        "translations": {
+          "fr": "Préserve-nous de tout dommage, de tout sinistre, de la suffocation, de toutes les épreuves,",
+          "en": "Forgive us and my mother, cover our defects, bestow benevolence upon us and her; protect us from terror Ya Allah!"
+        }
+      },
+      {
+        "number": 44,
+        "text": "زَلْزَلَةٍ شِدَّةٍ وَالْفَقْرِ يَاللَّهُ",
+        "transcription": "zalzalatin shiddatin wal faqri yal laahu",
+        "translations": {
+          "fr": "du tremblement de terre, du malheur et de la pauvreté ! Ô mon Dieu !",
+          "en": "Grant us complete forgiveness, have mercy on her. She has no one but Thee; and verily Thou art the kind One Ya Allah!"
+        }
+      },
+      {
+        "number": 45,
+        "text": "إِهَانَةٍ قِلَّةٍ مَّعْ ذِلَّةٍ غَلَبٍ",
+        "transcription": "ihaanatin qillatin mah zillatin ghalabin",
+        "translations": {
+          "fr": "Préserve-nous [aussi] de l'avilissement, de la pénurie de l'achoppement, de la défaite,",
+          "en": "Be with us in the barzakh and in the grave, preserve us from any distress or any kind of fear Ya Allah!"
+        }
+      },
+      {
+        "number": 46,
+        "text": "وَفَاقَةٍ عَطَشٍ وَالْجُوعِ يَاللَّهُ",
+        "transcription": "wa faaqatin hatashin wal juuhi yal laahu",
+        "translations": {
+          "fr": "de la misère, de la soif et de la faim ! Ô mon Dieu !",
+          "en": "Do not afflict my mother with that which she can not bear and do not disappoint the hope she has in Thee Ya Allah!"
+        }
+      },
+      {
+        "number": 47,
+        "text": "وَفِتْنَةٍ وَالْوَبَآ وَالْحَرْقِ مَعْ غَرَقٍ",
+        "transcription": "wa fitnatin wal wabaa wal harqi mah gharaqin",
+        "translations": {
+          "fr": "Préserve-nous de l'épreuve, de l'épidémie de l'incendie ainsi que de la noyade,",
+          "en": "Quench our thirst and hers in the water of Kauthar, which Thou has reserved for the one whom Thou hath chosen over the entire creation Ya Allah!"
+        }
+      },
+      {
+        "number": 48,
+        "text": "وَالْبَرْقِ مَعْ سَرَقٍ وَالْكَدِّ يَاللَّهُ",
+        "transcription": "wal barqi mah saraqin wal kaddi yal laahu",
+        "translations": {
+          "fr": "de l'éclair, du vol et de la peine, Ô mon Dieu !",
+          "en": "That was he who provided guidance to he who roamed in error, destroyed he who rejected faith and yielded aid to he who had innermost fear in Thee Ya Allah!"
+        }
+      },
+      {
+        "number": 49,
+        "text": "حَرٍّ وَبَرْدٍ وَنَهْبٍ كُرْبَةٍ نِّقَمٍ",
+        "transcription": "harrin wa bardin wa nahbin kurbatin niqamin",
+        "translations": {
+          "fr": "Préserve-nous de la chaleur, du froid, du pillage, de la calamité, de la vengeance,",
+          "en": "Such a one was Muhammad, the Fine Flower of the elect, who will lead us into the everlasting Paradise on the Day of Resurrection Ya Allah!"
+        }
+      },
+      {
+        "number": 50,
+        "text": "ضَلَالَةٍ عَرَجٍ وَالْغَمِّ يَاللَّهُ",
+        "transcription": "dalaalatin harajin wal ghammi yal laahu",
+        "translations": {
+          "fr": "de l'égarement, de la claudication et du chagrin, Ô mon Dieu !",
+          "en": "Upon him be Eternal peace and blessings, forever and ever, and upon any who follows him till Doomsday Ya Allah!"
+        }
+      },
+      {
+        "number": 51,
+        "text": "وَهَآمَّةٍ وَخَطَا يَاضَآلَّةٍ زَلَلٍ",
+        "transcription": "wa haammatin wa khataa yaa daallatin zalalin",
+        "translations": {
+          "fr": "Préserve-nous des insectes, des péchés, de la perte, des faux pas,"
+        }
+      },
+      {
+        "number": 52,
+        "text": "وَالْمَسْخِ وَالْخَسْفِ  ثُمَّ الْقَذْفِ يَاللَّهُ",
+        "transcription": "wal maskhi wal khasfi summal qazfi yal laahu",
+        "translations": {
+          "fr": "de la transformation en monstres, de la calomnie, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 53,
+        "text": "وَغُلَّةٍ مَّعْ جُنُونٍ عِلَّةٍ مَّرَضٍ",
+        "transcription": "wa ghullatin mah junuunin hillatin maradin",
+        "translations": {
+          "fr": "Préserve-nous du dérangement de l'esprit, de la folie, de l'indisposition, de la maladie,"
+        }
+      },
+      {
+        "number": 54,
+        "text": "ثُمَّ الْجُذَامَيْنِ وَالنُّقْصَانِ يَاللَّهُ",
+        "transcription": "summal juzaamayni wan nuqsaani yal laahu",
+        "translations": {
+          "fr": "des deux sortes de lèpres, de la diminution physique, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 55,
+        "text": "وَمِنْ قَبِيحَةِ دُنْيَا ثُمَّ ءَاخِرَةٍ",
+        "transcription": "wa min qabiihati dunyaa summa aakhiratin",
+        "translations": {
+          "fr": "Préserve-nous de la laideur de ce monde et decelle de l'au-delà,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "وَمِنْ فُضُوحِهِمَا يَاللَّهُ يَاللَّهُ",
+        "transcription": "wa min fuduuhihimaa yal laahu yal laahu",
+        "translations": {
+          "fr": "et de leur scandale, Ô mon Dieu ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 57,
+        "text": "يَامَنْ عَلَى كُلِّ شَىْءٍ  قَادِرٌ وَعَلَى",
+        "transcription": "yaa man halaa kulli shay-in qaadirun wa halal",
+        "translations": {
+          "fr": "Ô toi qui peut tout faire, toi qui t'installes sur ton grand trône"
+        }
+      },
+      {
+        "number": 58,
+        "text": "الْعَرْشِ الْعَظِيمِ اسْتَوَى بِالْقَهْرِ يَاللَّهُ",
+        "transcription": "harshil haziimis tawaa bil qahri yal laahu",
+        "translations": {
+          "fr": "par la force coercitive ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 59,
+        "text": "إِنِّى سَأَلْتُكَ قَلْبًا خَشِعًا مُّتَوَا",
+        "transcription": "innii sa-altuka qalban khashihan mutawaa",
+        "translations": {
+          "fr": "Je te demande un coeur doué pour Toi d'un saint respect,"
+        }
+      },
+      {
+        "number": 60,
+        "text": "ضِعًا وَعِلْمًا كَثِيرَ النَّفْعِ يَاللَّهُ",
+        "transcription": "dihan wa hilman kasiiran nafhi yal laahu",
+        "translations": {
+          "fr": "de la modestie et une science trés utile, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 61,
+        "text": "وَتَوْبَاةً قُبِلَتْ مَعْ مِكْنَةٍ رُّفِعَتْ",
+        "transcription": "wa tawbaatan qubilat mah miknatin rufihat",
+        "translations": {
+          "fr": "Je te demande aussi un repentir agréé, une place élevée,"
+        }
+      },
+      {
+        "number": 62,
+        "text": "مَعْ زَوْجَةٍ صَلُّحَتْ بِالدِّينِ يَاللَّهُ",
+        "transcription": "mah zawjatin salluhat bid diini yal laahu",
+        "translations": {
+          "fr": "une femme vertueuse et pieuse, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 63,
+        "text": "وَكُنْ مُّعِيذًا لَّنَا مِنْ شَرِّ ذِى حَسَدٍ",
+        "transcription": "wa kun muhiizan lanaa min sharri zii hasadin",
+        "translations": {
+          "fr": "Sous celui qui nous protège contre le mal du jaloux,"
+        }
+      },
+      {
+        "number": 64,
+        "text": "مَعْ شَرِّ فَمٍّ  وَشَرِّ الْعَيْنِ يَاللَّهُ",
+        "transcription": "mah sharri fammin wa sharril hayni yal laahu",
+        "translations": {
+          "fr": "celui de la bouche et celui de l'oeil ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 65,
+        "text": "وَشَرِّ سِحْرٍ وَشَرِّ الْخَلْقِ إِنْسِهِمُ",
+        "transcription": "wa sharri sihrin wa sharril khalqi insihimu",
+        "translations": {
+          "fr": "Sois notre abri contre le mal de la magie, celui des êtres créés, hommes"
+        }
+      },
+      {
+        "number": 66,
+        "text": "مَعْ جِنِّهِمْ وَذَوَاتِ السُّمِ يَاللَّهُ",
+        "transcription": "mah jinnihim wa zawaatis sumi yal laahu",
+        "translations": {
+          "fr": "et djinns et celui des êtres venimeux, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 67,
+        "text": "إِنِّى جَعَلْتُكَ فِى الدَّارَيْنِ يَاثِقَتِى",
+        "transcription": "innii jahaltuka fid daarayni yaa siqatii",
+        "translations": {
+          "fr": "Ô ma Confiance ! je te prends dans les deux demeures pour un abri sûr."
+        }
+      },
+      {
+        "number": 68,
+        "text": "حِصْنًا حَصِينًا فَكُنْ مَّلْجَاىَ يَاللَّهُ",
+        "transcription": "hisnan hasinan fakun maljaaya yal laahu",
+        "translations": {
+          "fr": "Sois mon lieu de refuge ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 69,
+        "text": "فَلَاتَكِلْنِى إِلَى نَفْسِى فَأَهْلِكَ كُنْ",
+        "transcription": "falaatakilnii ilaa nafsii fa-ahlika kun",
+        "translations": {
+          "fr": "Ne m'abandonnes pas à moi-même ! [Si tu le fais,] je périrais."
+        }
+      },
+      {
+        "number": 70,
+        "text": "مُّجِيبَنِى حَيْثُمَآ أَدْعُوكَ يَاللَّهُ",
+        "transcription": "mujiibanii haysumaa adhuuka yal laahu",
+        "translations": {
+          "fr": "Sois celui qui exauce partout où je t'invoque. Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 71,
+        "text": "وَاجْعَلْ لِّسَانِى وَقَلْبِى ذَاكِرَيْكَ مَعًا",
+        "transcription": "wajhal lisaanii wa qalbii zaakirayka mahan",
+        "translations": {
+          "fr": "Fais que ma langue et mon coeur, dans la foi,"
+        }
+      },
+      {
+        "number": 72,
+        "text": "عِنْدَ الْمَمَاتِ مَعَ الْإِيمَانِ يَاللَّهُ",
+        "transcription": "hindal mamaati mahal iimaani yal laahu",
+        "translations": {
+          "fr": "disent ton nom quand je mourrai ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 73,
+        "text": "ثَبِّتْ يَقِينِىَ فِى قَلْبِى بِلَا وَجَلٍ",
+        "transcription": "sabbit yaqiiniya fii qalbii bilaa wajalin",
+        "translations": {
+          "fr": "Rive solidement ma certitude dans mon coeur sans angoisse"
+        }
+      },
+      {
+        "number": 74,
+        "text": "حَتَّى أُحِبَّ  لِقَاكَ الْحَقَّ يَاللَّهُ",
+        "transcription": "hattaa uhibba liqaakal haqqa yal laahu",
+        "translations": {
+          "fr": "jusqu'à ce que je désire vraiment te rencontrer, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 75,
+        "text": "وَلِى اجْعَلِ الْمَوْتَ رَاحَاتٍ وَمَفْرَحَةً",
+        "transcription": "wa lij halil mawta raahaatin wa mafrahatan",
+        "translations": {
+          "fr": "Fais que ma mort soit source de repos et de joie qui m'éloigne"
+        }
+      },
+      {
+        "number": 76,
+        "text": "مِنْ كُلِّ شَرٍّ وَكَرْبٍ ضَاقَ يَاللَّهُ",
+        "transcription": "min kulli sharrin wa karbin daaqa yal laahu",
+        "translations": {
+          "fr": "de tout mal et de toute contraignante calamité ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 77,
+        "text": "وَاحْفَظْ لِىَ الْجِسْمَ حَيْثُ الرُّوحُ فَارَقَنِى",
+        "transcription": "wahfaz liyal jisma haysur ruuhu faaraqanii",
+        "translations": {
+          "fr": "Veille sur mon coeur lorsque l'âme me quittera."
+        }
+      },
+      {
+        "number": 78,
+        "text": "فِى الْقَبْرِ لَا تُبْلِيَنْهُ الدَّهْرَ يَاللَّهُ",
+        "transcription": "fil qabri laa tubliyanhud dahra yal laahu",
+        "translations": {
+          "fr": "Et dans la tombe, ne lui fais jamais subir une épreuve, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 79,
+        "text": "وَكُنْ نَّصِيرِ أَنِيسِى حِينَمَا دَفَنُوا",
+        "transcription": "wa kun nasiiri aniisii hiinamaa dafanuu",
+        "translations": {
+          "fr": "Sois mon aide et mon compagnon lorsqu'ils auront enterré mon corps"
+        }
+      },
+      {
+        "number": 80,
+        "text": "جِسْمِى فَصِرْتُ وَحِيدًا ثَمَّ يَاللَّهُ",
+        "transcription": "jismii fasirtu wa hiidaan samma yal laahu",
+        "translations": {
+          "fr": "et que je reste seul ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 81,
+        "text": "لَا تَضْمُمَنَّ مَعِى مَا قَدْ يُرَوِّ عُنِى",
+        "transcription": "laa tadmumanna mahii maa qad yurawwi hunii",
+        "translations": {
+          "fr": "Ne m'enveloppe point avec ce qui pourrait m'effrayer mais au contraire,"
+        }
+      },
+      {
+        "number": 82,
+        "text": "بَلِ اكْفِيَنْ كُلَّمَآ أَخْشَاهُ يَاللَّهُ",
+        "transcription": "balik fiyan kullamaa akhshaahu yal laahu",
+        "translations": {
+          "fr": "protège-moi contre tout ce que je craindrai, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 83,
+        "text": "وَنَجِّنِى وَجَمِيعَ الْمُسْلِيمِينَ مَعًا",
+        "transcription": "wa najjiinii wa jamiihal musliimiina mahan",
+        "translations": {
+          "fr": "Sauve-moi, tous les musulmans ensemble."
+        }
+      },
+      {
+        "number": 84,
+        "text": "وَنَجِّ وَالِدَتِى ءَامِينَ يَاللَّهُ",
+        "transcription": "wa najji waalidatii aamina yal laahu",
+        "translations": {
+          "fr": "Sauve ma mère ! Amen ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 85,
+        "text": "وَاغْفِرْ لَنَا وَلَهَا وَاسْتُر مَعَآ ئِبَنَا",
+        "transcription": "waghfir lanaa wa lahaa wastur mahaa ibanaa",
+        "translations": {
+          "fr": "Pardonne-nous, ainsi qu'à elle ! Cache nos vices."
+        }
+      },
+      {
+        "number": 86,
+        "text": "وَالْطُفْ بِنَا وَبِهَا فِى الْهَوْلِ يَاللَّهُ",
+        "transcription": "waltuf binaa wa bihaa fil hawli yal laahu",
+        "translations": {
+          "fr": "Sois bienveillant pour nous et pour elle dans la déroute, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 87,
+        "text": "عَنْهَا تَجَاوَزْ وَإِيَّانَا ارْحَمَنَّ فَمَا",
+        "transcription": "hanha tajaawaz wa iyyaanar hamanna famaa",
+        "translations": {
+          "fr": "Laisse nos péchés et les siens impunis ! Aie pitié !"
+        }
+      },
+      {
+        "number": 88,
+        "text": "لَنَا سِوَاكَ وَأَنْتَ الْبَرُّ يَاللَّهُ",
+        "transcription": "lanaa siwaaka wa antal barru yal laahu",
+        "translations": {
+          "fr": "Elle n'a d'autre que Toi. Et tu es bon, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 89,
+        "text": "فِى بَرْزَخٍ مَّعَ قَبْرٍ كُنْ لَّهَا وَزَرًا",
+        "transcription": "fii barzakhin maha qabrin kun lahaa wazaran",
+        "translations": {
+          "fr": "Au purgatoire ainsi que dans la tombe, sois notre appui."
+        }
+      },
+      {
+        "number": 90,
+        "text": "وَمِنْ كُرُوبٍ وَخَوْفٍ نَّجِّ يَاللَّهُ",
+        "transcription": "wa min kuruubin wa khawfin najji yal laahu",
+        "translations": {
+          "fr": "Et des épreuves et de la peur sauve nous ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 91,
+        "text": "لَا تَخْتَبِرْهَا بِمَا لَيْسَتْ بِقَادِرَةٍ",
+        "transcription": "laa takhtabirhaa bimaa laysat biqaadiratin",
+        "translations": {
+          "fr": "Ne lui fait pas subir ce qu'elle ne peut supporter !"
+        }
+      },
+      {
+        "number": 92,
+        "text": "وَلَا تُخَيِّبْ رَجَاهَا فِيكَ يَاللَّهُ",
+        "transcription": "walaa tukhayyib rajaahaa fiika yal laahu",
+        "translations": {
+          "fr": "Ne trompe pas son espoir en toi ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 93,
+        "text": "وَأَسْقِنَا مَعَهَا مِنْ مَّآءِ كَوْثَرِ مَنْ",
+        "transcription": "wa asqiina mahahaa min maa-i kawsari man",
+        "translations": {
+          "fr": "Abreuve-nous ainsi qu'elle dans la source de kawthara donnée par toi à celui"
+        }
+      },
+      {
+        "number": 94,
+        "text": "إِخْتَرْتَهُ مِنْ جَمِيعِ الْخَلْقِ يَاللَّهُ",
+        "transcription": "ikhtartahu min jamiihil khalqi yal laahu",
+        "translations": {
+          "fr": "que tu as choisi d'entre les créatures dans leur totalité ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 95,
+        "text": "مَنْ كَانَ يُرْشِدُ ذَا غَىٍّ وَيُهْلِكُ ذَا",
+        "transcription": "man kaana yurshidu zaa ghayyin wa yuhliku zaa",
+        "translations": {
+          "fr": "Celui qui guidait dans le droit chemin l'égaré, qui tuait le mécréant"
+        }
+      },
+      {
+        "number": 96,
+        "text": "كُفْرٍ وَيَنْصُرُ مَنْ يَّخشَاكَ يَاللَّهُ",
+        "transcription": "kufrin wa yansuru man yakhshaaka yal laahu",
+        "translations": {
+          "fr": "et qui aidait celui qui te craignait, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 97,
+        "text": "مُحَمَّدٍ مَّذْكَاءِ الْأَخْيَارِ قَآئِدِنَا",
+        "transcription": "muhammadin mazkaa-il akhyaari qaa-idinaa",
+        "translations": {
+          "fr": "[J'ai nommé] Mouhammad, la fine fleur des choisis, notre guide jusqu'au"
+        }
+      },
+      {
+        "number": 98,
+        "text": "لِجَنَّةِ الْخُلْدِ يَوْمَ الْحَشْرِ يَاللَّهُ",
+        "transcription": "lijannatil khuldi yawmal hashri yal laahu",
+        "translations": {
+          "fr": "Paradis éternel, le jour du Rassemblement, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 99,
+        "text": "عَلَيْهِ صَلِّ وَسَلِّمْ دَآءِمًا أَبَدًا",
+        "transcription": "halayhi salli wa sallim daa-iman abadan",
+        "translations": {
+          "fr": "Accorde-lui, à jamais et pour toujours bénédiction et salut"
+        }
+      },
+      {
+        "number": 100,
+        "text": "وَمَنْ خَفَوْهُ لِيَوْمِ الدِّينِ يَاللَّهُ",
+        "transcription": "wa man khafawhu liyawmid diini yal laahu",
+        "translations": {
+          "fr": "ainsi qu'à ceux qui le suivent pour le jour du Jugement Dernier, Ô mon Dieu !"
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "يَاللَّهُ بِالْمُصْطَفَى الصِّنْدِيدِ يَاللَّهُ ۞ وَبِخَلِيلِكَ إِبْرَاهِيمَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Allah! Ti invoco per la considerazione del Prescelto, il Nobile e Generoso, o Allah! E per il Tuo amico intimo Abramo (Ibrāhīm), o Allah!",
+          "en.karamati": "O God! By the Chosen One (Al-Muṣṭafā), the Noble and Valiant, O God! And by Your intimate friend Abraham (Ibrāhīm), O God!",
+          "fr.karamati": "Ô mon Dieu ! Je t'invoque par considération pour l'Elu, le noble et généreux, Ô mon Dieu ! Et par considération pour ton ami Abraham, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "وَبِكَلِيمِكَ مُوسَى صَالِحٍ خَضِرٍ ۞ وَبِشُعَيْبٍ وَإِسْمَاعِيلَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E per il Tuo interlocutore Mosè (Mūsā), per Sālih, Khidr, Shu'ayb e Ismaele (Ismā'īl), o Allah!",
+          "en.karamati": "And by Your interlocutor Moses (Mūsā), Ṣāliḥ, Khiḍr, and by Shuʿayb and Ishmael (Ismāʿīl), O God!",
+          "fr.karamati": "Par considération pour ton Interlocuteur Moussa, Sâlih, Khâdr, Chouaïb et Ismaîl, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "وَبِسُلَيْمَانَ نُوحٍ يُونُسَ الْيَسَعِ ۞ وَزَكَرِيَّاءَ يَحْيَى هُودَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E per Salomone (Sulaymān), Noè (Nūh), Giona (Yūnus), Eliseo (Al-Yasa'), Zaccaria, Giovanni Battista (Yahyā) e Hūd, o Allah!",
+          "en.karamati": "And by Solomon (Sulaymān), Noah (Nūḥ), Jonah (Yūnus), Elisha (Al-Yasaʿ), and Zechariah, John (Yaḥyā), Hūd, O God!",
+          "fr.karamati": "Par Salomon, Noé, Jonas, Yasa, Zakaria, Jean Baptiste et Hûd, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "هَرُونَ يُوشُعَ إِلْيَاسٍ وَءَادَمَ دَا ۞ وُودَ وَذِى الْكِفْلِ عِيسَى لُوطَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Per Aronne (Hārūn), Giosuè (Yūsha'), Elia (Ilyās), Adamo, Davide (Dāwūd), Dhūl-Kifl, Gesù ('Īsā) e Lot (Lūt), o Allah!",
+          "en.karamati": "Aaron (Hārūn), Joshua (Yūshaʿ), Elijah (Ilyās), Adam, David (Dāwūd), Dhū l-Kifl, Jesus (ʿĪsā), Lot (Lūṭ), O God!",
+          "fr.karamati": "Hâron, Josué, Elie, Adam, David, Dûl Kifli, Jésus, Loth, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "وَيُوسُفٍ وَبِإِسْحَاقٍ وَغَيْرِهِمُ ۞ مِنَ انْبِيَاءٍ وَرُسْلٍ لَّكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E per Giuseppe (Yūsuf), Isacco (Ishāq) e tutti gli altri Tuoi Profeti e Messaggeri, o Allah!",
+          "en.karamati": "And by Joseph (Yūsuf) and by Isaac (Isḥāq) and by the other prophets and messengers who are Yours, O God!",
+          "fr.karamati": "Par Joseph et par Isaac, et par d'autres prophètes et apôtres qui sont les tiens, Ô mon Dieu."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَبِالْمَلَئِكِ طُرًّا ثُمَّ صَفْوَتِهِمْ ۞ جِبْرِيلَ ثُمَّ بِمِيكَائِيلَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E per tutti gli Angeli indistintamente, e in particolare per i loro eletti: Gabriele (Jibrīl) e Michele (Mīkā'īl), o Allah!",
+          "en.karamati": "And by the Angels, all of them, and then their elect, Gabriel (Jibrīl), then Michael (Mīkāʾīl), O God!",
+          "fr.karamati": "Par tous les Anges, ensuite leur élite, Gabriel, par Michel, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "وَصَاحِبِ النَّفْخِ إِسْرَافِيلَ قَابِضِ أَرْ ۞ وَاحِ الْخَلَآئِىقِ عَزْرَآئِيلَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E per colui che soffia [nella Tromba], Isrāfīl, e per colui che raccoglie le anime delle creature, 'Azrā'īl, o Allah!",
+          "en.karamati": "And by the Master of the Blowing, Isrāfīl, the seizer of the spirits of creatures, ʿAzrāʾīl, O God!",
+          "fr.karamati": "Et par le souffleur [de la trompête] Izrâfil, par le ravisseur de l'âme des êtres vivants Izrâ'îl, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "وَبِالصَّحَابَةِ ثُمَّ الْأَوْلِيَآءِ مَعًا ۞ وَالْعَامِلِينَ مِنَ الْأَحْبَارِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E per i Compagni [del Profeta], poi per tutti i Santi (Awliyā') insieme, e per i sapienti che mettono in pratica il loro sapere, o Allah!",
+          "en.karamati": "And by the Companions, then the Friends of God together, and the learned who act upon their knowledge, O God!",
+          "fr.karamati": "Par les compagnons [du Prophète], puis par les saints et l'ensemble des docteurs de la loi, les ulémas, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "وَبِالصِّدِّيقِ وَبِالْفَارُوقِ ثُمَّ بِذِ ۞ النُّورَيْنِ ثُمَّ أَبِى السِّبْطَيْنِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Per il Veridico [Abū Bakr], per colui che distingue il vero dal falso ['Umar], per l'Uomo dalle Due Luci ['Uthmān] e per il padre dei due nipoti del Profeta ['Alī], o Allah!",
+          "en.karamati": "And by the Truthful (Aṣ-Ṣiddīq), and by the Distinguisher (Al-Fārūq), then by the Possessor of the Two Lights, then by the father of the Two Grandsons, O God!",
+          "fr.karamati": "Par [Abou Bakr], le véridique, par [Omar], le Séparateur [du bien et du mal], puis par l'homme aux deux lumières [Ousmane], puis par [Alioune] le père des deux Petits-fils [du Prophète]"
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "بِمَالِكٍ ذِى الْمَزَايَا الشَّافِعِىِّ أَبِى ۞ حَنِيفَةٍ أَحْمَدَ الْمَحْمُودِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Per Mālik [ibn Anas] ricco di meriti, per Ash-Shāfi'ī, per Abū Hanīfa e per Ahmad [ibn Hanbal] il degno di lode, o Allah!",
+          "en.karamati": "By Mālik, possessor of excellences, Ash-Shāfiʿī, Abū Ḥanīfa, Aḥmad the Praised, O God!",
+          "fr.karamati": "Par Mâlik [Ibn 'Anas], le trés distingué, par [Muhammad ibn' Idrîs] Achafi, par Abou Hanîfa, par Ahmad [Ibn Man-hal] le digne d'éloges, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "بِاللَّوْحِ وَالْقَلَمِ الْمَحْفُوظِ  ثُمَّ بِعَرْ ۞ شِكَ الْعَظِيمِ وَبِالْكُرْسِىِّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Per la Tavola Custodita (Al-Lawh) e il Calamo, poi per il Tuo Trono Immenso ('Arsh) e per il Piedistallo (Kursī), o Allah!",
+          "en.karamati": "By the Tablet and the Preserved Pen, then by Your Immense Throne and by the Footstool, O God!",
+          "fr.karamati": "Par la Tablette, par la Plume bien gardée, puis par ton trône immense et par le Siège, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "وَبِالْقُرْءَانِ وَبِالتَّوْرِيةِ  ثُمَّ بِمَا ۞ دَاوُودَ جَآءَ بِهِ وَالرُوحُ  يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Per il Corano, per la Torah, per i Salmi recati da Davide e per il Vangelo portato da Gesù (lo Spirito), o Allah!",
+          "en.karamati": "By the Qurʾān and by the Torah, then by what David brought, and the Spirit, O God!",
+          "fr.karamati": "Par le Coran, la Thawra, par les Psaumes de David et l'Evangile de Jésus l'Esprit, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "بَلِّغْ صَلَاتِى وَتَسْلِيمِى عَلَيْهِ لَهُ ۞ وَالْئَالِ وَالصَّحْبِ وَالْأَزْوَاجِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Fai giungere la mia preghiera e il mio saluto a lui [il Profeta], alla sua famiglia, ai suoi Compagni e alle sue spose, o Allah!",
+          "en.karamati": "Convey my blessing and my greeting of peace upon him, and upon his Family, Companions and wives, O God!",
+          "fr.karamati": "Fais parvenir la bénédiction et le salut [de ma part] à lui [le Prophète], aux siens et à ses épouses, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "وَأَسْبِلَنَّ عَلَيْنَا رَبِّ عَافِيَةً ۞ وَهَبْ لَنَا الْقَصْدَ فِى الدَّارَيْنِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Stendi su di noi, o Signore, il manto della salute e dell'incolumità, e realizza le nostre aspirazioni in questo mondo e nell'Aldilà, o Allah!",
+          "en.karamati": "And let fall upon us, O Lord, well-being, and grant us moderation in the two abodes, O God!",
+          "fr.karamati": "Seigneur ! Fais descendre sur nous le voile de la bonne santé et accorde-nous la juste mesure dans les deux demeures ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "وَافْتَحْ لَنَا كُلَّ بَابٍ كُنْتَ فَاتِحَهُ ۞ لِلصَّالِحِينَ مِنَ الْخَيْرَاتِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Aprici ogni porta di benedizioni e di beni che Tu hai già aperto per i Tuoi servi devoti e virtuosi, o Allah!",
+          "en.karamati": "And open for us every door that You have opened of good things for the righteous, O God!",
+          "fr.karamati": "Ouvre-nous toute porte de bienfaits, ouverte par toi pour les vertueux ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "وَاسْلُكْ بِنَا نَهْجَ رُشْدٍ وَاكْفِنَا زَلَلًا ۞ وَاطْرُدْ لَنَا الْجِنَّ وَالشَّيْطَانَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Incamminaci sulla retta via, preservaci da ogni passo falso e scaccia lontano da noi i jinn e Satana, o Allah!",
+          "en.karamati": "And lead us on the path of right guidance, and spare us from slipping, and drive away from us the jinn and Satan, O God!",
+          "fr.karamati": "Engage-nous dans le droit chemin. Evite-nous tout faux pas. Chasse loin de nous djinns et satan ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "وَكَمِّلَنْ كُلَّمَا نَنْحُو وَنَقْصُدُهُ ۞ وَهَبْ لَنَا كُلَّمَا نَخْتَارُ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Porta a perfetto compimento tutto ciò a cui tendiamo e miriamo, e donaci tutto il bene che scegliamo, o Allah!",
+          "en.karamati": "And perfect all that we aim at and intend, and grant us all that we choose, O God!",
+          "fr.karamati": "Fais-nous obtenir complètement tout ce que nous désirons, et tout but que nous voulons atteindre. Donne-nous tout ce que nous aurons à choisir, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "وَرُضْ لَنَا كُلَّ ذِى صَعْبٍ وَذِى حَرَنٍ ۞ وَيَسِّرَنْ كُلَّ ذِى التَّعْسِيرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Appiana per noi ogni cosa ardua e ostinata, e rendi facile ogni difficoltà, o Allah!",
+          "en.karamati": "And tame for us everything hard and stubborn, and make easy everything difficult, O God!",
+          "fr.karamati": "Aplanis pour nous toute difficulté et toute complication Résous au mieux tout problème difficile ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "طَوِّلْ لَّنَا عُمْرَنَا صَحِّحْ لّنَا بَدَنًا ۞ وَهَبْ لَنَا الرُّشْدَ وَالتَّوفِيقَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Prolunga la nostra vita, mantieni in buona salute il nostro corpo e donaci la rettitudine e il successo spirituale, o Allah!",
+          "en.karamati": "Lengthen our life, make our body sound, and grant us right guidance and success, O God!",
+          "fr.karamati": "Accorde-nous une longue vie ! Donne-nous une excellente santé ! Apporte-nous la bonne direction et la félicité ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "وَدَمِّرَنْ كُلَّ أَعْدَآءٍ تُضِرُّ بِنَا ۞ قَبْلَ الْوُصُولِ لَنَا يَاللَّهُ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Annienta tutti i nemici che vogliono nuocerci prima ancora che possano raggiungerci, o Allah, o Allah!",
+          "en.karamati": "And destroy every enemy who would harm us, before they reach us, O God, O God!",
+          "fr.karamati": "Ecrase tous les ennemis qui veulent nous nuire avant qu'ils ne nous atteignent, Ô mon Dieu ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "وَكُنْ لَّنَا عَاصِمًا مِّنْ كُلِّ مَهْلَكَةٍ ۞ وَنَجِّنَا مِنْ بَلَا يَاالدَّهْرَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Sii il nostro Protettore contro ogni causa di rovina e salvaci per sempre dalle calamità del tempo, o Allah!",
+          "en.karamati": "And be for us a protector from every place of destruction, and save us from the affliction of time, O God!",
+          "fr.karamati": "Sois notre Protecteur contre toute cause de mort. Sauve-nous de tous les malheurs et pour toujours, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "وَءَافَةٍ عَاهَةٍ مَّعْ غُصَّةٍ مِّحَنٍ ۞ زَلْزَلَةٍ شِدَّةٍ وَالْفَقْرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Preservaci da ogni flagello, infermità, angoscia soffocante, dura prova, terremoto, avversità e povertà, o Allah!",
+          "en.karamati": "And from calamity, plague, and choking grief, trials, earthquake, hardship, and poverty, O God!",
+          "fr.karamati": "Préserve-nous de tout dommage, de tout sinistre, de la suffocation, de toutes les épreuves, du tremblement de terre, du malheur et de la pauvreté ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "إِهَانَةٍ قِلَّةٍ مَّعْ ذِلَّةٍ غَلَبٍ ۞ وَفَاقَةٍ عَطَشٍ وَالْجُوعِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Preservaci dall'umiliazione, dalla penuria, dall'avvilimento, dalla sopraffazione, dall'indigenza, dalla sete e dalla fame, o Allah!",
+          "en.karamati": "From humiliation, scarcity, abasement, defeat, destitution, thirst, and hunger, O God!",
+          "fr.karamati": "Préserve-nous [aussi] de l'avilissement, de la pénurie de l'achoppement, de la défaite, de la misère, de la soif et de la faim ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "وَفِتْنَةٍ وَالْوَبَآ وَالْحَرْقِ مَعْ غَرَقٍ ۞ وَالْبَرْقِ مَعْ سَرَقٍ وَالْكَدِّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Preservaci dalla discordia (fitna), dalle epidemie, dal fuoco, dall'annegamento, dai fulmini, dal furto e dalla fatica estenuante, o Allah!",
+          "en.karamati": "And from tribulation, pestilence, burning, together with drowning, lightning, together with theft, and toil, O God!",
+          "fr.karamati": "Préserve-nous de l'épreuve, de l'épidémie de l'incendie ainsi que de la noyade, de l'éclair, du vol et de la peine, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "حَرٍّ وَبَرْدٍ وَنَهْبٍ كُرْبَةٍ نِّقَمٍ ۞ ضَلَالَةٍ عَرَجٍ وَالْغَمِّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Preservaci dal caldo estremo, dal gelo, dal saccheggio, dall'afflizione, dai castighi, dallo smarrimento, dalla zoppia e dalla tristezza, o Allah!",
+          "en.karamati": "From heat and cold, plunder, distress, vengeances, error, lameness, and sorrow, O God!",
+          "fr.karamati": "Préserve-nous de la chaleur, du froid, du pillage, de la calamité, de la vengeance, de l'égarement, de la claudication et du chagrin, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "وَهَآمَّةٍ وَخَطَا يَاضَآلَّةٍ زَلَلٍ ۞ وَالْمَسْخِ وَالْخَسْفِ  ثُمَّ الْقَذْفِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Preservaci dai rettili e insetti velenosi, dai peccati, dallo sviamento, dalle cadute, dalla metamorfosi punitiva, dallo sprofondamento e dalla calunnia, o Allah!",
+          "en.karamati": "And from the venomous and harmful creature, and from transgression and fault, from straying and ruinous loss, from slips, and transformation, and engulfment, and then from slander, O God!",
+          "fr.karamati": "Préserve-nous de la créature venimeuse et nuisible, de la faute et de la transgression, de l'égarement et de la perte, des faux pas, de la transformation en monstres, de l'engloutissement, puis de la calomnie, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "وَغُلَّةٍ مَّعْ جُنُونٍ عِلَّةٍ مَّرَضٍ ۞ ثُمَّ الْجُذَامَيْنِ وَالنُّقْصَانِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Preservaci dal tormento interiore, dalla follia, dalle infermità, dalle malattie, dalle due forme di lebbra e dalla menomazione fisica, o Allah!",
+          "en.karamati": "And from burning thirst and inner anguish, together with madness, ailment, disease, then the two leprosies, and diminishment, O God!",
+          "fr.karamati": "Préserve-nous de la soif ardente et du tourment intérieur, de la folie, de l'infirmité, de la maladie, des deux sortes de lèpres et de la diminution, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "وَمِنْ قَبِيحَةِ دُنْيَا ثُمَّ ءَاخِرَةٍ ۞ وَمِنْ فُضُوحِهِمَا يَاللَّهُ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E preservaci dalle brutture di questo mondo e dell'Aldilà, e dal disonore in entrambi, o Allah, o Allah!",
+          "en.karamati": "And from the ugliness of this world and then the Hereafter, and from the disgrace of both, O God, O God!",
+          "fr.karamati": "Préserve-nous de la laideur de ce monde et de celle de l'au-delà, et de leur déshonneur, Ô mon Dieu ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "يَامَنْ عَلَى كُلِّ شَىْءٍ  قَادِرٌ وَعَلَى ۞ الْعَرْشِ الْعَظِيمِ اسْتَوَى بِالْقَهْرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Colui che è Onnipotente su ogni cosa e che Si è stabilito sul Trono Immenso con sovrana potenza, o Allah!",
+          "en.karamati": "O You who are Able over all things, and who rose over the Immense Throne with dominion, O God!",
+          "fr.karamati": "Ô toi qui peut tout faire, toi qui t'installes sur ton grand trône par la force coercitive ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "إِنِّى سَأَلْتُكَ قَلْبًا خَشِعًا مُّتَوَا ۞ ضِعًا وَعِلْمًا كَثِيرَ النَّفْعِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "In verità Ti chiedo un cuore devoto, colmo di timore riverenziale e umile, e una scienza sommamente utile, o Allah!",
+          "en.karamati": "Truly I ask You for a heart humbled and lowly, and for knowledge of great benefit, O God!",
+          "fr.karamati": "Je te demande un coeur doué pour Toi d'un saint respect, de la modestie et une science trés utile, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "وَتَوْبَاةً قُبِلَتْ مَعْ مِكْنَةٍ رُّفِعَتْ ۞ مَعْ زَوْجَةٍ صَلُّحَتْ بِالدِّينِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E Ti chiedo un pentimento accettato, un rango elevato e una sposa resa virtuosa dalla religione, o Allah!",
+          "en.karamati": "And a repentance accepted, together with a station raised, together with a wife made righteous by religion, O God!",
+          "fr.karamati": "Je te demande aussi un repentir agréé, une place élevée, une femme vertueuse et pieuse, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "وَكُنْ مُّعِيذًا لَّنَا مِنْ شَرِّ ذِى حَسَدٍ ۞ مَعْ شَرِّ فَمٍّ  وَشَرِّ الْعَيْنِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Sii il nostro rifugio contro il male dell'invidioso, il male della lingua e il male del malocchio, o Allah!",
+          "en.karamati": "And be our protector from the evil of the envier, together with the evil of the mouth and the evil of the eye, O God!",
+          "fr.karamati": "Sois notre protecteur contre le mal du jaloux, contre le mal de la bouche et le mal de l'œil ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "وَشَرِّ سِحْرٍ وَشَرِّ الْخَلْقِ إِنْسِهِمُ ۞ مَعْ جِنِّهِمْ وَذَوَاتِ السُّمِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E contro il male della magia e il male di tutte le creature: degli esseri umani, dei jinn e degli animali velenosi, o Allah!",
+          "en.karamati": "And from the evil of sorcery, and the evil of creatures, their humankind together with their jinn, and the venomous, O God!",
+          "fr.karamati": "Sois notre abri contre le mal de la magie, celui des êtres créés, hommes et djinns et celui des êtres venimeux, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "إِنِّى جَعَلْتُكَ فِى الدَّارَيْنِ يَاثِقَتِى ۞ حِصْنًا حَصِينًا فَكُنْ مَّلْجَاىَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O mia Fiducia! Ho fatto di Te, nelle due dimore, una fortezza inespugnabile: sii dunque il mio rifugio, o Allah!",
+          "en.karamati": "Truly I have made You, in the two abodes, O my Trust, a fortified stronghold; so be my refuge, O God!",
+          "fr.karamati": "Ô ma Confiance ! je te prends dans les deux demeures pour un abri sûr. Sois mon lieu de refuge ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "فَلَاتَكِلْنِى إِلَى نَفْسِى فَأَهْلِكَ كُنْ ۞ مُّجِيبَنِى حَيْثُمَآ أَدْعُوكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Non abbandonarmi a me stesso, altrimenti perirei! Sii Colui che mi esaudisce ovunque io Ti invochi, o Allah!",
+          "en.karamati": "So do not entrust me to myself, lest I perish; be the One who answers me wherever I call upon You, O God!",
+          "fr.karamati": "Ne m'abandonnes pas à moi-même ! [Si tu le fais,] je périrais. Sois celui qui exauce partout où je t'invoque. Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "وَاجْعَلْ لِّسَانِى وَقَلْبِى ذَاكِرَيْكَ مَعًا ۞ عِنْدَ الْمَمَاتِ مَعَ الْإِيمَانِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Fa' che la mia lingua e il mio cuore Ti menzionino insieme, nella fede, nel momento della morte, o Allah!",
+          "en.karamati": "And make my tongue and my heart both remember You at death, together with faith, O God!",
+          "fr.karamati": "Fais que ma langue et mon coeur, dans la foi, disent ton nom quand je mourrai ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "ثَبِّتْ يَقِينِىَ فِى قَلْبِى بِلَا وَجَلٍ ۞ حَتَّى أُحِبَّ  لِقَاكَ الْحَقَّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Rendi salda la certezza nel mio cuore senza alcuna paura, finché io ami ardentemente il vero incontro con Te, o Allah!",
+          "en.karamati": "Make firm my certainty in my heart without fear, until I love meeting You, the Truth, O God!",
+          "fr.karamati": "Rive solidement ma certitude dans mon coeur sans angoisse jusqu'à ce que je désire vraiment te rencontrer, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "وَلِى اجْعَلِ الْمَوْتَ رَاحَاتٍ وَمَفْرَحَةً ۞ مِنْ كُلِّ شَرٍّ وَكَرْبٍ ضَاقَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E rendi per me la morte un riposo e una gioia che mi liberi da ogni male e da ogni opprimente angoscia, o Allah!",
+          "en.karamati": "And make for me death a rest and a joy from every evil and every distress that has narrowed, O God!",
+          "fr.karamati": "Fais que ma mort soit source de repos et de joie qui m'éloigne de tout mal et de toute contraignante calamité ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "وَاحْفَظْ لِىَ الْجِسْمَ حَيْثُ الرُّوحُ فَارَقَنِى ۞ فِى الْقَبْرِ لَا تُبْلِيَنْهُ الدَّهْرَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Custodisci il mio corpo quando l'anima si sarà separata da me; nella tomba non lasciarlo mai corrompere dal tempo, o Allah!",
+          "en.karamati": "And preserve for me the body when the spirit has parted from me; in the grave let it never decay through time, O God!",
+          "fr.karamati": "Garde-moi le corps lorsque l'âme m'aura quitté ; dans la tombe, ne le laisse jamais se décomposer, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "وَكُنْ نَّصِيرِ أَنِيسِى حِينَمَا دَفَنُوا ۞ جِسْمِى فَصِرْتُ وَحِيدًا ثَمَّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Sii il mio Soccorritore e il mio Compagno consolatore quando avranno sepolto il mio corpo e sarò rimasto là tutto solo, o Allah!",
+          "en.karamati": "And be a helper and companion to me when they bury my body and I become alone there, O God!",
+          "fr.karamati": "Sois mon aide et mon compagnon lorsqu'ils auront enterré mon corps et que je reste seul ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "لَا تَضْمُمَنَّ مَعِى مَا قَدْ يُرَوِّ عُنِى ۞ بَلِ اكْفِيَنْ كُلَّمَآ أَخْشَاهُ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Non rinchiudere con me [nella tomba] nulla che possa spaventarmi, ma proteggimi da tutto ciò che temo, o Allah!",
+          "en.karamati": "Do not join with me what may frighten me, but rather suffice me against all that I fear, O God!",
+          "fr.karamati": "Ne m'enveloppe point avec ce qui pourrait m'effrayer mais au contraire, protège-moi contre tout ce que je craindrai, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "وَنَجِّنِى وَجَمِيعَ الْمُسْلِيمِينَ مَعًا ۞ وَنَجِّ وَالِدَتِى ءَامِينَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Salva me e tutti i musulmani insieme, e salva mia madre! Āmīn, o Allah!",
+          "en.karamati": "And save me and all the Muslims together, and save my mother, Amen, O God!",
+          "fr.karamati": "Sauve-moi, tous les musulmans ensemble. Sauve ma mère ! Amen ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "وَاغْفِرْ لَنَا وَلَهَا وَاسْتُر مَعَآ ئِبَنَا ۞ وَالْطُفْ بِنَا وَبِهَا فِى الْهَوْلِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Perdona noi e lei, copri i nostri difetti e sii benevolo e dolce con noi e con lei nel giorno del grande terrore, o Allah!",
+          "en.karamati": "And forgive us and her, and conceal our faults, and be gentle with us and with her in the terror, O God!",
+          "fr.karamati": "Pardonne-nous, ainsi qu'à elle ! Cache nos vices. Sois bienveillant pour nous et pour elle dans la déroute, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "عَنْهَا تَجَاوَزْ وَإِيَّانَا ارْحَمَنَّ فَمَا ۞ لَنَا سِوَاكَ وَأَنْتَ الْبَرُّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Sorvola sulle sue colpe e abbi misericordia di noi; non abbiamo altri che Te, e Tu sei il sommamente Buono, o Allah!",
+          "en.karamati": "Pass over her faults and have mercy on us, for we have none but You, and You are the Most Kind, O God!",
+          "fr.karamati": "Laisse nos péchés et les siens impunis ! Aie pitié ! Elle n'a d'autre que Toi. Et tu es bon, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "فِى بَرْزَخٍ مَّعَ قَبْرٍ كُنْ لَّهَا وَزَرًا ۞ وَمِنْ كُرُوبٍ وَخَوْفٍ نَّجِّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Nel mondo intermedio (Barzakh) e nella tomba sii per lei un sostegno, e salvala dalle angosce e dalla paura, o Allah!",
+          "en.karamati": "In the Barzakh and in the grave be a refuge for her, and from distresses and fear save her, O God!",
+          "fr.karamati": "Au purgatoire ainsi que dans la tombe, sois notre appui. Et des épreuves et de la peur sauve nous ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "لَا تَخْتَبِرْهَا بِمَا لَيْسَتْ بِقَادِرَةٍ ۞ وَلَا تُخَيِّبْ رَجَاهَا فِيكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Non metterla alla prova con ciò che non può sopportare, e non deludere la sua speranza in Te, o Allah!",
+          "en.karamati": "Do not test her with what she is not able to bear, and do not disappoint her hope in You, O God!",
+          "fr.karamati": "Ne lui fait pas subir ce qu'elle ne peut supporter ! Ne trompe pas son espoir en toi ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "وَأَسْقِنَا مَعَهَا مِنْ مَّآءِ كَوْثَرِ مَنْ ۞ إِخْتَرْتَهُ مِنْ جَمِيعِ الْخَلْقِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Disseta noi insieme a lei con l'acqua del Kawthar di colui che hai prescelto fra tutte le creature, o Allah!",
+          "en.karamati": "And give us to drink, together with her, from the water of the Kawthar of him whom You chose out of all creation, O God!",
+          "fr.karamati": "Abreuve-nous ainsi qu'elle dans la source de kawthara donnée par toi à celui que tu as choisi d'entre les créatures dans leur totalité ! Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "مَنْ كَانَ يُرْشِدُ ذَا غَىٍّ وَيُهْلِكُ ذَا ۞ كُفْرٍ وَيَنْصُرُ مَنْ يَّخشَاكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Colui che guidava sulla retta via chi era smarrito, che sconfiggeva il miscredente e soccorreva chi Ti teme, o Allah!",
+          "en.karamati": "He (the one You chose) who guided the one lost in error, destroyed the unbeliever, and gave victory to him who fears You, O God!",
+          "fr.karamati": "Lui, [celui que Tu as choisi], qui guidait l'égaré, détruisait le mécréant et secourait celui qui Te craint, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "مُحَمَّدٍ مَّذْكَاءِ الْأَخْيَارِ قَآئِدِنَا ۞ لِجَنَّةِ الْخُلْدِ يَوْمَ الْحَشْرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Muhammad, il fiore più puro tra gli eletti, la nostra guida verso il Paradiso eterno nel Giorno del Raduno, o Allah!",
+          "en.karamati": "Muḥammad, the radiant one among the best, our leader to the Garden of Eternity on the Day of Gathering, O God!",
+          "fr.karamati": "[J'ai nommé] Mouhammad, la fine fleur des choisis, notre guide jusqu'au Paradis éternel, le jour du Rassemblement, Ô mon Dieu !"
+        }
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "عَلَيْهِ صَلِّ وَسَلِّمْ دَآءِمًا أَبَدًا ۞ وَمَنْ خَفَوْهُ لِيَوْمِ الدِّينِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Su di lui riversa benedizione e pace sempre e in eterno, così come su coloro che lo seguono fino al Giorno del Giudizio, o Allah!",
+          "en.karamati": "Bless him and grant him peace always, forever, and those who follow him, until the Day of Judgement, O God!",
+          "fr.karamati": "Accorde-lui, à jamais et pour toujours bénédiction et salut ainsi qu'à ceux qui le suivent pour le jour du Jugement Dernier, Ô mon Dieu !"
+        }
+      }
+    ]
+  }
+}

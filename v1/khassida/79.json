@@ -1,0 +1,204 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 79,
+    "name": "Madhun Nabiyyil Muntaqa",
+    "transliterationName": "Madhun Nabiyyil Muntaqa",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "مَدْحُ النَّبِىِّ الْمُنَتَقَى ذَادٌ إِلَى",
+        "transcription": "madhun nabiyyil muntaqaa zaadun ilaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "بَيْتِ إِلَاهِ النَّاسِ وَاهِبِ الْإِلَى",
+        "transcription": "baytil ilaahin naasi waahibil ilaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "حُبُّ النَّبِىِّ لِإِلَاهِ صَوَّرَهْ",
+        "transcription": "hubbun nabiyyi li-ilaahi sawwarah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "ذَادٌ إِلَى الْمَدِينَةِ الْمُنَوَّرَهْ",
+        "transcription": "zaadun ilal madiinatil munawwarah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "مُحَمَّدٌ صَلَّى عَلَيْهِ اللَّهُ",
+        "transcription": "muhammadun sallaa halayhil laahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "مُسَلِّمًا بَدَتْ لَنَا عُلَاهُ",
+        "transcription": "musalliman badat lanaa hulaahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "مُحَمَّدٌ فَرْدٌ يَفُوقُ تَثْنِيَهْ",
+        "transcription": "muhammadun fardun yafuuqu tasbiyah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَفَاقَ جَمْعًا وَالْهَدَايَا مُغْنِيَهْ",
+        "transcription": "wa faaqa jamhan wal hadaayaa mughniyah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "دَرَجَةُ الْمُخْتَارِ حِبِّ الْمُرْسِلِ",
+        "transcription": "darajatul mukhtaari hibbil mursili",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "بِهَا اعْتِلَآءُ دَرَجَاتِ الرُّسُلِ",
+        "transcription": "bihah tilaa-u darajaatir rusuli",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "كُلُّ نَبِىٍّ وَرَسُولٍ يَتْبَعُ",
+        "transcription": "kullu nabiyyin wa rasuulin yatbahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "خَلْقَ وَسِيلَتِى هُوَالْمُتَّبَعُ",
+        "transcription": "khalqa wasiilatii huwal muttabahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "أَحْمَدُنَا الْمَاحِى مَحَا مَاسَآءَا",
+        "transcription": "ahmadunal maahii mahaa maasaa-aa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَلِسِوَانَا سَاقَ مَنْ أَسَآءَا",
+        "transcription": "wa lisiwaanaa saaqa man asaa-aa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "لِأَحْمَدَ الْمُخْتَارِ مَالَمْ يَكُنِ",
+        "transcription": "li-ahmadal mukhtaari maa lam yakuni",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "وَلَا يَكُونُ أَبَدًا لِمُمْكِنِ",
+        "transcription": "walaa yakuunu abadan limumkini",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "جَمَالُهُ يَسْبِى فُؤَادَ الرَّآءِ",
+        "transcription": "jamaaluhu yasbii fu-aadar raa-i",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "وَنَهْجُهُ يُغْنِى عَنِ افْتِرَآءِ",
+        "transcription": "wa nahjuhu yughnii hanif tiraa-i",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "مَدَّ لَنَا الْإِيمَانَ وَالْإِسْلَامَا",
+        "transcription": "madda lanal iimaana wal islaamaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "وَأَحْسَنَ الْإِحْسَانِ لَنْ نُّلَامَا",
+        "transcription": "wa ahsanal ihsaani lan nulaamaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "يَسُرُّهُ خَطِّىَ فِى كُلِّ سَنَهْ",
+        "transcription": "yasurruhu khattiya fii kulli sanah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَغَيْرُهُ مِنْ خِدْمَةٍ مُّسْتَحْسَنَهْ",
+        "transcription": "wa ghayruhu min khidmatin mustahsanah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "لَمْ يَخْفَ كَوْنُ الْمَدْحِ وَالْحُبِّ إِلَى",
+        "transcription": "lam yakhfa kawnul madhi wal hubbi ilaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "رَوْضَتِهٍ وَالْبَيْتِ ذَادٌ وَإِلَى",
+        "transcription": "rawdatihin wal bayti zaadun wa ilaa",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

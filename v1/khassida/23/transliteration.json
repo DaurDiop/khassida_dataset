@@ -1,0 +1,173 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 23,
+    "name": "Barakatu",
+    "transliterationName": "Barakatu",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "barakatul lazil wujuudu wal qidam"
+      },
+      {
+        "number": 2,
+        "text": "qad wa jabaa lahu lanaa tunmil khidam"
+      },
+      {
+        "number": 3,
+        "text": "subhaana zil baqaa-i wal mukhaalafah"
+      },
+      {
+        "number": 4,
+        "text": "man qadaa lii amnan bilaa mukhaalafah"
+      },
+      {
+        "number": 5,
+        "text": "mulkul lazil qiyaamu bin nafsi wajab"
+      },
+      {
+        "number": 6,
+        "text": "lahu ilaa kulliyyatii qaadal hajab"
+      },
+      {
+        "number": 7,
+        "text": "al hamdu lil laahi tahaalaa wahdah"
+      },
+      {
+        "number": 8,
+        "text": "kamaa lahul khamsu tihi wal wahdah"
+      },
+      {
+        "number": 9,
+        "text": "liman lahul qudratu wal iraadah"
+      },
+      {
+        "number": 10,
+        "text": "wal hilmu mah hayaatil hibaadah"
+      },
+      {
+        "number": 11,
+        "text": "liman lahus samhu kamaa lahul basar"
+      },
+      {
+        "number": 12,
+        "text": "mahal kalaami kulli shay-in wa nasar"
+      },
+      {
+        "number": 13,
+        "text": "huwa tahaalaa qaadirun muriidu"
+      },
+      {
+        "number": 14,
+        "text": "wa haalimun hayyun huwal fariidu"
+      },
+      {
+        "number": 15,
+        "text": "al laahu rabbunaa samiihun wa basiir"
+      },
+      {
+        "number": 16,
+        "text": "wa mutakallimun wa jaada biqusur"
+      },
+      {
+        "number": 17,
+        "text": "lam yanhu qattu hadamun walaa huduus"
+      },
+      {
+        "number": 18,
+        "text": "walaa fanaa-un lil lazii minhul hadiis"
+      },
+      {
+        "number": 19,
+        "text": "rabbul waraa laysa lahu tamaasulu"
+      },
+      {
+        "number": 20,
+        "text": "walaf tiqaaru bal lahu man maasaluu"
+      },
+      {
+        "number": 21,
+        "text": "hamdii libaaqin jalla han tahaddudi"
+      },
+      {
+        "number": 22,
+        "text": "wa han tawaaludin wa aslin wa dadi"
+      },
+      {
+        "number": 23,
+        "text": "malikunaa lam yanhu hajzun awkaraa"
+      },
+      {
+        "number": 24,
+        "text": "hatun lahu wa laysa yanhuuhu karaa"
+      },
+      {
+        "number": 25,
+        "text": "ahmadu man jahlun wa mawtun wa samam"
+      },
+      {
+        "number": 26,
+        "text": "lam tanhu wa qad kafaaniyal ghumam"
+      },
+      {
+        "number": 27,
+        "text": "nafahanil lazii haman wa bakumu"
+      },
+      {
+        "number": 28,
+        "text": "lam yanhayaa lahu wa nihmal hakamu"
+      },
+      {
+        "number": 29,
+        "text": "iyjaada kulli mumkinin wat tarkaa"
+      },
+      {
+        "number": 30,
+        "text": "ajiz liman kafaaka fadlan shirkaa"
+      },
+      {
+        "number": 31,
+        "text": "laa rabba ghayruhu wa han siwaahu"
+      },
+      {
+        "number": 32,
+        "text": "ghanii lahuf taqara man hadaahu"
+      },
+      {
+        "number": 33,
+        "text": "rasuulunaa nabiyyunaa muhammadu"
+      },
+      {
+        "number": 34,
+        "text": "habdun rasuulunuq tamaahus samadu"
+      },
+      {
+        "number": 35,
+        "text": "hamaahu sidqu bi-amaanatin juzib"
+      },
+      {
+        "number": 36,
+        "text": "lahu bitabliighin ilaynaa han kazib"
+      },
+      {
+        "number": 37,
+        "text": "yaquudu man khiyaanatan wa katmaa"
+      },
+      {
+        "number": 38,
+        "text": "harrama khidmatii lihaawin khatmaa"
+      },
+      {
+        "number": 39,
+        "text": "muhammadun basharu man lahul qidam"
+      },
+      {
+        "number": 40,
+        "text": "karuslihi muqaddaman kun zaa khidam"
+      }
+    ]
+  }
+}

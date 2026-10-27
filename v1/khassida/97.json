@@ -1,0 +1,1020 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "Matlabul Fawzayni 3",
+    "transliterationName": "Matlabul Fawzayni 3",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "وَحُرْمَةِ الْبَينِنَ وَالْبَنَاتِ",
+        "transcription": "wa hurmatil baniina wal banaati",
+        "translations": {
+          "fr": "Par égard pour les fils et les filles (du Prophète)"
+        }
+      },
+      {
+        "number": 2,
+        "text": "وَحُرْمَةِ الْئَالِ مَعَ الزَّوْجَاتِ",
+        "transcription": "wa hurmatil aali mahaz zawjaati",
+        "translations": {
+          "fr": "ainsi que les siens et les épouses."
+        }
+      },
+      {
+        "number": 3,
+        "text": "وَحُرْمَةِ الرُّسْلِ وَالْأنْبِيَآءِ",
+        "transcription": "wa hurmatir rusli wal anbiyaa-i",
+        "translations": {
+          "fr": "Par égard pour les Envoyés et les Apôtres"
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَالْعُلَمَآءِ مَعَ الْأَوْلِيَآءِ",
+        "transcription": "wal hulamaa-i mahal awliyaa-i",
+        "translations": {
+          "fr": "ainsi que les savants et les hommes de Dieu."
+        }
+      },
+      {
+        "number": 5,
+        "text": "وَحُرْمَةِ الْمَلَائِكِ الْغُرِّ الْكِرَامْ",
+        "transcription": "wa hurmatil malaa-ikil ghurril kiraam",
+        "translations": {
+          "fr": "Par égard pour les illustres et honorables Anges"
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَحُرْمَةِ الْكَعْبَةِ بَيْتِكَ الْحَرَامْ",
+        "transcription": "wa hurmatil kahbati baytikal haraam",
+        "translations": {
+          "fr": "et par égard pour la Kaaba, Ta maison sacrée."
+        }
+      },
+      {
+        "number": 7,
+        "text": "وَحُرْمَةِ الْبَيْتِ الْمُقَدَّسِ الْعَظِيمْ",
+        "transcription": "wa hurmatil baytil muqaddasil haziim",
+        "translations": {
+          "fr": "Par égard pour Jérusalem, la sublime Médine,"
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَبِمَدِينَةِ رَسُولِكَ الْكَرِيمْ",
+        "transcription": "wa bimadiinati rasuulikal kariim",
+        "translations": {
+          "fr": "la ville de Ton généreux Envoyé."
+        }
+      },
+      {
+        "number": 9,
+        "text": "وَبَيْتِكَ الْمَعْمُورِ يَارَبِّ وَمَا",
+        "transcription": "wa baytikal mahmuuri yaa rabbi wa maa",
+        "translations": {
+          "fr": "Par égard pour Ta maison bien peuplée Seigneur,"
+        }
+      },
+      {
+        "number": 10,
+        "text": "يَزُورُهُ, مِنْ مَّلِكٍ فَوْقَ السَّمَآ",
+        "transcription": "yazuuruhuu min malikin fawqas samaa",
+        "translations": {
+          "fr": "et tous les Anges qui la visitent au ciel."
+        }
+      },
+      {
+        "number": 11,
+        "text": "وَجَاهِ كُلِّ ذِى هُدًى مِّنْ صَالِحِ",
+        "transcription": "wa jaa-i kulli zii hudan min saalihi",
+        "translations": {
+          "fr": "Par égard pour tous ceux qui suivent la guidance, qu'ils soient parmi les bons,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "أَوْمُرْشِدٍ أَوْعَابِدِ أَوْنَاصِحِ",
+        "transcription": "aw murshidin aw haabidi aw naasihi",
+        "translations": {
+          "fr": "les guides, les pieux ou les conseillers désintéressés."
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَجَاهِ كُلِّ مَنْ إِلَيْكَ يُنْسَبُ",
+        "transcription": "wa jaa-i kulli man ilayka yunsabu",
+        "translations": {
+          "fr": "Par égard pour tous ceux qui se rattachent à Toi,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "هَبْ لِىَ مَامِنْكَ جَمِيعًا أَطْلُبُ",
+        "transcription": "hab liya maa minka jamiihan atlubu",
+        "translations": {
+          "fr": "accorde-moi tout ce que je Te demande."
+        }
+      },
+      {
+        "number": 15,
+        "text": "وَلْتَكْفِنِى جُمْلَةَ مَآ أَعُوذُ",
+        "transcription": "waltakfinii jumlata maa ahuuzu",
+        "translations": {
+          "fr": "Et préserve-moi de tout"
+        }
+      },
+      {
+        "number": 16,
+        "text": "مِنْهُ سَرِيعًا بِكَ يَامُعِيذُ",
+        "transcription": "minhu sariihan bika yaa muhiizu",
+        "translations": {
+          "fr": "ce dont je me protège auprès de Toi, Ô Protecteur!"
+        }
+      },
+      {
+        "number": 17,
+        "text": "فَلْتَجْمَعَنْ بَيْنَى هُنَا وَبَيْنَ مَا",
+        "transcription": "faltajmahan baynaa hunaa wa bayna maa",
+        "translations": {
+          "fr": "A cet endroit, lie-moi à ce qui m'oriente vers Toi,"
+        }
+      },
+      {
+        "number": 18,
+        "text": "يَسُوقُنِى إِلَيْكَ حَيْثُ عُلِمَا",
+        "transcription": "yasuuqunii ilayka haysu hulimaa",
+        "translations": {
+          "fr": "où que cela se trouve."
+        }
+      },
+      {
+        "number": 19,
+        "text": "وَكٌلُّمَا عَنْكَ يَعُوقُ يَابَدِيعْ",
+        "transcription": "wa kullumaa hanka yahuuqu yaa badiih",
+        "translations": {
+          "fr": "Et débarrasse-moi sans délai, Créateur,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "فَلْتَفْرُقَنْ بَيْنِى وَبَيْنَهُ سَرِيعْ",
+        "transcription": "faltaf-ruqan baynahuu wa baynu sariih",
+        "translations": {
+          "fr": "de tout ce qui fait obstacle sur voie vers Toi."
+        }
+      },
+      {
+        "number": 21,
+        "text": "أَنَا الَّذِى أَسْلَمْتُ وَجْهِىَ هُنَا",
+        "transcription": "anal lazii aslamtu wajhiya hunaa",
+        "translations": {
+          "fr": "C'est moi qui me soumets à Toi à cet endroit"
+        }
+      },
+      {
+        "number": 22,
+        "text": "إِلَيْكَ عَازِمًا عَلَى أَنْ أَحْسِنَا",
+        "transcription": "ilayka haaziman halaa an ahsinaa",
+        "translations": {
+          "fr": "en ayant la ferme volonté de bien faire."
+        }
+      },
+      {
+        "number": 23,
+        "text": "أَنَا الَّذِى لَسْتُ أَمِيلُ أَبَدَا",
+        "transcription": "anal lazii lastu amiilu abadaa",
+        "translations": {
+          "fr": "C'est moi qui ne me conduis jamais que vers Toi"
+        }
+      },
+      {
+        "number": 24,
+        "text": "إِلَى سِوَاكَ هَاهُنَا ثُمَّ غَدَا",
+        "transcription": "ilaa siwwaka haahunaa summa ghadaa",
+        "translations": {
+          "fr": "ici-bas et dans l'au-delà."
+        }
+      },
+      {
+        "number": 25,
+        "text": "لِمْ لَاوَأَنْتَ رَبِّىَ الْوَكِيلُ",
+        "transcription": "lim laa wa anta rabbiyal wakiilu",
+        "translations": {
+          "fr": "Comment pouvait-il en être autrement que Tu es, Seigneur,"
+        }
+      },
+      {
+        "number": 26,
+        "text": "وَأَنْتَ حَسْبِىَ فَلَآ أَمِيلُ",
+        "transcription": "wa anta hasbiya falaa amiilu",
+        "translations": {
+          "fr": "le Garant et que Tu me suffis; ainsi je ne dévie point."
+        }
+      },
+      {
+        "number": 27,
+        "text": "يَابَرُّ أَنْتَ رَبِّىَ الْوَهَّابُ",
+        "transcription": "yaa barru anta rabbiyal wahhaabu",
+        "translations": {
+          "fr": "Ô bon Dieu ! Tu es mon Seigneur, le Bienfaiteur;"
+        }
+      },
+      {
+        "number": 28,
+        "text": "وَفِى فُتُوحَاتِكَ لَا أَرْتَابُ",
+        "transcription": "wa fii futuuhaatika laa artaabu",
+        "translations": {
+          "fr": "ainsi je ne doute point de Tes Dons."
+        }
+      },
+      {
+        "number": 29,
+        "text": "يَابَرُّ أَنْتَ رَبِّىَ الْحَسِيبُ",
+        "transcription": "yaa barru anta rabbiyal hasiibu",
+        "translations": {
+          "fr": "Ô bon Dieu ! Tu es mon Seigneur, le Suffisant."
+        }
+      },
+      {
+        "number": 30,
+        "text": "وَأَنْتَ حَسْبِىَ فَلَآ أُخِيبُ",
+        "transcription": "wa anta hasbiya falaa akhiibu",
+        "translations": {
+          "fr": "Tu me suffis et je ne me deçois point."
+        }
+      },
+      {
+        "number": 31,
+        "text": "يَاعَدْلُ أَنْتَ رَبِّىَ الْمُدَافِعُ",
+        "transcription": "yaa hadlu anta rabbiyal mudaafihu",
+        "translations": {
+          "fr": "Ô Juste! Tu es mon Seigneur qui me défend."
+        }
+      },
+      {
+        "number": 32,
+        "text": "وَأَنْتَ حَسْبِىَ فَلَآ أُدَافِعُ",
+        "transcription": "wa anta hasbiya falaa udaafihu",
+        "translations": {
+          "fr": "Tu me suffis, et je ne me défends point."
+        }
+      },
+      {
+        "number": 33,
+        "text": "يَاحَىُّ أَنْتَ ذُوالْجَلَالِ الْوَاسِعُ",
+        "transcription": "yaa hayyu anta zul jalaalil waasihu",
+        "translations": {
+          "fr": "Ô Vivant ! Tu es le Majestueux, le Généreux."
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَأَنْتَ حَسْبِىَ فَلَآ أُنَازِعُ",
+        "transcription": "wa anta hasbiya falaa unaazihu",
+        "translations": {
+          "fr": "Yu me suffis, et je ne me dispute point."
+        }
+      },
+      {
+        "number": 35,
+        "text": "يَارَبِّ أَنْتَ ذُوالْمِحَالِ الْوَاحِدُ",
+        "transcription": "yaa rabbi anta zul mihaalil waahidu",
+        "translations": {
+          "fr": "Ô Seigneur ! Tu es le Tout-Puissant, l'Unique."
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَأَنْتَ حَسْبِىَ فَلَآ أُكَابِدُ",
+        "transcription": "wa anta hasbiya falaa ukaabidu",
+        "translations": {
+          "fr": "Tu me suffis, et je ne souffre point."
+        }
+      },
+      {
+        "number": 37,
+        "text": "يَافُرْدُ أَنْتَ ذُوالْعَطَا يَاالْمَاجِدُ",
+        "transcription": "yaa furdu anta zul hataa yal maajidu",
+        "translations": {
+          "fr": "Ô l'Unique ! Tu es le Généreux Donateur, le Glorieux."
+        }
+      },
+      {
+        "number": 38,
+        "text": "وَأَنْتَ حَسْبِىَ فَلَآ أُحَاسِدُ",
+        "transcription": "wa anta hasbiya falaa uhaasidu",
+        "translations": {
+          "fr": "Tu me suffis, et je n'envie point."
+        }
+      },
+      {
+        "number": 39,
+        "text": "مَوْلَاىَ أَنْتَ ذُوالْهَدَا يَاالنَّافِعُ",
+        "transcription": "mawlaaya anta zul hadaa yan naafihu",
+        "translations": {
+          "fr": "Ô Maître ! Tu es le Gracieux, le Bienfaisant."
+        }
+      },
+      {
+        "number": 40,
+        "text": "وَأَنْتَ حَسْبِىَ فَلَآ أُقَاطِعُ",
+        "transcription": "wa anta hasbiya falaa uqaatihu",
+        "translations": {
+          "fr": "Tu me suffis, et je ne romps point."
+        }
+      },
+      {
+        "number": 41,
+        "text": "أَنْتَ الَّذِى تُولِى مُحِبِّيكَ هُدَاكْ",
+        "transcription": "antal lazii tuulii muhibbiika hudaak",
+        "translations": {
+          "fr": "C'est Toi qui indiques Ta guidance à ceux qui T'aiment."
+        }
+      },
+      {
+        "number": 42,
+        "text": "وَأَنْتَ حَسْبِىَ فَلَآ أَبْغِى سِوَاكْ",
+        "transcription": "wa anta hasbiya falaa abghii siwaak",
+        "translations": {
+          "fr": "Tu me suffis, je ne cherche point autre que Toi."
+        }
+      },
+      {
+        "number": 43,
+        "text": "فَاحْمِ حِمَاىَ لِىَ كُنْ حِصْنًا حَصِينْ",
+        "transcription": "fahmi himaaya liya kun hisnan hasiin",
+        "translations": {
+          "fr": "Protège mon sanctuaire et sois pour moi une solide forteresse"
+        }
+      },
+      {
+        "number": 44,
+        "text": "عَنْ كُلِّ ذِى نَابٍ وَظُفْرٍ كُلَّ حِينْ",
+        "transcription": "han kulli zii naabin wa zufrin kulla hiin",
+        "translations": {
+          "fr": "contre tout ce qui possède des dents et des griffes à tout moment."
+        }
+      },
+      {
+        "number": 45,
+        "text": "وَلْتَكْفِنِى يَاذَا الْبَقَآءِ وَالْقِدَمْ",
+        "transcription": "waltakfinii yaa zal baqaa-i wal qidam",
+        "translations": {
+          "fr": "Prèserve-moi, Eternel, du mal"
+        }
+      },
+      {
+        "number": 46,
+        "text": "أَذَى الَّذِى مَشَى إِلَىَّ بِالْقَدَمْ",
+        "transcription": "azal lazii mashaa ilayya bil qadam",
+        "translations": {
+          "fr": "de celui qui marche à pied vers moi."
+        }
+      },
+      {
+        "number": 47,
+        "text": "وَشَرَّ مَنْ يَّرْكَبُ ذَا سِلَاحِ",
+        "transcription": "wa sharra man yarkabu zaa silaahi",
+        "translations": {
+          "fr": "Ainsi que du mal ce celui qui, armé, se dirige vers moi en montant"
+        }
+      },
+      {
+        "number": 48,
+        "text": "وَشَرَّ مَا يَطِيرُ ذَا جَنَاحِ",
+        "transcription": "wa sharra maa yatiiru zaa janaahi",
+        "translations": {
+          "fr": "et de ce qui vole avec des ailes."
+        }
+      },
+      {
+        "number": 49,
+        "text": "وَشَرَّ مَنْ يَّجْلِسُ بِالْكَلَامِ",
+        "transcription": "wa sharra man yajlisu bil kalaami",
+        "translations": {
+          "fr": "Du mal ce celui qui parle"
+        }
+      },
+      {
+        "number": 50,
+        "text": "وَشَرَّ ذِى ضَجْعٍ وَذِى قِيَامِ",
+        "transcription": "wa sharra zii dajhin wa zii qiyaami",
+        "translations": {
+          "fr": "en étant assis, couché ou debout."
+        }
+      },
+      {
+        "number": 51,
+        "text": "وَشَرَّ مَنْ يَّنْفُثُ فِى الْعُقُودِ",
+        "transcription": "wa sharra man yanfusu fil huquudi",
+        "translations": {
+          "fr": "Du mal du magicien,"
+        }
+      },
+      {
+        "number": 52,
+        "text": "وَشَرَّحَاسِدٍ وَذِى جُحُودِ",
+        "transcription": "wa sharra haasidin wa zii juhuudi",
+        "translations": {
+          "fr": "du sorcier et du mécréant."
+        }
+      },
+      {
+        "number": 53,
+        "text": "بِكَ عَقَتُّ يَاإِلَاهِى الْأَسَدَا",
+        "transcription": "bika haqattu yaa ilaahil asadaa",
+        "translations": {
+          "fr": "C'est par Toi, mon Dieu, que j'ai mis hors d'état de nuire le lion,"
+        }
+      },
+      {
+        "number": 54,
+        "text": "وَحَيَّةً وَعَقْرَبًا وَأَسْوَدَا",
+        "transcription": "wa hayyatan wa haqraban wa aswadaa",
+        "translations": {
+          "fr": "le serpent et le scorpion."
+        }
+      },
+      {
+        "number": 55,
+        "text": "وَعَاقِدًا وَنَافِثًا وَسَارِقَا",
+        "transcription": "wa haaqidan wa naafisan wa saariqaa",
+        "translations": {
+          "fr": "Le magicien et le sorcier,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "وَعَآئِنًا وَسَاحِرًا وَطَارِقَا",
+        "transcription": "wa haa-inan wa saahiran wa taariqaa",
+        "translations": {
+          "fr": "le mauvais oeil, ceux qui trainent la nuit."
+        }
+      },
+      {
+        "number": 57,
+        "text": "وَالْإِنْسَ وَالْجِنَّ مَعًا عَنِّى وَعَنْ",
+        "transcription": "wal insa wal jinna mahan hannii wa han",
+        "translations": {
+          "fr": "Et l'ensemble des êtres humains et de djinns, je les ai mis hors d'état de me faire du mal"
+        }
+      },
+      {
+        "number": 58,
+        "text": "جَمِيعِ مَنْ قَدَ أَسْلَمُواْ فِى مَا عَلَنْ",
+        "transcription": "jamiihi man qada aslamuu fii maa halan",
+        "translations": {
+          "fr": "et du faire du mal à tous musulmans avérés."
+        }
+      },
+      {
+        "number": 59,
+        "text": "بِأَلْفِ أَلْفِ لَفْظِ لَاحَوْلَ وَلَا",
+        "transcription": "bil alfi alfi lafzi laa hawla walaa",
+        "translations": {
+          "fr": "Cela par la répétition des milliers et des milliers de fois de l'expression"
+        }
+      },
+      {
+        "number": 60,
+        "text": "قُوَّةَ إِلَّا بِالْإِلَّاهِ ذِى الْعُلَى",
+        "transcription": "quwwata illaa bil illaahi zil hulaa",
+        "translations": {
+          "fr": "\"Point de pouvoir ni de capacité en dehors de Dieu le Très-Haut\"."
+        }
+      },
+      {
+        "number": 61,
+        "text": "وَنَجِّنِى مِنْ شَرِّ سَاكِنِى الْبَلَدْ",
+        "transcription": "wa najjinii min sharri saakinil balad",
+        "translations": {
+          "fr": "Préserve-moi du mal de tout habitant de cet endroit,"
+        }
+      },
+      {
+        "number": 62,
+        "text": "وَشَرِّ كُلِّ وَالِدٍ وَمَا وَلَدْ",
+        "transcription": "wa sharri kulli waalidin wa maa walad",
+        "translations": {
+          "fr": "du mal de tout géniteur et de ce qu'il engendre."
+        }
+      },
+      {
+        "number": 63,
+        "text": "وَلْتَكْفِنِى شَرَّ فَمٍ وَعَيْنِ",
+        "transcription": "waltakfinii sharra famin wa hayni",
+        "translations": {
+          "fr": "Préserve-moi du mal de la bouche, de l'oeil"
+        }
+      },
+      {
+        "number": 64,
+        "text": "وَكُلِّ مَنْ قَصَدَنِى بِالْحَيْنِ",
+        "transcription": "wa kulli man qasadanii bil hayni",
+        "translations": {
+          "fr": "et de celui qui se dirige vers moi avec une mauvaise intention."
+        }
+      },
+      {
+        "number": 65,
+        "text": "وَنَجِّنِى مِنْ ظُلْمِ كُلِّ ظَالِمِ",
+        "transcription": "wa najjinii min zulmi kulli zaalimi",
+        "translations": {
+          "fr": "Prèserve-moi de l'agression de tout agresseur"
+        }
+      },
+      {
+        "number": 66,
+        "text": "وَشَرِّ كُلِّ جَاهِلٍ وَعَالِمِ",
+        "transcription": "wa sharri kulli jaahilin wa haalimi",
+        "translations": {
+          "fr": "et du mal de tout ignorant et de tout savant."
+        }
+      },
+      {
+        "number": 67,
+        "text": "وَكُلِّ صَامِتٍ وَكُلِّ نَاطِقِ",
+        "transcription": "wa kulli saamitin wa kulli naatiqi",
+        "translations": {
+          "fr": "Du mal de tout individu qui se tait ou qui se prononce"
+        }
+      },
+      {
+        "number": 68,
+        "text": "وَكُلِّ مَارِقٍ وَكُلِّ طَارِقِ",
+        "transcription": "wa kulli maariqin wa kulli taariqi",
+        "translations": {
+          "fr": "et du mal de tout hérétique et de tout ce qui traîne la nuit."
+        }
+      },
+      {
+        "number": 69,
+        "text": "وَكُلِّ أَرْذَلٍ وَكُلِّ فَاضِلِ",
+        "transcription": "wa kulli arzalin wa kulli faadili",
+        "translations": {
+          "fr": "Du mal de tout individu ignoble ou noble,"
+        }
+      },
+      {
+        "number": 70,
+        "text": "وَكُلِّ قَاهِرٍ وَكُلِّ صَآئِلِ",
+        "transcription": "wa kulli qaahirin wa kulli saa-ili",
+        "translations": {
+          "fr": "dominateur ou violent."
+        }
+      },
+      {
+        "number": 71,
+        "text": "وَكُلِّ طَآئِرِ وَكُلِّ مَاشِ",
+        "transcription": "wa kulli taa-iri wa kulli maashi",
+        "translations": {
+          "fr": "Du mal de tout être qui vole ou qui marche,"
+        }
+      },
+      {
+        "number": 72,
+        "text": "وَكُلِّ خَامِلٍ وَكُلِّ فَاشِ",
+        "transcription": "wa kulli khaamilin wa kulli faashi",
+        "translations": {
+          "fr": "peu réputé ou largement connu."
+        }
+      },
+      {
+        "number": 73,
+        "text": "وَكُلِّ حَاسِدٍ وَكُلِّ شَانِ",
+        "transcription": "wa kulli haasidin wa kulli shaani",
+        "translations": {
+          "fr": "Du mal de tout envieux, de tout haineux,"
+        }
+      },
+      {
+        "number": 74,
+        "text": "وَكُلِّ جَبَّارٍ وَكُلِّ جَانِ",
+        "transcription": "wa kulli jabbaarin wa kulli jaani",
+        "translations": {
+          "fr": "de tout tyran et de tout criminel."
+        }
+      },
+      {
+        "number": 75,
+        "text": "وَنَجِّنِى يَامَنْ تَعَلَى يَامَجِيدْ",
+        "transcription": "wa najjinii yaa man tahalaa yaa majiid",
+        "translations": {
+          "fr": "Préserve-moi, Exalté, le Glorifié,"
+        }
+      },
+      {
+        "number": 76,
+        "text": "مِنْ شَرِّ جِنٍ مَّعَ شَيْطَانٍ مَّرِيدْ",
+        "transcription": "min sharri jinin maha shaytaanin mariid",
+        "translations": {
+          "fr": "du mal des djinns et de Satan le rebelle."
+        }
+      },
+      {
+        "number": 77,
+        "text": "وَشَرِّ ذِى الْقُرْبِ وَشَرِّ النَّاءِ",
+        "transcription": "wa sharri zil qurbi wa sharrin naa-i",
+        "translations": {
+          "fr": "Du mal de ce qui est proche ou éloigné,"
+        }
+      },
+      {
+        "number": 78,
+        "text": "وَالْحَرِّ وَالْبَرْدِ وَشَرِّ الْمَاءِ",
+        "transcription": "wal harri wal bardi wa sharril maa-i",
+        "translations": {
+          "fr": "du mal de la chaleur, du froid et de l'eau."
+        }
+      },
+      {
+        "number": 79,
+        "text": "وَسَوِّدَنِّىَ وَأَيِّدْنِى أَبَدْ",
+        "transcription": "wa sawwidanniya wa ayyidnii abad",
+        "translations": {
+          "fr": "Anoblie-moi, soutiens-moi pour toujours,"
+        }
+      },
+      {
+        "number": 80,
+        "text": "وَطَهِّرِ الْقَلْبَ وَصَحْحِ الْجَسَدْ",
+        "transcription": "wa tahhiril qalba wa sah-hil jasad",
+        "translations": {
+          "fr": "purifie mon coeur et donne-moi une excellente santé."
+        }
+      },
+      {
+        "number": 81,
+        "text": "وَهَبْ لِىَ الْقِيَامَ فِى اللَّيَالِى",
+        "transcription": "wa hab liyal qiyaama fil yaalii",
+        "translations": {
+          "fr": "Aide-moi à effectuer des prières durant la nuit"
+        }
+      },
+      {
+        "number": 82,
+        "text": "وَالصَّوْمَ فِى النَّهَارِ بِالْإِكْمَالِ",
+        "transcription": "was sawma fin nahaari bil ikmaali",
+        "translations": {
+          "fr": "et de jeûner pendant la journée."
+        }
+      },
+      {
+        "number": 83,
+        "text": "وَخَلِّيَنِّىَ مِنَ الرَّذَآئِلِ",
+        "transcription": "wa khalliyanniya minar razaa-ili",
+        "translations": {
+          "fr": "Débarrasse-moi des vices"
+        }
+      },
+      {
+        "number": 84,
+        "text": "وَكُنْ مُّجَمِّلِىَ بِالْفَضَآئِلِ",
+        "transcription": "wa kun mujammiliya bil fadaa-ili",
+        "translations": {
+          "fr": "et embellis-moi par les vertus."
+        }
+      },
+      {
+        "number": 85,
+        "text": "وَذَكِّ لُبِّى وَافْتَحَنْ رَّبِّ لِيَا",
+        "transcription": "wa zakki lubbii waftahan rabbi liyaa",
+        "translations": {
+          "fr": "Purifie mon coeur"
+        }
+      },
+      {
+        "number": 86,
+        "text": "فَتْحًا مُّبِينًا لَّايُرَى لِمِثْلِيَا",
+        "transcription": "fat-han mubiinan laa yuraa limisliyaa",
+        "translations": {
+          "fr": "et accorde-moi une éclatante réussite sans égal."
+        }
+      },
+      {
+        "number": 87,
+        "text": "وَلِىَ هَبْ حَذَاقَةً وَنُورَا",
+        "transcription": "wa liya hab hazaaqatan wa nuuraa",
+        "translations": {
+          "fr": "Accorde-moi Seigneur, subtilité et clairvoyance"
+        }
+      },
+      {
+        "number": 88,
+        "text": "وَفِى الصِّرَاطِ يَسِّرِ الْمُرُورَا",
+        "transcription": "wa fis siraati yassiril muruuraa",
+        "translations": {
+          "fr": "et facilite mon passage sur le pont (Sirat)."
+        }
+      },
+      {
+        "number": 89,
+        "text": "وَهَبْ لِىَ الذِّكْرَ بِشُكْرٍ كُلَّ حِينْ",
+        "transcription": "wa hab liyaz zikra bishukrin kulla hiin",
+        "translations": {
+          "fr": "Aide-moi à tout moment, à T'invoquer et à te rendre grâce"
+        }
+      },
+      {
+        "number": 90,
+        "text": "وَعُدَّنِى مِنْ جُمْلَةِ الْمُقَرَّبِينْ",
+        "transcription": "wa huddanii min jumlatil muqarrabiin",
+        "translations": {
+          "fr": "et fais de moi un des proches priviliégés."
+        }
+      },
+      {
+        "number": 91,
+        "text": "وَلَاتَزَلْ يَامَالِكِى دَلِيلِى",
+        "transcription": "wa laatazal yaa maalikii daliilii",
+        "translations": {
+          "fr": "Ne cesse, Maître, d'être mon guide."
+        }
+      },
+      {
+        "number": 92,
+        "text": "وَهَذِ بَنِّىَ وَكُنْ خَلِيلِى",
+        "transcription": "wa hazzi banniya wa kun khaliilii",
+        "translations": {
+          "fr": "Eduque-moi et sois mon intime."
+        }
+      },
+      {
+        "number": 93,
+        "text": "وَعَلِّمَنِّى مِنْ لَّدُنْكَ عِلْمَا",
+        "transcription": "wa hallimannii min ladunka hilmaa",
+        "translations": {
+          "fr": "Gratifie-moi d'un savoir de Ta part,"
+        }
+      },
+      {
+        "number": 94,
+        "text": "حَتَّى أَصِيرَ رَاسِخًا خِضَمَّا",
+        "transcription": "hattaa asiira raasikhan khidammaa",
+        "translations": {
+          "fr": "solide et ample."
+        }
+      },
+      {
+        "number": 95,
+        "text": "وَكُنْ مُّعِينِىَ عَلَى الشَّيْطَانِ",
+        "transcription": "wa kun muhiiniya halash shaytaani",
+        "translations": {
+          "fr": "Donne-moi la force de combattre à tout moment Satan,"
+        }
+      },
+      {
+        "number": 96,
+        "text": "وَالنَّفْسِ وَالْخَلْقِ مَدَى الْأَزْمَانِ",
+        "transcription": "wan nafsi wal khalqi madal azmaani",
+        "translations": {
+          "fr": "la passion et les créatures qui divertissent."
+        }
+      },
+      {
+        "number": 97,
+        "text": "وَلِىَ فِى الدَّارَيْنِ كُنْ مَّعَاذَا",
+        "transcription": "wa liya fid daarayni kun mahaazaa",
+        "translations": {
+          "fr": "Sois ma protection dans les deux demeures"
+        }
+      },
+      {
+        "number": 98,
+        "text": "وَفِيهِمَا لِى لَاتَزَلْ مَلَآذَا",
+        "transcription": "wa fiihimaa lii laatazal malaazaa",
+        "translations": {
+          "fr": "et ne cesse d'y être mon refuge."
+        }
+      },
+      {
+        "number": 99,
+        "text": "وَصَفِيَنِّى قَالَبًا وَقَلْبَا",
+        "transcription": "wa safiyannii qaalaban wa qalbaa",
+        "translations": {
+          "fr": "Purifie-moi corps et âme,"
+        }
+      },
+      {
+        "number": 100,
+        "text": "وَلِىَ هَبْ تَرْقِيَةً وَحُبَّا",
+        "transcription": "wa liya hab tarqiyatan wa hubbaa",
+        "translations": {
+          "fr": "et accorde-moi élevation et amour."
+        }
+      },
+      {
+        "number": 101,
+        "text": "وَكُنْ وَّلِيِّى فِى الْحَيَاةِ وَلَدَى",
+        "transcription": "wa kun waliyyii fil hayaati wa ladaa",
+        "translations": {
+          "fr": "Sois mon allié durant ma vie, à ma mort, dans la tombe"
+        }
+      },
+      {
+        "number": 102,
+        "text": "مَوْةِ وَفِى الْقَبْرِ وَفِى الْحَشْرِ غَدَا",
+        "transcription": "mawti wa fil qabri wa fil hashri ghadaa",
+        "translations": {
+          "fr": "et demain lors de la résurrection."
+        }
+      },
+      {
+        "number": 103,
+        "text": "وَلَاتَزَلْ لِّى يَاحفِيظُ حَامِيَا",
+        "transcription": "wa laatazal lii yaa hafiizu haamiyaa",
+        "translations": {
+          "fr": "Ne cesse, Protecteur, d'être mon défenseur,"
+        }
+      },
+      {
+        "number": 104,
+        "text": "وَحَافِظًا وَحَاجِبًا وَرَاضِيَا",
+        "transcription": "wa haafizan wa haajiban wa raadiyaa",
+        "translations": {
+          "fr": "et mon protecteur et d'être satisfait de moi."
+        }
+      },
+      {
+        "number": 105,
+        "text": "وَجَاذِبًا وَمُرْشِدًا مُّعَلِّمَا",
+        "transcription": "wa jaaziban wa murshidan muhallimaa",
+        "translations": {
+          "fr": "De m'attirer, de m'orienter, de me procurer le savoir,"
+        }
+      },
+      {
+        "number": 106,
+        "text": "وَقَائِدًا إِلَى الْهُدَى مُكَرِّمَا",
+        "transcription": "wa qaa-idan ilal hudaa mukarrimaa",
+        "translations": {
+          "fr": "de me conduire sur la bonne voie, de m'honorer."
+        }
+      },
+      {
+        "number": 107,
+        "text": "وَهَادِيًا وَنَاصِرًا وَمُتْحِفَا",
+        "transcription": "wa haadiyan wa naasiran wa mut-hifaa",
+        "translations": {
+          "fr": "De me guider, de me soutenir,"
+        }
+      },
+      {
+        "number": 108,
+        "text": "بِكُلِّ مَا يَنْفَعُنِى وَذِى الْطُفَا",
+        "transcription": "bikulli maa yanfahunii wa zil tufaa",
+        "translations": {
+          "fr": "de me gratifier de tout ce qui m'est utile et de me traiter avec grâce."
+        }
+      },
+      {
+        "number": 109,
+        "text": "وَبِى اسْلُكَنْ مَّسَالِكَ الْخَلَاصِ",
+        "transcription": "wa bislukan masaalikal khalaasi",
+        "translations": {
+          "fr": "Engage-moi dans la vie du salut,"
+        }
+      },
+      {
+        "number": 110,
+        "text": "وَلْتَكْفِنِى عَنْ جُمْلَةِ الْمَعَاصِ",
+        "transcription": "waltakfinii han jumlatil mahaasi",
+        "translations": {
+          "fr": "et préserve-moi de toute désobeissance."
+        }
+      },
+      {
+        "number": 111,
+        "text": "وَبِى اسْلُكَنْ رَّبِّ طَرِيقَ الْأَوْلِيَآ",
+        "transcription": "wa bislukan rabbi tariiqal awliyaa",
+        "translations": {
+          "fr": "Engage-moi, Seigneur, dans la voie des hommes de Dieu,"
+        }
+      },
+      {
+        "number": 112,
+        "text": "النُّجَبَآءِ الْمُخْلِصِينَ الْأَصْفِيَآ",
+        "transcription": "an nujabaa-il mukhlisiinal asfiyaa",
+        "translations": {
+          "fr": "les distingués, les vertueux, les élus."
+        }
+      },
+      {
+        "number": 113,
+        "text": "وَأَوْلِنِى سَعَادَةً لَّسْتُ أَرَى",
+        "transcription": "wa awlinii sahaadatan lastu araa",
+        "translations": {
+          "fr": "Procure-moi un bonheur qui ne sera jamais suivi"
+        }
+      },
+      {
+        "number": 114,
+        "text": "شَقَاوَةً مِّنْ بَعْدِهَا أَوْضَرَرَا",
+        "transcription": "shaqaawatan min bahdihaa aw dararaa",
+        "translations": {
+          "fr": "de malheur ni de mal."
+        }
+      },
+      {
+        "number": 115,
+        "text": "وَلْتُثْبِتَنْ حُبَّكَ فِى فُؤَادِى",
+        "transcription": "waltusbitan hubbaka fii fu-aadii",
+        "translations": {
+          "fr": "Consolide dans mon coeur en permanence Ton Amour,"
+        }
+      },
+      {
+        "number": 116,
+        "text": "وَحُبَّ خَيْرِ الْخَلْقِ فِى تَمَادِ",
+        "transcription": "wa hubba khayril khalqi fii tamaadi",
+        "translations": {
+          "fr": "l'amour du meilleur des créatures."
+        }
+      },
+      {
+        "number": 117,
+        "text": "وَحُبَّ ءَالِهِ وَصَحْبِهِ جَمِيعْ",
+        "transcription": "wa hubba aalihi wa sahbihi jamiih",
+        "translations": {
+          "fr": "L'amour de sa famille, de ses Compagnons"
+        }
+      },
+      {
+        "number": 118,
+        "text": "ثُمَّتَ حُبَّ كُلِّ مُسْلِمٍ مُّطِيعْ",
+        "transcription": "summata hubba kulli muslimin mutiih",
+        "translations": {
+          "fr": "et de tout bon musulman."
+        }
+      },
+      {
+        "number": 119,
+        "text": "يَارَبَّنَا يَاذَا الْعَطَا يَاأَجِبِ",
+        "transcription": "yaa rabbanaa yaa zal hataa yaa ajibi",
+        "translations": {
+          "fr": "Ô Seigneur, le Bienfaiteur,"
+        }
+      },
+      {
+        "number": 120,
+        "text": "تَوَسُّلِى بِالْمُصْطَفَى الْمُنْتَخَبِ",
+        "transcription": "tawassuli bil mustafal muntakhabi",
+        "translations": {
+          "fr": "agrée mon imploration par égard pour l'Elu."
+        }
+      },
+      {
+        "number": 121,
+        "text": "ثُمَّ عَلَيْهِ صَلِّيَنْ خَيْرَ صَلَاةْ",
+        "transcription": "summa halayhi salliyan khayra salaat",
+        "translations": {
+          "fr": "Et accorde-Lui la meilleure bénédiction"
+        }
+      },
+      {
+        "number": 122,
+        "text": "تَقُودُنِى إِلَى مُلَاقَاةِ الْهُدَاةْ",
+        "transcription": "taquudunii ilaa mulaaqaatil hudaat",
+        "translations": {
+          "fr": "qui me conduit à la rencontre des bien guidés."
+        }
+      },
+      {
+        "number": 123,
+        "text": "وَلْتُغْرِنِى بِحُبِّ كُلِّ مُسْلِمِ",
+        "transcription": "waltughrinii bihubbi kulli muslimi",
+        "translations": {
+          "fr": "Incite-moi à aimer tout musulman,"
+        }
+      },
+      {
+        "number": 124,
+        "text": "وَنَجِّنِى مِنْ شَرِّ كُلِّ مُجْرِمِ",
+        "transcription": "wa najjinii min sharri kulli mujrimi",
+        "translations": {
+          "fr": "et préserve-moi du mal de tout criminel."
+        }
+      },
+      {
+        "number": 125,
+        "text": "وَأَغْرِنِى بِطَاعَاةٍ وَلْتَكْفِنِى",
+        "transcription": "wa aghrinii bitaahaatin waltakfinii",
+        "translations": {
+          "fr": "Incite-moi à l'obéissance,"
+        }
+      },
+      {
+        "number": 126,
+        "text": "عِنِ الْمَعَاصِى وَجَمِيعِ الْفِتَنِ",
+        "transcription": "hanil mahaasii wa jamiihil fitani",
+        "translations": {
+          "fr": "et préserve-moi de la désobeissance et toutes les épreuves."
+        }
+      }
+    ]
+  }
+}

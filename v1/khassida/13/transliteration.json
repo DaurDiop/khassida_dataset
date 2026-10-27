@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 13,
+    "name": "Ashkuru Laaha",
+    "transliterationName": "Ashkuru Laaha",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "ashkurul laaha zal waraa bin tifaahi"
+      },
+      {
+        "number": 2,
+        "text": "bikitaabin saaqal hidaa bin difaahi"
+      },
+      {
+        "number": 3,
+        "text": "lam yamil kalkalii lighayri ilaahii"
+      },
+      {
+        "number": 4,
+        "text": "wa lirabbii qawlin tahaa wa samaahi"
+      },
+      {
+        "number": 5,
+        "text": "lam yalij fil fu-aadi minnir tiyaabun"
+      },
+      {
+        "number": 6,
+        "text": "fil lazil laahu qaada lii zaj timaahi"
+      },
+      {
+        "number": 7,
+        "text": "azhaba zikru maalikii kulla shakkin"
+      },
+      {
+        "number": 8,
+        "text": "wa lighayrii zabbal hidaa bin qimaahi"
+      },
+      {
+        "number": 9,
+        "text": "haddadal laahu man qalaanii bahiidan"
+      },
+      {
+        "number": 10,
+        "text": "lisiwaa jaanibii bighayris tamaahi"
+      },
+      {
+        "number": 11,
+        "text": "tashkurul laaha lil jinaani hayaatii"
+      },
+      {
+        "number": 12,
+        "text": "bikitaabin badaa bihi lin tafaahi"
+      },
+      {
+        "number": 13,
+        "text": "halimal qalbu anna khayral baraayaa"
+      },
+      {
+        "number": 14,
+        "text": "jaa-ahul wah-yu bil amiinil mutaahi"
+      },
+      {
+        "number": 15,
+        "text": "ahadiisan nabiyyi innaka haqqun"
+      },
+      {
+        "number": 16,
+        "text": "laka khattii nahaa bi-amrin mutaahi"
+      },
+      {
+        "number": 17,
+        "text": "laka anhuu bimirqamii wa midaadii"
+      },
+      {
+        "number": 18,
+        "text": "lastu anfakku bir ridaa-i bitaahi"
+      },
+      {
+        "number": 19,
+        "text": "anta khillii mahal kitaabi wa hibbii"
+      },
+      {
+        "number": 20,
+        "text": "kunta lii bil qitaahi bahdal qitaahi"
+      },
+      {
+        "number": 21,
+        "text": "bika tanmuu masarratii lijinaanin"
+      },
+      {
+        "number": 22,
+        "text": "saafiyaatin bilan tihan wa qitaahi"
+      },
+      {
+        "number": 23,
+        "text": "harabat min ghayrin sanaa-in linahwii"
+      },
+      {
+        "number": 24,
+        "text": "man qalawnii minal waraa bin qitaahi"
+      }
+    ]
+  }
+}

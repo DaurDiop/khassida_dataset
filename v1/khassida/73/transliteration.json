@@ -1,0 +1,237 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 73,
+    "name": "Lil Mustafa Nawaytu",
+    "transliterationName": "Lil Mustafa Nawaytu",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "lil mustafaa nawaytu maa yujaddidu"
+      },
+      {
+        "number": 2,
+        "text": "sunnatahul gharaa wa innii ahmadu"
+      },
+      {
+        "number": 3,
+        "text": "yuhiinunii halas sawaabis samadu"
+      },
+      {
+        "number": 4,
+        "text": "bijaahi khayril khalqi nihmal jayyidu"
+      },
+      {
+        "number": 5,
+        "text": "arsala khayral haalamiinal ahadu"
+      },
+      {
+        "number": 6,
+        "text": "nihmal ilaahul akramul muwahhadu"
+      },
+      {
+        "number": 7,
+        "text": "lil laahi hamdun maha shukrin yukhladu"
+      },
+      {
+        "number": 8,
+        "text": "dawaama mulkin naafihin yanfaridu"
+      },
+      {
+        "number": 9,
+        "text": "lahu khitaabii haamidan wa yunjidu"
+      },
+      {
+        "number": 10,
+        "text": "halal lazii bihil jinaana aqsidu"
+      },
+      {
+        "number": 11,
+        "text": "hab lii kitaabaka wa suq maa yukhlidu"
+      },
+      {
+        "number": 12,
+        "text": "bishriya lii yaa akraman uwahhidu"
+      },
+      {
+        "number": 13,
+        "text": "inna kitaaban jaabihi muhammadu"
+      },
+      {
+        "number": 14,
+        "text": "sallaa halayhi bis salaamis samadu"
+      },
+      {
+        "number": 15,
+        "text": "lanaa bihin qaada hudan wa rashadu"
+      },
+      {
+        "number": 16,
+        "text": "bihi halaa rabbil waraa nahtamidu"
+      },
+      {
+        "number": 17,
+        "text": "qaada lanal qur-aanu maa laa najidu"
+      },
+      {
+        "number": 18,
+        "text": "fii ghayrihi nihmal kitaabul af-yadu"
+      },
+      {
+        "number": 19,
+        "text": "radda makaarihii wa lii laa taridu"
+      },
+      {
+        "number": 20,
+        "text": "baaqin bihi liyal munaa yukhallidu"
+      },
+      {
+        "number": 21,
+        "text": "aayaatuhu ilaa siwaanaa tatrudu"
+      },
+      {
+        "number": 22,
+        "text": "bilaan tihan qablan tihan man yarsudu"
+      },
+      {
+        "number": 23,
+        "text": "ilaa siwaanaa maa yasuu-u yaqsudu"
+      },
+      {
+        "number": 24,
+        "text": "fii abadin bihil jinaana naridu"
+      },
+      {
+        "number": 25,
+        "text": "nafaa lighayrinaa bihi muhammadu"
+      },
+      {
+        "number": 26,
+        "text": "maasaa-anaa wa qad nafaahus samadu"
+      },
+      {
+        "number": 27,
+        "text": "jamiilu tasliimin yaduumul madadu"
+      },
+      {
+        "number": 28,
+        "text": "bihi halaa nadbin amiinin yuhmadu"
+      },
+      {
+        "number": 29,
+        "text": "barakatun haziimatun laa tanfadu"
+      },
+      {
+        "number": 30,
+        "text": "halaa amiinin fil kiraami yuh-hadu"
+      },
+      {
+        "number": 31,
+        "text": "rumnaa salaaman bis sanaa yujaddadu"
+      },
+      {
+        "number": 32,
+        "text": "liqaa-idin huwal mutaahul amjadu"
+      },
+      {
+        "number": 33,
+        "text": "yal laahu yaa rabbal waraa yaa samadu"
+      },
+      {
+        "number": 34,
+        "text": "yaa man bihih tadat kiraamun hubbadu"
+      },
+      {
+        "number": 35,
+        "text": "liman bihi minka ataahum madadu"
+      },
+      {
+        "number": 36,
+        "text": "khallid salaatan bisalaamin yuhmadu"
+      },
+      {
+        "number": 37,
+        "text": "man misla ahmadab taqaa laa yajidu"
+      },
+      {
+        "number": 38,
+        "text": "fal mislu lam yarid wa laysa yaridu"
+      },
+      {
+        "number": 39,
+        "text": "hawaa nabiyyunar rasuulu ahmadu"
+      },
+      {
+        "number": 40,
+        "text": "taqdiimu man huwal qadiimul ahadu"
+      },
+      {
+        "number": 41,
+        "text": "min yumnihi atal kiraamul madadu"
+      },
+      {
+        "number": 42,
+        "text": "huwal imaamu wash shafiihul ajwadu"
+      },
+      {
+        "number": 43,
+        "text": "min rabbinaa bihi yaduumur raghadu"
+      },
+      {
+        "number": 44,
+        "text": "lanaa wa yanhuu lisiwaanan nakadu"
+      },
+      {
+        "number": 45,
+        "text": "darajatul mukhtaari laysa tujhadu"
+      },
+      {
+        "number": 46,
+        "text": "wa nuruuhus saatihu laysa yukhmadu"
+      },
+      {
+        "number": 47,
+        "text": "min rabbinaa bihi yaduumul af-yadu"
+      },
+      {
+        "number": 48,
+        "text": "lanaa wa yanhuu lisiwaanal kamadu"
+      },
+      {
+        "number": 49,
+        "text": "habiibunal mukhtaaru baanas suudadu"
+      },
+      {
+        "number": 50,
+        "text": "wa maa hawaa fil ghurri laysa yuujadu"
+      },
+      {
+        "number": 51,
+        "text": "muhammadun huwash shujaahus sanadu"
+      },
+      {
+        "number": 52,
+        "text": "huwal jamiilu was sakhiyyus sayyidu"
+      },
+      {
+        "number": 53,
+        "text": "muhammadun huwal kariimul mufradu"
+      },
+      {
+        "number": 54,
+        "text": "huwan nabiyyu war rasuulul munjidu"
+      },
+      {
+        "number": 55,
+        "text": "diinun siwaa islaamihi laa yuhmadu"
+      },
+      {
+        "number": 56,
+        "text": "hindal ilaahi wa bihi nujaddidu"
+      }
+    ]
+  }
+}

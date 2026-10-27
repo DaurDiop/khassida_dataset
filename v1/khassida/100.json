@@ -1,0 +1,492 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "Matlabut Taqabbuli 1",
+    "transliterationName": "Matlabut Taqabbuli 1",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "الْحَمْدُ لِلَّهِ الَّذِى يُبَدِّلُ",
+        "transcription": "al hamdu lil laahil lazii yubaddilu",
+        "translations": {
+          "fr": "Louange à Dieu qui fait du mal un bien"
+        }
+      },
+      {
+        "number": 2,
+        "text": "سَيِّئَةً حَسَنَةً وَيُجْزِلُ",
+        "transcription": "sayyi-atan hasanatan wa yujzilu",
+        "translations": {
+          "fr": "et qui récompense."
+        }
+      },
+      {
+        "number": 3,
+        "text": "وَصَلَوَاتُهُ عَلَى مَنْ قُبِلَا",
+        "transcription": "wa salawaatu halaa man qubilaa",
+        "translations": {
+          "fr": "Que ces prières soient accordées à tous,"
+        }
+      },
+      {
+        "number": 4,
+        "text": "جَمِيعُ مَآأَتَى بِهِ وَفُضِّلَا",
+        "transcription": "jamiihu maa ataa bihi wa fuddilaa",
+        "translations": {
+          "fr": "sur tout ce qu'Il a emmené comme bénédiction."
+        }
+      },
+      {
+        "number": 5,
+        "text": "هَاذَا وَإِنِّى الْيَوْمَ تَآئِبٌ إِلَى",
+        "transcription": "haazaa wa innil yawma taa-ibun ilaa",
+        "translations": {
+          "fr": "Je demande pardon aujourd'hui au Seigneur,"
+        }
+      },
+      {
+        "number": 6,
+        "text": "رَبٍّ غَفُورٍ رَّاجِيًا تَقَبُّلَا",
+        "transcription": "rabbin ghafuurin raajiyan taqabbulaa",
+        "translations": {
+          "fr": "le clément escomptant son accord."
+        }
+      },
+      {
+        "number": 7,
+        "text": "مُسْتَشْفِعًا بِفَضْلِهِ وَجَاهِ",
+        "transcription": "mustashfihan bifadlihi wa jaahi",
+        "translations": {
+          "fr": "Je me protège de la grâce et de la dignité de son Ami"
+        }
+      },
+      {
+        "number": 8,
+        "text": "حَبِيبِهِ الْمَاحِى الْعَظِيِمِ الْجَاهِ",
+        "transcription": "habiibihil maahii haziimil jaahi",
+        "translations": {
+          "fr": "bien aimé celui qui a une grande personnalité."
+        }
+      },
+      {
+        "number": 9,
+        "text": "يَارَبَّنَآ إِنِّى أَتُوبُ الْيَوْمَا",
+        "transcription": "yaa rabbanaa innii atuubul yawmaa",
+        "translations": {
+          "fr": "Ô Seigneur, je Te demande pardon aujourd'hui,"
+        }
+      },
+      {
+        "number": 10,
+        "text": "فَلْتَقِنِى دُنْيَا وَأُخْرَى لَوْمَا",
+        "transcription": "faltaqinii dunyaa wa ukhraa lawmaa",
+        "translations": {
+          "fr": "protège-moi contre le blâme de bas monde et de l'au-delà."
+        }
+      },
+      {
+        "number": 11,
+        "text": "يَارَبَّنَآ إِنِّى مُقِرٌّ بالذُّنُوبْ",
+        "transcription": "yaa rabbanaa innii muqirrun biz zunuub",
+        "translations": {
+          "fr": "Ô Seigneur je suis embelli de péchés,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "فَلِى اغْفِرِ الذُّنُوبَ وَلْتَمْحُ الْعُيُوبْ",
+        "transcription": "faligh firiz zunuuba waltamhul huyuub",
+        "translations": {
+          "fr": "pardonne-moi et enlève-moi les vices."
+        }
+      },
+      {
+        "number": 13,
+        "text": "يَارَبَّنَا بِالْمُجْتَبَى تَقَبَّلِ",
+        "transcription": "yaa rabbanaa bil mujtabaa taqabbali",
+        "translations": {
+          "fr": "Ô Seigneur accorde-moi Ta grâce"
+        }
+      },
+      {
+        "number": 14,
+        "text": "جَمِيعَ مَا قَدَّمْتُهُ مِنْ عَمَلِ",
+        "transcription": "jamiiha maa qaddamtuhu min hamali",
+        "translations": {
+          "fr": "et celle du prophète dans tout ce que je fais."
+        }
+      },
+      {
+        "number": 15,
+        "text": "يَارَبَّنَا بِحَقِّ بِسْمِ اللَّهِ",
+        "transcription": "yaa rabbanaa bihaqqi bismil laahi",
+        "translations": {
+          "fr": "Ô Seigneur par la grâce de <<Bismil Laahi>>"
+        }
+      },
+      {
+        "number": 16,
+        "text": "هَبْ لِىَ عِصْمَةً بِلَا تَنَاهِ",
+        "transcription": "hab liya hismatan bilaa tanaahi",
+        "translations": {
+          "fr": "accorde-moi la protection pour toujours."
+        }
+      },
+      {
+        "number": 17,
+        "text": "يَارَبَّنَا بِالْمُصْطَفَى وَالْئَالِ",
+        "transcription": "yaa rabbanaa bil mustafaa wal aali",
+        "translations": {
+          "fr": "Ô Seigneur exauce ma demande par la grace de Moustapha,"
+        }
+      },
+      {
+        "number": 18,
+        "text": "وَبِالصَّحَابَةِ اسْتَجِبْ سُؤَالِى",
+        "transcription": "wa bis sahaabatis tajib su-aalii",
+        "translations": {
+          "fr": "de sa famille et des ses Compagnons."
+        }
+      },
+      {
+        "number": 19,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى النَّبِى",
+        "transcription": "wa salliyan wa salliman halan nabii",
+        "translations": {
+          "fr": "Prie et accorde la paix sur le Prophète,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "وَءَالِهِ وَلِىَ جُدْ بِالْأَدَبِ",
+        "transcription": "wa aalihi wa liya jud bil adabi",
+        "translations": {
+          "fr": "et à sa famille et donne-moi la politesse."
+        }
+      },
+      {
+        "number": 21,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى الرَّسُولْ",
+        "transcription": "wa salliyan wa salliman halar rasuul",
+        "translations": {
+          "fr": "Prie et accorde la paix sur le Messager,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَءَالِهِ وَلِىَ هَبْ بِّهِ الْوُصُولْ",
+        "transcription": "wa aalihi wa liya hab bihil wusuul",
+        "translations": {
+          "fr": "et à sa famille et accorde-moi d'arriver à mes fins."
+        }
+      },
+      {
+        "number": 23,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى الْمَبَرّْ",
+        "transcription": "wa salliyan wa salliman halal mabarr",
+        "translations": {
+          "fr": "Prie et accorde la paix au Messager,"
+        }
+      },
+      {
+        "number": 24,
+        "text": "وَءَالِهِ وَلِىَ هَبْ بِّهِ الظَّفَرْ",
+        "transcription": "wa aalihi wa liya hab bihiz zafar",
+        "translations": {
+          "fr": "et à sa famille et accorde-moi la réussite."
+        }
+      },
+      {
+        "number": 25,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى الْبَشِيرْ",
+        "transcription": "wa salliya wa salliman halal bashiir",
+        "translations": {
+          "fr": "Prie et accorde la paix à Al Bachir (L'annociateur des bonnes nouvelles),"
+        }
+      },
+      {
+        "number": 26,
+        "text": "وَءَالِهِ وَلِىَ كُنْ بِهِ نَصِيرْ",
+        "transcription": "wa aalihi wa liya kun bihi nasiir",
+        "translations": {
+          "fr": "et à sa famille et sois mon allié et mon secours."
+        }
+      },
+      {
+        "number": 27,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى النَّذِيرْ",
+        "transcription": "wa salliyan wa salliman halan naziir",
+        "translations": {
+          "fr": "Prie et accorde la paix sur Nadir (l'avertisseur de mauvaises nouvelles),"
+        }
+      },
+      {
+        "number": 28,
+        "text": "وَءَالِهِ وَلِىَ كُنْ بِهِ غَفُورْ",
+        "transcription": "wa aalihi wa liya kun bihi ghafuur",
+        "translations": {
+          "fr": "et à sa famille et accorde-moi le pardon."
+        }
+      },
+      {
+        "number": 29,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى الْمُطَاعْ",
+        "transcription": "wa salliyan wa salliman halal mutaah",
+        "translations": {
+          "fr": "Prie et accorde la paix sur Celui qu'on obéit,"
+        }
+      },
+      {
+        "number": 30,
+        "text": "وَءَالِهِ وَلِىَ هَبْ بِّهِ اتِّبَاعْ",
+        "transcription": "wa aalihi wa liya hab bihit tibaah",
+        "translations": {
+          "fr": "et à sa famille et accorde-moi la possiblité de le suivre."
+        }
+      },
+      {
+        "number": 31,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى الْكَرِيمْ",
+        "transcription": "wa salliyan wa salliman halal kariim",
+        "translations": {
+          "fr": "Prie et accorde la paix sur le Généreux,"
+        }
+      },
+      {
+        "number": 32,
+        "text": "وَءَالِهِ وَلِىَ هَبْ بِّهِ الْعُلُومْ",
+        "transcription": "wa aalihi wa liya hab bihil huluum",
+        "translations": {
+          "fr": "et à sa famille et donne-moi les sciences."
+        }
+      },
+      {
+        "number": 33,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى الْهُدَى",
+        "transcription": "wa salliyan wa salliman halal hudaa",
+        "translations": {
+          "fr": "Prie et accorde la paix sur Al Hudâ,"
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَءَالِهِ وَلِىَ هَبْ بِّهِ اهْتِدَآ",
+        "transcription": "wa aalihi wa liya hab bihih tidaa",
+        "translations": {
+          "fr": "et à sa famille et fais-moi suivre la droiture."
+        }
+      },
+      {
+        "number": 35,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى الْهُدَى",
+        "transcription": "wa salliyan wa salliman halal hudaa",
+        "translations": {
+          "fr": "Prie et accorde la paix sur Al Hudâ,"
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَءَالِهِ وَلْتَكْفِنِى بِهِ اهْتِدَآ",
+        "transcription": "wa aalihi waltakfinii bihih tidaa",
+        "translations": {
+          "fr": "et à sa famille et protège-moi contre toute agression."
+        }
+      },
+      {
+        "number": 37,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى الْهُدَى",
+        "transcription": "wa salliyan wa salliman halal hudaa",
+        "translations": {
+          "fr": "Prie et accorde la paix sur Al Hudâ,"
+        }
+      },
+      {
+        "number": 38,
+        "text": "وَءَالِهِ وَلِىَ هَبْ بِّهِ اقْتِدَآ",
+        "transcription": "wa aalihi wa liya hab bihiq tidaa",
+        "translations": {
+          "fr": "et à sa famille et permets-moi de suivre le Prophète."
+        }
+      },
+      {
+        "number": 39,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَيْهِ",
+        "transcription": "wa salliyan wa salliman halayhi",
+        "translations": {
+          "fr": "Prie et accorde-Lui la paix,"
+        }
+      },
+      {
+        "number": 40,
+        "text": "وَءَالِهِ وَمَنْ نُّمِى إِلَيْهِ",
+        "transcription": "wa aalihi wa man numii ilayhi",
+        "translations": {
+          "fr": "et à sa famille et tout ce qui se rapporte à Lui."
+        }
+      },
+      {
+        "number": 41,
+        "text": "وَصَلِّيَنْ عَلَيْهِ ثُمَّ سَلِّمَا",
+        "transcription": "wa salliyan halayhi summa sallimaa",
+        "translations": {
+          "fr": "Prie et accorde-Lui la paix,"
+        }
+      },
+      {
+        "number": 42,
+        "text": "وَءَالِهِ وَصَحْبِهِ وَعَظِّمَا",
+        "transcription": "wa aalihi wa sahbihi wa hazzimaa",
+        "translations": {
+          "fr": "et à sa famille, ses Compagnons et tous les vertueux."
+        }
+      },
+      {
+        "number": 43,
+        "text": "وَارْزُقْنِىَ الْيَوْمَ بِجَاهِهِ الْعَظِيمْ",
+        "transcription": "warzuqniyal yawma bijaahihil haziim",
+        "translations": {
+          "fr": "Accorde-moi aujourd'hui la fortune par sa grande grâce"
+        }
+      },
+      {
+        "number": 44,
+        "text": "تَرْكَ ابْتِدَاعٍ قَدْ تَجُرُّ لِىالْأَلِيمْ",
+        "transcription": "tarkab tidaahin qad tajurru lil aliim",
+        "translations": {
+          "fr": "me permettant de laisser l'innovation qui conduit à la perte."
+        }
+      },
+      {
+        "number": 45,
+        "text": "وَصَلِّيَنْ عَلَيْهِ ثُمَّ سَلِّمَا",
+        "transcription": "wa salliyan halayhi summa sallimaa",
+        "translations": {
+          "fr": "Prie et accorde-Lui la paix"
+        }
+      },
+      {
+        "number": 46,
+        "text": "وَءِالِهِ وَصَحْبِهِ وَكَرِّمَا",
+        "transcription": "wa aalihi wa sahbihi wa karrimaa",
+        "translations": {
+          "fr": "et à sa famille, ses Compagnons et les généreux."
+        }
+      },
+      {
+        "number": 47,
+        "text": "وَارْزُقْنِىَ الْيَوْمَ بِهِ النَّجَاةَا",
+        "transcription": "warzuqbiyal yawma bihin najaataa",
+        "translations": {
+          "fr": "Accorde-moi aujourd'hui, par Lui, la délivrance"
+        }
+      },
+      {
+        "number": 48,
+        "text": "مِنَ الْعِدَى وَارْزُقْ بِىَ الْعُفَاةَا",
+        "transcription": "minal hidaa warzuq biyal hufaataa",
+        "translations": {
+          "fr": "des ennemis et accorde-moi par Lui la sérénité."
+        }
+      },
+      {
+        "number": 49,
+        "text": "وَصَلِّيَنْ عَلَيْهِ ثُمَّ سَلِّمَا",
+        "transcription": "wa salliyan halayhi summa sallimaa",
+        "translations": {
+          "fr": "Prie sur Lui et accorde-Lui la paix,"
+        }
+      },
+      {
+        "number": 50,
+        "text": "وَالْأَالِ وَالصَّحْبِ وَمَنْ لَّهُ انْتَمَى",
+        "transcription": "wal aali was sahbi wa man lahun tamaa",
+        "translations": {
+          "fr": "et à sa famille, ses Compagnons et tous ceux qui sont liés à Lui."
+        }
+      },
+      {
+        "number": 51,
+        "text": "وَارْزُقْنِىَ الْيَوْمَ بِهِ السَّكِينَهْ",
+        "transcription": "warzuqniyal yawma bihis sakiinah",
+        "translations": {
+          "fr": "Accorde-moi aujourd'hui la sérénité."
+        }
+      },
+      {
+        "number": 52,
+        "text": "وَلْتُرِنِى الْكَعْبَةَ وَالْمَدِينَهْ",
+        "transcription": "walturinil kahbata wal madiinah",
+        "translations": {
+          "fr": "Fais-moi voir la Kaaba et Médine."
+        }
+      },
+      {
+        "number": 53,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَيْهِ",
+        "transcription": "wa salliyan wa salliman halayhi",
+        "translations": {
+          "fr": "Prie et accorde-Lui la paix,"
+        }
+      },
+      {
+        "number": 54,
+        "text": "وَءَالِهِ وَصَحْبِهِ لَدَيْهِ",
+        "transcription": "wa aalihi wa sahbihi ladayhi",
+        "translations": {
+          "fr": "et à sa famille et ses Compagnons."
+        }
+      },
+      {
+        "number": 55,
+        "text": "وَارْزُقْنِىَ الْيَوْمَ بِهِ الثَّبَاتَا",
+        "transcription": "warzuqniyal yawma bihis sabaataa",
+        "translations": {
+          "fr": "Accorde-moi aujourd'hui la stabilité vers Toi le Seigneur,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "فِيكَ وَفِيهِ رَبِّ وَالنَّبَاتَا",
+        "transcription": "fiika wa fiihi rabbi wan nabaataa",
+        "translations": {
+          "fr": "vers Lui et vers les plantes."
+        }
+      },
+      {
+        "number": 57,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَيْهِ",
+        "transcription": "wa salliyan wa salliman halayhi",
+        "translations": {
+          "fr": "Prie sur Lui et accorde-Lui la paix"
+        }
+      },
+      {
+        "number": 58,
+        "text": "وَءَالِهِ وَمَنْ جَرَى إلَيْهِ",
+        "transcription": "wa aalihi wa man jaraa ilayhi",
+        "translations": {
+          "fr": "et à sa famille et celui qui court derrière Lui."
+        }
+      },
+      {
+        "number": 59,
+        "text": "وَارْزُقْنِىَ الْيَوْمَ بِهِ الصَّوَابَا",
+        "transcription": "warzuqniyal yawma bihis sawaabaa",
+        "translations": {
+          "fr": "Accorde-moi aujourd'hui la réussite"
+        }
+      },
+      {
+        "number": 60,
+        "text": "فِى كُلِّ مَآ أَفْعَلُ وَالثَّوَابَا",
+        "transcription": "fii kulli maa afhalu was sawaabaa",
+        "translations": {
+          "fr": "et la récompense dans tout ce que je fais."
+        }
+      }
+    ]
+  }
+}

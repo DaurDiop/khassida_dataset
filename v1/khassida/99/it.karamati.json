@@ -1,0 +1,343 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "Matlabushiffa",
+    "transliterationName": "Matlabushiffa",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Lode a Colui che fa scendere la debolezza e la malattia, e che fa scendere la guarigione e il rimedio."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Colui che ha ordinato ai servi di invocare (fare du'ā), affinché per mezzo di esso respingano la tribolazione."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Poi [benedizione] su colui che, non appena toccava un malato, questi guariva senza indugio e otteneva ciò che desiderava:"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Muhammad, il nostro medico saggio; su di lui siano i più puri saluti del nostro Signore Generoso,"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "e sulla sua famiglia e i suoi Compagni dotati di nobiltà, finché un malato avrà bisogno di guarigione."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Ciò detto, io oggi mi trovo afflitto da dolori, cercando il soccorso di Colui che esaudisce chi Lo invoca,"
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "e a Lui solo rivolgo il mio lamento per il male che mi ha colpito, al punto da farmi sentire come in fin di vita."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "O nostro Signore, o nostro Signore, o nostro Signore! O nostro Signore, o nostro Signore, allontana il nostro male!"
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Per il rango del Migliore dei mondi, il più Nobile, e per la benedizione del mese di Ramadān il Grandioso."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "O Allah, o Compassionevole, o Misericordioso! O Benevolo, o Generoso, o Immenso!"
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Perdona i nostri peccati, accetta le nostre opere, proteggi il nostro rifugio e sorvola sulle nostre mancanze."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Fai scendere, o nostro Signore, le migliori grazie al posto dei castighi e dei mali che temiamo."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "Donaci le buone maniere spirituali e le virtù, e risparmiaci i flagelli e le disgrazie."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "Donaci lo zelo nell'obbedienza a Te, e allontana da noi la pigrizia in ogni momento."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "O Benevolo, o Dolce (Latīf), o Datore di salute! O Colui nelle cui mani è il destino del creato, o Guaritore (Shāfī)!"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "Fai scendere la Tua guarigione al posto della malattia, e non trattarci con la durezza della prova."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "Fai scendere il beneficio al posto del danno, e fai scendere il bene al posto del male."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "Fai scendere la conoscenza al posto dell'ignoranza, e fai scendere la generosità al posto dell'avarizia."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "Fai scendere la ricchezza (l'autosufficienza) al posto della povertà, e la gratitudine al posto dell'ingratitudine."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "Guarisci presto tutti i musulmani, e proteggili in futuro dalla paura e dalla tristezza."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "Salvali, dona loro salute, sii dolce con loro e non punirli per la moltitudine dei loro peccati."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "Poiché essi, anche se Ti hanno disobbedito per disattenzione, o Unico, non hanno mai associato nessuno a Te!"
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "In verità i loro corpi non riescono a reggere le Tue prove, per via di una debolezza evidente."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "I loro cuori non inclinano mai verso altri che Te, da questo mondo fino all'Aldilà;"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "ma il cedimento furtivo delle membra li ha condotti a commettere brutture."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "Non punirli dunque per colpe che nulla tolgono alla Tua maestà, e dona loro il perdono che a Te nulla costa."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "O Allah, o Colui che volge i cuori! Allontana i nostri cuori dai vizi e dai difetti."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "Infondi in noi l'amore per ogni musulmano, e salvaci dal male di ogni malvagio."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "Rendi tutti i musulmani indistintamente amici fraterni per noi, così che siamo preservati da ogni danno."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "Mantieni tutti i credenti e le credenti nella retta guida, e concedi loro salvezza nell'Aldilà."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "Fai progredire tutti i musulmani e le musulmane in elevazione spirituale, accrescendo il loro timor di Dio (Taqwā)."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "Rendi tutti i sapienti ('Ulamā') praticanti, e rendi tutti i praticanti sinceri (puri d'intenzione)."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "Rendi tutti i sinceri distaccati dal mondo (asceti), e rendi tutti gli asceti buoni consiglieri."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "Rendi tutti i buoni consiglieri veritieri, e rendi tutti i veritieri vittoriosi."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "Innamoraci, o nostro Signore, del servizio (Khidma) verso i musulmani sempre, e della misericordia."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "Fa' che essi trovino in noi guida e bene, e risparmia loro qualsiasi fastidio o danno da parte nostra."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "Ispira a noi il loro amore per il Tuo Volto, e ispira a loro il nostro amore, affinché camminiamo insieme sulla retta via."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "Poni tutti i miei fratelli e la mia parentela nella Tua misericordia nel Giorno della grande fatica."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "Concedici qui e nell'Aldilà una sorte degna di ammirazione per Tua grazia, così da essere colmati di favore."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "Donaci i più nobili caratteri morali, insieme all'amore reciproco senza alcuna divisione."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "Fa' che il nostro giovane rispetti l'anziano, e che il nostro anziano aiuti e sostenga il giovane."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "Unisci i nostri cuori nell'affetto fraterno, senza contese e senza invidia reciproca,"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "senza litigi, senza voltarci le spalle, senza odio e senza avversione,"
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "affinché diventiamo musulmani umili e devoti, e credenti sinceri e virtuosi."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "Perdonaci e donaci una salute perfetta che non svanisca mai né in questa vita né nell'altra."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "Proteggici, custodiscici, trattienici da ogni ingiustizia e salva ogni musulmano e musulmana."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "Concedici, o nostro Signore, una buona fine (Husn al-Khitām) al momento della morte e domani nel Giorno della Resurrezione,"
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "per il rango del migliore tra coloro che hanno guarito le malattie e donato ciò che è desiderato e ricercato:"
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "Muhammad, il nostro medico magnanimo, colui che guarisce i morbi e le infermità."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "Riversa benedizioni e pace su di lui, sulla sua famiglia e sui suoi nobili Compagni,"
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "text": "finché avrà successo chi si dedica all'invocazione e guarirà il malato che chiede la guarigione,"
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "text": "e anche per il compositore di questi versi: che Allah lo accresca in guarigione e grazia sovrabbondante!"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "text": "O tu che desideri respingere ogni malattia, non separarti mai da «Matlabu ash-Shifā'» (La Ricerca della Guarigione)!"
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "text": "Sii costante nel recitarlo sera e mattina con sincerità: otterrai guarigione e pieno successo,"
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "text": "con il permesso del nostro Signore e per il rango del Prescelto (Al-Mustafā); che il nostro Signore lo benedica così come lo ha prescelto."
+      }
+    ]
+  }
+}

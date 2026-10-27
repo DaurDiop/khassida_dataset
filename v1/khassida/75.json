@@ -1,0 +1,284 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 75,
+    "name": "Lirabbin Kariimin",
+    "transliterationName": "Lirabbin Kariimin",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "لِرَبٍّ كَرِيمٍ وَاسِعٍ خَيْرِ مَعْبُودِ",
+        "transcription": "lirabbin kariimin waasihin khayri mahbudi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "شُكُورِى لَدَى دَارِى وَفِى الْبَحْرِ وَالْبِيدِ",
+        "transcription": "shukuurii ladaa daarii wa fil bahri wal biidi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "إِلَاهِى حَكِيمٌ نَّافِعٌ ذُو تَفَضُّلِ",
+        "transcription": "ilaahii hakiimun naafihun zuu tafadduli",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "غَنِّىٌّ وَمُغْنٍ جُودُهُ جُودُ تَابِيدِ",
+        "transcription": "ghanniyun wa mughnin juuduhu juudu taabiidi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "نَفَى عَنِّىَ الْأَعْدَاءِ طُرًّا وَسَاقَ لِى",
+        "transcription": "nafaa hanniyal ahdaa-i turran wa saaqa lii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "مَرَامِى بِلَا كَدٍ وَضَيْقٍ وَتَشْدِيدِ",
+        "transcription": "maraamii bilaa kadin wa dayqin wa tashdiidi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "شُكُورِى لَهُ بِالْقَلْبِ وَالْجِسْمِ سَرْمَدًا",
+        "transcription": "shukuurii lahu bil qalbi wa jismi sarmadan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَلِى جَادَ بِالتَّوْفِيقِ فَضْلًا وَتَسْدِيدِ",
+        "transcription": "wa lii jaada bit tawfiiqi fadlan wa tasdiidi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "كَفَانِىَ فِى الدَّارَيْنِ كَوْنُ الْإِلَاهِ لِى",
+        "transcription": "kafaaniya fid daarayni kawnul ilaahi lii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "بِلُطْفٍ وَجُودٍ فَيْضُهُ غَيْرِ مَحْدُودِ",
+        "transcription": "bilutfin wa juudin fayduhu ghayri mahduudi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "رَجَآءِى لَدَى الْمُغْنِى رَجَآءٌ مُّحَقِّقٌ",
+        "transcription": "rajaa-ii ladal mughnii rajaa-un muhaqqiqun",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "لَهُ صِرْتُ عَبْدًا وَهْوَ رَبِّى وَمَوْدُودِى",
+        "transcription": "lahu sirtu habdan wahwa rabbii wa mawduudii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "تَعَالَى كَرِيمًا مُّغْنِيًا قَادَنِى لَهُ",
+        "transcription": "tahaalaa kariiman mughniyan qaadanii lahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "بِلُطْفٍ وَجُودٍ وَاسِعٍ غَيْرِ مَعْدُودِ",
+        "transcription": "bilutfin wa juudin waasihin ghayri mahduudi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "مَحَا حُبِّىَ الْوَهَّابُ حُبِّى سِوَى الَّذِى",
+        "transcription": "mahaa hubbiyal wahhaabu hubbii siwal lazii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "لِىَ اخْتَارَ فِى الدَّارَيْنِ مِنْ كُلِّ مَغْصُودِ",
+        "transcription": "liyakh taara fid daarayni min kulli maghsuudi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "لِىَ اخْتَارَ كَوْنِى عَبْدَهُ خَادِمَ النَّبِى",
+        "transcription": "liyakh taara kawnii habdahu khaadiman nabii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "وَزَرْعِىَ كَوْنُ اللَّهِ لِى وَهْوَ مَحْصُودِى",
+        "transcription": "wa zarhiya kawnul laahi lii wahwa mahsuudii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "أَكُونُ لَهُ عَبْدًا جَدِيمًا لِّعَبْدِهِ",
+        "transcription": "akuunu lahu habdan khadiiman lihabdihi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "وَلِى رَاضَ أَعْدَاءِى بِهِ غَيْرَ مَكْمُودِ",
+        "transcription": "wa lii raada ahdaa-ii bihi ghayra makmuudi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "زِدِ الرَّوْضَ يَاقَهَّارُ وَالنَّصْرِ خَلِّدَنْ",
+        "transcription": "zidir rawda yaa qahhaaru wan nasri khallidan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَوَجِّهْ لِىَ الْخَيْرَاتِ يَاخَيْرَ مَصْمُودِ",
+        "transcription": "wa wajjih liyal khayraati yaa khayra masmuudi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "يَسَارِىَ كَوْنِى عَنْدَكُمْ خَادِمًا لَّهُ",
+        "transcription": "yasaariya kawnii habda kum khaadiman lahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "بِقَلْبِى وَجِسْمِى مَعْ مِدَادِى بِتَسْوِيدِ",
+        "transcription": "biqalbii wa jismii mah midaadii bitaswiidi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 25,
+        "text": "دَعَانِى إِلَى ذِكْرٍ وَشُكْرٍ لَّكُمْ بِهِ",
+        "transcription": "dahaanii ilaa zikrin wa shukrin lakum bihi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 26,
+        "text": "مِنًى قَدْ تَّفِى مِنْكُمْ بِلُطْفٍ وَتَسْوِيدِ",
+        "transcription": "munan qad tafii minkum bilutfin wa taswiidi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 27,
+        "text": "نَفَيْتَ الْأَذَى عَنِّى وَلِى سُقْتَ مَطْلَنِى",
+        "transcription": "nafaytal azaa hannii wa lii suqta matlabii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 28,
+        "text": "فَلَابُدَّ مِنْ شُكْرٍ بِذِكْرٍ وَتَجْوِيدِ",
+        "transcription": "falaabudda min shukrin bizikrin wa tajwiidi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 29,
+        "text": "نَوَيْتُ دَوَامَ الشُّكْرِ بِالْئَاىِ خَادِمًا",
+        "transcription": "nawaytu dawaamash shukri bil aayi khaadiman",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 30,
+        "text": "بِخَطٍّ لِمَنْ قَدَّمْتَهُ خَيْرَ مَوْلُودِ",
+        "transcription": "bikhattin liman qaddamtahu khayra mawluudi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 31,
+        "text": "كُرُوبِى وَأَثْقَا لِى وَضَيْقِى كَشَفْتُهَا",
+        "transcription": "kuruubii wa asqaa lii wa dayqii kashaftuhaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 32,
+        "text": "بِلُطْفٍ وَإِحْكَامٍ بَدِيعٍ وَتَوْلِيدِ",
+        "transcription": "bilutfin wa ihkaamin badiihin wa tawliidi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 33,
+        "text": "مَحَوْتَ الَّذِى قَدْ سَآئَنِى مُنْذُ أَزْمُنِ",
+        "transcription": "mahawtal lazii qad saa-anii munzu azmuni",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 34,
+        "text": "عَنِ الْقَلْبِ يَافَتَّاحُ يَاخَيْرَ مَعْبُودِ",
+        "transcription": "hanil qalbi yaa fattaahu yaa khayra mahbuudi",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

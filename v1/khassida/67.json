@@ -1,0 +1,60 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "Kafaaka Rabbuka",
+    "transliterationName": "Kafaaka Rabbuka",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "كَفَاكَ رَبُّكَ يَكْفِيكُمْ كَفَأْكِفَةً",
+        "transcription": "kafaaka rabbuka yakfiikum kafa-kifatan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "كَفَا كَهَا مِنْ كَمِيمٍ كَانَ مِنْ مَلِكِ",
+        "transcription": "kafaa kahaa min kamiimin kaana min maliki",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "كَفَاكَ رَبُّكَ كَافِلْ كَهْفِ كَابِرِ فِى",
+        "transcription": "kafaaka rabbuka kaafil kahfi kaabiri fii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "مِنْ كَوْكَبٍ كَانَ يُهْكِى كَوْكَبَلْ فُلُكِ",
+        "transcription": "min kawkabin kaana yuhkii kawkabal fuluki",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "تَكْرًا كَرًا كَكَرًا كَرًا كَفِى كَبَدٍ",
+        "transcription": "takran karan kakaran karan kafii kabadin",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "تَهْكُمْ شَكِّكَتُكُمْ كَلَكْلُكِلْ كُلُكِ",
+        "transcription": "tahkum shakkikatukum kalaklukil kuluki",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

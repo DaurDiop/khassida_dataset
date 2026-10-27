@@ -1,0 +1,361 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 170,
+    "name": "Tuhfatu Mutadarihin",
+    "transliterationName": "Tuhfatu Mutadarihin",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Praise be to God, and may He bless forever the one through whom guidance appeared to us,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "our master Muḥammad and his Family, and his Companions, possessors of the gifts of the Sovereign."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "That said, I today am one who makes intercession (tawassul) to Him by the names of the possessors of excellence,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "and I said: O Near One (Qarīb), O Answerer (Mujīb), bless the one through whom You answer,"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "and accept through him this verse of mine, O Generous, and grant to whoever supplicates through it what he seeks."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Lord, by Noah (Nūḥ) and Abraham (Ibrāhīm), forgive my sins and suffice me against the Accursed."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "And by Moses (Mūsā) and by the standing of Jesus (ʿĪsā), be my protector from misery in this world and the next."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "And by Muḥammad, the Messenger of God, upon him be the best of God's blessings,"
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "and then upon them, grant me a faith that has accompanied submission (Islām) and excellence (Iḥsān)."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "By the sanctity of Aṣ-Ṣiddīq and Al-Fārūq, bestow upon me sincerity and success."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "By the right of ʿUthmān, brother of the Two Lights, and by ʿAlī, father of the two grandsons,"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "grant me in my worldly life and in my hereafter light, elevation and excellences."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "By the right of Ṭalḥa and Az-Zubayr, and the right of Saʿd, deliver me from harm."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "And by Saʿīd and Ibn ʿAwf, deliver me from all that I fear of trials (fitan)."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "And by Abū ʿUbayda, bring what benefits to my side and suffice me against what destroys."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "By the right of ʿAbd Allāh, son of the paternal uncle, that is the son of Al-ʿAbbās, increase my knowledge."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "By the right of ʿAbd Allāh, son of ʿUmar, suffice me constantly against whatever brings harm."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "And by Ibn Masʿūd and the standing of Ibn Salām, guard me from affliction and the harm of the eye and of speech."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "O our Lord, by the sanctity of Al-ʿAbbās and Ḥamza, suffice me against all hardship."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "By the sanctity of Al-Ḥasan and Al-Ḥusayn, bestow upon me in the two abodes the two lights."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "By the sanctity of Al-Qāsim, then Aṭ-Ṭāhir, purify my outward being together with my inner thoughts."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "By the sanctity of Aṭ-Ṭayyib, Ibrāhīm, make lasting upon me gladness and honour."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "By the standing of Fāṭima, wean my soul from all that drags me to confinement."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "And by Ruqayya and Zaynab, suffice me at all times against rejection and veiling."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "And secure me in this world and the next with generosity, by Umm Kulthūm, and keep me away from retributions."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "By Aws ibn ʿĀmir, and Haram, and the right of Masrūq, accept my words."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "And by Ar-Rabīʿ, and by the standing of Al-Aswad, grant me uprightness and straighten my crookedness."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "By ʿĀmir ibn ʿAbd ar-Raḥmān, and by Abū Maslama Al-Khawlānī,"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "bestow upon me forgiveness and felicity, and knowledge, and action, and worship."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "By Al-Ḥasan Al-Baṣrī, grant me scrupulous piety (waraʿ), and stripping away from my desire and from innovations."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "And by Abū Hurayra, and by Bilāl, and by Ṣuhayb, Lord, bestow upon me Your gifts."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "And accept my obedience, and heal me from sickness, inward and outward, by Abū ad-Dardāʾ."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "By the sanctity of Al-Miqdād, then Khālid, and by Az-Zubayr, bring me to my aims."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "And by the Commander of the Believers, ʿUmar (ibn al-Khaṭṭāb), guard me from guile, wretchedness and deception."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "By the right of the leader of the fighters in the way of God, ʿAlī, who aided our religion,"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "by the right of Saʿd and by the right of ʿUrwa, increase my holding fast to the most firm handle."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "By the sanctity of Al-Qāsim, then Khārija, increase me in following the ways of the Chosen One."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "And by Abū Bakr and ʿAbd Allāh, increase me in a favour that has no end."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "And by Sulaymān, guard me from the plot of the Accursed, and from the plot of others, and be my Helper."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "By our Mother Khadīja, grant me hope in knowledge, and in good conduct, Lord, and in action."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "By our Mother ʿĀʾisha, guard me from whatever harms me in the earths and the heaven."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "By our Mother Ḥafṣa, always come between me and whatever brings evil and affliction."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "By our Mother Zaynab, adorn what is outward of me and what is inward, and make me a refuge."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "By Mālik and Ash-Shāfiʿī and Abū Ḥanīfa and Aḥmad, answer me."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "By the standing of Gabriel (Jibrīl), answer my request, and make me reach the stature of the men of God."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "By the standing of Michael (Mīkāʾīl), grant me blessings, and make my benefit like rain, generous."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "By the standing of Isrāfīl, grant me protection, and suffice me against the terrors of the Day of Gloom."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "By the standing of ʿAzrāʾīl, be for me, O Beautiful, all the length of my life and likewise after departure."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "And make my intercession for whoever supplicates by it the felicity of the two abodes, and forgive me through it."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "And bestow upon me, and upon the one who asked me for its composition, security and good pleasure,"
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "text": "and felicity and protection from the sum of evils, and care,"
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "text": "and deliverance from questioning and punishment, and the agonies of death, Lord, and the reckoning,"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "text": "and glad tidings and joy at our death and at the Resurrection."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "text": "And send blessings and peace upon the Prophet, and his Family with the noble Companions."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "text": "And forgive my parents, and forgive all my family and the sum of my companions, O All-Hearing."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "text": "And forgive everyone connected with me, and bring to fulfilment my felicity, O my Lord."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "text": "And be gentle with us, and strengthen us, and be for us, and grant us a good ending, our Lord."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "text": "And send blessings and peace upon the Prophet, and through him fulfil the need of every Muslim."
+      }
+    ]
+  }
+}

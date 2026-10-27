@@ -1,0 +1,133 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 29,
+    "name": "Farrij",
+    "transliterationName": "Farrij",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "farrij bijaahil mustafaa han ummatih"
+      },
+      {
+        "number": 2,
+        "text": "yaa mukhrijan habda kazaa min ghummatih"
+      },
+      {
+        "number": 3,
+        "text": "uktub salaatan wa salaaman lin nabii"
+      },
+      {
+        "number": 4,
+        "text": "fil aali was sahbi zawit tajannubi"
+      },
+      {
+        "number": 5,
+        "text": "sallim bijaahihi wa jaahihim mahaa"
+      },
+      {
+        "number": 6,
+        "text": "ummatahu yaa waahidan lii qamahaa"
+      },
+      {
+        "number": 7,
+        "text": "tafaddalan halaa zawil iimaani"
+      },
+      {
+        "number": 8,
+        "text": "bifarijin yaa waahibal amaani"
+      },
+      {
+        "number": 9,
+        "text": "jamiilu awsil lijamiihil musliimin"
+      },
+      {
+        "number": 10,
+        "text": "wal muslimaati amna rabbil haalamiin"
+      },
+      {
+        "number": 11,
+        "text": "uktub safaa-an lijamiihil muhsiniin"
+      },
+      {
+        "number": 12,
+        "text": "wal muhsinaati yaa waliyyal muuminiin"
+      },
+      {
+        "number": 13,
+        "text": "bil laahi war rahmani war rahiimi hab"
+      },
+      {
+        "number": 14,
+        "text": "liman yuhibbuu naka maa yamhur rahab"
+      },
+      {
+        "number": 15,
+        "text": "liwajhikal kariimi wajjih farajaa"
+      },
+      {
+        "number": 16,
+        "text": "bilaa azan liman yudiimuunar rajaa"
+      },
+      {
+        "number": 17,
+        "text": "hab lizawil iimaani wal islaami"
+      },
+      {
+        "number": 18,
+        "text": "khayra bushaaraatin bilaa malaami"
+      },
+      {
+        "number": 19,
+        "text": "mahawtadurra habdikal khadiimi"
+      },
+      {
+        "number": 20,
+        "text": "yaa khayra man yajuudu bit taqdiimi"
+      },
+      {
+        "number": 21,
+        "text": "rafahta sah-yahu ilayka yaa shakuur"
+      },
+      {
+        "number": 22,
+        "text": "bikaramin wa minnatin wa bish shukuur"
+      },
+      {
+        "number": 23,
+        "text": "bihaqqi wajhikal kariimi hab lahu"
+      },
+      {
+        "number": 24,
+        "text": "ijaabatan yaa man mahawta kablahu"
+      },
+      {
+        "number": 25,
+        "text": "bil laahi war rahmaani war rahiimi yaa"
+      },
+      {
+        "number": 26,
+        "text": "man biqariibin wa mujiibin summiyaa"
+      },
+      {
+        "number": 27,
+        "text": "hab lil laziina aamanuu wa aslamuu"
+      },
+      {
+        "number": 28,
+        "text": "firaaqa fitnatil laziina zalamuu"
+      },
+      {
+        "number": 29,
+        "text": "musalliyan musalliman halar rasuul"
+      },
+      {
+        "number": 30,
+        "text": "fii hizbihi yaa man habaaniya bisuul"
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 190,
+    "name": "Yarabbi",
+    "transliterationName": "Yarabbi",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "يَارَبِّ بِالْمُصْطَفَى الْمُخْتَارِ مِنْ مُّضَرِ",
+        "transcription": "yaa rabbi bil mustafal mukhtaari min mudari",
+        "translations": {
+          "fr": "Ô Seigneur, au nom de Moustapha l'élu de moudar"
+        }
+      },
+      {
+        "number": 2,
+        "text": "شَفِيعِ أُمَّتِهِ فِى الْبَدْوِ وَالْحَضَرِ",
+        "transcription": "shafiihi ummatihi fil badwi wal hadari",
+        "translations": {
+          "fr": "Celui qui intervient en faveur de sa communauté en campagne et en ville."
+        }
+      },
+      {
+        "number": 3,
+        "text": "عَلَيْهِ صَلِّ بِتَسْلِيمٍ بِلَا عَدَدٍ",
+        "transcription": "halayhi salli bitasliimin bilaa hadadin",
+        "translations": {
+          "fr": "Prie sur lui sans limite avec bénédiction"
+        }
+      },
+      {
+        "number": 4,
+        "text": "فِى الْئَالِ وَالصَّحْبِ وَاعْصِمْنَا مِنَ الضَّرَرِ",
+        "transcription": "fil aali was sahbi wah simnaa minad darari",
+        "translations": {
+          "fr": "sur sa famille et ses compagnons, protège-nous contre le mal."
+        }
+      },
+      {
+        "number": 5,
+        "text": "حُطْ أُمَّةَ الْمُصْظَفَى عَمَا يَجُرُّ لَهُمْ",
+        "transcription": "hut ummatal mustafaa hamaa yajurru lahum",
+        "translations": {
+          "fr": "Désintèresse la communauté de Mahomet de tout ce qui le préoccupe"
+        }
+      },
+      {
+        "number": 6,
+        "text": "سِوَى الْعِبَادَاتِ وَاعْصِمْهُمْ مِنَ الشَّرَرِ",
+        "transcription": "siwal  hibaadaati wah simhum minash sharari",
+        "translations": {
+          "fr": "sauf de l'adoration, et protège-les contre le mal."
+        }
+      },
+      {
+        "number": 7,
+        "text": "وَاصْرِفْ لِغَيْرِهِمُ الشَّيْطَانَ فِى أَبَدٍ",
+        "transcription": "wasrif lighayrihimush shaytaana fii abadin",
+        "translations": {
+          "fr": "Eloigne-les de Satan pour toujours"
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَلْتَكْفِهِمْ كُلَّ مَنْ يَّسْطُو مِنَ الْبَشَرِ",
+        "transcription": "waltakfihim kulla man yastuu minal bashari",
+        "translations": {
+          "fr": "protège-les contre tout le mal ascendant des hommes."
+        }
+      },
+      {
+        "number": 9,
+        "text": "وَلْتَصْرِفِ الدَّاءَ عَنْ مَّرْضَى الْجَمِيعِ بِهِ",
+        "transcription": "waltasrifid daa-a han mardal jamiihi bihi",
+        "translations": {
+          "fr": "Eloigne le mal de tous les malades"
+        }
+      },
+      {
+        "number": 10,
+        "text": "وَاصْرِفْ لَهُمْ مُّجِبَاتِ الْأَمْنِ وَالْبُشَرِ",
+        "transcription": "wasrif lahum muujibaatil amni wal bushari",
+        "translations": {
+          "fr": "accorde-leur la sécurité et la gloire."
+        }
+      },
+      {
+        "number": 11,
+        "text": "وَاجْعَلْ قُلُوبَ ذَوِى الْإِسْلَامِ فِى أَمَنٍ",
+        "transcription": "wajhal quluuba zawil islaami fii amanin",
+        "translations": {
+          "fr": "Mets le coeur des musulmans en sécurité"
+        }
+      },
+      {
+        "number": 12,
+        "text": "وَلْتَكْفِهِمْ كُلَّمَا يُفْضِى إِلَى الْغَرَرِ",
+        "transcription": "waltakfihim kullamaa yufdii ilal gharari",
+        "translations": {
+          "fr": "éloigne-les de tout ce qui mène au risque (désobéissance)."
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَصَلِّ دَأْبًا بِتَسْلِيمٍ عَلَيْهِ بِمَنْ",
+        "transcription": "wa salli da-ban bitaslimin halayhi biman",
+        "translations": {
+          "fr": "Prie pour toujours avec bénédiction sur celui à qui on suit,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "لَّهُ انْتَمَوْاْ وَلْتَجُدْ بِالصَّفْوِ وَالدُّرَرِ",
+        "transcription": "lahun tamaw wal tajud bis safwi wad durari",
+        "translations": {
+          "fr": "faites abondant la pureté et les perles."
+        }
+      }
+    ]
+  }
+}

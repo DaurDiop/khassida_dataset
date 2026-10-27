@@ -1,0 +1,253 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 156,
+    "name": "Sabhun Taqii",
+    "transliterationName": "Sabhun Taqii",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "sabhun taqii abwaaba kulli naari"
+      },
+      {
+        "number": 2,
+        "text": "tajuudu bid dirhami wad diinaari"
+      },
+      {
+        "number": 3,
+        "text": "tufiidu kulla man lahaa tadabbaraa"
+      },
+      {
+        "number": 4,
+        "text": "bikanzayid daarayni haysuh tabaraa"
+      },
+      {
+        "number": 5,
+        "text": "tamnahu abwaabal jahiimi sabhah"
+      },
+      {
+        "number": 6,
+        "text": "miman tadabbara wa tunmii nafhah"
+      },
+      {
+        "number": 7,
+        "text": "taquudu kulla munyatin tufiidu"
+      },
+      {
+        "number": 8,
+        "text": "likulli man yahdii wa yasta fiidu"
+      },
+      {
+        "number": 9,
+        "text": "tatrudu han qaari-ihal lahiinaa"
+      },
+      {
+        "number": 10,
+        "text": "binaf-yi haadin lam yazalu muhiinaa"
+      },
+      {
+        "number": 11,
+        "text": "tajuudu bil huluumi wal ahmali"
+      },
+      {
+        "number": 12,
+        "text": "qaa-idatun lis suuli wal aamali"
+      },
+      {
+        "number": 13,
+        "text": "tuhiinu qaari-an halal haajaati"
+      },
+      {
+        "number": 14,
+        "text": "wa tunqazul abnaa-a kaz zawjaati"
+      },
+      {
+        "number": 15,
+        "text": "takfil hidaa wal juuhal wal wabaa-aa"
+      },
+      {
+        "number": 16,
+        "text": "kamaa tuliinu man abaa ibaa-aa"
+      },
+      {
+        "number": 17,
+        "text": "taziidu haqilan wa taruddu dararaa"
+      },
+      {
+        "number": 18,
+        "text": "haman yulaazim wa takfil ghararaa"
+      },
+      {
+        "number": 19,
+        "text": "tuyassirul hasiira wa tuksirus sawaab"
+      },
+      {
+        "number": 20,
+        "text": "fii kulli baa-ihin a tahdii lis sawaab"
+      },
+      {
+        "number": 21,
+        "text": "taquudu man laa zamahaa lil khayri"
+      },
+      {
+        "number": 22,
+        "text": "kamaa tunajii min jamiihid dayri"
+      },
+      {
+        "number": 23,
+        "text": "taftahu abwaabal jinaani tukrimu"
+      },
+      {
+        "number": 24,
+        "text": "janaaba man yaqra uhaafa yukramu"
+      },
+      {
+        "number": 25,
+        "text": "tajuudu bish shifaa-i min kulli marad"
+      },
+      {
+        "number": 26,
+        "text": "kamaa liqaari-in tajuudu bil gharad"
+      },
+      {
+        "number": 27,
+        "text": "tadfahu kaydal kaa-idina tunmii"
+      },
+      {
+        "number": 28,
+        "text": "qaari-ahaa khayra jazaa wa ghunmi"
+      },
+      {
+        "number": 29,
+        "text": "tuksiru khayraatid duyuuri turdii"
+      },
+      {
+        "number": 30,
+        "text": "man raama an yazlima hizbal fardi"
+      },
+      {
+        "number": 31,
+        "text": "taquudu man yaqra uhaa lil munyah"
+      },
+      {
+        "number": 32,
+        "text": "wa lil hulaa tukhri juhu min mir-yah"
+      },
+      {
+        "number": 33,
+        "text": "tuljimu afwaaha zawil ifsaadi"
+      },
+      {
+        "number": 34,
+        "text": "wa tahsimul mabiiha man kasaadi"
+      },
+      {
+        "number": 35,
+        "text": "tuniiru qalba kullii zii salaahi"
+      },
+      {
+        "number": 36,
+        "text": "tuniiluhul ajra mahas salaahi"
+      },
+      {
+        "number": 37,
+        "text": "man yatluhaa lihaajatin tuqda bilaa"
+      },
+      {
+        "number": 38,
+        "text": "shakkin wa man lam yatluhaa lan yuqbalaa"
+      },
+      {
+        "number": 39,
+        "text": "wa man talaahaa mukhlisan liwajhi man"
+      },
+      {
+        "number": 40,
+        "text": "anzalahaa faaza bi-ajrin wa aman"
+      },
+      {
+        "number": 41,
+        "text": "wa man bihaa dakhala fii amrin falaa"
+      },
+      {
+        "number": 42,
+        "text": "yakuunu khaa-iban walaa munsafilaa"
+      },
+      {
+        "number": 43,
+        "text": "wa man bihaa raama haziizan naalahu"
+      },
+      {
+        "number": 44,
+        "text": "min mutliqin abada lii jamaalahu"
+      },
+      {
+        "number": 45,
+        "text": "wa man talaahaa fit tibaahin yuujari"
+      },
+      {
+        "number": 46,
+        "text": "hinda kariimin muhtiqin lam yuhjari"
+      },
+      {
+        "number": 47,
+        "text": "wa man talaahaa wahwa zut tiqaa-i"
+      },
+      {
+        "number": 48,
+        "text": "naala ridaa man jaada bil baqaa-i"
+      },
+      {
+        "number": 49,
+        "text": "sallaa wa sallama halaa muhammadi"
+      },
+      {
+        "number": 50,
+        "text": "wa aalihi wa sahbihi wal humadi"
+      },
+      {
+        "number": 51,
+        "text": "man jahalal qur-aana hiina anzalaa"
+      },
+      {
+        "number": 52,
+        "text": "min lawhihi fii yaddi ruuhin nazalaa"
+      },
+      {
+        "number": 53,
+        "text": "sallaa wa sallama halayhimal jamiil"
+      },
+      {
+        "number": 54,
+        "text": "wa kaana lii bifadlihi haysu amiil"
+      },
+      {
+        "number": 55,
+        "text": "sallaa halayhimaa bi-aalil mustafaa"
+      },
+      {
+        "number": 56,
+        "text": "wa sahbihi wa kulli man naalas tafaa"
+      },
+      {
+        "number": 57,
+        "text": "sallaa wa sallama halal jamiihi"
+      },
+      {
+        "number": 58,
+        "text": "khayru shukuurin raafihin samiihi"
+      },
+      {
+        "number": 59,
+        "text": "wa afdalus salaati mah khayri salaam"
+      },
+      {
+        "number": 60,
+        "text": "halayhimaa kamaa afaada bil kalaam"
+      }
+    ]
+  }
+}

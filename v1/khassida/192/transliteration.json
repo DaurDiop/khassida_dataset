@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 192,
+    "name": "Yasurru",
+    "transliterationName": "Yasurru",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "yasurru rasuulal laahi khattii bimawlidi"
+      },
+      {
+        "number": 2,
+        "text": "yaduumu lanaa bishran yafii khayra mawridi"
+      },
+      {
+        "number": 3,
+        "text": "waqaanii ilaahii kulla durrin bijaahi man"
+      },
+      {
+        "number": 4,
+        "text": "lahud dahra khattii duura laghwin wa mufsidi"
+      },
+      {
+        "number": 5,
+        "text": "muhammadunal mukhtaaru lam yaati misluhu"
+      },
+      {
+        "number": 6,
+        "text": "wa laysa yajii mislun lahu nihma sayyidii"
+      },
+      {
+        "number": 7,
+        "text": "maraamii minal mawlaa atanii bilaa azan"
+      },
+      {
+        "number": 8,
+        "text": "bijaahi shafiihil haalamiina muhammadi"
+      },
+      {
+        "number": 9,
+        "text": "wasiqtu birabbil harshi habdan lahu bihi"
+      },
+      {
+        "number": 10,
+        "text": "wa maa zaala qalbi bir ridaa zaa taqayyudi"
+      },
+      {
+        "number": 11,
+        "text": "likhayril baraayaa  min qilaamii bushaaratun"
+      },
+      {
+        "number": 12,
+        "text": "wa lii qaada takhsiisan bihin nafsu tahtadii"
+      },
+      {
+        "number": 13,
+        "text": "dahaanii ilaa ihyaa-i zash shahri kawnuhu"
+      },
+      {
+        "number": 14,
+        "text": "likhayril waraa zarfan hawaa kulla suudadi"
+      },
+      {
+        "number": 15,
+        "text": "hadiyyaatunaa tasfuu ladal laahi sarmadan"
+      },
+      {
+        "number": 16,
+        "text": "wa hanaa mahaa daahin ilaa qafwizii dadi"
+      },
+      {
+        "number": 17,
+        "text": "hawaanan tahaa lil haqqi wal haqqu diinunaa"
+      },
+      {
+        "number": 18,
+        "text": "bi-ikhdaami zii rushdin hadaa kulla murshadi"
+      },
+      {
+        "number": 19,
+        "text": "ilaa ghayrinaa tanhul mafaasidu kulluhaa"
+      },
+      {
+        "number": 20,
+        "text": "wa tanhuu lanal khayraatu min khayri munjidi"
+      },
+      {
+        "number": 21,
+        "text": "zababtu lighayril laahi maa lam yaliq bihi"
+      },
+      {
+        "number": 22,
+        "text": "wa zabba lighayrid dahra mawlaaya hussadii"
+      },
+      {
+        "number": 23,
+        "text": "ilal laahi bil mukhtaari wajjahtu maa bihi"
+      },
+      {
+        "number": 24,
+        "text": "hawaytu zulaalan saafiyan khayra mawridi"
+      }
+    ]
+  }
+}

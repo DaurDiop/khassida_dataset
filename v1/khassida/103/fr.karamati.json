@@ -1,0 +1,398 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 103,
+    "name": "Mawahibu 2",
+    "transliterationName": "Mawahibu 2",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 57,
+        "text": "À toi mon éloge, ô toi qui possèdes la droiture, ô toi qui possèdes la réussite, ô toi qui possèdes la richesse."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 58,
+        "text": "En toi j'appelle toutes les contrées vers le Maître des serviteurs, Celui (Allah) qui a édifié la voûte céleste."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 59,
+        "text": "En toi j'ai effacé ce que j'avais commis ; en toi j'ai recherché le plus fécond accroissement."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 60,
+        "text": "En toi mon aller, en toi mon retour, sans éloignement : à toi est mon appartenance."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 61,
+        "text": "Tu as écarté mon défaut, entouré de soin ma personne, sans tristesse et sans vanité."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 62,
+        "text": "Ô le meilleur de ceux qui effacent (Al-Māḥī), qui as effacé ma faute, avec les badinages du temps de la jeunesse."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 63,
+        "text": "Tu es mon Bien-Aimé, ô toi dont l'amour est en moi, sans défauts et sans servitude."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 64,
+        "text": "Ô le meilleur de ceux qui retiennent, ô le meilleur des pasteurs, ô le meilleur de ceux qui appellent vers le Maître du ciel !"
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 65,
+        "text": "Que (Dieu) prie sur toi, avec ceux qui sont auprès de toi, et qu'Il te loue à l'heure du combat."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 66,
+        "text": "Que Celui (Allah) qui par toi a magnifié les gens du turban répande sur toi sans relâche la paix et l'honneur."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 67,
+        "text": "Par toi je guide, par toi je suis profitable, ô toi qui surpasses ceux qui ont été élus,"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 68,
+        "text": "(sur) les gens de l'intelligence, sur la voie du Messager, qui efface l'insouciance, qui efface l'occultation,"
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 69,
+        "text": "(sur) les gens de la perspicacité, par celui qui possède la splendeur, qui efface l'erreur, qui efface la dureté."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 70,
+        "text": "Il (Muḥammad) est l'Obéi, il est le Vaillant : par lui sont saisis d'effroi ceux qui refusent."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 71,
+        "text": "Il est l'Ami (de Dieu), il est le Confident, il est le Pur Élu (Aṣ-Ṣafī), qui possède l'élection."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 72,
+        "text": "Il est le Noble par le rang, il est le Noble par la lignée, il est le Merveilleux, manifeste en ses dons."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 73,
+        "text": "Il est le Précieux : ne le comparez (à personne) ! Il est le Chef des Prophètes."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 74,
+        "text": "Soleil des soleils, tête des têtes, le meilleur des compagnons intimes pour les Saints."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 75,
+        "text": "Guérison des poitrines, lumière des demeures, pleine lune des pleines lunes, manifeste en son éclat."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 76,
+        "text": "Pluie bienfaisante pour le reconnaissant, lion pour l'ingrat, qui repousse celui qui fuit, qui montre l'aversion (du mal)."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 77,
+        "text": "Jardins (du Paradis) pour le bien-guidé, feux pour le transgresseur : son excellence est manifeste aux sages."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 78,
+        "text": "Il efface les fautes, manifeste les dons, guide les créatures, sans excès."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 79,
+        "text": "À lui l'excellence, à lui l'Intercession (ash-shafāʿa), à lui la Communauté ; il réunit toute ascension."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 80,
+        "text": "Si quelqu'un, recherchant sa rencontre, désire la science, ou désire le butin, ou désire l'injustice,"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 81,
+        "text": "le premier est guidé, le second reçoit de lui ses dons, et le troisième est précipité à sa perte, dans le malheur."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 82,
+        "text": "Guide et protecteur, lumière qui illumine, pluie qui annonce la bonne nouvelle, pour qui accueille la guidance."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 83,
+        "text": "Défenseur et secoureur, prédicateur clairvoyant, lion qui avertit, pour qui transgresse."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 84,
+        "text": "Il prête l'oreille à la plainte de qui se plaint, il est joie pour qui pleure, il écoute qui raconte et qui appelle."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 85,
+        "text": "Sauveur de celui qui chemine sur la Voie, refuge de l'ascète, qui dissipe les ténèbres de celui qui craint Dieu."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 86,
+        "text": "Butin du pauvre, réconfort du brisé, renom de l'humble, pour qui cherche protection."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 87,
+        "text": "Il (Muḥammad) est le Manifeste, il est le Caché, il est le Confident intime de Celui (Allah) qui possède la Permanence."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 88,
+        "text": "À lui s'adresse la Parole (divine), à lui revient la réponse, à lui la justesse, avec l'agrément."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 89,
+        "text": "À lui la piété, à lui la joie : les Houris (du Paradis) l'accueillent après l'accomplissement du Décret."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 90,
+        "text": "À lui s'adresse ma parole, après mon repentir de tout défaut, avec une ferme résolution."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 91,
+        "text": "À toi (ô Prophète) appartiennent des prodiges, de la part du Maître des créatures, qui ne furent à aucun prédécesseur et ne seront à aucun successeur."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 92,
+        "text": "Parmi eux, l'éloignement de toute chose abhorrée de celui qui craint, après qu'il a cherché refuge (auprès de toi)."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 93,
+        "text": "Ô le meilleur des créatures, tu as repoussé les malheurs de celui qui était chargé de fautes : tu as voulu mon salut."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 94,
+        "text": "Tu es le Généreux, je suis le Serviteur (Khadīm) : à jamais je ferai perdurer en toi ma louange."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 95,
+        "text": "J'ai recherché un éloge qui donne la réussite, qui suffise à préserver de l'infamie et de la peine."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 96,
+        "text": "En vérité, par mon éloge j'ai vu avec certitude mon gain, et ma réussite avec l'édifice (que j'élève)."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 97,
+        "text": "Mais je suis demeuré impuissant devant ce que je recherchais, et je n'ai pas loué (comme je l'aurais voulu), à l'égal des nobles."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 98,
+        "text": "Mon encre s'est tarie, mon cœur est resté interdit à louer le Guide des Substituts (al-Abdāl)."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 99,
+        "text": "Comment donc pourrais-je embrasser l'éloge de celui (Muḥammad) qui donne vie (aux cœurs), alors que son éloge épuise même les sages ?"
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 100,
+        "text": "Mais j'appelle tous les serviteurs vers mon soutien (Muḥammad), sans que nul ne soit repoussé."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 101,
+        "text": "Ô gens de la terre ferme, ô gens de la mer, tournez-vous vers le Bienfaisant, océan de générosité !"
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 102,
+        "text": "Il efface mes défauts, dévoile les mystères qui me sont cachés, purifie mon intime de l'obscurité."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 103,
+        "text": "Il dispense les bienfaits, terrasse mes ennemis, accorde ce que je désire, dans l'aisance."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 104,
+        "text": "Il efface les vices, accorde les vertus, ravive les demeures après qu'elles se sont effacées."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 105,
+        "text": "Quel excellent Bien-Aimé ! Quel excellent Proche ! Quel excellent Sage, qui efface ce qui est caché !"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 106,
+        "text": "Il a protégé la famille, épargné le combat, effacé l'arène (de la discorde), sans réconciliation."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 107,
+        "text": "Il a caché les maux, manifesté les biens, conduit la joie vers celui qui espère."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 108,
+        "text": "Il a guéri le malade, banni la douleur, conduit le Serviteur (Khadīm) vers le salut."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 109,
+        "text": "Il a dénoué les chaînes, répandu la grâce : le mal a tourné le dos, et le bienfait est venu."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 110,
+        "text": "Il dissipe les infortunes, manifeste des prodiges, bannit les calamités, il est manifeste en ses dons."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 111,
+        "text": "Il dispense les biens jusque dans les palais, il est manifeste dans les victoires, il est manifeste dans la splendeur."
+      }
+    ]
+  }
+}

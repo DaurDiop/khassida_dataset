@@ -1,0 +1,313 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 162,
+    "name": "Sindidi",
+    "transliterationName": "Sindidi",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "O Allah! Ti invoco per la considerazione del Prescelto, il Nobile e Generoso, o Allah! E per il Tuo amico intimo Abramo (Ibrāhīm), o Allah!"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "E per il Tuo interlocutore Mosè (Mūsā), per Sālih, Khidr, Shu'ayb e Ismaele (Ismā'īl), o Allah!"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "E per Salomone (Sulaymān), Noè (Nūh), Giona (Yūnus), Eliseo (Al-Yasa'), Zaccaria, Giovanni Battista (Yahyā) e Hūd, o Allah!"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Per Aronne (Hārūn), Giosuè (Yūsha'), Elia (Ilyās), Adamo, Davide (Dāwūd), Dhūl-Kifl, Gesù ('Īsā) e Lot (Lūt), o Allah!"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "E per Giuseppe (Yūsuf), Isacco (Ishāq) e tutti gli altri Tuoi Profeti e Messaggeri, o Allah!"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "E per tutti gli Angeli indistintamente, e in particolare per i loro eletti: Gabriele (Jibrīl) e Michele (Mīkā'īl), o Allah!"
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "E per colui che soffia [nella Tromba], Isrāfīl, e per colui che raccoglie le anime delle creature, 'Azrā'īl, o Allah!"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "E per i Compagni [del Profeta], poi per tutti i Santi (Awliyā') insieme, e per i sapienti che mettono in pratica il loro sapere, o Allah!"
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Per il Veridico [Abū Bakr], per colui che distingue il vero dal falso ['Umar], per l'Uomo dalle Due Luci ['Uthmān] e per il padre dei due nipoti del Profeta ['Alī], o Allah!"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Per Mālik [ibn Anas] ricco di meriti, per Ash-Shāfi'ī, per Abū Hanīfa e per Ahmad [ibn Hanbal] il degno di lode, o Allah!"
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Per la Tavola Custodita (Al-Lawh) e il Calamo, poi per il Tuo Trono Immenso ('Arsh) e per il Piedistallo (Kursī), o Allah!"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Per il Corano, per la Torah, per i Salmi recati da Davide e per il Vangelo portato da Gesù (lo Spirito), o Allah!"
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "Fai giungere la mia preghiera e il mio saluto a lui [il Profeta], alla sua famiglia, ai suoi Compagni e alle sue spose, o Allah!"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "Stendi su di noi, o Signore, il manto della salute e dell'incolumità, e realizza le nostre aspirazioni in questo mondo e nell'Aldilà, o Allah!"
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "Aprici ogni porta di benedizioni e di beni che Tu hai già aperto per i Tuoi servi devoti e virtuosi, o Allah!"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "Incamminaci sulla retta via, preservaci da ogni passo falso e scaccia lontano da noi i jinn e Satana, o Allah!"
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "Porta a perfetto compimento tutto ciò a cui tendiamo e miriamo, e donaci tutto il bene che scegliamo, o Allah!"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "Appiana per noi ogni cosa ardua e ostinata, e rendi facile ogni difficoltà, o Allah!"
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "Prolunga la nostra vita, mantieni in buona salute il nostro corpo e donaci la rettitudine e il successo spirituale, o Allah!"
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "Annienta tutti i nemici che vogliono nuocerci prima ancora che possano raggiungerci, o Allah, o Allah!"
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "Sii il nostro Protettore contro ogni causa di rovina e salvaci per sempre dalle calamità del tempo, o Allah!"
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "Preservaci da ogni flagello, infermità, angoscia soffocante, dura prova, terremoto, avversità e povertà, o Allah!"
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "Preservaci dall'umiliazione, dalla penuria, dall'avvilimento, dalla sopraffazione, dall'indigenza, dalla sete e dalla fame, o Allah!"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "Preservaci dalla discordia (fitna), dalle epidemie, dal fuoco, dall'annegamento, dai fulmini, dal furto e dalla fatica estenuante, o Allah!"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "Preservaci dal caldo estremo, dal gelo, dal saccheggio, dall'afflizione, dai castighi, dallo smarrimento, dalla zoppia e dalla tristezza, o Allah!"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "Preservaci dai rettili e insetti velenosi, dai peccati, dallo sviamento, dalle cadute, dalla metamorfosi punitiva, dallo sprofondamento e dalla calunnia, o Allah!"
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "Preservaci dal tormento interiore, dalla follia, dalle infermità, dalle malattie, dalle due forme di lebbra e dalla menomazione fisica, o Allah!"
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "E preservaci dalle brutture di questo mondo e dell'Aldilà, e dal disonore in entrambi, o Allah, o Allah!"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "O Colui che è Onnipotente su ogni cosa e che Si è stabilito sul Trono Immenso con sovrana potenza, o Allah!"
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "In verità Ti chiedo un cuore devoto, colmo di timore riverenziale e umile, e una scienza sommamente utile, o Allah!"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "E Ti chiedo un pentimento accettato, un rango elevato e una sposa resa virtuosa dalla religione, o Allah!"
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "Sii il nostro rifugio contro il male dell'invidioso, il male della lingua e il male del malocchio, o Allah!"
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "E contro il male della magia e il male di tutte le creature: degli esseri umani, dei jinn e degli animali velenosi, o Allah!"
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "O mia Fiducia! Ho fatto di Te, nelle due dimore, una fortezza inespugnabile: sii dunque il mio rifugio, o Allah!"
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "Non abbandonarmi a me stesso, altrimenti perirei! Sii Colui che mi esaudisce ovunque io Ti invochi, o Allah!"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "Fa' che la mia lingua e il mio cuore Ti menzionino insieme, nella fede, nel momento della morte, o Allah!"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "Rendi salda la certezza nel mio cuore senza alcuna paura, finché io ami ardentemente il vero incontro con Te, o Allah!"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "E rendi per me la morte un riposo e una gioia che mi liberi da ogni male e da ogni opprimente angoscia, o Allah!"
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "Custodisci il mio corpo quando l'anima si sarà separata da me; nella tomba non lasciarlo mai corrompere dal tempo, o Allah!"
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "Sii il mio Soccorritore e il mio Compagno consolatore quando avranno sepolto il mio corpo e sarò rimasto là tutto solo, o Allah!"
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "Non rinchiudere con me [nella tomba] nulla che possa spaventarmi, ma proteggimi da tutto ciò che temo, o Allah!"
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "Salva me e tutti i musulmani insieme, e salva mia madre! Āmīn, o Allah!"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "Perdona noi e lei, copri i nostri difetti e sii benevolo e dolce con noi e con lei nel giorno del grande terrore, o Allah!"
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "Sorvola sulle sue colpe e abbi misericordia di noi; non abbiamo altri che Te, e Tu sei il sommamente Buono, o Allah!"
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "Nel mondo intermedio (Barzakh) e nella tomba sii per lei un sostegno, e salvala dalle angosce e dalla paura, o Allah!"
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "Non metterla alla prova con ciò che non può sopportare, e non deludere la sua speranza in Te, o Allah!"
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "Disseta noi insieme a lei con l'acqua del Kawthar di colui che hai prescelto fra tutte le creature, o Allah!"
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "Colui che guidava sulla retta via chi era smarrito, che sconfiggeva il miscredente e soccorreva chi Ti teme, o Allah!"
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "Muhammad, il fiore più puro tra gli eletti, la nostra guida verso il Paradiso eterno nel Giorno del Raduno, o Allah!"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "Su di lui riversa benedizione e pace sempre e in eterno, così come su coloro che lo seguono fino al Giorno del Giudizio, o Allah!"
+      }
+    ]
+  }
+}

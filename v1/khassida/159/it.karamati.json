@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 159,
+    "name": "Sana Ilaahi",
+    "transliterationName": "Sana Ilaahi",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Il mio Dio ha custodito ogni mio orizzonte colmandolo di desideri esauditi, e per sempre ha reso la mia mano libera dal dover dire «dammi»."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Ha guidato a me i sapienti e i Santi (al-awliyāʾ) Colui (Allah) che non cessa d'essere la mia forza e la mia potenza."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Il mio poema ha superato i poemi dei nobili, e per sempre conduce a me il più eccelso dei desideri."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Il mio dono copre di vergogna ogni re che si è posto come rivale, e il Re (Allah) lo ha umiliato."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Allah ha cancellato, in mio favore, l'avanzata dei Nazareni (i colonizzatori cristiani), per mezzo di «Non vi è divinità all'infuori di Allah»."
+      }
+    ]
+  }
+}
