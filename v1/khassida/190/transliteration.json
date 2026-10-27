@@ -1,0 +1,69 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 190,
+    "name": "Yarabbi",
+    "transliterationName": "Yarabbi",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "yaa rabbi bil mustafal mukhtaari min mudari"
+      },
+      {
+        "number": 2,
+        "text": "shafiihi ummatihi fil badwi wal hadari"
+      },
+      {
+        "number": 3,
+        "text": "halayhi salli bitasliimin bilaa hadadin"
+      },
+      {
+        "number": 4,
+        "text": "fil aali was sahbi wah simnaa minad darari"
+      },
+      {
+        "number": 5,
+        "text": "hut ummatal mustafaa hamaa yajurru lahum"
+      },
+      {
+        "number": 6,
+        "text": "siwal  hibaadaati wah simhum minash sharari"
+      },
+      {
+        "number": 7,
+        "text": "wasrif lighayrihimush shaytaana fii abadin"
+      },
+      {
+        "number": 8,
+        "text": "waltakfihim kulla man yastuu minal bashari"
+      },
+      {
+        "number": 9,
+        "text": "waltasrifid daa-a han mardal jamiihi bihi"
+      },
+      {
+        "number": 10,
+        "text": "wasrif lahum muujibaatil amni wal bushari"
+      },
+      {
+        "number": 11,
+        "text": "wajhal quluuba zawil islaami fii amanin"
+      },
+      {
+        "number": 12,
+        "text": "waltakfihim kullamaa yufdii ilal gharari"
+      },
+      {
+        "number": 13,
+        "text": "wa salli da-ban bitaslimin halayhi biman"
+      },
+      {
+        "number": 14,
+        "text": "lahun tamaw wal tajud bis safwi wad durari"
+      }
+    ]
+  }
+}

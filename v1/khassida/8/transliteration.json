@@ -1,0 +1,93 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 8,
+    "name": "Alal Mustafa Minni",
+    "transliterationName": "Alal Mustafa Minni",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "halal mustafaa minnii salaatun taqid dayraa"
+      },
+      {
+        "number": 2,
+        "text": "jihaatii kamaa yufdii ilaa nahwiyal khayraa"
+      },
+      {
+        "number": 3,
+        "text": "halal muntaqaa minnii salaamun mutahhirun"
+      },
+      {
+        "number": 4,
+        "text": "likulliyyatii tat-hiira haadin mahaa jawraa"
+      },
+      {
+        "number": 5,
+        "text": "salaatun wa tasliimun minal laahi sarmadan"
+      },
+      {
+        "number": 6,
+        "text": "halaa man birazzaqin yusaffii liyal mayraa"
+      },
+      {
+        "number": 7,
+        "text": "halaa man bihii rabbul waraa ansa-al waraa"
+      },
+      {
+        "number": 8,
+        "text": "salaatun wa taslimun yadduu maani lii zawraa"
+      },
+      {
+        "number": 9,
+        "text": "minal laahi rabbil harshi abghii bihil birraa"
+      },
+      {
+        "number": 10,
+        "text": "bijaahi rasuulil laahi man kalkalii sarraa"
+      },
+      {
+        "number": 11,
+        "text": "halayka salaatul laahi  summa salaamuhu"
+      },
+      {
+        "number": 12,
+        "text": "dawaaman kamaa afdaa ilaa ghayriyash sharraa"
+      },
+      {
+        "number": 13,
+        "text": "taqaddu makal baadii badaa lii wa qaada lii"
+      },
+      {
+        "number": 14,
+        "text": "nawalan hajiiban ahsaral jahra was sirraa"
+      },
+      {
+        "number": 15,
+        "text": "minal laahi rum lii kawnahu lii bifadlihi"
+      },
+      {
+        "number": 16,
+        "text": "khadiiman lakum yaa man kafaanil hidaa turraa"
+      },
+      {
+        "number": 17,
+        "text": "halaykum salaatun mah salaamin minal halii"
+      },
+      {
+        "number": 18,
+        "text": "bi-aalin wa as-haabin lakum man hawaw birraa"
+      },
+      {
+        "number": 19,
+        "text": "halaykum salaatul laahi man qaadatil munaa"
+      },
+      {
+        "number": 20,
+        "text": "likullii bilaa makrin wa maa kalkalii sarraa"
+      }
+    ]
+  }
+}

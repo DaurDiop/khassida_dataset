@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 188,
+    "name": "Yaa Zal Wujuudi",
+    "transliterationName": "Yaa Zal Wujuudi",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "yaa zal wujuudi wal baqaa-i wal qidam"
+      },
+      {
+        "number": 2,
+        "text": "yaa zal mukhaalafati khuzminil khidam"
+      },
+      {
+        "number": 3,
+        "text": "yaa zal qiyaami abadan wal wahdah"
+      },
+      {
+        "number": 4,
+        "text": "yaa man khitaabiya ilayhi wahdah"
+      },
+      {
+        "number": 5,
+        "text": "innaka zul qudrati wal iraadah"
+      },
+      {
+        "number": 6,
+        "text": "wal hilmi wal hayaati wal ifaadah"
+      },
+      {
+        "number": 7,
+        "text": "was samhi wal basari wal kalaami"
+      },
+      {
+        "number": 8,
+        "text": "yaa maahiyan bil muntaqaa aalaamii"
+      },
+      {
+        "number": 9,
+        "text": "innaka qaadirun muriidun haalim"
+      },
+      {
+        "number": 10,
+        "text": "hayyun simiihun zahzahal mazaalim"
+      },
+      {
+        "number": 11,
+        "text": "anta basiirun mutakallimun jazab"
+      },
+      {
+        "number": 12,
+        "text": "liya kitaabahul majiida fan jazab"
+      },
+      {
+        "number": 13,
+        "text": "laka bilaf tiraa-inin nafsiyyah"
+      },
+      {
+        "number": 14,
+        "text": "yaa man kafaaniz zulaman nafsiyyah"
+      },
+      {
+        "number": 15,
+        "text": "laka bilaa miraa-inis salbiyyah"
+      },
+      {
+        "number": 16,
+        "text": "yaa man kafaaniz zulamal qalbiyyah"
+      },
+      {
+        "number": 17,
+        "text": "laka bilaa sharikinil mahaanii"
+      },
+      {
+        "number": 18,
+        "text": "wal mahnawiyyatu bilaa muhaani"
+      },
+      {
+        "number": 19,
+        "text": "yaa faahilan bi-iznihi yajril qadar"
+      },
+      {
+        "number": 20,
+        "text": "lighayri ahmadika zaa suqtal kadar"
+      },
+      {
+        "number": 21,
+        "text": "bijaahi ahmadal karrimil halami"
+      },
+      {
+        "number": 22,
+        "text": "yaa man bihi hallamta maa lam yahlami"
+      },
+      {
+        "number": 23,
+        "text": "yaa zaa wujuudin wa baqaa-in wa qidam"
+      },
+      {
+        "number": 24,
+        "text": "lil harshi wal kursiyyi khuztihil khidam"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 93,
+    "name": "Man Zanani",
+    "transliterationName": "Man Zanani",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "مَنْ ظَنَّنِى غَيْرَ خَدِيمِ الْمُصْطَفَى",
+        "transcription": "man zannanii ghayra khadiimil mustafaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "فَإِنَّنِى أَخْدِمُهُ بِمَا اصْطَفَى",
+        "transcription": "fa-innanii akhdimuhu bimas tafaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "أَخْدِمُهُ إِلَى دُخُو لِى الْجَنَّهْ",
+        "transcription": "akhdimuhu ilaa dukhuu lil jannah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "دَارِ الْقَرَارِ وَالْمُنَّى وَالْمِنَّهْ",
+        "transcription": "daaril qaraari wal munnaa wal minnah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "مَنْ ظَنَّ أَنَّهُ يَكُونُ أَبَدَا",
+        "transcription": "man zanna annahu yakuunu abadaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "يُرْضِيهِ بِالَّذِى كَخِدْمَتِى بَدَا",
+        "transcription": "yurdiihi bil lazii kakhidmatii badaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "فَغَرَّهُ الضَّلَالُ وَالْإِضْلَالُ",
+        "transcription": "fagharrahud dalaalu wal idlaalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "يَنْقَادُ لِى مِنْهُ بِهِ الْحَلَالُ",
+        "transcription": "yanqaadu lii minhu bihil halaalu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "مَدَحْتُهُ قَبْلُ لَدَى لِبَرْوَلِ",
+        "transcription": "madahtuhu qablu ladaa libarwali",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "مَدْحًا وَنَى عَنْ مِّثْلِهِ كُلُّ وَلِى",
+        "transcription": "madhan wanaa han mislihi kullu walii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "مَدَحْتُهُ مَدْحًا لَّدَى مَايُنْبَا",
+        "transcription": "madahtuhu madhan ladaa maayunbaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "مَحَا عُيُوبِىَ وَكَفَّ الذَّنْبَا",
+        "transcription": "mahaa huyuubiya wa kaffaz zanbaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "مَدَحْتُهُ عِنْدَ أُنَاسِ كَلْوَى",
+        "transcription": "madahtuhu hinda unaasi kalwaa (galwaa)",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "مَدْحًا كَفَانِىَ الْعِدَى وَالْبَلْوَى",
+        "transcription": "madhan kafaaniyal hidaa wal balwaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "مِنِّى إِلَيْهِ خِدْمَةٌ قَدْ لَازَمَتْ",
+        "transcription": "minnii ilayhi khidmatun qad laa zamat",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "رَوْضَتُهُ إِلَى الْقِيَامِ عُظِّمَتْ",
+        "transcription": "rawdatahu ilal qiyaami huzzimat",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "رَضِىَ عَنِّى سِبْطُهُ الْجِيلَانِى",
+        "transcription": "radiya hannii sibtuhul jiilaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "عَلَيْهِ رِضْوَانُ الَّذِى أَعْلَانِى",
+        "transcription": "halayhi ridwaanul lazii ahlaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "رَضِىَ عَنِّى سِبْطُهُ أَبُو الْحَسَنْ",
+        "transcription": "radiya hannii sibtuhu abul hasan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "عَلَيْهِ رِضْوَانُ يُخَلِّدُ الْحَسَنْ",
+        "transcription": "halayhi ridwaanu yukhallidu hasan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "رَضِىَ عَنِّى سِبْطُهُ التِّجَّانِى",
+        "transcription": "radiya hannii sibtuhut tijjaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "عَلَيْهِ رِضْوَانُ مُبِيدِ الْجَانِى",
+        "transcription": "halayhi ridwaanu mubiidil jaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "رَضِىَ عَنِّى الْخُلَفَآءُ الْأَرْبَعَهْ",
+        "transcription": "radiya hannil khulafaa-ul arbahah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "حُزْتُ رِضَى الْمُقَرَّبِينَ الْمُتْبَعَهْ",
+        "transcription": "huztu ridal muqarrabiinal mutbahah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 25,
+        "text": "مَنْ لَمْ يَكُنْ عَنِّىَ يَرْضَى فَالْكَرِيمْ",
+        "transcription": "man lam yakun hanniya yardaa fal kariim",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 26,
+        "text": "رَضِىَ عَنِّىَ رِضًى لَّيْسَ يَرِيمْ",
+        "transcription": "radiya hanniya ridan laysa yariim",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 27,
+        "text": "جَزَى الْإِلَاهُ الْمُصْطَفَى خَيْرَ جَزَآ",
+        "transcription": "jazal ilaahul mustafaa khayra jazaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 28,
+        "text": "كَمَا تَقَبَّلَ وَوَعْدًا أَنْجَزَا",
+        "transcription": "kamaa taqabbala wa wahdan anjazaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 29,
+        "text": "صَلَاةُ مَنْ كَرَمُهُ يَلْقَانِى",
+        "transcription": "salaatu man karamuhu yalqaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 30,
+        "text": "عَلَى الَّذِى دُونَ الْمِرَآ أَلْقَانِى",
+        "transcription": "halal lazii duunal miraa alqaanii",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,797 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 62,
+    "name": "Jawartu",
+    "transliterationName": "Jawartu",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "جَاوَرْتُ بِالْفُرْقَانِ رَبِّىَ الْمُعِينْ",
+        "transcription": "jaawartu bil furqaani rabbiyal muhiin",
+        "translations": {
+          "fr": "grâce au Coran, je réside avec mon SEIGNEUR, l 'Incomparable AUXILIAIRE ;"
+        }
+      },
+      {
+        "number": 2,
+        "text": "مَلَكْتُ نَفْسِىَ وَزَحْزَحْتُ اللَّعِينْ",
+        "transcription": "malaktu nafsiya wa zahzahtul lahiin",
+        "translations": {
+          "fr": "j'ai acquis la parfaite maîtrise de mon âme et chassé Satan, le réprouvé"
+        }
+      },
+      {
+        "number": 3,
+        "text": "أَخَذْتُ مِنْ دُنْيَاهُ زَادِى لِلْجِنَانْ",
+        "transcription": "akhaztu min dunyaahu zaadii lil jinaan",
+        "translations": {
+          "fr": "De ce bas-monde, je me contente de tirer uniquement mon viatique pour le Paradis;"
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَانْقَادَ لِى الْهَوَى وَلِى صَفَا الْجَنَانْ",
+        "transcription": "wan qaada lil hawaa wa lii safal janaan",
+        "translations": {
+          "fr": "j'ai dompté ma passion et purifié entièrement mon coeur"
+        }
+      },
+      {
+        "number": 5,
+        "text": "وَالَانِىَ الْأَبْرَارُ فِى أُخْرَايَا",
+        "transcription": "waalaaniyal abraaru fii ukhraayaa",
+        "translations": {
+          "fr": "Dans l'Au-delà, les Vertueux seront mes Compagnons"
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَانْقَادَ لِى بِلَا انْتِهًا قِرَايَا",
+        "transcription": "wan qaada lii bilan tihan qiraayaa",
+        "translations": {
+          "fr": "et il me sera éternellement donné les moyens de les honorer"
+        }
+      },
+      {
+        "number": 7,
+        "text": "رَافَقَنِى إِلَى الْجِنَانِ *جِيمُ*",
+        "transcription": "raafaqanii ilal jinaani (jiimu)",
+        "translations": {
+          "fr": "Le Coran demeurera certes mon Compagnon jusqu'aux Trois Paradis"
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَلِسِوَاىَ زُحْزِحَ الرَّجِيمُ",
+        "transcription": "wa lisiwaaya zuhzihar rajiimu",
+        "translations": {
+          "fr": "comme il a chassé loin de moi Satan, le Lapidé"
+        }
+      },
+      {
+        "number": 9,
+        "text": "تُرْسِى عَنِ اللَّعِينِ وَالْفُجَّارِ",
+        "transcription": "tursii hanil lahiini wal fujjaari",
+        "translations": {
+          "fr": "Mon Bouclier contre le Maudit et les impies est le fait"
+        }
+      },
+      {
+        "number": 10,
+        "text": "كَوْنُ بَدِيعِ الْعَالَمِينَ جَارِى",
+        "transcription": "kawnu badiihil haalamiina jaarii",
+        "translations": {
+          "fr": "que je réside avec le CREATEUR des Mondes"
+        }
+      },
+      {
+        "number": 11,
+        "text": "أَكْرَمَنِى الْبَدِيعُ بِالْكِتَابِ",
+        "transcription": "akramanil badiihu bil kitaabi",
+        "translations": {
+          "fr": "Le NOVATEUR, de par Son Livre, m'honore"
+        }
+      },
+      {
+        "number": 12,
+        "text": "وَصَانَنِى عَنْ جَالِبِ الْعِتَابِ",
+        "transcription": "wa saananii han jaalibil hitaabi",
+        "translations": {
+          "fr": "et me préserve de toute source de Blâme"
+        }
+      },
+      {
+        "number": 13,
+        "text": "لَمْ يَنْحُنِى إِلَى دُخُو لِى الْجَنَّهْ",
+        "transcription": "lam yanhunii ilaa dukhuu lil jannah",
+        "translations": {
+          "fr": "Ainsi ne connaîtrais-je, jusqu'à mon entrée au Paradis,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "غَيْرُ بُشَارَاتِ الْعَلِى ذِى الْمِنَّهْ",
+        "transcription": "ghayru bushaaraatil halii zil minnah",
+        "translations": {
+          "fr": "que Joie procurée par le SUBLIME, le BIENFAITEUR"
+        }
+      },
+      {
+        "number": 15,
+        "text": "لَمْ يَنْحُنِى زَجْرٌ وَلَا وَعِيدُ",
+        "transcription": "lam yanhunii zajrun walaa wa hiidu",
+        "translations": {
+          "fr": "Ne serais-je, non plus, objet d'aucune sorte de Remontrance ou Menace;"
+        }
+      },
+      {
+        "number": 16,
+        "text": "وَعُمُرِى إِلَى الْجِنَانِ *عِيدُ*",
+        "transcription": "wa humurii ilal jinaani  (hiidu)",
+        "translations": {
+          "fr": "et mon existence ne sera, jusqu'au paradis, que Permanentes Réjouissances"
+        }
+      },
+      {
+        "number": 17,
+        "text": "أَخْفَى لِىَ السِّرَّ الْمَصُونَ اللَّهُ",
+        "transcription": "akhfaa liyas sirral masuunal laahu",
+        "translations": {
+          "fr": "DIEU dissimule en ma faveur le Mystère Bien Gardé (Sirru-l-Mas'un),"
+        }
+      },
+      {
+        "number": 18,
+        "text": "حُبًّا وَلَا إِلَاهَ إِلَّا اللَّهُ",
+        "transcription": "hubban walaa ilaaha illal laahu",
+        "translations": {
+          "fr": "par Amour et par la formule << Laa ilaaha illa Laah >> (Il n'est d'autre divinité en dehors de DIEU)"
+        }
+      },
+      {
+        "number": 19,
+        "text": "هَدَانِىَ اللَّهُ وَإِنَّهُ الْبَدِيعْ",
+        "transcription": "hadaaniyal laahu wa innahul badiih",
+        "translations": {
+          "fr": "DIEU m'a dirigé [sur Son Sentier] - certes IL Demeure le NOVATEUR! -;"
+        }
+      },
+      {
+        "number": 20,
+        "text": "وَقَادَنِى لَهُ بِأَنْوَاعِ الْبَدِيعْ",
+        "transcription": "wa qaadani lahu bi-anwaahil badiih",
+        "translations": {
+          "fr": "IL m'a guidé vers LUI à travers toutes sortes de Merveilles"
+        }
+      },
+      {
+        "number": 21,
+        "text": "بَرَّأَنِى الْخَالِقُ مِنْ سِوَاهُ",
+        "transcription": "barra-anil khaaliqu  min siwaahu",
+        "translations": {
+          "fr": "Le CREATEUR, CELUI-LA dont nul n'a vu le pair,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَقَادَنِى مَنْ لَّا يُرَى شَرْوَاهُ",
+        "transcription": "wa qaadanii man laa yuraa sharwaahu",
+        "translations": {
+          "fr": "m'a affranchi de tout ce qui n'est pas LUI et m'a mené [sur la Voie Droite]"
+        }
+      },
+      {
+        "number": 23,
+        "text": "كِتَابُ رَبِّى كَانَ لِى وَكُنْتُ",
+        "transcription": "kitaabu rabbii kaana lii wa kuntu",
+        "translations": {
+          "fr": "Certes le Livre de mon SEIGNEUR est en ma faveur"
+        }
+      },
+      {
+        "number": 24,
+        "text": "لَهُ وَلِلَّهِ بِهِ سَكَنْتُ",
+        "transcription": "lahu wa lil laahi bihi sakantu",
+        "translations": {
+          "fr": "et nul doute que je demeurerai à jamais à son service car c'est grâce à lui que je réside avec DIEU"
+        }
+      },
+      {
+        "number": 25,
+        "text": "تُرسِى عَنِ الْأَكْدَارِ وَالْمَفَاسِدِ",
+        "transcription": "tursii hanil akdaari wal mafaasidi",
+        "translations": {
+          "fr": "Ma stricte abstinence de toute source de corruption"
+        }
+      },
+      {
+        "number": 26,
+        "text": "سَلَامَتِى مِنْ جَالِبٍ لِفَاسِدِ",
+        "transcription": "salaamatii min jaalibin  lifaasidi",
+        "translations": {
+          "fr": "constitue mon Rempart contre les impuretés et les méfaits"
+        }
+      },
+      {
+        "number": 27,
+        "text": "أَكْرَمَنِى اللَّهُ بِذِكْرِهِ وَمَا",
+        "transcription": "akramanil laahu bizikrihi wa maa",
+        "translations": {
+          "fr": "Certes DIEU m'a honoré de par Son Livre Edificateur et de par ce qu'IL a Daigné Choisir en moi;"
+        }
+      },
+      {
+        "number": 28,
+        "text": "لِى اخْتَارَهُ وَلِىَ قَادَ الْأَقْوَمَا",
+        "transcription": "likh taarahu wa liya qaadal aqwamaa",
+        "translations": {
+          "fr": "et vers moi IL a Drainé les foules"
+        }
+      },
+      {
+        "number": 29,
+        "text": "بَاهَى بِىَ اللَّهُ الْكِرَامَ الْغُرَّا",
+        "transcription": "baahaa biyal laahul kiraamal ghurraa",
+        "translations": {
+          "fr": "Mon Bouclier contre le Maudit et les impies est le fait"
+        }
+      },
+      {
+        "number": 30,
+        "text": "وَبِبَقَائِىَ النَّبِىَّ سَرَّا",
+        "transcription": "wa bibaqaa-iyan nabiiyya sarraa",
+        "translations": {
+          "fr": "que je réside avec le CREATEUR des Mondes"
+        }
+      },
+      {
+        "number": 31,
+        "text": "هِبَاتُ ذِى الْجَلَالِ وَالْإِكْرَامِ",
+        "transcription": "hibaatu zil jalaali wal ikraami",
+        "translations": {
+          "fr": "Les dons du DETENTEUR de la Majesté et de la Noblesse"
+        }
+      },
+      {
+        "number": 32,
+        "text": "لِى خَلَّدَتْ مُرَغِّبَ الْكِرَامِ",
+        "transcription": "lii khalladat muraghghibal kiraami",
+        "translations": {
+          "fr": "ont à jamais pérennisé mes nobles ambitions"
+        }
+      },
+      {
+        "number": 33,
+        "text": "*إِلَىَّ قَادَ اللَّهُ مَالَمْ يَكُنِ*",
+        "transcription": "(ilayya qaadal laahu maa lam yakuni)",
+        "translations": {
+          "fr": "DIEU m'a accordé ce qui, jamais, ne fut"
+        }
+      },
+      {
+        "number": 34,
+        "text": "*وَلَايَكُونُ أَبَدًا لِّمُمْكِنِ*",
+        "transcription": "(walaa yakuunu abadan limumkini)",
+        "translations": {
+          "fr": "et ne sera jamais plus accordé à nulle créature"
+        }
+      },
+      {
+        "number": 35,
+        "text": "لَسْتُ أَشُكُّ أَبَدً فِى كَوْنِى",
+        "transcription": "lastu ashukku abadan fii kawnii",
+        "translations": {
+          "fr": "En aucun instant je ne doute de ma qualité de résident avec le NOVATEUR -"
+        }
+      },
+      {
+        "number": 36,
+        "text": "جَارَ الْبَدِيعِ عَجَبًا لِّلْكَوْنِ",
+        "transcription": "jaaral badiihi hajaban lil kawni",
+        "translations": {
+          "fr": "que Sa Création est Admirable !"
+        }
+      },
+      {
+        "number": 37,
+        "text": "إِنَّ الَّذِى مِنَ الْإِلَاهِ حُزْتُ",
+        "transcription": "innal lazii minal ilaahi huztu",
+        "translations": {
+          "fr": "Les Faveurs que j'ai obtenues de DIEU n'existaient nulle part dans l'univers;"
+        }
+      },
+      {
+        "number": 38,
+        "text": "عَابَ عَنِ الْكَوْنِ وَفِيهِ فُزْتُ",
+        "transcription": "haaba hanil kawni wa fiihi fuztu",
+        "translations": {
+          "fr": "et c'est en cela que consiste mon succès..."
+        }
+      },
+      {
+        "number": 39,
+        "text": "دَلَّنِىَ اللَّهُ عَلَى اللَّهِ بِلَا",
+        "transcription": "dallaniyal laahu halal laahi bilaa",
+        "translations": {
+          "fr": "DIEU m'a LUI-MEME Dirigé vers DIEU, sans illusion aucune,"
+        }
+      },
+      {
+        "number": 40,
+        "text": "تَغَرُّرٍ وَعُمُرِى تَقَبَّلَا",
+        "transcription": "tagharrurin wa humurii taqabbalaa",
+        "translations": {
+          "fr": "et a agré toute mon existence."
+        }
+      },
+      {
+        "number": 41,
+        "text": "خَابَتْ قُلَاتِىَ مَعَ الْحُسَّادِ",
+        "transcription": "khaabat qulaatiya mahal hussaadi",
+        "translations": {
+          "fr": "Mes ennemis et les envieux ont tous été déçus dans leur attente"
+        }
+      },
+      {
+        "number": 42,
+        "text": "مُذْ ثَمَنِى حُزْتُ بِلَا كَسَادِ",
+        "transcription": "muz samanii huztu bilaa kasaadi",
+        "translations": {
+          "fr": "tandis que j'ai impétré le Prix de mon Service sans aucune sorte de faillite"
+        }
+      },
+      {
+        "number": 43,
+        "text": "وَقَانِىَ الْبَاقِى بِهِ ثُبُورَا",
+        "transcription": "wa qaaniyal baaqii bihi subuuraa",
+        "translations": {
+          "fr": "grâce au Coran, DIEU, le SUBSISTANT, m'a préservé contre toute ruine"
+        }
+      },
+      {
+        "number": 44,
+        "text": "تِجَارَتِى لَدَيْهِ لَنْ تَبُورَا",
+        "transcription": "tijaaratii ladayhi lan tabuuraa",
+        "translations": {
+          "fr": "et ma Transaction auprès de LUI ne connaîtra jamais de mévente."
+        }
+      },
+      {
+        "number": 45,
+        "text": "لَمْ يَنْحُنِى مَا بَاعَ عَنِّى اللَّهُ",
+        "transcription": "lam yanhunii maa baaha hannil laahu",
+        "translations": {
+          "fr": "De par Son Infinie grâce et par la formule << Laa ilaaha illa Laah >>,"
+        }
+      },
+      {
+        "number": 46,
+        "text": "فَضْلًا وَلَاإِلَاهَ إِلَّا اللَّهُ",
+        "transcription": "fadlan walaa ilaaha illal laahu",
+        "translations": {
+          "fr": "Dieu ne permettra jamais que mon âme s'écarte loin de ma personne."
+        }
+      },
+      {
+        "number": 47,
+        "text": "يَقُودُ لِى بِلَا انْتِهَاءٍ ثَمَنِى",
+        "transcription": "yaquudu lii bilan tihaa-in samanii",
+        "translations": {
+          "fr": "DIEU, CELUI-LA Qui reste en ma faveur, m'a rétribué du Salaire [de mon Service pour le Prophète]"
+        }
+      },
+      {
+        "number": 48,
+        "text": "مَنْ كَانَ لِى وَلِىَ صَفَّى زَمَنِى",
+        "transcription": "man kaana lii wa liya saffaa zamanii",
+        "translations": {
+          "fr": "et, par ma personne, a purifié notre époque."
+        }
+      },
+      {
+        "number": 49,
+        "text": "جَاوَرْتُ رَبِّى بِلِسَانِ الْعَرَبِ",
+        "transcription": "jaawartu rabbii bilisaanil harabi",
+        "translations": {
+          "fr": "Je résiderai éternellement avec mon SEIGNEUR grâce au [Saint Livre écrit] en langue arabe"
+        }
+      },
+      {
+        "number": 50,
+        "text": "بِلَا نِهَايَةٍ وَطَابَتْ قُرَبِى",
+        "transcription": "bilaa nihaayatin wa taabat qurabii",
+        "translations": {
+          "fr": "et excellente reste ma Proximité avec LUI."
+        }
+      },
+      {
+        "number": 51,
+        "text": "نَزَعَ لِى الْإِسْلاَمَ عِنْدَ غُرْبَتِى",
+        "transcription": "nazaha lil islaama hinda ghurbatii",
+        "translations": {
+          "fr": "DIEU, CELUI-LA Qui a illuminé mon âme, m'a confié l'Islam"
+        }
+      },
+      {
+        "number": 52,
+        "text": "لَدَى الْجَزَائِرِ مُنِيرُ تُرْبَتِى",
+        "transcription": "ladal jazaa-iri muniiru turbatii",
+        "translations": {
+          "fr": "en dépît au cours de mon Exil dans les îles."
+        }
+      },
+      {
+        "number": 53,
+        "text": "نُزِعَ لِى نُورُ اللِّسَانِ وَالْكِتَابْ",
+        "transcription": "nuziha lii nuurul lisaani wal kitaab",
+        "translations": {
+          "fr": "IL n'a cessé d'inonder mon être de la Lumière de la langue arabe et celle du Saint Livre"
+        }
+      },
+      {
+        "number": 54,
+        "text": "أَزْمَانَ خِدْمَتِى لَدَى أَهْلِ الْكِتَابْ",
+        "transcription": "azmaana khidmatii ladaa ahlil kitaab",
+        "translations": {
+          "fr": "tout le temps de mon Service pour le Prophète parmi les gens du Livre ( les colons)."
+        }
+      },
+      {
+        "number": 55,
+        "text": "تَذْيِيلُ مَا ثَبَتَ لِلْمُشَفَّعِ",
+        "transcription": "taz-yiilu maa sabata lil mushaffahi",
+        "translations": {
+          "fr": "La Révélation de la Vérité Intangible (le Coran) faite à Muhammad, l'Intercesseur Agré,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "أَغْنَى يَمِينِى عَنْ أَذًى وَمِدْفَعِ",
+        "transcription": "aghnaa yamiinii han azan wa midfahi",
+        "translations": {
+          "fr": "me suffit comme Bouclier contre les dommages et les canons."
+        }
+      },
+      {
+        "number": 57,
+        "text": "هَدَانِىَ اللَّهُ وَزَحْزَحَ اللَّعِينْ",
+        "transcription": "hadaa niyal laahu wa zahzahal lahiin",
+        "translations": {
+          "fr": "DIEU m'a Dirigé et a chassé hors de mon existence Satan le Réprouvé;"
+        }
+      },
+      {
+        "number": 58,
+        "text": "إِلَى سِوَى عُمْرِىَ حَبَّذَا الْمُعِينْ",
+        "transcription": "ilaa siwaa humriya habbazal muhiin",
+        "translations": {
+          "fr": "quel Excellent AUXILIAIRE!"
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "جَاوَرْتُ بِالْفُرْقَانِ رَبِّىَ الْمُعِينْ ۞ مَلَكْتُ نَفْسِىَ وَزَحْزَحْتُ اللَّعِينْ",
+        "translations": {
+          "it.karamati": "Grazie al Discriminante (il Corano) dimoro nella prossimità del mio Signore, il Soccorritore; ho acquisito il pieno dominio sulla mia anima e ho scacciato lontano il Maledetto (Satana).",
+          "en.karamati": "Through the Furqān (the Qur'an) I dwell in the neighbourhood of my Lord, the Helper; I have gained full mastery over my soul and driven far away the Accursed (Satan).",
+          "fr.karamati": "grâce au Coran, je réside avec mon SEIGNEUR, l 'Incomparable AUXILIAIRE ; j'ai acquis la parfaite maîtrise de mon âme et chassé Satan, le réprouvé"
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "أَخَذْتُ مِنْ دُنْيَاهُ زَادِى لِلْجِنَانْ ۞ وَانْقَادَ لِى الْهَوَى وَلِى صَفَا الْجَنَانْ",
+        "translations": {
+          "it.karamati": "Ho preso da questo Suo mondo unicamente il mio viatico per i Giardini del Paradiso; la passione si è sottomessa a me e il mio cuore si è interamente purificato.",
+          "en.karamati": "I have taken from this world of His only my provision for the Gardens of Paradise; passion has submitted to me, and the purity of my heart is complete.",
+          "fr.karamati": "De ce bas-monde, je me contente de tirer uniquement mon viatique pour le Paradis; j'ai dompté ma passion et purifié entièrement mon coeur"
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "وَالَانِىَ الْأَبْرَارُ فِى أُخْرَايَا ۞ وَانْقَادَ لِى بِلَا انْتِهًا قِرَايَا",
+        "translations": {
+          "it.karamati": "I Giusti (Al-Abrār) mi saranno compagni e alleati nel mio Aldilà, e i doni della mia ospitalità fluiranno per me senza fine.",
+          "en.karamati": "The Righteous (Al-Abrār) will be my allies in my Hereafter, and the gifts of my hospitality will flow to me without end.",
+          "fr.karamati": "Dans l'Au-delà, les Vertueux seront mes Compagnons et il me sera éternellement donné les moyens de les honorer"
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "رَافَقَنِى إِلَى الْجِنَانِ *جِيمُ* ۞ وَلِسِوَاىَ زُحْزِحَ الرَّجِيمُ",
+        "translations": {
+          "it.karamati": "Mi ha accompagnato fino ai Giardini del Paradiso la lettera «Jīm» (il Corano / la Maestà divina), mentre il Lapidato (Satana) è stato ricacciato lontano da me, verso altri.",
+          "en.karamati": "The letter \"Jīm\" accompanied me to the Gardens, while the Stoned One (Satan) was driven far from me, towards others.",
+          "fr.karamati": "La lettre « Jīm » m'a accompagné jusqu'aux Jardins du Paradis, tandis que le Lapidé (Satan) a été chassé loin de moi, vers d'autres."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "تُرْسِى عَنِ اللَّعِينِ وَالْفُجَّارِ ۞ كَوْنُ بَدِيعِ الْعَالَمِينَ جَارِى",
+        "translations": {
+          "it.karamati": "Il mio scudo contro il Maledetto e i malvagi è il fatto che il Creatore Incomparabile dei mondi è il mio Vicino (Colui presso cui dimoro).",
+          "en.karamati": "My shield against the Accursed and the wicked is that the Incomparable Originator of the worlds is my Neighbour.",
+          "fr.karamati": "Mon Bouclier contre le Maudit et les impies est le fait que je réside avec le CREATEUR des Mondes"
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "أَكْرَمَنِى الْبَدِيعُ بِالْكِتَابِ ۞ وَصَانَنِى عَنْ جَالِبِ الْعِتَابِ",
+        "translations": {
+          "it.karamati": "L'Incomparabile Creatore mi ha onorato con il Libro e mi ha preservato da tutto ciò che attira il biasimo o il rimprovero.",
+          "en.karamati": "The Incomparable Originator honoured me with the Book and preserved me from whatever brings reproach.",
+          "fr.karamati": "Le NOVATEUR, de par Son Livre, m'honore et me préserve de toute source de Blâme"
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "لَمْ يَنْحُنِى إِلَى دُخُو لِى الْجَنَّهْ ۞ غَيْرُ بُشَارَاتِ الْعَلِى ذِى الْمِنَّهْ",
+        "translations": {
+          "it.karamati": "Non mi giungerà nulla, fino al mio ingresso in Paradiso, se non i lieti annunci dell'Altissimo, il Signore della Grazia.",
+          "en.karamati": "Nothing will reach me, until my entering Paradise, except the glad tidings of the Most High, the Lord of Bounty.",
+          "fr.karamati": "Ainsi ne connaîtrais-je, jusqu'à mon entrée au Paradis, que Joie procurée par le SUBLIME, le BIENFAITEUR"
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لَمْ يَنْحُنِى زَجْرٌ وَلَا وَعِيدُ ۞ وَعُمُرِى إِلَى الْجِنَانِ *عِيدُ*",
+        "translations": {
+          "it.karamati": "Non mi toccherà alcun rimprovero né alcuna minaccia, e tutta la mia esistenza fino ai Giardini del Paradiso sarà una festa perenne («'Īd»).",
+          "en.karamati": "No rebuke will touch me, nor any threat, and my whole life until the Gardens will be a feast (\"ʿĪd\").",
+          "fr.karamati": "Ne serais-je, non plus, objet d'aucune sorte de Remontrance ou Menace; et mon existence ne sera, jusqu'au paradis, que Permanentes Réjouissances"
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "أَخْفَى لِىَ السِّرَّ الْمَصُونَ اللَّهُ ۞ حُبًّا وَلَا إِلَاهَ إِلَّا اللَّهُ",
+        "translations": {
+          "it.karamati": "Allah ha custodito segretamente per me il Mistero Ben Protetto (As-Sirr al-Masūn), per amore e per la formula «Non c'è divinità all'infuori di Allah» (Lā ilāha illā Allāh).",
+          "en.karamati": "God has kept hidden for me the Well-Guarded Secret (As-Sirr al-Masūn), out of love and by \"There is no god but God\" (Lā ilāha illā Allāh).",
+          "fr.karamati": "DIEU dissimule en ma faveur le Mystère Bien Gardé (Sirru-l-Mas'un), par Amour et par la formule « Laa ilaaha illa Laah » (Il n'est d'autre divinité en dehors de DIEU)"
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "هَدَانِىَ اللَّهُ وَإِنَّهُ الْبَدِيعْ ۞ وَقَادَنِى لَهُ بِأَنْوَاعِ الْبَدِيعْ",
+        "translations": {
+          "it.karamati": "Allah mi ha guidato — ed Egli è in verità l'Incomparabile Innovatore — e mi ha condotto a Sé attraverso ogni sorta di meraviglie sublimi.",
+          "en.karamati": "God guided me — and He is indeed the Incomparable Originator — and led me to Him through all kinds of wonders.",
+          "fr.karamati": "DIEU m'a dirigé [sur Son Sentier] - certes IL Demeure le NOVATEUR! -; IL m'a guidé vers LUI à travers toutes sortes de Merveilles"
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "بَرَّأَنِى الْخَالِقُ مِنْ سِوَاهُ ۞ وَقَادَنِى مَنْ لَّا يُرَى شَرْوَاهُ",
+        "translations": {
+          "it.karamati": "Il Creatore mi ha affrancato da tutto ciò che non è Lui, e mi ha guidato Colui del quale non si vede l'uguale.",
+          "en.karamati": "The Creator freed me from all besides Him, and He led me — He whose like is not seen.",
+          "fr.karamati": "Le CREATEUR, CELUI-LA dont nul n'a vu le pair, m'a affranchi de tout ce qui n'est pas LUI et m'a mené [sur la Voie Droite]"
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "كِتَابُ رَبِّى كَانَ لِى وَكُنْتُ ۞ لَهُ وَلِلَّهِ بِهِ سَكَنْتُ",
+        "translations": {
+          "it.karamati": "Il Libro del mio Signore è stato interamente per me ed io sono stato interamente dedito ad esso; e grazie ad esso ho trovato dimora e quiete in Allah.",
+          "en.karamati": "The Book of my Lord was mine and I was its; through it, and for God, I have found dwelling and rest.",
+          "fr.karamati": "Certes le Livre de mon SEIGNEUR est en ma faveur et nul doute que je demeurerai à jamais à son service car c'est grâce à lui que je réside avec DIEU"
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "تُرسِى عَنِ الْأَكْدَارِ وَالْمَفَاسِدِ ۞ سَلَامَتِى مِنْ جَالِبٍ لِفَاسِدِ",
+        "translations": {
+          "it.karamati": "Il mio scudo contro le afflizioni e le corruzioni è la mia incolumità da tutto ciò che attira il male e la rovina.",
+          "en.karamati": "My shield against afflictions and corruptions is my safety from whatever brings corruption.",
+          "fr.karamati": "Ma stricte abstinence de toute source de corruption constitue mon Rempart contre les impuretés et les méfaits"
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "أَكْرَمَنِى اللَّهُ بِذِكْرِهِ وَمَا ۞ لِى اخْتَارَهُ وَلِىَ قَادَ الْأَقْوَمَا",
+        "translations": {
+          "it.karamati": "Allah mi ha onorato con il Suo Ricordo (il Corano) e con ciò che ha prescelto per me, e a me ha condotto la via più retta (e le genti migliori).",
+          "en.karamati": "God honoured me with His Remembrance and with what He chose for me, and He led for me the most upright way.",
+          "fr.karamati": "Dieu m'a honoré par Son Rappel (le Coran) et par ce qu'Il a choisi pour moi, et vers moi Il a conduit la voie la plus droite."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "بَاهَى بِىَ اللَّهُ الْكِرَامَ الْغُرَّا ۞ وَبِبَقَائِىَ النَّبِىَّ سَرَّا",
+        "translations": {
+          "it.karamati": "Allah si è vantato di me dinanzi ai Nobili [Angeli] splendenti, e con la mia permanenza ha rallegrato il Profeta.",
+          "en.karamati": "God boasted of me before the radiant Noble Ones, and by my remaining He gladdened the Prophet.",
+          "fr.karamati": "Dieu s'est enorgueilli de moi devant les Nobles [Anges] resplendissants, et par ma permanence Il a réjoui le Prophète."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "هِبَاتُ ذِى الْجَلَالِ وَالْإِكْرَامِ ۞ لِى خَلَّدَتْ مُرَغِّبَ الْكِرَامِ",
+        "translations": {
+          "it.karamati": "I doni del Detentore della Maestà e della Generosità hanno reso eterno per me ciò a cui aspirano gli spiriti più nobili.",
+          "en.karamati": "The gifts of the Lord of Majesty and Generosity have made eternal for me what the noble aspire to.",
+          "fr.karamati": "Les dons du DETENTEUR de la Majesté et de la Noblesse ont à jamais pérennisé mes nobles ambitions"
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "*إِلَىَّ قَادَ اللَّهُ مَالَمْ يَكُنِ* ۞ *وَلَايَكُونُ أَبَدًا لِّمُمْكِنِ*",
+        "translations": {
+          "it.karamati": "*Verso di me Allah ha condotto favori che non furono mai concessi prima, e che non apparterranno mai più a nessun'altra creatura contingente.*",
+          "en.karamati": "God led to me what had never been, and what will never be for any contingent being.",
+          "fr.karamati": "Dieu a conduit vers moi ce qui n'a jamais été et ne sera jamais pour aucun être contingent."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "لَسْتُ أَشُكُّ أَبَدً فِى كَوْنِى ۞ جَارَ الْبَدِيعِ عَجَبًا لِّلْكَوْنِ",
+        "translations": {
+          "it.karamati": "Non dubito mai, in alcun istante, del mio essere vicino e ospite dell'Incomparabile Creatore — quale meraviglia per l'intero universo!",
+          "en.karamati": "I never doubt, at any moment, my being the neighbour of the Originator — what a wonder for the whole of creation!",
+          "fr.karamati": "En aucun instant je ne doute de ma qualité de résident avec le NOVATEUR - que Sa Création est Admirable !"
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "إِنَّ الَّذِى مِنَ الْإِلَاهِ حُزْتُ ۞ عَابَ عَنِ الْكَوْنِ وَفِيهِ فُزْتُ",
+        "translations": {
+          "it.karamati": "In verità i favori che ho ottenuto da Dio superano e trascendono l'intero creato, ed è proprio in ciò che ho conseguito il trionfo supremo.",
+          "en.karamati": "Truly, what I have obtained from God is hidden from creation, and in it I have triumphed.",
+          "fr.karamati": "Les Faveurs que j'ai obtenues de DIEU n'existaient nulle part dans l'univers; et c'est en cela que consiste mon succès..."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "دَلَّنِىَ اللَّهُ عَلَى اللَّهِ بِلَا ۞ تَغَرُّرٍ وَعُمُرِى تَقَبَّلَا",
+        "translations": {
+          "it.karamati": "Allah stesso mi ha guidato verso Allah, senza alcuna illusione o inganno, e ha gradito e accettato tutta la mia vita.",
+          "en.karamati": "God Himself guided me to God, without any delusion, and accepted my whole life.",
+          "fr.karamati": "DIEU m'a LUI-MEME Dirigé vers DIEU, sans illusion aucune, et a agré toute mon existence."
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "خَابَتْ قُلَاتِىَ مَعَ الْحُسَّادِ ۞ مُذْ ثَمَنِى حُزْتُ بِلَا كَسَادِ",
+        "translations": {
+          "it.karamati": "Sono rimasti delusi e sconfitti coloro che mi odiano insieme agli invidiosi, da quando ho riscosso il prezzo del mio servizio senza alcuna svalutazione né perdita.",
+          "en.karamati": "My enemies have been disappointed, together with the envious, since I received my price without any loss or depreciation.",
+          "fr.karamati": "Mes ennemis et les envieux ont tous été déçus dans leur attente tandis que j'ai impétré le Prix de mon Service sans aucune sorte de faillite"
+        }
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "وَقَانِىَ الْبَاقِى بِهِ ثُبُورَا ۞ تِجَارَتِى لَدَيْهِ لَنْ تَبُورَا",
+        "translations": {
+          "it.karamati": "L'Eterno (Al-Bāqī) mi ha preservato grazie ad esso (il Corano) da ogni perdizione; il mio commercio presso di Lui non conoscerà mai fallimento.",
+          "en.karamati": "The Everlasting (Al-Bāqī) preserved me through it from ruin; my trade with Him will never perish.",
+          "fr.karamati": "grâce au Coran, DIEU, le SUBSISTANT, m'a préservé contre toute ruine et ma Transaction auprès de LUI ne connaîtra jamais de mévente."
+        }
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "لَمْ يَنْحُنِى مَا بَاعَ عَنِّى اللَّهُ ۞ فَضْلًا وَلَاإِلَاهَ إِلَّا اللَّهُ",
+        "translations": {
+          "it.karamati": "Non mi colpirà mai ciò che mi allontanerebbe da Allah, per Sua grazia e per la formula «Non c'è divinità all'infuori di Allah».",
+          "en.karamati": "What would take me away from God will never touch me, by His grace and by \"There is no god but God\".",
+          "fr.karamati": "Ne m'atteindra jamais ce qui m'éloignerait de Dieu, par Sa grâce et par la formule « Il n'est d'autre divinité que Dieu » (Lā ilāha illā Allāh)."
+        }
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "يَقُودُ لِى بِلَا انْتِهَاءٍ ثَمَنِى ۞ مَنْ كَانَ لِى وَلِىَ صَفَّى زَمَنِى",
+        "translations": {
+          "it.karamati": "Conduce a me incessantemente e senza fine la mia ricompensa Colui che è sempre stato per me, e che per me ha purificato il mio tempo.",
+          "en.karamati": "My reward is led to me without end by Him who has always been for me, and who purified my time for me.",
+          "fr.karamati": "Me conduit sans fin ma récompense, Celui qui a toujours été pour moi et qui a purifié mon temps pour moi."
+        }
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "جَاوَرْتُ رَبِّى بِلِسَانِ الْعَرَبِ ۞ بِلَا نِهَايَةٍ وَطَابَتْ قُرَبِى",
+        "translations": {
+          "it.karamati": "Ho preso dimora presso il mio Signore grazie alla lingua araba (del Corano) per sempre, senza fine, e si sono fatte dolcissime le mie opere di vicinanza a Lui.",
+          "en.karamati": "I have dwelt beside my Lord through the language of the Arabs, without end, and my acts of nearness to Him have become sweet.",
+          "fr.karamati": "Je résiderai éternellement avec mon SEIGNEUR grâce au [Saint Livre écrit] en langue arabe et excellente reste ma Proximité avec LUI."
+        }
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "نَزَعَ لِى الْإِسْلاَمَ عِنْدَ غُرْبَتِى ۞ لَدَى الْجَزَائِرِ مُنِيرُ تُرْبَتِى",
+        "translations": {
+          "it.karamati": "Ha tratto e custodito in mio favore l'Islām durante il mio esilio presso le isole Colui che illumina la mia terra (e la mia intima natura).",
+          "en.karamati": "He drew out and kept for me Islam during my exile, among the islands — He who illuminates my earth.",
+          "fr.karamati": "Celui qui illumine ma terre (et ma nature intime) a tiré et gardé pour moi l'Islam durant mon exil, parmi les îles."
+        }
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "نُزِعَ لِى نُورُ اللِّسَانِ وَالْكِتَابْ ۞ أَزْمَانَ خِدْمَتِى لَدَى أَهْلِ الْكِتَابْ",
+        "translations": {
+          "it.karamati": "È stata effusa in mio favore la luce della lingua [araba] e del Libro durante tutto il tempo del mio servizio [al Profeta] presso la Gente del Libro (i coloni).",
+          "en.karamati": "The light of the language and of the Book was drawn out for me during the times of my service among the People of the Book.",
+          "fr.karamati": "IL n'a cessé d'inonder mon être de la Lumière de la langue arabe et celle du Saint Livre tout le temps de mon Service pour le Prophète parmi les gens du Livre ( les colons)."
+        }
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "تَذْيِيلُ مَا ثَبَتَ لِلْمُشَفَّعِ ۞ أَغْنَى يَمِينِى عَنْ أَذًى وَمِدْفَعِ",
+        "translations": {
+          "it.karamati": "L'appendice luminosa di ciò che è stato stabilito per l'Intercessore (il Corano) ha reso la mia mano destra del tutto indipendente dal recare offesa o dall'usare cannoni.",
+          "en.karamati": "The appendix of what was established for the Intercessor made my right hand free of need of harm or of cannon.",
+          "fr.karamati": "La Révélation de la Vérité Intangible (le Coran) faite à Muhammad, l'Intercesseur Agré, me suffit comme Bouclier contre les dommages et les canons."
+        }
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "هَدَانِىَ اللَّهُ وَزَحْزَحَ اللَّعِينْ ۞ إِلَى سِوَى عُمْرِىَ حَبَّذَا الْمُعِينْ",
+        "translations": {
+          "it.karamati": "Allah mi ha guidato e ha ricacciato il Maledetto lontano dalla mia esistenza: quale meraviglioso Soccorritore!",
+          "en.karamati": "God guided me and drove the Accursed far away, to other than my life — how excellent a Helper!",
+          "fr.karamati": "DIEU m'a Dirigé et a chassé hors de mon existence Satan le Réprouvé; quel Excellent AUXILIAIRE!"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 70,
+    "name": "Khayra Dayfin",
+    "transliterationName": "Khayra Dayfin",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "يَاخَيْرَ ضَيْفٍ أَتَى بِالْبِشْرِ وَالْمَدَدِ",
+        "transcription": "yaa khayra dayfin ataa bil bishri wal madadi",
+        "translations": {
+          "fr": "Ô Toi l'Eminent Hôte porteur de bonheur et de bienfaits, je te souhaite la bienvenue"
+        }
+      },
+      {
+        "number": 2,
+        "text": "أَهْلًا وَسَهْلًا وَتَرْحِيبًا بِلَا عَدَدِ",
+        "transcription": "ahlan wa sahlan war tarhiiban bilaa hadadi",
+        "translations": {
+          "fr": "et te réserve une hospitalité sans restriction."
+        }
+      },
+      {
+        "number": 3,
+        "text": "لَازِلْتَ ضَيْفًا كَرِيمًا زَآئِرًا أَبَدًا",
+        "transcription": "laazilta dayfan kariiman zaa-iran abadan",
+        "translations": {
+          "fr": "Tu restes et demeures un illustre hôte qui ne cesse de nous parvenir;"
+        }
+      },
+      {
+        "number": 4,
+        "text": "مُكَرَّمًا بِقِرَى الطَّاعَاتِ وَالسَّدَدِ",
+        "transcription": "mukarraman biqirat taahaati was sadadi",
+        "translations": {
+          "fr": "Il t'est réservé en guise de considération une hospitalité par des actes d'adoration et par la rectitude."
+        }
+      },
+      {
+        "number": 5,
+        "text": "مُعَظَّمًا عِنْدَ رَبِّ لَّا شَرِيكَ لَهُ",
+        "transcription": "muhazzaman hinda rabbi laa shariika lahu",
+        "translations": {
+          "fr": "Tu es glorifié auprès du MAÎTRE qui n'a point d'associé;"
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَعِنْدَ أَهْلِ التُّقَى وَالْعِلْمِ وَالرَّشَدِ",
+        "transcription": "wa hinda ahlit tuqaa wal hilmi war rashadi",
+        "translations": {
+          "fr": "aussi l'es-tu auprès des hommes de piété, de sciences mais également auprès des hommes de droiture."
+        }
+      },
+      {
+        "number": 7,
+        "text": "لَازِلْتَ مَا حِىَ أَوْزَارٍ وَقَاضِىَ أَوْ",
+        "transcription": "laazilta maa hiya aw zaarin wa qaadiya aw",
+        "translations": {
+          "fr": "Tu ne cesses d'être l'effaceur des péchés, le réalisateur des voeux,"
+        }
+      },
+      {
+        "number": 8,
+        "text": "طَارٍ وَطَارِدَ أَغْيَارٍ مِّنَ الْخَلَدِ",
+        "transcription": "taarin wa taarida agh-yarin minal khaladi",
+        "translations": {
+          "fr": "le rempart contre les vicissitudes, de façon pérenne."
+        }
+      },
+      {
+        "number": 9,
+        "text": "وَصَافِدًا كُلَّ شَيْطَانٍ بِمَا مَعَهُ",
+        "transcription": "wa saafidan kulla shaytaanin bimaa mahahu",
+        "translations": {
+          "fr": "Tu constitues également une entrave contre les machinations de tout démon;"
+        }
+      },
+      {
+        "number": 10,
+        "text": "وَمُتْحِفًا لِّذَوِى الْإِحْسَانِ بِالصَّفَدِ",
+        "transcription": "wa mut-hifan lizawil ihsaani bis safadi",
+        "translations": {
+          "fr": "quant aux gens de bien, tu leur ouvres les portes des bienfaits."
+        }
+      },
+      {
+        "number": 11,
+        "text": "وَمُذْهِبًا كُلَّ أَحْزَانٍ نَّضِيقُ بِهَا",
+        "transcription": "wa muzhiban kulla ahzaanin nadiiqu bihaa",
+        "translations": {
+          "fr": "Tu es aussi le dissipateur permanent de tout motif de chagrin qui oppresse les coeurs;"
+        }
+      },
+      {
+        "number": 12,
+        "text": "فِى الدَّهْرِ أَفْئِدَةً يَامُذْهِبَ النَّكَدِ",
+        "transcription": "fid dahri af-idatan yaa muzhiban nakadi",
+        "translations": {
+          "fr": "Ô toi qui chasses l'adversité."
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَذَآئِدًا كُلَّ عَامٍ مَّا نَفُوزُ بِهِ",
+        "transcription": "wa zaa-idan kulla haamin maa nafuuzu bihi",
+        "translations": {
+          "fr": "Tu accroîs  chaque année à notre profit des dons découlant des largesses suffisantes du RICHE, le NOBLE GÉNÉREUX,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "مِنْ جُودِ مُغْنٍ كَرِيمٍ نَّافِعِ الزَّيَدِ",
+        "transcription": "min juudi mughnin kariimin naafihiz zayadi",
+        "translations": {
+          "fr": "Celui qui profite par l'accroissement des bienfaits."
+        }
+      },
+      {
+        "number": 15,
+        "text": "يَاشَهْرَ رَبٍّ كَرِيمٍ فِيكَ جَادَ لَنَا",
+        "transcription": "yaa shahra rabbin kariimin fiika jaada lanaa",
+        "translations": {
+          "fr": "Ô mois du SEIGNEUR Généreux (Ramadan), c'est par toi que nous avons été gratifiés"
+        }
+      },
+      {
+        "number": 16,
+        "text": "بِلَيْلَةِ الْقَدْرِ ذَاتِ الْفَضْلِ وَالرَّغَدِ",
+        "transcription": "bilaylatil qadri zaatil fadli war raghadi",
+        "translations": {
+          "fr": "de la Nuit de la destinée (Laylatul Qadr); source de faveur et d'abondance."
+        }
+      },
+      {
+        "number": 17,
+        "text": "إِنِّى أُحِبُّكَ حُبَّ الذَّاتِ ذَا طَلَبِ",
+        "transcription": "innii uhibbuka hubbaz zaati zaa talabi",
+        "translations": {
+          "fr": "Je nourris pour toi un amour intime de ton essence;"
+        }
+      },
+      {
+        "number": 18,
+        "text": "مِنْ مَّالِكِى فِيكَ إِسْعَادًا بِلَآ أَوَدِ",
+        "transcription": "min maalikii fiika is-haadan bilaa awadi",
+        "translations": {
+          "fr": "par toi, je sollicite auprès de mon Seigneur la plénitude d'un bonheur exempt de toute peine."
+        }
+      },
+      {
+        "number": 19,
+        "text": "ذَا تَوْبَةٍ فِيكَ أَيْضًا مَّاضِيًا أَبَدًا",
+        "transcription": "zaa tawbatin fiika aydan maadiyan abadan",
+        "translations": {
+          "fr": "Et par toi aussi je me repends pour toujours de ce qui a précèdé par l'invocation,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "بِالذِّكْرِ وَالشُّكْرِ وَالْقُرْءَانِ لِلْأَحَدِ",
+        "transcription": "biz zikri wash shukri wal qur-aani lil ahadi",
+        "translations": {
+          "fr": "l'action de Grâce et par le Coran à la gloire exclusive de l'UNIQUE."
+        }
+      },
+      {
+        "number": 21,
+        "text": "إِلَيْهِ قَدْ تُّبْتُ فِى شَعْبَانَ عَنْ رَّجَبٍ",
+        "transcription": "ilayhi qad tubtu fii shahbaana han rajabin",
+        "translations": {
+          "fr": "Auprès de LUI (DIEU) je me suis repenti tout le mois de Shah'ban aprés l'avoir entamé au mois de Rajab pour le renouveler en toi."
+        }
+      },
+      {
+        "number": 22,
+        "text": "مُجَدِّدًا فِيكَ فَاشْهَدْ لِى بِتَرْكِ دَدِ",
+        "transcription": "mujaddidan fiika fash-had lii bitarki dadi",
+        "translations": {
+          "fr": "Sois donc témoin de mon renoncement à toute futilité."
+        }
+      },
+      {
+        "number": 23,
+        "text": "لِى اشْهَدْ بِأَخْذِى كِتَابَ اللَّهِ فِيكَ هُنَآ",
+        "transcription": "lish had bi-akhzii kitaabal laahi fiika hunaa",
+        "translations": {
+          "fr": "Témoigne de mon attachement au cours de ton séjour au Livre Sacré de DIEU ici en ce lieu"
+        }
+      },
+      {
+        "number": 24,
+        "text": "إِلَى ارْتِحَا لِىَ يَوْمَ السَّبْتِ وَالْأَحَدِ",
+        "transcription": "ilar tihaa liya yawmas sabti wal ahadi",
+        "translations": {
+          "fr": "jusqu'à mon déplacement en ces jours de samedi et dimanche."
+        }
+      },
+      {
+        "number": 25,
+        "text": "وَاشْهَدْ بِحُبِّيكَ حُبَّ الذَّاتِ يَا أَمَلِى",
+        "transcription": "wash-had bihubbiika hubbaz zaati yaa amalii",
+        "translations": {
+          "fr": "Témoigne également de l'amour intime que je nourris pour toi. Ô toi mon espoir;"
+        }
+      },
+      {
+        "number": 26,
+        "text": "وَكُنْ حَبِيبِىَ يَوْمَ الْهَوْلِ وَالْكَمَدِ",
+        "transcription": "wa kun habiibiya yawmal hawli wal kamadi",
+        "translations": {
+          "fr": "et sois aussi mon bien-aimé le jour de la terreur et du chagrin."
+        }
+      },
+      {
+        "number": 27,
+        "text": "إِنِّى أُحِبُّكَ يَاشَهْرَ الصِّيَامِ بِلَا",
+        "transcription": "innii uhibbuka yaa shahras siyaami bilaa",
+        "translations": {
+          "fr": "Je t'affectionne ô mois béni de RAMADAN sans tricherie,"
+        }
+      },
+      {
+        "number": 28,
+        "text": "غِشٍّ فَأَهْلًا وَتَرْحِيبًا بِلَا عَدَدِ",
+        "transcription": "ghish-shin fa-ahlan wa tarhiiban bilaa hadadi",
+        "translations": {
+          "fr": "aussi je te souhaite la bienvenue et te réserve une hospitalité sans restriction."
+        }
+      }
+    ]
+  }
+}

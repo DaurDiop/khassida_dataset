@@ -1,0 +1,1580 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 170,
+    "name": "Tuhfatu Mutadarihin",
+    "transliterationName": "Tuhfatu Mutadarihin",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "الْحَمْدُ لِلَّهِ وَصَلَّى أَبَدَا",
+        "transcription": "al hamdu lil laahi wa sallaa abadaa",
+        "translations": {
+          "fr": "Louange à Dieu et qu'il bénisse toujours"
+        }
+      },
+      {
+        "number": 2,
+        "text": "عَلَى الَّذِى بِهِ لَنَا الْهُدَى بَدَا",
+        "transcription": "halal lazii bihi lanal hudaa badaa",
+        "translations": {
+          "fr": "celui par considération duquel le droit chemin nous a paru bon."
+        }
+      },
+      {
+        "number": 3,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَالْئَالِ",
+        "transcription": "sayyidinaa muhammadin wal aali",
+        "translations": {
+          "fr": "Notre Maître Mohamed sa Famille"
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَصَحْبِهِ ذَوِى نَوَالِ الْوَالِى",
+        "transcription": "wa sahbihi zawii nawaalil waalii",
+        "translations": {
+          "fr": "et ses Compagnons qui ont la faveur du Gouvernant."
+        }
+      },
+      {
+        "number": 5,
+        "text": "هَاذَا وَإِنِّى الْيَوْمَ ذُو تَوَسُّلِ",
+        "transcription": "haazaa wa innil yawma zuu tawassuli",
+        "translations": {
+          "fr": "Je m'exprime en ce jour en suppliant auprès de Dieu"
+        }
+      },
+      {
+        "number": 6,
+        "text": "لَهُ بِأَسْمَآءِ ذَوِى التَّفَضُّلِ",
+        "transcription": "lahu bi asmaa-i zawit tafadduli",
+        "translations": {
+          "fr": "par les noms des supérieurs."
+        }
+      },
+      {
+        "number": 7,
+        "text": "فَقُلْتُ يَا قَرِيبُ يَامُجِيبُ",
+        "transcription": "faqultu yaa qariibu yaa mujiibu",
+        "translations": {
+          "fr": "Et je déclare Toi le proche qui exauce,"
+        }
+      },
+      {
+        "number": 8,
+        "text": "صَلِّ عَلَى الَّذِى بِهِ تُجِيبُ",
+        "transcription": "salli halal lazii bihi tujiibu",
+        "translations": {
+          "fr": "benis celui par honneur duquel tu réponds favorablement."
+        }
+      },
+      {
+        "number": 9,
+        "text": "وَاقْبَلْ بِهِ نَظْمِىَ هَذَا يَاكَرِيمْ",
+        "transcription": "waqbal bihi nazmiya hazaa yaa kariim",
+        "translations": {
+          "fr": "Ô Toi le Généreux, accepte par lui mon poème que voici et accorde ce que je désire,"
+        }
+      },
+      {
+        "number": 10,
+        "text": "وَهَبْ لِمَنْ بِهِ يُنَاجِى مَا يَرُومْ",
+        "transcription": "wa hab liman bihi yunaajii maa yaruum",
+        "translations": {
+          "fr": "par considération pour Lui, celui qui te prie tout bas et avec ferveur."
+        }
+      },
+      {
+        "number": 11,
+        "text": "رَبِّ بِنُحٍ وَبِإِبْرَاهِمَا",
+        "transcription": "rabbi binuhin wa bi ibraahimaa",
+        "translations": {
+          "fr": "Ô Toi mon Seigneur! Au nom des prophètes Noé et Abraham (Ibrahima),"
+        }
+      },
+      {
+        "number": 12,
+        "text": "لِى اقْفِرْ ذُنُوبِى وَاكْفِنِى الرَّجِيمَا",
+        "transcription": "liqfir zunuubii wakfinir rajiimaa",
+        "translations": {
+          "fr": "pardonne tous mes péchés. Eloigne Satan le rejeté loin de moi."
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَكُنْ بِمُوسَى وَبِجَاهِ عِيسَى",
+        "transcription": "wa kun bi muusaa wa bijaahi hiisaa",
+        "translations": {
+          "fr": "Ô Toi mon Seigneur! Au nom des prophètes Moise (Moussa) et Jésus (Issa),"
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَاقِيَنِى دُنْيَا وَأُخْرَى بُوسَى",
+        "transcription": "waaqiyanii dunyaa wa ukhraa buusaa",
+        "translations": {
+          "fr": "sois mon protecteur ici-bas et dans l'au-delà."
+        }
+      },
+      {
+        "number": 15,
+        "text": "وَبِمُحَمَّدٍ رَّسُولِ اللَّهِ",
+        "transcription": "wa bi muhammadin rasuulil laahi",
+        "translations": {
+          "fr": "Ô Toi mon Seigneur! Par considération à Mohamed, le Messager de Dieu."
+        }
+      },
+      {
+        "number": 16,
+        "text": "عَلَيْهِ خَيْرُ صَلَوَاتِ اللَّهِ",
+        "transcription": "halayhi khayru salawaatil laahi",
+        "translations": {
+          "fr": "Que Tes meilleurs bénédictions soient sur Lui."
+        }
+      },
+      {
+        "number": 17,
+        "text": "ثُمَّ عَلَيْهِمْ لِىَ هَبْ إِيمَانَا",
+        "transcription": "summa halayhim liya hab iimaanaa",
+        "translations": {
+          "fr": "Puis sur eux, accorde-moi une foi religieuse accompagnée de la pratique extérieure"
+        }
+      },
+      {
+        "number": 18,
+        "text": "قَدْ صَاحَبَ الْإِسْلَامَ وَالْإِحْسَانَا",
+        "transcription": "qad saahabal islaama wal ihsaanaa",
+        "translations": {
+          "fr": "du culte mahométan et assortie de la bienséance."
+        }
+      },
+      {
+        "number": 19,
+        "text": "بِحُرْمَةِ الصِّدِّيقِ وَالْفَارُوقِ",
+        "transcription": "bihurmatis siddiiqi wal faaruuqi",
+        "translations": {
+          "fr": "Par respect aux califes de Mohamed: Abou Bakr et Omar"
+        }
+      },
+      {
+        "number": 20,
+        "text": "جُدْ لِىَ بِالْإِخْلَاصِ وَالتَّوْفِيقِ",
+        "transcription": "jud liya bil ikhlaasi wat tawfiiqi",
+        "translations": {
+          "fr": "offre-moi ton concours et la pureté du culte qui t'est destiné."
+        }
+      },
+      {
+        "number": 21,
+        "text": "بِحَقِّ عُثْمَانَ أَخِى النُّورَيْنِ",
+        "transcription": "bihaqqi husmaana akhin nuurayni",
+        "translations": {
+          "fr": "Par Othman (Ousmane) le compagnon aux deux lumières"
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَبِعَلِىٍّ وَالِدِ السِّبْطَيْنِ",
+        "transcription": "wa bi haliyyin waalidis sibtayni",
+        "translations": {
+          "fr": "et Haliun (Alioune) le père de Hassan (Assane) et Hussein (Ousseynou)."
+        }
+      },
+      {
+        "number": 23,
+        "text": "هَبْ لِىَ فِى دُنْيَاىَ مَعْ أُخْرَايَا",
+        "transcription": "hab liya fii dunyaaya mah ukhraayaa",
+        "translations": {
+          "fr": "Accorde-moi dans le monde actuel et la vie future"
+        }
+      },
+      {
+        "number": 24,
+        "text": "النُّورَ وَالْعُلُوَّ وَالْمَزَايَا",
+        "transcription": "an nuura wal huluwwa wal mazaayaa",
+        "translations": {
+          "fr": "la lumière, l'élevation et les privilèges."
+        }
+      },
+      {
+        "number": 25,
+        "text": "بِحَقِّ طَلْحَتَ وَبِالزُّبَّيْرِ",
+        "transcription": "bihaqqi talhata wa biz zubbayri",
+        "translations": {
+          "fr": "Par Tahalta et Zoubeiri"
+        }
+      },
+      {
+        "number": 26,
+        "text": "وَحَقِّ سَعْدٍ نَّجِّنِى مِنْ ضَيْرِ",
+        "transcription": "wa haqqi sahdin najjinii min dayri",
+        "translations": {
+          "fr": "et par Sahd, sauve-moi du tort."
+        }
+      },
+      {
+        "number": 27,
+        "text": "وَبِسَعِيدٍ وَابْنِ عَوْفٍ نَّجِّنِى",
+        "transcription": "wa bisahiidin wabni hawfin najjinii",
+        "translations": {
+          "fr": "Par Sahid et Ibnou Hawf"
+        }
+      },
+      {
+        "number": 28,
+        "text": "مِنْ كُلِّ مَآ أَخَافُهُ مِنْ فِتَنِ",
+        "transcription": "min kulli maa akhaafuhu min fitani",
+        "translations": {
+          "fr": "délivre-moi de toutes les épreuves que je redoute."
+        }
+      },
+      {
+        "number": 29,
+        "text": "وَبِأَبِى عُبَيْدَةَ اجْلُبْ مَا يُفِيدْ",
+        "transcription": "wa bi abii hubaydataj lub maa yufiid",
+        "translations": {
+          "fr": "Par Abi Houbeidata, amène ce qui est utile"
+        }
+      },
+      {
+        "number": 30,
+        "text": "إِلَى جَنَابِى وَاكْفِ عَنِّى مَا يُبِيدْ",
+        "transcription": "ilaa janaabii wakfi hannii maa yubiid",
+        "translations": {
+          "fr": "vers moi et éloigne-moi de ce qui anéantit."
+        }
+      },
+      {
+        "number": 31,
+        "text": "بِحَقِّ عَبْدِ اللَّهِ نَجْلِ الْعَمِّ",
+        "transcription": "bihaqqi habdil laahi najlil hammi",
+        "translations": {
+          "fr": "Par Abdoulahi postérité de l'oncle paternel"
+        }
+      },
+      {
+        "number": 32,
+        "text": "أَىْ وَلَدِ الْعَبَّاسِ كَثِّرْ عِلْمِى",
+        "transcription": "ay wa ladil habbaasi kassir hilmii",
+        "translations": {
+          "fr": "c'est-à-dire le fils d'Abass, accrois mon savoir."
+        }
+      },
+      {
+        "number": 33,
+        "text": "بِحَقِّ عَبْدِ اللَّهِ نَجْلِ عُمَرَا",
+        "transcription": "bihaqqi habdil laahi najli humaraa",
+        "translations": {
+          "fr": "Par Abdoulahi fils d'Omar,"
+        }
+      },
+      {
+        "number": 34,
+        "text": "عَنِّى اكْفِ دَاْبًا مَّا يَجُرُّ ضَرَرَا",
+        "transcription": "hannik fi da-ban maa yajurru dararaa",
+        "translations": {
+          "fr": "écarte-moi avec asuidité de ce qui attire le mal."
+        }
+      },
+      {
+        "number": 35,
+        "text": "وَبِابْنِ مَسْعُودٍ وَجَاهِ ابْنِ سَلَامْ",
+        "transcription": "wa bibni mas-huudin wa jaahibni salaam",
+        "translations": {
+          "fr": "Par Ibnu Mas-hud et Ibnu Salam,"
+        }
+      },
+      {
+        "number": 36,
+        "text": "قِنِى الْبَلَآ وَضُرَّ عَيْنٍ وَكَلَامْ",
+        "transcription": "qinil balaa wa durra haynin wa kalaam",
+        "translations": {
+          "fr": "préserve-moi de l'affliction et du malheur provenant des yeux et de la parole."
+        }
+      },
+      {
+        "number": 37,
+        "text": "يَارَبَّنَا بِحُرْمَةِ الْعَبَّاسِ",
+        "transcription": "yaa rabbanaa bihurmatil habbaasi",
+        "translations": {
+          "fr": "Ô notre Seigneur! par Abass et Hamzah,"
+        }
+      },
+      {
+        "number": 38,
+        "text": "وَحَمْزَةٍ عَنِى اكْفِ كُلَّ بَاسِ",
+        "transcription": "wa hamzatin hanik fi kulla baasi",
+        "translations": {
+          "fr": "éloigne-moi de tout malheur."
+        }
+      },
+      {
+        "number": 39,
+        "text": "بِحُرْمَةِ الْحَسَنِ وَالْحُسَيْنِ",
+        "transcription": "bihurmatil hasani wal husayni",
+        "translations": {
+          "fr": "Par Hassan et Hussein,"
+        }
+      },
+      {
+        "number": 40,
+        "text": "جُدْ لِىَ فِى الدَّارَيْنِ بِالنُّورَيْنِ",
+        "transcription": "jud liya fid daarayni bin nuurayni",
+        "translations": {
+          "fr": "fais-moi don des deux lumières dans les deux demeures."
+        }
+      },
+      {
+        "number": 41,
+        "text": "بِحُرْمَةِ الْقَاسِمِ ثُمَّ الطَّاهِرِ",
+        "transcription": "bihurmatil qaasimi summat taahiri",
+        "translations": {
+          "fr": "Par Khassim puis Tahir,"
+        }
+      },
+      {
+        "number": 42,
+        "text": "صَفِّ ظَوَاهِرِىَ مَعْ ضَمَآءِرِى",
+        "transcription": "saffi zawaahiriya mah daama-irii",
+        "translations": {
+          "fr": "purifie mon extérieur et ma conscience."
+        }
+      },
+      {
+        "number": 43,
+        "text": "بِحُرْمَةِ الطَّيِّبِ إِبْرَاهِمَا",
+        "transcription": "bihurmatit tayyibi ibraahimaa",
+        "translations": {
+          "fr": "Par Tahib, Abrahm (Ibrahima),"
+        }
+      },
+      {
+        "number": 44,
+        "text": "أَدِمْ عَلَىَّ الْبِشْرَ وَالتَّكْرِيمَا",
+        "transcription": "adim halayyal bishra wat takriimaa",
+        "translations": {
+          "fr": "fais durer mon profit, la gaieté et l'action d'honneur."
+        }
+      },
+      {
+        "number": 45,
+        "text": "بِجَاهِ فَاطِمَةَ أَفْطِمْ نَفْسِ",
+        "transcription": "bijaahi faatimata aftim nafsi",
+        "translations": {
+          "fr": "Par Fatima, déshabitue-moi"
+        }
+      },
+      {
+        "number": 46,
+        "text": "عَنْ كُلِّ مَا يَجُرُّنِى لِحَبْسِ",
+        "transcription": "han kulli maa yajurrunii lihabsi",
+        "translations": {
+          "fr": "de tout ce qui me traine la prison."
+        }
+      },
+      {
+        "number": 47,
+        "text": "وَبِرُقَيَّةَ وَزَيْنَبَ اكْفِنِى",
+        "transcription": "wa bi ruqayyata wa zaynabak finii",
+        "translations": {
+          "fr": "Par Roukhayatou et Zeinab, éloigne-moi"
+        }
+      },
+      {
+        "number": 48,
+        "text": "الطَّرْدَ وَالْحِجَابَ كُلَّ زَمَنِ",
+        "transcription": "at tarda wal hijaaba kulla zamani",
+        "translations": {
+          "fr": "à tout moment de la poursuite et du voile."
+        }
+      },
+      {
+        "number": 49,
+        "text": "وَأُمَّنِى دُنْيَا وَأُخْرَى بِالْكَرَمْ",
+        "transcription": "wa ummanii dunyaa wa ukhraa bil karam",
+        "translations": {
+          "fr": "Apprends-moi ici-bas et l'au-delà la noblesse de caractère"
+        }
+      },
+      {
+        "number": 50,
+        "text": "بِأُمِّ كُلْثُومٍ وَجَنِّبْنِى النِّقَمْ",
+        "transcription": "bi ummi kulsuumin wa jannibnin niqam",
+        "translations": {
+          "fr": "et par Oumou Kalsoum écarte-moi du châtiment."
+        }
+      },
+      {
+        "number": 51,
+        "text": "بِأَوْسِ بْنِ عَامِرٍ وَهَرَمِ",
+        "transcription": "bi awsibni haamirin wa harami",
+        "translations": {
+          "fr": "Par Awsibni Hamirine et Haram,"
+        }
+      },
+      {
+        "number": 52,
+        "text": "وَحَقِّ مَسْرُقٍ تَقَبَّلْ كَلِمِى",
+        "transcription": "wa haqqi masruqin taqabbal kalimii",
+        "translations": {
+          "fr": "et par Masrukh accepte mes poèmes."
+        }
+      },
+      {
+        "number": 53,
+        "text": "وَبِالرَّبِيعِ وَبِجَاهِ الْأَسْوَدِ",
+        "transcription": "wa bir rabiihi wa bijaahil aswadi",
+        "translations": {
+          "fr": "Par Rabih et pour l'honneur d'Aswad,"
+        }
+      },
+      {
+        "number": 54,
+        "text": "هَبْ لِى اسْتِقَامَةً وَقَوِّمْ أَوَدِ",
+        "transcription": "hab lis tiqaamatan wa qawwim awadi",
+        "translations": {
+          "fr": "accorde-moi la droiture et redresse mon travail."
+        }
+      },
+      {
+        "number": 55,
+        "text": "بِعَامِرِبْنِ عَابِدِ الرَّحْمَانِ",
+        "transcription": "bi haamiribni haabidir rahmaani",
+        "translations": {
+          "fr": "Par Hamir fils de Habidi-Rahmani"
+        }
+      },
+      {
+        "number": 56,
+        "text": "وَبأَبِى مَسْلَمَةَ الْخَوْلَانِى",
+        "transcription": "wa bi abii maslamatal khawlaanii",
+        "translations": {
+          "fr": "et Abi Maslamatal Khawlani."
+        }
+      },
+      {
+        "number": 57,
+        "text": "جُدْ لِىَ بِالْغُفْرَانِ وَالسَّعَادَهْ",
+        "transcription": "jud liya bil ghufraani was sahaadah",
+        "translations": {
+          "fr": "Gratifie-moi du Pardon, de la félicité, de la reconnaissance de Dieu"
+        }
+      },
+      {
+        "number": 58,
+        "text": "وَالْعِلْمِ وَالْعَمَلِ وَالْعِبَادَهْ",
+        "transcription": "wal hilmi wal hamali wal hibaadah",
+        "translations": {
+          "fr": "et de la pratique des devoirs religieux."
+        }
+      },
+      {
+        "number": 59,
+        "text": "بِالْحَسَنِ الْبَصْرِىِّ هَبْ لِىَ الْوَرَعْ",
+        "transcription": "bil hasanil basriyyi hab liyal warah",
+        "translations": {
+          "fr": "Par Hassanil Bisriyou, donne-moi la crainte de Dieu"
+        }
+      },
+      {
+        "number": 60,
+        "text": "وَالْإِنْسِلَاخَ مِنْ هَوَاىَ وَالْبِدَاعْ",
+        "transcription": "wal insilaakha min hawaaya wal bidaah",
+        "translations": {
+          "fr": "et ôte-moi les caprices et les innovations."
+        }
+      },
+      {
+        "number": 61,
+        "text": "وَبِأَبِى هُرَيْرَةٍ وَبِبِلَالْ",
+        "transcription": "wa bi abii hurayratin wa bibilaal",
+        "translations": {
+          "fr": "Par Abou Hourayta, Bilal"
+        }
+      },
+      {
+        "number": 62,
+        "text": "وَبِصُهَيْبٍ رَّبِّ جُدْ لِى بِنَوَالْ",
+        "transcription": "wa bisuhaybin rabbi jud lii binawaal",
+        "translations": {
+          "fr": "et Chouhaib, accorde-moi mon Seigneur, la grâce."
+        }
+      },
+      {
+        "number": 63,
+        "text": "وَطَاعَتِى اقْبَلْ وَاثْفِنِى مِنْ دَآءِ",
+        "transcription": "wa taahatiqbal wasfinii min daa-i",
+        "translations": {
+          "fr": "Agrée mes pratiques religieuses et gueris-moi de toute maladie"
+        }
+      },
+      {
+        "number": 64,
+        "text": "سِرًّا وَجَهْرًا بِأَبِى الدَّرْدَآءِ",
+        "transcription": "sirran wa jahran bi abid dardaa-i",
+        "translations": {
+          "fr": "secrètement et ouvertement par Abou Darda-i."
+        }
+      },
+      {
+        "number": 65,
+        "text": "بِحُرْمَةِ الْمِقْدَادِ ثُمَّ خَالِدِ",
+        "transcription": "bihurmatil miqdaadi summa khaalidi",
+        "translations": {
+          "fr": "Par Mikhdad, puis Khalid"
+        }
+      },
+      {
+        "number": 66,
+        "text": "وَبِالزُّبَيْرِ أَوِلِنِى مَقَاصِدِى",
+        "transcription": "wa biz zubayri awilinii maqaasidii",
+        "translations": {
+          "fr": "et Zoubeiri, accorde-moi mes desseins."
+        }
+      },
+      {
+        "number": 67,
+        "text": "وَبِأَمِيرِ الْمُومِنِينَ عُمَرَا",
+        "transcription": "wa bi amiiril muuminiina humaraa",
+        "translations": {
+          "fr": "Par l'émir des croyants Omar,"
+        }
+      },
+      {
+        "number": 68,
+        "text": "قِنِىَ مَكْرًا وَشَقًا وَغَرَرَا",
+        "transcription": "qiniya makran wa shaqan wa ghararaa",
+        "translations": {
+          "fr": "préserve-moi de la ruse, du désaccord et de la séduction."
+        }
+      },
+      {
+        "number": 69,
+        "text": "بِحَقِّ قَآءِدِ الْمُجَاهِدِينَا",
+        "transcription": "bihaqqi qaa-idil mujaahidiinaa",
+        "translations": {
+          "fr": "Par le Commandant des combattants"
+        }
+      },
+      {
+        "number": 70,
+        "text": "عَلِىٍّ الَّذِى أَعَانَ دِينَا",
+        "transcription": "haliyyinil lazii ahaana diinaa",
+        "translations": {
+          "fr": "Haliun (Alioune) qui a aidé la religion."
+        }
+      },
+      {
+        "number": 71,
+        "text": "بِحَقِّ سَعْدٍ وَبِحَقِّ عُرْوَهْ",
+        "transcription": "bihaqqi sahdin wa bihaqqi hurwah",
+        "translations": {
+          "fr": "Par Sahd et Hurwa"
+        }
+      },
+      {
+        "number": 72,
+        "text": "زِدْنِى تَمَسُّكًا بِوُثْقَى عُرْوَهْ",
+        "transcription": "zidnii tamassukan biwusqaa hurwah",
+        "translations": {
+          "fr": "augmente mon attachement à la protection sûre."
+        }
+      },
+      {
+        "number": 73,
+        "text": "بِحُرْمَةِ الْقَاسِمِ ثُمَّ خَارِجَهْ",
+        "transcription": "bihurmatil qaasimi summa khaarijah",
+        "translations": {
+          "fr": "Par Khassim, ensuite Kharidja"
+        }
+      },
+      {
+        "number": 74,
+        "text": "زِدْنِىَ قَفْوَ الْمُجْتَبَى مَنَاهِجَهْ",
+        "transcription": "zidniya qafwal mujtabaa manaahijah",
+        "translations": {
+          "fr": "accrois mes manières d'agir à Mohamed, l'Elu."
+        }
+      },
+      {
+        "number": 75,
+        "text": "وَبِأَبِى بَكْرٍ وَعَبْدِ اللَّهِ",
+        "transcription": "wa bi abii bakrin wa habdil laahi",
+        "translations": {
+          "fr": "Par Abou Bakr et Abdoulahi,"
+        }
+      },
+      {
+        "number": 76,
+        "text": "زِدْنِىَ فَضْلًا مَّالَهُ تَنَاهِ",
+        "transcription": "zidniya fadlan maa lahu tanaahi",
+        "translations": {
+          "fr": "éleve-moi davantage par faveur, son avoir."
+        }
+      },
+      {
+        "number": 77,
+        "text": "وَبِسُلَيْمَانَ قِنِى كَيْدَ اللَّعِينْ",
+        "transcription": "wa bi sulaymaana qinii kaydal lahiin",
+        "translations": {
+          "fr": "Par Salomon (Soulaymane) préserve-moi des astuces de Satan"
+        }
+      },
+      {
+        "number": 78,
+        "text": "وَكَيْدَ غَيْرِهِ وَكُنْ لِّىَ مُعِينْ",
+        "transcription": "wa kayda ghayrihi wa kun liya muhiin",
+        "translations": {
+          "fr": "et de toute machination et sois pour moi un assistant."
+        }
+      },
+      {
+        "number": 79,
+        "text": "بِأُمِّنَا خَدِيجَةٍ هَبْ لِى الْأَمَلْ",
+        "transcription": "bi umminaa khadiijatin hab lil amal",
+        "translations": {
+          "fr": "Par notre Mère Khadidjah, accorde-moi mon Seigneur"
+        }
+      },
+      {
+        "number": 80,
+        "text": "فِى الْعِلْمِ وَالْأَدَبِ رَبِّ وَالْعَمَلْ",
+        "transcription": "fil hilmi wal adabi rabbi wal hamal",
+        "translations": {
+          "fr": "l'espoir dans la connaissance, la politesse et l'action."
+        }
+      },
+      {
+        "number": 81,
+        "text": "بِأُمِّنَا عَآئِشَةٍ قِنِىَ مَا",
+        "transcription": "bi umminaa haa-ishatin qiniya maa",
+        "translations": {
+          "fr": "Par notre Mère Haichatou, préserve-moi"
+        }
+      },
+      {
+        "number": 82,
+        "text": "يَضُرُّنِى فِى الْأَرَضِينَ وَالسَّمَآ",
+        "transcription": "yadurrinii fil aradiina was samaa",
+        "translations": {
+          "fr": "de tout ce qui me nuit sur terre et dans le ciel."
+        }
+      },
+      {
+        "number": 83,
+        "text": "بِأُمِّنَا حَفْصَةَ حُلْ بَيْنِى أَبَدْ",
+        "transcription": "bi umminaa hafsata hul baynii abad",
+        "translations": {
+          "fr": "Par notre Mère Hafsatu, interpose-toi toujours"
+        }
+      },
+      {
+        "number": 84,
+        "text": "وَبَيْنَ مَا يَجُرُّ سُوءً وَنَكَدْ",
+        "transcription": "wa bayna maa yajurru suu-an wa nakad",
+        "translations": {
+          "fr": "entre moi et ce qui attire le mal et les tracasseries."
+        }
+      },
+      {
+        "number": 85,
+        "text": "بِأُمِّنَا زَيْنَبَ زَيِّنْ مَّا ظَهَرْ",
+        "transcription": "bi umminaa zaynaba zayyib maa zahar",
+        "translations": {
+          "fr": "Par notre Mère Zeinab, embellie mon extérieur"
+        }
+      },
+      {
+        "number": 86,
+        "text": "مِنِّى وَمَا بَطَنَ وَاجْعَلْنِى وَزَرْ",
+        "transcription": "minnii wa maa batana wajhalnii wa zar",
+        "translations": {
+          "fr": "et mon intérieur et fais de moi un asile."
+        }
+      },
+      {
+        "number": 87,
+        "text": "بِمَالِكٍ وَالشَّافِعِىِّ وَأَبِى",
+        "transcription": "bi maalikin wash shaafihiyyi wa abii",
+        "translations": {
+          "fr": "Par Malik, Chafihiyou, Abou-Hanifah,"
+        }
+      },
+      {
+        "number": 88,
+        "text": "حَنِيفَةٍ وَأَحْمَدٍ لِّى اسْتَجِبِ",
+        "transcription": "haniifatin wa ahmadin lis tajibi",
+        "translations": {
+          "fr": "Hanifata et Ahmed, exauce-moi."
+        }
+      },
+      {
+        "number": 89,
+        "text": "بِجَاهِ جِبْرِيلَ اسْتِجِبْ سُؤَالِى",
+        "transcription": "bijaahi jibriilas tijib su-aalii",
+        "translations": {
+          "fr": "Par la grâce de l'Ange Gabriel (Djibril), réponds favorablement à ma demande"
+        }
+      },
+      {
+        "number": 90,
+        "text": "وَبَلِّغَنِّى مَبْلَغَ الرِّجَالِ",
+        "transcription": "wa ballighannii mablaghar rijaali",
+        "translations": {
+          "fr": "et porte-moi au plus haut degré des grands."
+        }
+      },
+      {
+        "number": 91,
+        "text": "بِجَاهِ مِكَآئِيلَ هَبْ لِى نِعَمَا",
+        "transcription": "bijaahi mikaa-iila hab lii nihamaa",
+        "translations": {
+          "fr": "Par la grâce de l'ange Mikahil, donne-moi les faveurs"
+        }
+      },
+      {
+        "number": 92,
+        "text": "وَنَفْعِىَ اجْعَلْ مِثْلَ غَيْثٍ كَرَمَا",
+        "transcription": "wa nafhiyaj hal misla ghaysin karamaa",
+        "translations": {
+          "fr": "et les avantages et rends les comme la pluie abondante."
+        }
+      },
+      {
+        "number": 93,
+        "text": "بِجَاهِ إِسْرَافِيلَ هَبْ لِى عِصْمَهْ",
+        "transcription": "bijaahi israafiila hab lii hismah",
+        "translations": {
+          "fr": "Par la grâce de l'Ange Israfil, octroie-moi la vertu"
+        }
+      },
+      {
+        "number": 94,
+        "text": "وَلْتَكْفِنِى أَهْوَالَ يَوْمَ الْغُمَّهْ",
+        "transcription": "wal takfinii ahwaala yawmal ghummah",
+        "translations": {
+          "fr": "et protège-moi contre les horreurs du jour de la stupéfaction."
+        }
+      },
+      {
+        "number": 95,
+        "text": "بِجَاهِ عَزْرَآ ئِيلَ كُنْ لِّى يَاجَمِيلْ",
+        "transcription": "bijaahi hazraa-iila kun lii yaa jamiil",
+        "translations": {
+          "fr": "Ô le Bon, sois pour moi par grâce de Azrael"
+        }
+      },
+      {
+        "number": 96,
+        "text": "طُولَ حَيَاتِى وَكَذَا بَعْدَ الرَّحِيلْ",
+        "transcription": "tuula hayaatii wa kazaa bahdar rahiil",
+        "translations": {
+          "fr": "toute ma vie et également aprés le départ."
+        }
+      },
+      {
+        "number": 97,
+        "text": "وَاجْعَلْ تَوَسُّلِى لِمَنْ يَّدْعُواْ بِهِ",
+        "transcription": "wajhal tawassulii liman yadhuu bihi",
+        "translations": {
+          "fr": "Fais de mon intercession pour celui qui invoque par elle"
+        }
+      },
+      {
+        "number": 98,
+        "text": "سَعَادَةَ الدَّارَيْنِ وَاقْفِرْ لِى بِهِ",
+        "transcription": "sahaadatad daarayni waqfir lii bihi",
+        "translations": {
+          "fr": "le bonheur des deux demeures et par honneur pour elle pardonne-moi."
+        }
+      },
+      {
+        "number": 99,
+        "text": "وَلِىَ جُدْ وَلِلَّذِى دَعَانِى",
+        "transcription": "wa liya jud wa lil lazii dahaanii",
+        "translations": {
+          "fr": "Donne-moi et à celui qui m'a poussé"
+        }
+      },
+      {
+        "number": 100,
+        "text": "لِنَظْمِهِ بِالْأَمْنِ وَالرِّضْوَانِ",
+        "transcription": "linazmihi bil amni war ridwaani",
+        "translations": {
+          "fr": "à composer ce poème, la protection et la satisfaction,"
+        }
+      },
+      {
+        "number": 101,
+        "text": "وَبِالسَّعَادَةِ وَبِالْحِمَايَهْ",
+        "transcription": "wa bis sahaadati wa bil himaayah",
+        "translations": {
+          "fr": "le bonheur et la préservation"
+        }
+      },
+      {
+        "number": 102,
+        "text": "عَنْ جُمْلَةِ الْأَسْوَآءِ وَالْعِنَايَهْ",
+        "transcription": "han jumlatil aswaa-i wal hinaayah",
+        "translations": {
+          "fr": "de tous les malheurs ainsi que la sollicitude,"
+        }
+      },
+      {
+        "number": 103,
+        "text": "وَبِالنَّجَاةِ مِنْ سُؤَالٍ وَعَذَابْ",
+        "transcription": "wa bin najaati min su-aalin wa hazaab",
+        "translations": {
+          "fr": "la délivrance de l'interrogation du châtiment, des angoisses"
+        }
+      },
+      {
+        "number": 104,
+        "text": "وَسَكَرَاتِ الْمَوْتِ رَبِّ وَالْحِسَابْ",
+        "transcription": "wa sakaraatil  mawti rabbi wal hisaab",
+        "translations": {
+          "fr": "de la mort, du jugement dernier, Mon Seigneur,"
+        }
+      },
+      {
+        "number": 105,
+        "text": "وَبِالْبُشَارَاتِ وَبِالسُّرُورِ",
+        "transcription": "wa bil bushaaraati wa bis suruuri",
+        "translations": {
+          "fr": "les bonnes nouvelles et la joie"
+        }
+      },
+      {
+        "number": 106,
+        "text": "عِنْدَ مَمَاتِنَا وَفِى النُّشُورِ",
+        "transcription": "hinda mamaatinaa wa fin nushuuri",
+        "translations": {
+          "fr": "au moment de notre mort et de la résurrection."
+        }
+      },
+      {
+        "number": 107,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى النَّبِى",
+        "transcription": "wa salliyan wa salliman halan nabii",
+        "translations": {
+          "fr": "Bénis et salue le Prophète"
+        }
+      },
+      {
+        "number": 108,
+        "text": "وَئَالِهِ مَعَ الصِّحَابِ النُّجُبِ",
+        "transcription": "wa aalihi mahas sihaabin nujubi",
+        "translations": {
+          "fr": "et sa Famille avec les nobles Compagnons."
+        }
+      },
+      {
+        "number": 109,
+        "text": "وَاغْفِرْ لِوَالِدَىَّ وَاغْفِرْ لِجَمِيعْ",
+        "transcription": "waghfir liwaalidayya waghfir lijamiih",
+        "translations": {
+          "fr": "Pardonne à mes parents et toute ma famille"
+        }
+      },
+      {
+        "number": 110,
+        "text": "أَهْلِى وَجُمْلَةِ صِحَابِى يَاسَمِيعْ",
+        "transcription": "ahlii wa jumlati sihaabii yaa samiih",
+        "translations": {
+          "fr": "et l'ensemble de mes compagnons, Toi qui entends."
+        }
+      },
+      {
+        "number": 111,
+        "text": "وَاغْفِرْ لِكُلِّ ذِى تَعَلُّقٍ بِيَا",
+        "transcription": "wahgfir likulli zii tahalluqin biyaa",
+        "translations": {
+          "fr": "Pardonne à tous ceux qui sont sous ma tutelle"
+        }
+      },
+      {
+        "number": 112,
+        "text": "وَحَقِّقَنْ سَعَادَتِى يَارَبِّيَا",
+        "transcription": "wa haqqiqan sahaadatii yaa rabbiyaa",
+        "translations": {
+          "fr": "et affirme ma préservation, Ô Toi mon Seigneur."
+        }
+      },
+      {
+        "number": 113,
+        "text": "وَالْطُفْ بِنَا وَقَوِّنَا وَكُنْ لَّنَا",
+        "transcription": "wal tuf binaa wa qawwinaa wa kun lanaa",
+        "translations": {
+          "fr": "Traite-nous avec bienveillance, raffermis-nous,"
+        }
+      },
+      {
+        "number": 114,
+        "text": "وَهَبْ لَنَا حُسْنَ الْخِتَامِ رَبَّنَا",
+        "transcription": "wa hab lanaa husnal khitaami rabbanaa",
+        "translations": {
+          "fr": "sois pour nous et accorde-nous une bonne fin notre Seigneur."
+        }
+      },
+      {
+        "number": 115,
+        "text": "وَصَلِّيَنْ عَلَى النَّبِى وَسَلِّمِ",
+        "transcription": "wa salliyan halan nabii wa sallimi",
+        "translations": {
+          "fr": "Bénis et accorde ton Salut au Prophète,"
+        }
+      },
+      {
+        "number": 116,
+        "text": "وَاقْضِ بِهِ حَاجَةَ كُلِّ مُسْلِمِ",
+        "transcription": "waqdi bihi haajata kulli muslimi",
+        "translations": {
+          "fr": "satisfais par Lui le souhait de tout musulman."
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "الْحَمْدُ لِلَّهِ وَصَلَّى أَبَدَا ۞ عَلَى الَّذِى بِهِ لَنَا الْهُدَى بَدَا",
+        "translations": {
+          "it.karamati": "Lode ad Allah, e che Egli benedica in eterno colui grazie al quale si è manifestata a noi la retta guida,",
+          "en.karamati": "Praise be to God, and may He bless forever the one through whom guidance appeared to us,",
+          "fr.karamati": "Louange à Dieu et qu'il bénisse toujours celui par considération duquel le droit chemin nous a paru bon."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَالْئَالِ ۞ وَصَحْبِهِ ذَوِى نَوَالِ الْوَالِى",
+        "translations": {
+          "it.karamati": "il nostro maestro Muhammad, la sua famiglia e i suoi Compagni, coloro che hanno ricevuto i doni del Sovrano Protettore.",
+          "en.karamati": "our master Muḥammad and his Family, and his Companions, possessors of the gifts of the Sovereign.",
+          "fr.karamati": "Notre Maître Mohamed sa Famille et ses Compagnons qui ont la faveur du Gouvernant."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "هَاذَا وَإِنِّى الْيَوْمَ ذُو تَوَسُّلِ ۞ لَهُ بِأَسْمَآءِ ذَوِى التَّفَضُّلِ",
+        "translations": {
+          "it.karamati": "Ciò detto, io oggi mi rivolgo a Lui in supplica (Tawassul) attraverso i nomi degli esseri eccellenti e privilegiati,",
+          "en.karamati": "That said, I today am one who makes intercession (tawassul) to Him by the names of the possessors of excellence,",
+          "fr.karamati": "Je m'exprime en ce jour en suppliant auprès de Dieu par les noms des supérieurs."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "فَقُلْتُ يَا قَرِيبُ يَامُجِيبُ ۞ صَلِّ عَلَى الَّذِى بِهِ تُجِيبُ",
+        "translations": {
+          "it.karamati": "dicendo: O Vicino (Qarīb), o Colui che esaudisce (Mujīb), benedici colui per mezzo del quale Tu esaudisci le preghiere,",
+          "en.karamati": "and I said: O Near One (Qarīb), O Answerer (Mujīb), bless the one through whom You answer,",
+          "fr.karamati": "Et je déclare Toi le proche qui exauce, benis celui par honneur duquel tu réponds favorablement."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "وَاقْبَلْ بِهِ نَظْمِىَ هَذَا يَاكَرِيمْ ۞ وَهَبْ لِمَنْ بِهِ يُنَاجِى مَا يَرُومْ",
+        "translations": {
+          "it.karamati": "e accetta per suo tramite questo mio componimento, o Generoso, e dona a chiunque Ti invochi attraverso di esso tutto ciò che desidera.",
+          "en.karamati": "and accept through him this verse of mine, O Generous, and grant to whoever supplicates through it what he seeks.",
+          "fr.karamati": "Ô Toi le Généreux, accepte par lui mon poème que voici et accorde à quiconque Te murmure par lui tout ce qu'il désire."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "رَبِّ بِنُحٍ وَبِإِبْرَاهِمَا ۞ لِى اقْفِرْ ذُنُوبِى وَاكْفِنِى الرَّجِيمَا",
+        "translations": {
+          "it.karamati": "Signore, per Noè (Nūh) e per Abramo (Ibrāhīm), perdona i miei peccati e proteggimi dal Maledetto (Satana).",
+          "en.karamati": "Lord, by Noah (Nūḥ) and Abraham (Ibrāhīm), forgive my sins and suffice me against the Accursed.",
+          "fr.karamati": "Ô Toi mon Seigneur! Au nom des prophètes Noé et Abraham (Ibrahima), pardonne tous mes péchés. Eloigne Satan le rejeté loin de moi."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "وَكُنْ بِمُوسَى وَبِجَاهِ عِيسَى ۞ وَاقِيَنِى دُنْيَا وَأُخْرَى بُوسَى",
+        "translations": {
+          "it.karamati": "E per Mosè (Mūsā) e per il rango di Gesù ('Īsā), sii Colui che mi preserva dalla miseria in questo mondo e nell'Aldilà.",
+          "en.karamati": "And by Moses (Mūsā) and by the standing of Jesus (ʿĪsā), be my protector from misery in this world and the next.",
+          "fr.karamati": "Par Moïse (Moussa) et par le rang de Jésus (Issa), sois mon protecteur contre la misère ici-bas et dans l'au-delà."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "وَبِمُحَمَّدٍ رَّسُولِ اللَّهِ ۞ عَلَيْهِ خَيْرُ صَلَوَاتِ اللَّهِ",
+        "translations": {
+          "it.karamati": "E per Muhammad, il Messaggero di Allah — su di lui siano le migliori benedizioni di Allah —",
+          "en.karamati": "And by Muḥammad, the Messenger of God, upon him be the best of God's blessings,",
+          "fr.karamati": "Et par Muhammad, le Messager de Dieu, sur lui soient les meilleures bénédictions de Dieu,"
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "ثُمَّ عَلَيْهِمْ لِىَ هَبْ إِيمَانَا ۞ قَدْ صَاحَبَ الْإِسْلَامَ وَالْإِحْسَانَا",
+        "translations": {
+          "it.karamati": "e su tutti loro: donami una fede (Īmān) costantemente accompagnata dalla sottomissione (Islām) e dall'eccellenza spirituale (Ihsān).",
+          "en.karamati": "and then upon them, grant me a faith that has accompanied submission (Islām) and excellence (Iḥsān).",
+          "fr.karamati": "puis sur eux tous, accorde-moi une foi (Īmān) toujours accompagnée de la soumission (Islām) et de l'excellence spirituelle (Iḥsān)."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "بِحُرْمَةِ الصِّدِّيقِ وَالْفَارُوقِ ۞ جُدْ لِىَ بِالْإِخْلَاصِ وَالتَّوْفِيقِ",
+        "translations": {
+          "it.karamati": "Per la sacralità del Veridico (Abū Bakr as-Siddīq) e del Discernitore ('Umar al-Fārūq), concedimi la sincerità pura (Ikhlās) e il successo spirituale (Tawfīq).",
+          "en.karamati": "By the sanctity of Aṣ-Ṣiddīq and Al-Fārūq, bestow upon me sincerity and success.",
+          "fr.karamati": "Par la sacralité du Véridique (Abū Bakr) et du Discernant (ʿUmar), accorde-moi la sincérité pure (Ikhlāṣ) et la réussite spirituelle (Tawfīq)."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "بِحَقِّ عُثْمَانَ أَخِى النُّورَيْنِ ۞ وَبِعَلِىٍّ وَالِدِ السِّبْطَيْنِ",
+        "translations": {
+          "it.karamati": "Per il merito di 'Uthmān, l'uomo dalle Due Luci, e per 'Alī, il padre dei due nipoti del Profeta,",
+          "en.karamati": "By the right of ʿUthmān, brother of the Two Lights, and by ʿAlī, father of the two grandsons,",
+          "fr.karamati": "Par le droit de ʿUthmān, frère des Deux Lumières, et par ʿAlī, le père des deux petits-fils [du Prophète],"
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "هَبْ لِىَ فِى دُنْيَاىَ مَعْ أُخْرَايَا ۞ النُّورَ وَالْعُلُوَّ وَالْمَزَايَا",
+        "translations": {
+          "it.karamati": "donami nella mia vita terrena e nell'Aldilà la luce, l'elevazione e i doni d'eccellenza.",
+          "en.karamati": "grant me in my worldly life and in my hereafter light, elevation and excellences.",
+          "fr.karamati": "Accorde-moi dans le monde actuel et la vie future la lumière, l'élevation et les privilèges."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "بِحَقِّ طَلْحَتَ وَبِالزُّبَّيْرِ ۞ وَحَقِّ سَعْدٍ نَّجِّنِى مِنْ ضَيْرِ",
+        "translations": {
+          "it.karamati": "Per il merito di Talha, di Az-Zubayr e di Sa'd ibn Abī Waqqās, salvami da ogni danno.",
+          "en.karamati": "By the right of Ṭalḥa and Az-Zubayr, and the right of Saʿd, deliver me from harm.",
+          "fr.karamati": "Par le droit de Ṭalḥa et d'Az-Zubayr, et le droit de Saʿd, sauve-moi du tort."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "وَبِسَعِيدٍ وَابْنِ عَوْفٍ نَّجِّنِى ۞ مِنْ كُلِّ مَآ أَخَافُهُ مِنْ فِتَنِ",
+        "translations": {
+          "it.karamati": "E per Sa'īd ibn Zayd e 'Abd ar-Rahmān ibn 'Awf, salvami da tutte le prove e tentazioni (fitan) che temo.",
+          "en.karamati": "And by Saʿīd and Ibn ʿAwf, deliver me from all that I fear of trials (fitan).",
+          "fr.karamati": "Et par Saʿīd et Ibn ʿAwf, sauve-moi de toutes les épreuves (fitan) que je redoute."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "وَبِأَبِى عُبَيْدَةَ اجْلُبْ مَا يُفِيدْ ۞ إِلَى جَنَابِى وَاكْفِ عَنِّى مَا يُبِيدْ",
+        "translations": {
+          "it.karamati": "E per Abū 'Ubayda ibn al-Jarrāh, attira presso di me tutto ciò che è benefico e allontana da me ciò che porta rovina.",
+          "en.karamati": "And by Abū ʿUbayda, bring what benefits to my side and suffice me against what destroys.",
+          "fr.karamati": "Et par Abū ʿUbayda, amène vers moi ce qui est utile et écarte de moi ce qui anéantit."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "بِحَقِّ عَبْدِ اللَّهِ نَجْلِ الْعَمِّ ۞ أَىْ وَلَدِ الْعَبَّاسِ كَثِّرْ عِلْمِى",
+        "translations": {
+          "it.karamati": "Per il merito di 'Abdullāh, il figlio dello zio paterno — ovvero il figlio di Al-'Abbās — accresci enormemente il mio sapere.",
+          "en.karamati": "By the right of ʿAbd Allāh, son of the paternal uncle, that is the son of Al-ʿAbbās, increase my knowledge.",
+          "fr.karamati": "Par Abdoulahi postérité de l'oncle paternel c'est-à-dire le fils d'Abass, accrois mon savoir."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "بِحَقِّ عَبْدِ اللَّهِ نَجْلِ عُمَرَا ۞ عَنِّى اكْفِ دَاْبًا مَّا يَجُرُّ ضَرَرَا",
+        "translations": {
+          "it.karamati": "Per il merito di 'Abdullāh figlio di 'Umar, respingi costantemente da me tutto ciò che attira nocumento.",
+          "en.karamati": "By the right of ʿAbd Allāh, son of ʿUmar, suffice me constantly against whatever brings harm.",
+          "fr.karamati": "Par le droit de ʿAbd Allāh, fils de ʿUmar, écarte de moi constamment ce qui attire le dommage."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "وَبِابْنِ مَسْعُودٍ وَجَاهِ ابْنِ سَلَامْ ۞ قِنِى الْبَلَآ وَضُرَّ عَيْنٍ وَكَلَامْ",
+        "translations": {
+          "it.karamati": "E per Ibn Mas'ūd e per il rango di 'Abdullāh ibn Salām, proteggimi dalle tribolazioni e dal male del malocchio e delle malelingue.",
+          "en.karamati": "And by Ibn Masʿūd and the standing of Ibn Salām, guard me from affliction and the harm of the eye and of speech.",
+          "fr.karamati": "Et par Ibn Masʿūd et le rang d'Ibn Salām, préserve-moi de l'affliction, du mauvais œil et du mal des paroles."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "يَارَبَّنَا بِحُرْمَةِ الْعَبَّاسِ ۞ وَحَمْزَةٍ عَنِى اكْفِ كُلَّ بَاسِ",
+        "translations": {
+          "it.karamati": "O nostro Signore, per la sacralità di Al-'Abbās e di Hamza, allontana da me ogni avversità e tormento.",
+          "en.karamati": "O our Lord, by the sanctity of Al-ʿAbbās and Ḥamza, suffice me against all hardship.",
+          "fr.karamati": "Ô notre Seigneur! par Abass et Hamzah, éloigne-moi de tout malheur."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "بِحُرْمَةِ الْحَسَنِ وَالْحُسَيْنِ ۞ جُدْ لِىَ فِى الدَّارَيْنِ بِالنُّورَيْنِ",
+        "translations": {
+          "it.karamati": "Per la sacralità di Al-Hasan e di Al-Husayn, fammi dono nelle due dimore delle due luci.",
+          "en.karamati": "By the sanctity of Al-Ḥasan and Al-Ḥusayn, bestow upon me in the two abodes the two lights.",
+          "fr.karamati": "Par la sacralité d'Al-Ḥasan et d'Al-Ḥusayn, accorde-moi dans les deux demeures les deux lumières."
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "بِحُرْمَةِ الْقَاسِمِ ثُمَّ الطَّاهِرِ ۞ صَفِّ ظَوَاهِرِىَ مَعْ ضَمَآءِرِى",
+        "translations": {
+          "it.karamati": "Per la sacralità di Al-Qāsim e di At-Tāhir, purifica il mio aspetto esteriore insieme ai miei pensieri più intimi.",
+          "en.karamati": "By the sanctity of Al-Qāsim, then Aṭ-Ṭāhir, purify my outward being together with my inner thoughts.",
+          "fr.karamati": "Par la sacralité d'Al-Qāsim, puis d'Aṭ-Ṭāhir, purifie mon extérieur avec mes pensées les plus intimes."
+        }
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "بِحُرْمَةِ الطَّيِّبِ إِبْرَاهِمَا ۞ أَدِمْ عَلَىَّ الْبِشْرَ وَالتَّكْرِيمَا",
+        "translations": {
+          "it.karamati": "Per la sacralità del puro Ibrāhīm, rendi perenni su di me la gioia e l'onore.",
+          "en.karamati": "By the sanctity of Aṭ-Ṭayyib, Ibrāhīm, make lasting upon me gladness and honour.",
+          "fr.karamati": "Par la sacralité d'Aṭ-Ṭayyib, Ibrāhīm, rends durables sur moi la joie et l'honneur."
+        }
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "بِجَاهِ فَاطِمَةَ أَفْطِمْ نَفْسِ ۞ عَنْ كُلِّ مَا يَجُرُّنِى لِحَبْسِ",
+        "translations": {
+          "it.karamati": "Per il rango di Fātima, svezza e distacca la mia anima da tutto ciò che potrebbe trascinarmi alla prigionia.",
+          "en.karamati": "By the standing of Fāṭima, wean my soul from all that drags me to confinement.",
+          "fr.karamati": "Par le rang de Fāṭima, sèvre mon âme de tout ce qui m'entraîne à l'emprisonnement."
+        }
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "وَبِرُقَيَّةَ وَزَيْنَبَ اكْفِنِى ۞ الطَّرْدَ وَالْحِجَابَ كُلَّ زَمَنِ",
+        "translations": {
+          "it.karamati": "E per Ruqayya e Zaynab, preservami in ogni tempo dall'essere respinto o velato dalla Tua presenza.",
+          "en.karamati": "And by Ruqayya and Zaynab, suffice me at all times against rejection and veiling.",
+          "fr.karamati": "Et par Ruqayya et Zaynab, préserve-moi en tout temps d'être rejeté et voilé."
+        }
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "وَأُمَّنِى دُنْيَا وَأُخْرَى بِالْكَرَمْ ۞ بِأُمِّ كُلْثُومٍ وَجَنِّبْنِى النِّقَمْ",
+        "translations": {
+          "it.karamati": "Colmami di generosità in questo mondo e nell'altro per Umm Kulthūm, e tienimi lontano dai castighi.",
+          "en.karamati": "And secure me in this world and the next with generosity, by Umm Kulthūm, and keep me away from retributions.",
+          "fr.karamati": "Et mets-moi en sécurité ici-bas et dans l'au-delà par la générosité, par Umm Kulthūm, et tiens-moi à l'écart des châtiments."
+        }
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "بِأَوْسِ بْنِ عَامِرٍ وَهَرَمِ ۞ وَحَقِّ مَسْرُقٍ تَقَبَّلْ كَلِمِى",
+        "translations": {
+          "it.karamati": "Per Aws ibn ʿĀmir (Uways al-Qaranī), per Haram ibn Hayyān e per il merito di Masrūq, accetta le mie parole.",
+          "en.karamati": "By Aws ibn ʿĀmir, and Haram, and the right of Masrūq, accept my words.",
+          "fr.karamati": "Par Aws ibn ʿĀmir et Haram, et par le droit de Masrūq, accepte mes paroles."
+        }
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "وَبِالرَّبِيعِ وَبِجَاهِ الْأَسْوَدِ ۞ هَبْ لِى اسْتِقَامَةً وَقَوِّمْ أَوَدِ",
+        "translations": {
+          "it.karamati": "E per Ar-Rabī' ibn Khuthaym e per il rango di Al-Aswad ibn Yazīd, donami la rettitudine costante e raddrizza ogni mia stortura.",
+          "en.karamati": "And by Ar-Rabīʿ, and by the standing of Al-Aswad, grant me uprightness and straighten my crookedness.",
+          "fr.karamati": "Et par Ar-Rabīʿ et par le rang d'Al-Aswad, accorde-moi la droiture et redresse ma tortuosité."
+        }
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "بِعَامِرِبْنِ عَابِدِ الرَّحْمَانِ ۞ وَبأَبِى مَسْلَمَةَ الْخَوْلَانِى",
+        "translations": {
+          "it.karamati": "Per ʿĀmir ibn ʿAbd ar-Rahmān e per Abū Maslama al-Khawlānī,",
+          "en.karamati": "By ʿĀmir ibn ʿAbd ar-Raḥmān, and by Abū Maslama Al-Khawlānī,",
+          "fr.karamati": "Par ʿĀmir ibn ʿAbd ar-Raḥmān et par Abū Maslama Al-Khawlānī,"
+        }
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "جُدْ لِىَ بِالْغُفْرَانِ وَالسَّعَادَهْ ۞ وَالْعِلْمِ وَالْعَمَلِ وَالْعِبَادَهْ",
+        "translations": {
+          "it.karamati": "concedimi il perdono, la felicità, il sapere, l'azione retta e la devozione nell'adorazione.",
+          "en.karamati": "bestow upon me forgiveness and felicity, and knowledge, and action, and worship.",
+          "fr.karamati": "accorde-moi le pardon et la félicité, la science, l'action et l'adoration."
+        }
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "بِالْحَسَنِ الْبَصْرِىِّ هَبْ لِىَ الْوَرَعْ ۞ وَالْإِنْسِلَاخَ مِنْ هَوَاىَ وَالْبِدَاعْ",
+        "translations": {
+          "it.karamati": "Per Al-Hasan al-Basrī, donami lo scrupolo devoto (Wara') e lo spogliarmi dalle mie passioni egoistiche e dalle innovazioni (bida').",
+          "en.karamati": "By Al-Ḥasan Al-Baṣrī, grant me scrupulous piety (waraʿ), and stripping away from my desire and from innovations.",
+          "fr.karamati": "Par Al-Ḥasan Al-Baṣrī, accorde-moi le scrupule pieux (Waraʿ) et le détachement de ma passion et des innovations."
+        }
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "وَبِأَبِى هُرَيْرَةٍ وَبِبِلَالْ ۞ وَبِصُهَيْبٍ رَّبِّ جُدْ لِى بِنَوَالْ",
+        "translations": {
+          "it.karamati": "E per Abū Hurayra, per Bilāl e per Suhayb, o Signore, elargiscimi i Tuoi doni generosi.",
+          "en.karamati": "And by Abū Hurayra, and by Bilāl, and by Ṣuhayb, Lord, bestow upon me Your gifts.",
+          "fr.karamati": "Par Abou Hourayta, Bilal et Chouhaib, accorde-moi mon Seigneur, la grâce."
+        }
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "وَطَاعَتِى اقْبَلْ وَاثْفِنِى مِنْ دَآءِ ۞ سِرًّا وَجَهْرًا بِأَبِى الدَّرْدَآءِ",
+        "translations": {
+          "it.karamati": "Accetta la mia obbedienza e guariscimi da ogni malattia, interiore ed esteriore, per il merito di Abū ad-Dardā'.",
+          "en.karamati": "And accept my obedience, and heal me from sickness, inward and outward, by Abū ad-Dardāʾ.",
+          "fr.karamati": "Accepte mon obéissance et guéris-moi de la maladie, en secret et ouvertement, par Abū ad-Dardāʾ."
+        }
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "بِحُرْمَةِ الْمِقْدَادِ ثُمَّ خَالِدِ ۞ وَبِالزُّبَيْرِ أَوِلِنِى مَقَاصِدِى",
+        "translations": {
+          "it.karamati": "Per la sacralità di Al-Miqdād, di Khālid ibn al-Walīd e di Az-Zubayr, fammi raggiungere i miei nobili intenti.",
+          "en.karamati": "By the sanctity of Al-Miqdād, then Khālid, and by Az-Zubayr, bring me to my aims.",
+          "fr.karamati": "Par la sacralité d'Al-Miqdād, puis de Khālid, et par Az-Zubayr, mène-moi à mes buts."
+        }
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "وَبِأَمِيرِ الْمُومِنِينَ عُمَرَا ۞ قِنِىَ مَكْرًا وَشَقًا وَغَرَرَا",
+        "translations": {
+          "it.karamati": "E per il Principe dei Credenti ʿUmar (ibn al-Khaṭṭāb), proteggimi da ogni insidia, infelicità e illusione ingannevole.",
+          "en.karamati": "And by the Commander of the Believers, ʿUmar (ibn al-Khaṭṭāb), guard me from guile, wretchedness and deception.",
+          "fr.karamati": "Par l'émir des croyants ʿUmar (ibn al-Khaṭṭāb), préserve-moi de la ruse, du désaccord et de la séduction."
+        }
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "بِحَقِّ قَآءِدِ الْمُجَاهِدِينَا ۞ عَلِىٍّ الَّذِى أَعَانَ دِينَا",
+        "translations": {
+          "it.karamati": "Per il merito della guida dei combattenti sulla via di Dio, 'Alī, colui che ha sostenuto la religione,",
+          "en.karamati": "By the right of the leader of the fighters in the way of God, ʿAlī, who aided our religion,",
+          "fr.karamati": "Par le droit du chef des combattants, ʿAlī, qui a soutenu notre religion,"
+        }
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "بِحَقِّ سَعْدٍ وَبِحَقِّ عُرْوَهْ ۞ زِدْنِى تَمَسُّكًا بِوُثْقَى عُرْوَهْ",
+        "translations": {
+          "it.karamati": "e per il merito di Sa'd e di 'Urwa ibn az-Zubayr, accresci il mio saldo attaccamento all'ansa più sicura (la fede).",
+          "en.karamati": "by the right of Saʿd and by the right of ʿUrwa, increase my holding fast to the most firm handle.",
+          "fr.karamati": "par le droit de Saʿd et par le droit de ʿUrwa, accrois mon attachement à l'anse la plus solide."
+        }
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "بِحُرْمَةِ الْقَاسِمِ ثُمَّ خَارِجَهْ ۞ زِدْنِىَ قَفْوَ الْمُجْتَبَى مَنَاهِجَهْ",
+        "translations": {
+          "it.karamati": "Per la sacralità di Al-Qāsim ibn Muhammad e di Khārija ibn Zayd, accresci il mio seguire fedelmente le vie del Prescelto.",
+          "en.karamati": "By the sanctity of Al-Qāsim, then Khārija, increase me in following the ways of the Chosen One.",
+          "fr.karamati": "Par la sacralité d'Al-Qāsim, puis de Khārija, accrois mon suivi des voies de l'Élu."
+        }
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "وَبِأَبِى بَكْرٍ وَعَبْدِ اللَّهِ ۞ زِدْنِىَ فَضْلًا مَّالَهُ تَنَاهِ",
+        "translations": {
+          "it.karamati": "E per Abū Bakr ibn 'Abd ar-Rahmān e 'Abdullāh, accrescimi di una grazia sconfinata.",
+          "en.karamati": "And by Abū Bakr and ʿAbd Allāh, increase me in a favour that has no end.",
+          "fr.karamati": "Et par Abū Bakr et ʿAbd Allāh, accrois-moi d'une grâce qui n'a pas de fin."
+        }
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "وَبِسُلَيْمَانَ قِنِى كَيْدَ اللَّعِينْ ۞ وَكَيْدَ غَيْرِهِ وَكُنْ لِّىَ مُعِينْ",
+        "translations": {
+          "it.karamati": "E per Sulaymān ibn Yasār, proteggimi dalla trama del Maledetto e dalle trame altrui, e sii il mio Soccorritore.",
+          "en.karamati": "And by Sulaymān, guard me from the plot of the Accursed, and from the plot of others, and be my Helper.",
+          "fr.karamati": "Et par Sulaymān, préserve-moi de la machination du Maudit et de celle d'autrui, et sois mon Secours."
+        }
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "بِأُمِّنَا خَدِيجَةٍ هَبْ لِى الْأَمَلْ ۞ فِى الْعِلْمِ وَالْأَدَبِ رَبِّ وَالْعَمَلْ",
+        "translations": {
+          "it.karamati": "Per la nostra Madre Khadīja, realizza la mia speranza nella conoscenza, nella retta educazione spirituale, o Signore, e nell'azione.",
+          "en.karamati": "By our Mother Khadīja, grant me hope in knowledge, and in good conduct, Lord, and in action.",
+          "fr.karamati": "Par notre Mère Khadidjah, accorde-moi mon Seigneur l'espoir dans la connaissance, la politesse et l'action."
+        }
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "بِأُمِّنَا عَآئِشَةٍ قِنِىَ مَا ۞ يَضُرُّنِى فِى الْأَرَضِينَ وَالسَّمَآ",
+        "translations": {
+          "it.karamati": "Per la nostra Madre 'Ā'isha, proteggimi da tutto ciò che può nuocermi nelle terre e nel cielo.",
+          "en.karamati": "By our Mother ʿĀʾisha, guard me from whatever harms me in the earths and the heaven.",
+          "fr.karamati": "Par notre Mère Haichatou, préserve-moi de tout ce qui me nuit sur terre et dans le ciel."
+        }
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "بِأُمِّنَا حَفْصَةَ حُلْ بَيْنِى أَبَدْ ۞ وَبَيْنَ مَا يَجُرُّ سُوءً وَنَكَدْ",
+        "translations": {
+          "it.karamati": "Per la nostra Madre Hafsa, frapponiti per sempre tra me e tutto ciò che attira il male e l'afflizione.",
+          "en.karamati": "By our Mother Ḥafṣa, always come between me and whatever brings evil and affliction.",
+          "fr.karamati": "Par notre Mère Hafsatu, interpose-toi toujours entre moi et ce qui attire le mal et les tracasseries."
+        }
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "بِأُمِّنَا زَيْنَبَ زَيِّنْ مَّا ظَهَرْ ۞ مِنِّى وَمَا بَطَنَ وَاجْعَلْنِى وَزَرْ",
+        "translations": {
+          "it.karamati": "Per la nostra Madre Zaynab, abbellisci ciò che di me appare e ciò che è interiore, e rendimi un rifugio sicuro per gli altri.",
+          "en.karamati": "By our Mother Zaynab, adorn what is outward of me and what is inward, and make me a refuge.",
+          "fr.karamati": "Par notre Mère Zeinab, embellie mon extérieur et mon intérieur et fais de moi un asile."
+        }
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "بِمَالِكٍ وَالشَّافِعِىِّ وَأَبِى ۞ حَنِيفَةٍ وَأَحْمَدٍ لِّى اسْتَجِبِ",
+        "translations": {
+          "it.karamati": "Per gli Imam Mālik, Ash-Shāfi'ī, Abū Hanīfa e Ahmad ibn Hanbal, esaudiscimi!",
+          "en.karamati": "By Mālik and Ash-Shāfiʿī and Abū Ḥanīfa and Aḥmad, answer me.",
+          "fr.karamati": "Par Mālik, Ash-Shāfiʿī, Abū Ḥanīfa et Aḥmad, exauce-moi."
+        }
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "بِجَاهِ جِبْرِيلَ اسْتِجِبْ سُؤَالِى ۞ وَبَلِّغَنِّى مَبْلَغَ الرِّجَالِ",
+        "translations": {
+          "it.karamati": "Per il rango di Gabriele (Jibrīl), esaudisci la mia richiesta e fammi raggiungere la statura spirituale dei veri uomini di Dio.",
+          "en.karamati": "By the standing of Gabriel (Jibrīl), answer my request, and make me reach the stature of the men of God.",
+          "fr.karamati": "Par le rang de Gabriel (Jibrīl), exauce ma demande et fais-moi atteindre la stature des hommes [de Dieu]."
+        }
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "بِجَاهِ مِكَآئِيلَ هَبْ لِى نِعَمَا ۞ وَنَفْعِىَ اجْعَلْ مِثْلَ غَيْثٍ كَرَمَا",
+        "translations": {
+          "it.karamati": "Per il rango di Michele (Mīkā'īl), colmami di benedizioni e rendi la mia utilità per il prossimo generosa come una pioggia benefica.",
+          "en.karamati": "By the standing of Michael (Mīkāʾīl), grant me blessings, and make my benefit like rain, generous.",
+          "fr.karamati": "Par le rang de Michel (Mīkāʾīl), accorde-moi des bienfaits et rends mon utilité généreuse comme une pluie bienfaisante."
+        }
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "بِجَاهِ إِسْرَافِيلَ هَبْ لِى عِصْمَهْ ۞ وَلْتَكْفِنِى أَهْوَالَ يَوْمَ الْغُمَّهْ",
+        "translations": {
+          "it.karamati": "Per il rango di Isrāfīl, donami l'infallibilità protettrice e preservami dai terrori del Giorno dell'Angoscia.",
+          "en.karamati": "By the standing of Isrāfīl, grant me protection, and suffice me against the terrors of the Day of Gloom.",
+          "fr.karamati": "Par le rang d'Isrāfīl, accorde-moi la protection et préserve-moi des horreurs du jour de l'Angoisse."
+        }
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "بِجَاهِ عَزْرَآ ئِيلَ كُنْ لِّى يَاجَمِيلْ ۞ طُولَ حَيَاتِى وَكَذَا بَعْدَ الرَّحِيلْ",
+        "translations": {
+          "it.karamati": "Per il rango di 'Azrā'īl, sii con me, o Bellissimo (Jamīl), per tutta la mia vita e così pure dopo la dipartita.",
+          "en.karamati": "By the standing of ʿAzrāʾīl, be for me, O Beautiful, all the length of my life and likewise after departure.",
+          "fr.karamati": "Par le rang de ʿAzrāʾīl, sois pour moi, ô Beau (Jamīl), durant toute ma vie et aussi après le départ."
+        }
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "وَاجْعَلْ تَوَسُّلِى لِمَنْ يَّدْعُواْ بِهِ ۞ سَعَادَةَ الدَّارَيْنِ وَاقْفِرْ لِى بِهِ",
+        "translations": {
+          "it.karamati": "Rendi questa mia supplica (Tawassul) fonte di felicità nelle due dimore per chiunque Ti invochi con essa, e perdonami per suo tramite.",
+          "en.karamati": "And make my intercession for whoever supplicates by it the felicity of the two abodes, and forgive me through it.",
+          "fr.karamati": "Fais de ma supplication (Tawassul), pour quiconque Te prie par elle, le bonheur des deux demeures, et pardonne-moi par elle."
+        }
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "وَلِىَ جُدْ وَلِلَّذِى دَعَانِى ۞ لِنَظْمِهِ بِالْأَمْنِ وَالرِّضْوَانِ",
+        "translations": {
+          "it.karamati": "Sii generoso con me e con colui che mi ha chiesto di comporla, concedendoci sicurezza e il Tuo supremo compiacimento,",
+          "en.karamati": "And bestow upon me, and upon the one who asked me for its composition, security and good pleasure,",
+          "fr.karamati": "Donne-moi et à celui qui m'a poussé à composer ce poème, la protection et la satisfaction,"
+        }
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "text": "وَبِالسَّعَادَةِ وَبِالْحِمَايَهْ ۞ عَنْ جُمْلَةِ الْأَسْوَآءِ وَالْعِنَايَهْ",
+        "translations": {
+          "it.karamati": "insieme alla felicità, alla protezione da tutti i mali e alla Tua provvidenza amorevole,",
+          "en.karamati": "and felicity and protection from the sum of evils, and care,",
+          "fr.karamati": "le bonheur et la préservation de tous les malheurs ainsi que la sollicitude,"
+        }
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "text": "وَبِالنَّجَاةِ مِنْ سُؤَالٍ وَعَذَابْ ۞ وَسَكَرَاتِ الْمَوْتِ رَبِّ وَالْحِسَابْ",
+        "translations": {
+          "it.karamati": "e con la salvezza dall'interrogatorio, dal castigo, dalle agonie della morte, o Signore, e dal rendiconto finale,",
+          "en.karamati": "and deliverance from questioning and punishment, and the agonies of death, Lord, and the reckoning,",
+          "fr.karamati": "la délivrance de l'interrogation du châtiment, des angoisses de la mort, du jugement dernier, Mon Seigneur,"
+        }
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "text": "وَبِالْبُشَارَاتِ وَبِالسُّرُورِ ۞ عِنْدَ مَمَاتِنَا وَفِى النُّشُورِ",
+        "translations": {
+          "it.karamati": "e con lieti annunci e gioia al momento della nostra morte e nel Giorno della Resurrezione.",
+          "en.karamati": "and glad tidings and joy at our death and at the Resurrection.",
+          "fr.karamati": "les bonnes nouvelles et la joie au moment de notre mort et de la résurrection."
+        }
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "text": "وَصَلِّيَنْ وَّسَلِّمَنْ عَلَى النَّبِى ۞ وَئَالِهِ مَعَ الصِّحَابِ النُّجُبِ",
+        "translations": {
+          "it.karamati": "Benedici e saluta il Profeta, la sua famiglia e i suoi nobili Compagni.",
+          "en.karamati": "And send blessings and peace upon the Prophet, and his Family with the noble Companions.",
+          "fr.karamati": "Bénis et salue le Prophète et sa Famille avec les nobles Compagnons."
+        }
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "text": "وَاغْفِرْ لِوَالِدَىَّ وَاغْفِرْ لِجَمِيعْ ۞ أَهْلِى وَجُمْلَةِ صِحَابِى يَاسَمِيعْ",
+        "translations": {
+          "it.karamati": "Perdona i miei genitori, perdona tutta la mia famiglia e tutti i miei compagni, o Colui che tutto ascolta (Samī').",
+          "en.karamati": "And forgive my parents, and forgive all my family and the sum of my companions, O All-Hearing.",
+          "fr.karamati": "Pardonne à mes parents et toute ma famille et l'ensemble de mes compagnons, Toi qui entends."
+        }
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "text": "وَاغْفِرْ لِكُلِّ ذِى تَعَلُّقٍ بِيَا ۞ وَحَقِّقَنْ سَعَادَتِى يَارَبِّيَا",
+        "translations": {
+          "it.karamati": "Perdona chiunque abbia un legame con me, e realizza pienamente la mia felicità, o Signore mio!",
+          "en.karamati": "And forgive everyone connected with me, and bring to fulfilment my felicity, O my Lord.",
+          "fr.karamati": "Pardonne à quiconque a un lien avec moi et réalise pleinement mon bonheur, ô mon Seigneur !"
+        }
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "text": "وَالْطُفْ بِنَا وَقَوِّنَا وَكُنْ لَّنَا ۞ وَهَبْ لَنَا حُسْنَ الْخِتَامِ رَبَّنَا",
+        "translations": {
+          "it.karamati": "Sii benevolo con noi, rafforzaci, sii al nostro fianco e donaci una buona fine (Husn al-Khitām), o nostro Signore.",
+          "en.karamati": "And be gentle with us, and strengthen us, and be for us, and grant us a good ending, our Lord.",
+          "fr.karamati": "Traite-nous avec bienveillance, raffermis-nous, sois pour nous et accorde-nous une bonne fin notre Seigneur."
+        }
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "text": "وَصَلِّيَنْ عَلَى النَّبِى وَسَلِّمِ ۞ وَاقْضِ بِهِ حَاجَةَ كُلِّ مُسْلِمِ",
+        "translations": {
+          "it.karamati": "Benedici il Profeta e concedigli la pace, e soddisfa per suo tramite il bisogno di ogni musulmano.",
+          "en.karamati": "And send blessings and peace upon the Prophet, and through him fulfil the need of every Muslim.",
+          "fr.karamati": "Bénis et accorde ton Salut au Prophète, satisfais par Lui le souhait de tout musulman."
+        }
+      }
+    ]
+  }
+}

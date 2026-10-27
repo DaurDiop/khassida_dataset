@@ -1,0 +1,156 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 187,
+    "name": "Yaa Rakhmanu",
+    "transliterationName": "Yaa Rakhmanu",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "رَبِّى بِمَا يَشْرَهُ الْأَذْهَنَ قَدْ فَجَئَا",
+        "transcription": "rabbii bimaa yashrahul azhana qad faja-aa",
+        "translations": {
+          "fr": "Mon Seigneur m'a surpris avec des dons qui nourrissent l'esprit"
+        }
+      },
+      {
+        "number": 2,
+        "text": "بِجَاهِ أَفْضَلِ مَنْ لِلَّهِ قَدْ لَجَئَا",
+        "transcription": "bijaahi afdali man lil laahi qad laja-aa",
+        "translations": {
+          "fr": "grâce au meilleur de ceux qui se sont réfugiés auprès de Dieu."
+        }
+      },
+      {
+        "number": 3,
+        "text": "حَمْدِى لِرَبٍّ كَرِيمٍ لَّاشَرِيكَ لَهُ",
+        "transcription": "hamdii lirabbin kariimin laa shariika lahu",
+        "translations": {
+          "fr": "Louange à Dieu Généreux et Unique à qui il ne faut pas trouver associé"
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَصَدْرِىَ الْيَوْمَ نُورًا سَاطِعًا مَّلَئَا",
+        "transcription": "wa sadriyal yawma nuuran saatihan mala-aa",
+        "translations": {
+          "fr": "car mon coeur est aujourd'hui plein de lumières éclatantes."
+        }
+      },
+      {
+        "number": 5,
+        "text": "مُّحَمَّدٌ صَلَوَاتُ اللَّهِ فِى أَبَدٍ",
+        "transcription": "muhammadun salawaatul laahi fii abadin",
+        "translations": {
+          "fr": "Dieu me protège grâce à Muhammad."
+        }
+      },
+      {
+        "number": 6,
+        "text": "عَلَيْهِ فِى حِزْبِهِ كُلِّى بِهِ كَلَئَا",
+        "transcription": "halayhi fii hizbihi kullii bihi kala-aa",
+        "translations": {
+          "fr": "(que la bénédiction divine soit éternellement répandue sur lui et ses Compagnons)"
+        }
+      },
+      {
+        "number": 7,
+        "text": "أَدْعُواْ إِلَاهِى الَّذِى عَمَّتْ مَوَاهِبُهُ",
+        "transcription": "adhuu ilaahil lazii hammat mawaahibuhu",
+        "translations": {
+          "fr": "J'invoque mon Dieu, le Créateur"
+        }
+      },
+      {
+        "number": 8,
+        "text": "لِجُمْلَةِ الْخَلْقِ مَا يَخْتَارُ مَنْ بَرَءَا",
+        "transcription": "lijumlatil khalqi maa yakhtaaru man bara-aa",
+        "translations": {
+          "fr": "dont les bienfaits s'étendent à l'ensemble des créatures"
+        }
+      },
+      {
+        "number": 9,
+        "text": "نَاجَيْتُهُ جَلَّ أَعْوَامًا وَكَرَّمَنِى",
+        "transcription": "naajaytuhu jalla ahwaaman wa karramanii",
+        "translations": {
+          "fr": "Je l'ai prié des années durant"
+        }
+      },
+      {
+        "number": 10,
+        "text": "تَكْرِيمَ هَادٍ وَكُلِّى مِنْ لَّغْىً بَرِءَا",
+        "transcription": "takriima haadin wa kullii min lagh-yan bari-aa",
+        "translations": {
+          "fr": "et il m'a guidé si généreusement que je suis débarrassé des futilités."
+        }
+      },
+      {
+        "number": 11,
+        "text": "رَحْمَانُ هَبْ لِجَمِيعِ الْخَلْقِ رَحْمَةَ مَنْ",
+        "transcription": "rahmaanu hab lijamiihil khalqi rahmata man",
+        "translations": {
+          "fr": "Clément, accorde Ta miséricorde à l'ensemble des créatures,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "يُغْنِى عَنِ الشَّرِّ مَنْ قُرْءَانَهُ قَرَءَا",
+        "transcription": "yughnii hanish sharri man qur-aanahu qara-aa",
+        "translations": {
+          "fr": "Toi qui protège celui qui lit ton Coran."
+        }
+      },
+      {
+        "number": 13,
+        "text": "حُطْ أُمَّةَ الْمُصْطَفَى عَنْ كُلِّ مَفْسَدَةٍ",
+        "transcription": "hut ummatal mustafaa han kulli mafsadatin",
+        "translations": {
+          "fr": "Protège la communauté de l'élu de tout malheur et accorde Ta miséricorde aux créatures,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَلْتَرْحَمِ الْخَلْقَ يَامَنْ جَدَّهُمْ بَدَءَا",
+        "transcription": "waltarhamil khalqa yaa man jaddahum bada-aa",
+        "translations": {
+          "fr": "Toi qui créas leur ancêtre (Adam)"
+        }
+      },
+      {
+        "number": 15,
+        "text": "يَامَالِكَ الْمُلْكِ يَامَنْ جَلَّ عَنْ قَوَدٍ",
+        "transcription": "yaa maalikal mulki yaa man jalla han qawadin",
+        "translations": {
+          "fr": "Détenteur de la Royauté qui transcende la rancune,"
+        }
+      },
+      {
+        "number": 16,
+        "text": "إِرْحَمْ جَمِيعَ الْوَرَى يَاهَادِيًا رَّدَءَا",
+        "transcription": "irham jamiihal waraa yaa haadiyan rada-aa",
+        "translations": {
+          "fr": "accorde Ta miséricorde à tous les hommes, Ô Guide protecteur."
+        }
+      },
+      {
+        "number": 17,
+        "text": "مَحَوْتَ مَا قَدْ نَحَاهُ الْقَلْبُ مِنْ ضَرَرٍ",
+        "transcription": "mahawta maa qad nahaahul qalbu min dararin",
+        "translations": {
+          "fr": "Tu as débarrassé mon coeur du mal qui le troublait"
+        }
+      },
+      {
+        "number": 18,
+        "text": "بِجَاهِ أَفْضَلِ مَنْ لِلَّهِ قَدْ لَجَئَا",
+        "transcription": "bijaahi afdali man lil laahi qad laja-aa",
+        "translations": {
+          "fr": "grâce au meilleur de ceux qui se sont réfugiés auprès de Dieu."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 193,
+    "name": "Zallat",
+    "transliterationName": "Zallat",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "zallat lihizzati rabbin anzalas suwaraa"
+      },
+      {
+        "number": 2,
+        "text": "jamaahatul khaliq wahwal muhsinus suwaraa"
+      },
+      {
+        "number": 3,
+        "text": "wajjahtu wajhii lahu habdan lahu abadan"
+      },
+      {
+        "number": 4,
+        "text": "zaa khidmatin lirasuulil laahi kal kubaraa"
+      },
+      {
+        "number": 5,
+        "text": "uhdii lahu bihadaa yal madhu naa filatan"
+      },
+      {
+        "number": 6,
+        "text": "wa bis salaati bihubit yuurisul kibaraa"
+      },
+      {
+        "number": 7,
+        "text": "lahu halayya liwajhil laahi laa lilaghan"
+      },
+      {
+        "number": 8,
+        "text": "duyuunu madhin taziidus sabqa wal mumuraa"
+      },
+      {
+        "number": 9,
+        "text": "qalib quluubal hidaa yaa rabbi fii humurii"
+      },
+      {
+        "number": 10,
+        "text": "linusratii wal tarud lii jumlatal umaraa"
+      },
+      {
+        "number": 11,
+        "text": "halayhi salli wa sallim bil kiraami wa hab"
+      },
+      {
+        "number": 12,
+        "text": "bihi liyal amna fid daarayni wal busharaa"
+      },
+      {
+        "number": 13,
+        "text": "dahawtukal yawma sakhkhii lil hidaa abadan"
+      },
+      {
+        "number": 14,
+        "text": "rud lil lahiina wa rud lil jinna wal basharaa"
+      },
+      {
+        "number": 15,
+        "text": "taraktu fii rajabin maa anta tahlamuhu"
+      },
+      {
+        "number": 16,
+        "text": "faltakfiniihaa wa hab lil aaya was suwara"
+      },
+      {
+        "number": 17,
+        "text": "hab lii quhudan bimaa tardaahu min hamalin"
+      },
+      {
+        "number": 18,
+        "text": "abqayta lil humra yaa man ahsanas suwaraa"
+      }
+    ]
+  }
+}

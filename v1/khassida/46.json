@@ -1,0 +1,492 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 46,
+    "name": "Inani Huztu 1",
+    "transliterationName": "Inani Huztu 1",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "إِنَّنِى عُذْتُ بِالْإِلَاهِ الْمُعِينِ",
+        "transcription": "innanii huztu bil ilaahil muhiini",
+        "translations": {
+          "fr": "Je me réfugie auprés de DIEU l'assistant"
+        }
+      },
+      {
+        "number": 2,
+        "text": "مِنْ جَمِيعِ الْأَذَى وَكُلِّ لَعِينِ",
+        "transcription": "min jamiihil azaa wa kulli lahiini",
+        "translations": {
+          "fr": "contre tout ce qui est nuisible."
+        }
+      },
+      {
+        "number": 3,
+        "text": "صَارِفًا هِمَّتِى لِرَبِّى تَعَالَى",
+        "transcription": "saarifan himmatii lirabbii tahaalaa",
+        "translations": {
+          "fr": "En tournant mes efforts vers mon Seigneur le Très-Haut"
+        }
+      },
+      {
+        "number": 4,
+        "text": "رَاجِيًا سَقْيَهُ بِمَآءٍ مَّعِينِ",
+        "transcription": "raajihan saq-yahu bimaa-in mahiini",
+        "translations": {
+          "fr": "espérant l'attribution d'une eau qui coule."
+        }
+      },
+      {
+        "number": 5,
+        "text": "مَاسِكًا بِالْكِتَابِ مَسْكَ ضَرِيرٍ",
+        "transcription": "maasikan bil kitaabi maska dariirin",
+        "translations": {
+          "fr": "En m'accrochant au Coran comme un aveugle qui empoigne"
+        }
+      },
+      {
+        "number": 6,
+        "text": "بِيَدِ الْقَآئِدِ الْبَصِيرِ الْمُعِينِ",
+        "transcription": "biyadil qaa-idil basiiril muhiini",
+        "translations": {
+          "fr": "avec l'aide du guide clairvoyant prêtant son secours."
+        }
+      },
+      {
+        "number": 7,
+        "text": "وَهْوَ عِزِّى وَرِفْعَتِى وَكُنُوزِى",
+        "transcription": "wahwa hizzii wa rifhatii wa kunuuzii",
+        "translations": {
+          "fr": "Il est ma gloire, mon honneur et mon trésor"
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَبِهِ أَرْتَجِى انْقِيَادَ الْحَرُونِ",
+        "transcription": "wa bihi artajin qiyaadal haruuni",
+        "translations": {
+          "fr": "et par considération pour Lui, je m'attends à la soumission du rétif."
+        }
+      },
+      {
+        "number": 9,
+        "text": "مَنْ بِهِ رَامَ رَوْضَ صَعْبٍ عَنِيدٍ",
+        "transcription": "man bihi raama rawda sahbin haniidin",
+        "translations": {
+          "fr": "Quiconque désire par considération pour Lui, surmonter un obstacle opiniêtre,"
+        }
+      },
+      {
+        "number": 10,
+        "text": "قَادَهُ طَآئِعًا لَّهُ عَنْ مُّرُونِ",
+        "transcription": "qaadahu taa-ihan lahu han muruuni",
+        "translations": {
+          "fr": "Il l'amène à Lui être obéissant par souplesse."
+        }
+      },
+      {
+        "number": 11,
+        "text": "وَهْوَ فَخْرِى وَعُرْوَتِى وَجَلِيسِى",
+        "transcription": "wahwa fakhrii wa hurwatii wa jaliisii",
+        "translations": {
+          "fr": "Il est ma fierté, ma protection sûre et mon compagnon"
+        }
+      },
+      {
+        "number": 12,
+        "text": "بِأَحَادِيثِ ذِى الْمَزَيَا الْمَكِينِ",
+        "transcription": "bi-ahaadiisi zil mazaayal makiini",
+        "translations": {
+          "fr": "par les Hadith du Distingué, de l'Influent."
+        }
+      },
+      {
+        "number": 13,
+        "text": "أَحْمَدِ الْحَامِدِينَ أَحْمَدَ غَوْثِى",
+        "transcription": "ahmadil haamidiina ahmada ghawsi",
+        "translations": {
+          "fr": "Le plus digne d'éloge, Ahmed mon assistance par ceci et cela,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَلِرَبِّى بِذَا وَتِلْكَ رُكُونِ",
+        "transcription": "wa lirabbii bizaa wa tilka rukuuni",
+        "translations": {
+          "fr": "j'ai confiance en mon Seigneur."
+        }
+      },
+      {
+        "number": 15,
+        "text": "يَآ إِلَاهِى عَلَيْهِ صَلِّ وَسَلِّمْ",
+        "transcription": "yaa ilaahii halayhi salli wa sallim",
+        "translations": {
+          "fr": "Ô mon DIEU bénis-le et accorde-lui un salut"
+        }
+      },
+      {
+        "number": 16,
+        "text": "مَعَ ءَالٍ لَّهُ وَأَهْلِ الْيَقِينِ",
+        "transcription": "maha aalin lahu wa ahlil yaqiini",
+        "translations": {
+          "fr": "avec sa famille et ceux qui sont convaincus."
+        }
+      },
+      {
+        "number": 17,
+        "text": "مِنْ صَحَابٍ تَبَتَّلُواْ لِوَكِيلٍ",
+        "transcription": "min sahaabin tabattaluu liwakiilin",
+        "translations": {
+          "fr": "Parmi les Compagnons attachés à l'homme de confiance"
+        }
+      },
+      {
+        "number": 18,
+        "text": "قَدْ هَدَاهُمْ بِنُورِ حَقِّ الْيَقِينِ",
+        "transcription": "qad hadaahum binuuri haqqil yaqiini",
+        "translations": {
+          "fr": "qui les a conduit avec la lumière de la vraie religion."
+        }
+      },
+      {
+        "number": 19,
+        "text": "رَبِّ هَبْ لِى اسْتِقَامَةً وَانْطِلَاقًا",
+        "transcription": "rabbi hab lis tiqaamatan wan tilaaqan",
+        "translations": {
+          "fr": "Mon Seigneur, donne-moi la droiture et l'épanouissement"
+        }
+      },
+      {
+        "number": 20,
+        "text": "بِالْمَرَاضِى وَلْتَمْحُ عَنِّى دَفِينِ",
+        "transcription": "bil maraadii waltamhu hannii dafiini",
+        "translations": {
+          "fr": "et ôte-moi par tes faveurs, ce qui est d'abord caché et finit par se manifester."
+        }
+      },
+      {
+        "number": 21,
+        "text": "يَآ إِلَاهِى يَامَنْ عَلَيْهِ اتِّكَالِى",
+        "transcription": "yaa ilaahii yaa man halayhit tikaalii",
+        "translations": {
+          "fr": "Ô mon DIEU, Ô le Seigneur à qui je me fie entièrement"
+        }
+      },
+      {
+        "number": 22,
+        "text": "فُكَّ كَبْلِى بِرَوْضِ أَهْلِ السَّفِينِ",
+        "transcription": "fukka kablii birawdi ahlis safiini",
+        "translations": {
+          "fr": "défait ma chaine en domptant les gens du coin."
+        }
+      },
+      {
+        "number": 23,
+        "text": "عَجِّلِ الْفَتْحَ وَلْتَجُدْ بِفُيُوضٍ",
+        "transcription": "hajjilil fat-ha waltajud bifuyuudin",
+        "translations": {
+          "fr": "Active l'inspiration et accorde généreusement"
+        }
+      },
+      {
+        "number": 24,
+        "text": "مُخْجِلَاتٍ سَكْبَ انْسِكَابِ الدُّجُونِ",
+        "transcription": "mukhjilaatin sakban sikaabid dujuuni",
+        "translations": {
+          "fr": "un déversement semblable à celui des averses."
+        }
+      },
+      {
+        "number": 25,
+        "text": "رَبِّ وَافْكُكْ أَسْرِى وَرَهْنِى فَإِنِّى",
+        "transcription": "rabbi wafkuk asrii wa rahnii fa-innii",
+        "translations": {
+          "fr": "Affranchis-moi et retire mon gage"
+        }
+      },
+      {
+        "number": 26,
+        "text": "بِذُنُوبِى مُكَبَّلٌ فِى سُجُونِ",
+        "transcription": "bizunuubi mukabbalun fii sujuuni",
+        "translations": {
+          "fr": "je suis lié en prison par mes pêchés."
+        }
+      },
+      {
+        "number": 27,
+        "text": "رَبِّ إِنِّى عَبْدٌ كَثِيرُ الْمَعَاصِى",
+        "transcription": "rabbi innii habdun kasiirul mahaasii",
+        "translations": {
+          "fr": "Seigneur, je suis un serviteur ayant beaucoup désobéi"
+        }
+      },
+      {
+        "number": 28,
+        "text": "فَالْمَعَاصِى حَآءِ وَبَآءِ وَسِينِ",
+        "transcription": "fal mahaasii haa-i wa baa-i wa siini",
+        "translations": {
+          "fr": "et les péchés équivalant à 2-6-60."
+        }
+      },
+      {
+        "number": 29,
+        "text": "رَبِّنِى رَبِّ رَقِّنِى رُمَّ شَأْنِى",
+        "transcription": "rabbinii rabbi raqqinii rumma sha-nii",
+        "translations": {
+          "fr": "Seigneur éduque-moi, adoucis-moi, arrange mes affaires"
+        }
+      },
+      {
+        "number": 30,
+        "text": "زَكِّ لِى النُّونَ قَبْلَ فَآءٍ وَسِينِ",
+        "transcription": "zakki lin nuuna qabla faa-in wa siini",
+        "translations": {
+          "fr": "purifies-moi la science avant 40-60."
+        }
+      },
+      {
+        "number": 31,
+        "text": "خَلِّنِى رَبِّ خَلِّنِى بِالْمَزَايَا",
+        "transcription": "khallinii rabbi khallinii bil mazaayaa",
+        "translations": {
+          "fr": "Mon Seigneur, change-moi donne-moi des qualités"
+        }
+      },
+      {
+        "number": 32,
+        "text": "مِثْلَ شِينٍ مِّنْ قَبْلِ مِيمٍ وَسِينِ",
+        "transcription": "misla shiinin min qabli miimin wa siini",
+        "translations": {
+          "fr": "comme 300 avant 40 et 60."
+        }
+      },
+      {
+        "number": 33,
+        "text": "لِى اسْتَجِبْ دَعْوَتِى بِمَا فَاقَ ظَنِّى",
+        "transcription": "lis tajib dahwatii bimaa faaqa zannii",
+        "translations": {
+          "fr": "Exauce mes prières au-delà de mes présomptions"
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَبِمَا فَاقَ رَبِّ كُلَّ ظُنُونِ",
+        "transcription": "wa bimaa faaqa rabbi kulla zunuuni",
+        "translations": {
+          "fr": "et de toutes autres supputations."
+        }
+      },
+      {
+        "number": 35,
+        "text": "هَبْ لِىَ الْكَشْفَ ذَا عُلُومٍ وَسَعْىٍ",
+        "transcription": "hab liyal kashfa zaa huluumin wa sah-yin",
+        "translations": {
+          "fr": "Donne-moi la révélation dotée de connaissance et d'application"
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَامْحُ عَنِّى مَاكَانَ مِثْلَ جُنُونِ",
+        "transcription": "wamhu hannii maakaana misla junuuni",
+        "translations": {
+          "fr": "et enlève-moi ce qui était comme un voile."
+        }
+      },
+      {
+        "number": 37,
+        "text": "هَبْ لِىَ الْيَوْمَ يَآ إِلَاهِى رُسُوخًا",
+        "transcription": "hab liyal yawma yaa ilaahii rusuukhan",
+        "translations": {
+          "fr": "Ô mon DIEU accorde-moi la solidité aujourd'hui"
+        }
+      },
+      {
+        "number": 38,
+        "text": "صَفِّ لِى كَلْكَلِى بِغَيْرِ رُيُونِ",
+        "transcription": "saffi lii kalkalii bighayri ruyuuni",
+        "translations": {
+          "fr": "épure-moi ma poitrine sans dépravation du coeur."
+        }
+      },
+      {
+        "number": 39,
+        "text": "وَاعْفُ عَنِّى وَعَنِّىَ احْمِلْ حُقُوقًا",
+        "transcription": "wahfu hannii wa hanniyah mil huquuqan",
+        "translations": {
+          "fr": "Pardonne-moi et décharge-moi des droits appartenant aux hommes"
+        }
+      },
+      {
+        "number": 40,
+        "text": "لِلْبَرَايَا وَلْتَقْضِ عَنِّى دُيُونِ",
+        "transcription": "lil baraayaa waltaqdi hannii duyuuni",
+        "translations": {
+          "fr": "et acquitte mes dettes à ma place."
+        }
+      },
+      {
+        "number": 41,
+        "text": "وَلْتَجُدْ لِى بِأَنْ أَكُونَ خَدِيمًا",
+        "transcription": "waltajud lii bi-an akuuna khadiiman",
+        "translations": {
+          "fr": "Accorde-moi à tout moment la faveur"
+        }
+      },
+      {
+        "number": 42,
+        "text": "لِلْكِتَابِ الْعَزِيزِ فِى كُلِّ حِينِ",
+        "transcription": "lil kitaabil haziizi fii kulli hiini",
+        "translations": {
+          "fr": "d'être un serviteur du Livre honoré."
+        }
+      },
+      {
+        "number": 43,
+        "text": "هَبْ لِىَ الْيَوْمَ أَخْذَدِينِىَ مِنْهُ",
+        "transcription": "hab liyal yawma akhzadiiniya minhu",
+        "translations": {
+          "fr": "Fais-moi la grâce d'en tirer mes pratiques religieuses"
+        }
+      },
+      {
+        "number": 44,
+        "text": "قَآئِمًا تَالِيًا بِغَيْرِ لُحُونِ",
+        "transcription": "qaa-iman taaliyan bighayri luhuuni",
+        "translations": {
+          "fr": "et d'être inébranlable tout en le lisant sans faute de langage."
+        }
+      },
+      {
+        "number": 45,
+        "text": "لِى اكْشِفِ اسْرَارَهُ وَلِى هَبْ هُدَاهُ",
+        "transcription": "lik shifis raarahu wa lii hab hudaahu",
+        "translations": {
+          "fr": "Révèle-moi les secrets et mets-moi sur le droit chemin"
+        }
+      },
+      {
+        "number": 46,
+        "text": "وَهُدَى سُنَّةِ الْأَمِينِ الْمَكِينِ",
+        "transcription": "wa hudaa sunnatil amiinil makiini",
+        "translations": {
+          "fr": "et celui du Prophète, le digne de confiance ayant le rang élevé."
+        }
+      },
+      {
+        "number": 47,
+        "text": "صَلِّ دَأْبًا عَلَيْهِ رَبِّ وَسَلِّمْ",
+        "transcription": "salli da-ban halayhi rabbi wa sallim",
+        "translations": {
+          "fr": "Seigneur, bénit-le et accorde lui un salut perpétuel"
+        }
+      },
+      {
+        "number": 48,
+        "text": "وَلْتُدِيمْ لِى بِهِ إِلَيْكَ سُكُونِ",
+        "transcription": "waltudiim lii bihi ilayka sukuuni",
+        "translations": {
+          "fr": "par considération pour Lui, ma confiance en Toi."
+        }
+      },
+      {
+        "number": 49,
+        "text": "وَلْتُدِيمْ لِى تِلَاوَةً وَقِيَامًا",
+        "transcription": "waltudiim lii tilaawatan wa qiyaaman",
+        "translations": {
+          "fr": "Incite-moi en permanence à la lecture du Livre"
+        }
+      },
+      {
+        "number": 50,
+        "text": "فِى اللَّيَالِى وَارْفَعْ دَوَامًا شُئُونِ",
+        "transcription": "fil layaalii warfah dawaaman shu-uuni",
+        "translations": {
+          "fr": "aux dévotions nocturnes et élève toujours mon rang."
+        }
+      },
+      {
+        "number": 51,
+        "text": "بِإِمَامِى وَمَلْجَإِى وَرَئِيسِى",
+        "transcription": "bi-imaamii wa malja-ii wa ra-iisii",
+        "translations": {
+          "fr": "Par honneur pour mon imam, mon recours et mon guide,"
+        }
+      },
+      {
+        "number": 52,
+        "text": "وَبِهِ سَرْمَدًا تَوَلَّ مُئُونِ",
+        "transcription": "wa bihi sarmadan tawalla mu-uuni",
+        "translations": {
+          "fr": "charge-toi de l'approvisionnement de mes vivres."
+        }
+      },
+      {
+        "number": 53,
+        "text": "وَلْتَهَبْ لِى اقْتِفَآءَهُ بِاعْتِقَادٍ",
+        "transcription": "waltahab liq tifaa-ahu bihtiqaadin",
+        "translations": {
+          "fr": "Accorde-moi la faveur de suivre pas à pas le Prophète tant par conviction"
+        }
+      },
+      {
+        "number": 54,
+        "text": "وَمَقَالٍ كَالْفِعْلِ وَقْتَ قُطُونِ",
+        "transcription": "wa maqaalin kal fihli waqta qutuuni",
+        "translations": {
+          "fr": "qu'en paroles et actes au moment de te servir."
+        }
+      },
+      {
+        "number": 55,
+        "text": "وَبِهِ زَحْزِحِ الْأَعَادِىَ عَنِّى",
+        "transcription": "wa bihi zahzihil ahaadiya hannii",
+        "translations": {
+          "fr": "Eloigne les ennemis de moi par considération pour Lui,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "وَلْتَصُ لِّى عَنْهُمْ دَوَامًا بُطُونِ",
+        "transcription": "waltasu lii hanhum dawaaman butuuni",
+        "translations": {
+          "fr": "ferme leur continuellement la porte de mon intérieur."
+        }
+      },
+      {
+        "number": 57,
+        "text": "يَامُغِيثًا يُعِينُ كُلَّ فَقِيرٍ",
+        "transcription": "yaa mughiisan yuhiinu kulla faqiirin",
+        "translations": {
+          "fr": "Ô Toi qui viens au secours de tout pauvre,"
+        }
+      },
+      {
+        "number": 58,
+        "text": "فُكَّ كَبْلَ الَذِى غَدَا كَالرَّهِينِ",
+        "transcription": "fukka kablal lazii ghadaa kar rahiini",
+        "translations": {
+          "fr": "dégage la chaine de celui qui se retrouve le matin comme un otage."
+        }
+      },
+      {
+        "number": 59,
+        "text": "رَبِّ بِالْمُصْطَفَى الْمُقَفَّى حَبِيبِى",
+        "transcription": "rabbi bil mustafal muqaffaa habiibii",
+        "translations": {
+          "fr": "Par considération pour l'honoré Moustapha mon ami"
+        }
+      },
+      {
+        "number": 60,
+        "text": "وَطَبِيبِى مِنَ الْعُضَالِ الْمُهِينِ",
+        "transcription": "wa tabiibii minal hudaalil muhiini",
+        "translations": {
+          "fr": "et mon médecin contre les choses complexes et humiliantes."
+        }
+      }
+    ]
+  }
+}

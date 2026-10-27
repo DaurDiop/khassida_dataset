@@ -1,0 +1,172 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 108,
+    "name": "Minal Haqqi",
+    "transliterationName": "Minal Haqqi",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "مِنَ الْحَقِّ جَآءَ الْحَقُّ لِلْحَقِّ فِى الصَّحْبِ",
+        "transcription": "minal haqqi jaa-al haqqu lil haqqi fis sahbi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "بِحَقِّ مُّبِينِ لَّايُعَانِيهِ مِنْ صَعْبِ",
+        "transcription": "bihaqqi mubiini laa yuhaaniihi min sahbi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "كِتَابٌ بِهِ نَرْجُو مِنَ اللَّهِ رَحْمَةً",
+        "transcription": "kitaabun bihi narjuu minal laahi rahmatan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَنَنْجُو بِهِ دُنْيَا وَأُخْرَى مِنَ الْكَرْبِ",
+        "transcription": "wa nanjuu bihi dunyaa wa ukhraa minal karbi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "رَجَوْنَا مِنَ الْمَوْلَى بِهِ خَيْرَ مَطْلَبٍ",
+        "transcription": "rajawnaa minal mawlaa bihi khayra matlabin",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَفُزْنَا بِهِ فِى كُلِّ دَفْعٍ وَفِى جَلْبِ",
+        "transcription": "wa fuznaa bihi fii kulli dafhin wa fii jalbi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "لَقَدْ صَارَ كَنْزًا بَاقِيًا عِزَّةً لَّنَا",
+        "transcription": "laqad saara kanzan baaqiyan hizzatan lanaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "يَقِينَا بِهِ الْمَوْلَى أَذَى كُلِّ ذِى دَبِّ",
+        "transcription": "yaqiinaa bihil mawlaa azaa kulli zii dabbi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "إِذَا مَاتَلَوْنَا الْئَاىَ فُزْنَا بِمَا اخْتَفَى",
+        "transcription": "izaa maatalawnal aaya fuznaa bimakh tafaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "عَلَى غَيْرِنَا مِنْ سِرِّهِ الْجَالِبِ الْحُبِّ",
+        "transcription": "halaa ghayrinaa min sirrihi jaalibil hubbi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "قَهَرْنَا بِهِ الْأَعْدَآءَ طُرًا وَقَادَنَآ",
+        "transcription": "qaharnaa bihil ahdaa-a turran wa qaadanaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "إِلَى الْأَكْرَمِ الْوَهَّبِ فِى الْبُعْدِ وَالْقُرْبِ",
+        "transcription": "ilal akramil wahhabi fil buhdi wal qurbi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "تَفَرَقَنَا الْأَعْدَآءُ وَالشَّكُّ وَالْبَلَا",
+        "transcription": "tafaraqanal ahdaa-u wash shakku wal balaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "بِهِ وَأُنِلْنَا الْخِصْبَ بَعْدَ انْتِفَا الْجَدْبِ",
+        "transcription": "bihi wa unilnal khisba bahdan tifal jadbi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "ظَفِرْنَا بِهِ مِمَّنْ هَدَانَا تَلَقِّيًا",
+        "transcription": "zafirnaa bihi mimman hadaanaa talaqqiyan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "بِجَاهِ الَّذِى أَمْدَاحُهُ قَدْ غَدَتْ دَاْبِى",
+        "transcription": "bijaahil lazii amdaahuhu qad ghadat da-bii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "عَلَيْهِ صَلَاةُ اللَّهِ جَلَّ جَلَالُهُ",
+        "transcription": "halayhi salaatul laahi jalla jalaaluhu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "بِأَصْحَابِهِ عَنْ ءَالِهِ أَفْضَلِ الْحِزْبِ",
+        "transcription": "bi as-haabihi han aalihi afdalil hizbi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "عَلَيْهِ سَلَامُ اللَّهِ مَادَامَ مُصْطَفَى",
+        "transcription": "halayhi salaamul laahi maadaama mustafaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "وَمَالَيَّنَ الْمَوْلَى بِهِ أَصْعَبِ الصَّعْبِ",
+        "transcription": "wa maa layynal mawlaa bihi as-habis sahbi",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

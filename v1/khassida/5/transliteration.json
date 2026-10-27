@@ -1,0 +1,333 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 5,
+    "name": "Ajabani Rabbus Sama 1",
+    "transliterationName": "Ajabani Rabbus Sama 1",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "ajaabanii rabbus samaa"
+      },
+      {
+        "number": 2,
+        "text": "wal ardi bil lazii samaa"
+      },
+      {
+        "number": 3,
+        "text": "wa minhu qaada lis sumaa"
+      },
+      {
+        "number": 4,
+        "text": "wa nihma maa lii qasamaa"
+      },
+      {
+        "number": 5,
+        "text": "sallamanii minal hidaa"
+      },
+      {
+        "number": 6,
+        "text": "lam yanhu nahwii man hadaa"
+      },
+      {
+        "number": 7,
+        "text": "wa raada lii manih tadaa"
+      },
+      {
+        "number": 8,
+        "text": "wa kaana lii wa hazzamaa"
+      },
+      {
+        "number": 9,
+        "text": "madda liyal baaqil kariim"
+      },
+      {
+        "number": 10,
+        "text": "jumlata maa kuntu aruum"
+      },
+      {
+        "number": 11,
+        "text": "minhu wa shukrahu aruum"
+      },
+      {
+        "number": 12,
+        "text": "wa dahha man tahazzamaa"
+      },
+      {
+        "number": 13,
+        "text": "akramanil baaqil qaadiim"
+      },
+      {
+        "number": 14,
+        "text": "bi-annanil habdul khadiim"
+      },
+      {
+        "number": 15,
+        "text": "wa jaada lii bimaa yaduum"
+      },
+      {
+        "number": 16,
+        "text": "bihablihi muhtasimaa"
+      },
+      {
+        "number": 17,
+        "text": "lahu khitaabii shaakiraa"
+      },
+      {
+        "number": 18,
+        "text": "wa tayyabal mashaakiraa"
+      },
+      {
+        "number": 19,
+        "text": "habdan shakuuran zaakiraa"
+      },
+      {
+        "number": 20,
+        "text": "wa bibaqaa-ii hasamaa"
+      },
+      {
+        "number": 21,
+        "text": "lii qaada fadlahul haziim"
+      },
+      {
+        "number": 22,
+        "text": "wa qaada lid durran naziim"
+      },
+      {
+        "number": 23,
+        "text": "wa liya kaana bihaziim"
+      },
+      {
+        "number": 24,
+        "text": "wa liya qaada nihamaa"
+      },
+      {
+        "number": 25,
+        "text": "ajaabanii bil ahzami"
+      },
+      {
+        "number": 26,
+        "text": "fin nasri wal muntazami"
+      },
+      {
+        "number": 27,
+        "text": "wa dahha zaa tahazzumi"
+      },
+      {
+        "number": 28,
+        "text": "walaa yazaalu munhimaa"
+      },
+      {
+        "number": 29,
+        "text": "huwal ilaahu was samad"
+      },
+      {
+        "number": 30,
+        "text": "muhlis samaa bilaa hamad"
+      },
+      {
+        "number": 31,
+        "text": "wa qad kafaaniyal kamad"
+      },
+      {
+        "number": 32,
+        "text": "wa kaana lii wa karramaa"
+      },
+      {
+        "number": 33,
+        "text": "azhaba maa lam yarda lii"
+      },
+      {
+        "number": 34,
+        "text": "bikhidmatil mufaddali"
+      },
+      {
+        "number": 35,
+        "text": "wa kaana lii bil afdali"
+      },
+      {
+        "number": 36,
+        "text": "wa qaada lit takarrumaa"
+      },
+      {
+        "number": 37,
+        "text": "laqqananiz zikral hakiim"
+      },
+      {
+        "number": 38,
+        "text": "ilayhi bii qaadal hakiim"
+      },
+      {
+        "number": 39,
+        "text": "yassara lii nihmal hakiim"
+      },
+      {
+        "number": 40,
+        "text": "hallamanii wa fahhamaa"
+      },
+      {
+        "number": 41,
+        "text": "alaana lii rabbil quluub"
+      },
+      {
+        "number": 42,
+        "text": "lii jaada fadlan bihaliib"
+      },
+      {
+        "number": 43,
+        "text": "qaada lahu biyal quluub"
+      },
+      {
+        "number": 44,
+        "text": "wa saana lii maa abhamaa"
+      },
+      {
+        "number": 45,
+        "text": "huluumuhu qalbii hadat"
+      },
+      {
+        "number": 46,
+        "text": "wassala lii munan badat"
+      },
+      {
+        "number": 47,
+        "text": "hadiyyatan hindii ghadat"
+      },
+      {
+        "number": 48,
+        "text": "taquudu man lam yahlamaa"
+      },
+      {
+        "number": 49,
+        "text": "zulmii mahaa bilaa subuut"
+      },
+      {
+        "number": 50,
+        "text": "juztu balaa-al hankabuut"
+      },
+      {
+        "number": 51,
+        "text": "yaqiilu humrii wa yabiit"
+      },
+      {
+        "number": 52,
+        "text": "ilal jinaani sullamaa"
+      },
+      {
+        "number": 53,
+        "text": "mallakanii nuural lisaan"
+      },
+      {
+        "number": 54,
+        "text": "baaqin yaquudu lil hisaan"
+      },
+      {
+        "number": 55,
+        "text": "wa liya saddadal lisaan"
+      },
+      {
+        "number": 56,
+        "text": "wa liya qaadal muhkamaa"
+      },
+      {
+        "number": 57,
+        "text": "hallamanil laahul khabiir"
+      },
+      {
+        "number": 58,
+        "text": "wa qaada lil ajral kabiir"
+      },
+      {
+        "number": 59,
+        "text": "wa dahha qitlii lil ghubuur"
+      },
+      {
+        "number": 60,
+        "text": "wa saananii wa hakkamaa"
+      },
+      {
+        "number": 61,
+        "text": "nabaztu maa hanniya baah"
+      },
+      {
+        "number": 62,
+        "text": "man liya qaada tuula baah"
+      },
+      {
+        "number": 63,
+        "text": "wa liya nawwarat tibaah"
+      },
+      {
+        "number": 64,
+        "text": "walaa yuriinii alamaa"
+      },
+      {
+        "number": 65,
+        "text": "dahaaniyal baaqii ilaa"
+      },
+      {
+        "number": 66,
+        "text": "jannatihi zaatil ilaa"
+      },
+      {
+        "number": 67,
+        "text": "wa minhu qaada lii ilaa"
+      },
+      {
+        "number": 68,
+        "text": "wa kalkalii qad hallamaa"
+      },
+      {
+        "number": 69,
+        "text": "raddinayal laahush shakuur"
+      },
+      {
+        "number": 70,
+        "text": "ilaa mahaadii bishukuur"
+      },
+      {
+        "number": 71,
+        "text": "bikhidmatil habdish shakuur"
+      },
+      {
+        "number": 72,
+        "text": "wa lii ataabash shiyamaa"
+      },
+      {
+        "number": 73,
+        "text": "barra-anii minat tuham"
+      },
+      {
+        "number": 74,
+        "text": "wa jaada lii biman baham"
+      },
+      {
+        "number": 75,
+        "text": "wa saananii hanil waham"
+      },
+      {
+        "number": 76,
+        "text": "wa lii hayaatii hasamaa"
+      },
+      {
+        "number": 77,
+        "text": "barakatul maahil walii"
+      },
+      {
+        "number": 78,
+        "text": "nuuri rabiihil awwali"
+      },
+      {
+        "number": 79,
+        "text": "nafat zawit taqawwuli"
+      },
+      {
+        "number": 80,
+        "text": "wa man abaahun fasamaa"
+      }
+    ]
+  }
+}

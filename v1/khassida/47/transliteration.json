@@ -1,0 +1,245 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 47,
+    "name": "Inani Huztu 2",
+    "transliterationName": "Inani Huztu 2",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "lis tajib waltusaffi qalbii wa nawwir"
+      },
+      {
+        "number": 2,
+        "text": "waasihan waahiyan jamiihal mutuuni"
+      },
+      {
+        "number": 3,
+        "text": "waltajud lii bihismatin fii dawaamin"
+      },
+      {
+        "number": 4,
+        "text": "zaa najaatin minal azaa wal futuuni"
+      },
+      {
+        "number": 5,
+        "text": "rabbi hajjil qadaa-a haajii wa bashshir"
+      },
+      {
+        "number": 6,
+        "text": "haajilan bii masaajidii wa quruuni"
+      },
+      {
+        "number": 7,
+        "text": "rabbi qud lii wa jud bi-asani su-lin"
+      },
+      {
+        "number": 8,
+        "text": "liya wajhal haazal kitaaba qariini"
+      },
+      {
+        "number": 9,
+        "text": "wa liyash had binabzi maa bihtu qat-han"
+      },
+      {
+        "number": 10,
+        "text": "wa liyaj hal qafwal mushaffahi diini"
+      },
+      {
+        "number": 11,
+        "text": "salli rabbi da-ban halayhi wa sallim"
+      },
+      {
+        "number": 12,
+        "text": "bil malaa man bihim badaa taldiini"
+      },
+      {
+        "number": 13,
+        "text": "rabbi jud lii dunyaa wa ukhraa bikawnii"
+      },
+      {
+        "number": 14,
+        "text": "haabidan khaadiman bikhayri sadiini"
+      },
+      {
+        "number": 15,
+        "text": "laka daarus salaami rabbi wa tuubaa"
+      },
+      {
+        "number": 16,
+        "text": "liya kun rabbi fiihimaa zaa huduuni"
+      },
+      {
+        "number": 17,
+        "text": "waltarud lii yaa rabbi barran wa bahran"
+      },
+      {
+        "number": 18,
+        "text": "maakisan fii mashaakirii zaa husuuni"
+      },
+      {
+        "number": 19,
+        "text": "waltudim lii qanaahatan bika rabbii"
+      },
+      {
+        "number": 20,
+        "text": "raashidan murshidan bisirri masuuni"
+      },
+      {
+        "number": 21,
+        "text": "waltasuq lii maraaghibii duuna kaddin"
+      },
+      {
+        "number": 22,
+        "text": "haabidan khaadiman bi-afdali diini"
+      },
+      {
+        "number": 23,
+        "text": "wa biyanfah dunyaa wa ukhraa hiyaalii"
+      },
+      {
+        "number": 24,
+        "text": "munqizan kulla saa-ilin wa madiini"
+      },
+      {
+        "number": 25,
+        "text": "waltubashshir zawil huluumi bihilmii"
+      },
+      {
+        "number": 26,
+        "text": "wa zawil jahli waltarud liya hiini"
+      },
+      {
+        "number": 27,
+        "text": "waltubashshir zawit tahallumi turran"
+      },
+      {
+        "number": 28,
+        "text": "wa biyahsim jamiihahum min luhuuni"
+      },
+      {
+        "number": 29,
+        "text": "waltubashshir biyal yataamaa dawaaman"
+      },
+      {
+        "number": 30,
+        "text": "ansihim bii aabaa-ahum kulla hiini"
+      },
+      {
+        "number": 31,
+        "text": "rabbi zidnii hilman wa zidniya sah-yan"
+      },
+      {
+        "number": 32,
+        "text": "yaa kariiman ilayhi da-ban haniini"
+      },
+      {
+        "number": 33,
+        "text": "hab liyal kashfa mustaqiiman muniiban"
+      },
+      {
+        "number": 34,
+        "text": "fil kitaabil mubiini aslil funuuni"
+      },
+      {
+        "number": 35,
+        "text": "wastajib dahwatii wa bil tuf wa suq lii"
+      },
+      {
+        "number": 36,
+        "text": "fawqa maa rumtu bishtikan wa aniini"
+      },
+      {
+        "number": 37,
+        "text": "waltasuq minka rabbi khayra salaatin"
+      },
+      {
+        "number": 38,
+        "text": "bisalaamin ilash shafiihil amiini"
+      },
+      {
+        "number": 39,
+        "text": "waltahab lii sahaadatan waltuwassih"
+      },
+      {
+        "number": 40,
+        "text": "waktubannii bihi min ahlil yamiini"
+      },
+      {
+        "number": 41,
+        "text": "waltuhiznii minal azaa wal balaayaa"
+      },
+      {
+        "number": 42,
+        "text": "waltarud lil hidaa wa khallid mahuuni"
+      },
+      {
+        "number": 43,
+        "text": "wakfinii jumlatal hidaa waltuhiznii"
+      },
+      {
+        "number": 44,
+        "text": "bika min ibliisar rajiimil lahiini"
+      },
+      {
+        "number": 45,
+        "text": "waltunawwir qalbii bifat-hin wa lishrah"
+      },
+      {
+        "number": 46,
+        "text": "rabbi sadrii bifaydi maa-in mahiini"
+      },
+      {
+        "number": 47,
+        "text": "waltasuq lii maraaghibii fii daawaamin"
+      },
+      {
+        "number": 48,
+        "text": "yaa muhiinan maazaala khayra muhiini"
+      },
+      {
+        "number": 49,
+        "text": "wahdinil yawma yaa ilaahiya wajhal"
+      },
+      {
+        "number": 50,
+        "text": "hamalii zaakiyan kasahyil huyuuni"
+      },
+      {
+        "number": 51,
+        "text": "wamhu hannii mahaa-inii waltarud lii"
+      },
+      {
+        "number": 52,
+        "text": "sarmadan kulla zii juhuudin mayuuni"
+      },
+      {
+        "number": 53,
+        "text": "waltazid afdalal baraayaa salaatan"
+      },
+      {
+        "number": 54,
+        "text": "wa salaaman wa zid dawaaman kunuuni"
+      },
+      {
+        "number": 55,
+        "text": "zidniyal hifza min manaahiika turran"
+      },
+      {
+        "number": 56,
+        "text": "wahminii han azaa hasuudin daniini"
+      },
+      {
+        "number": 57,
+        "text": "waltukammil haqdii wa hilmii wa sahyii"
+      },
+      {
+        "number": 58,
+        "text": "warfahil yawma kullahaa yaa muhiini"
+      }
+    ]
+  }
+}

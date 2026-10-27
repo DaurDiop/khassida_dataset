@@ -1,0 +1,149 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 159,
+    "name": "Sana Ilaahi",
+    "transliterationName": "Sana Ilaahi",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "صَانَ إِلَاهِى بِالْمُنَى جِهَاتِى",
+        "transcription": "saana ilaahii bil munaa jihaatii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "وَأَبَدًا أَغْنَى يَدِى عَنْ هَاتِ",
+        "transcription": "wa abadan aghnaa yadii han haati",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "دَلَّ عَلَىَّ الْعُلَمَآ وَالْأَوْلِيَآ",
+        "transcription": "dalla halayyal hulamaa wal awliyaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "مَنْ لَّا يَزَالُ قُؤَتِى وَحَوْلِيَا",
+        "transcription": "man laa yazaalu qu-atii wa hawliyaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "قَصِيدَتِى فَاقَتْ قَصَآءِدَ الْكِرَامْ",
+        "transcription": "qasiidatii faaqat qasaa-idal kiraam",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَلِى تَقُودُ أَبَدًا خَيْرَ الْمَرَامْ",
+        "transcription": "wa lii taquudu abadan khayral maraam",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "هَدِيَّتِى مُخْجِلَةٌ كُلَّ مَلِكْ",
+        "transcription": "hadiyyatii mukhjilatun kulla malik",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "كَانَ مُنَازِعًا وَأَخْزَاهُ الْمَلِكْ",
+        "transcription": "kaana munaazi han wa akhzaahul malik",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "مَحَاتَوَ جُّهَ النَّصَرَى اللَّهُ",
+        "transcription": "mahaatawa juhan nasaral laahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "لِىَ بِلَآ إِلَاهَ إِلَّا اللَّهُ",
+        "transcription": "liya bilaa ilaaha illal laahu",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "صَانَ إِلَاهِى بِالْمُنَى جِهَاتِى ۞ وَأَبَدًا أَغْنَى يَدِى عَنْ هَاتِ",
+        "translations": {
+          "it.karamati": "Il mio Dio ha custodito ogni mio orizzonte colmandolo di desideri esauditi, e per sempre ha reso la mia mano libera dal dover dire «dammi».",
+          "en.karamati": "My God has guarded my every horizon, filling it with granted wishes, and forever He has freed my hand from having to say \"give me\".",
+          "fr.karamati": "Mon Dieu a gardé chacun de mes horizons en le comblant de vœux exaucés, et à jamais Il a affranchi ma main d'avoir à dire « donne-moi »."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "دَلَّ عَلَىَّ الْعُلَمَآ وَالْأَوْلِيَآ ۞ مَنْ لَّا يَزَالُ قُؤَتِى وَحَوْلِيَا",
+        "translations": {
+          "it.karamati": "Ha guidato a me i sapienti e i Santi (al-awliyāʾ) Colui (Allah) che non cessa d'essere la mia forza e la mia potenza.",
+          "en.karamati": "He (Allah) who never ceases to be my strength and my might has guided the learned and the Saints (al-awliyāʾ) to me.",
+          "fr.karamati": "A guidé vers moi les savants et les Saints (al-awliyāʾ) Celui (Allah) qui ne cesse d'être ma force et ma puissance."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "قَصِيدَتِى فَاقَتْ قَصَآءِدَ الْكِرَامْ ۞ وَلِى تَقُودُ أَبَدًا خَيْرَ الْمَرَامْ",
+        "translations": {
+          "it.karamati": "Il mio poema ha superato i poemi dei nobili, e per sempre conduce a me il più eccelso dei desideri.",
+          "en.karamati": "My ode has surpassed the odes of the noble, and forever it leads to me the most excellent of wishes.",
+          "fr.karamati": "Mon poème a surpassé les poèmes des nobles, et à jamais il conduit vers moi le plus excellent des vœux."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "هَدِيَّتِى مُخْجِلَةٌ كُلَّ مَلِكْ ۞ كَانَ مُنَازِعًا وَأَخْزَاهُ الْمَلِكْ",
+        "translations": {
+          "it.karamati": "Il mio dono copre di vergogna ogni re che si è posto come rivale, e il Re (Allah) lo ha umiliato.",
+          "en.karamati": "My gift puts to shame every king who set himself up as a rival, and the King (Allah) has abased him.",
+          "fr.karamati": "Mon présent couvre de honte tout roi qui s'est posé en rival, et le Roi (Allah) l'a humilié."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "مَحَاتَوَ جُّهَ النَّصَرَى اللَّهُ ۞ لِىَ بِلَآ إِلَاهَ إِلَّا اللَّهُ",
+        "translations": {
+          "it.karamati": "Allah ha cancellato, in mio favore, l'avanzata dei Nazareni (i colonizzatori cristiani), per mezzo di «Non vi è divinità all'infuori di Allah».",
+          "en.karamati": "God has erased, in my favour, the advance of the Nazarenes (the Christian colonisers), by \"There is no god but God\".",
+          "fr.karamati": "Dieu a effacé, en ma faveur, l'avancée des Nazaréens (les colonisateurs chrétiens), par « Il n'est de divinité que Dieu »."
+        }
+      }
+    ]
+  }
+}

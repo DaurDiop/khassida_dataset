@@ -1,0 +1,172 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 149,
+    "name": "Qalu Liyarkan",
+    "transliterationName": "Qalu Liyarkan",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "قَالُو لِىَ ارْكَنْ لِأَبْوَابِ السَّلَاطِينِ",
+        "transcription": "qaaluu liyarkan li-abwaabis salaatiini",
+        "translations": {
+          "fr": "Ils m'ont conseillé :  <<Va t'agenouiller auprès des détenteurs du pouvoir (Rois)"
+        }
+      },
+      {
+        "number": 2,
+        "text": "تَحُزْ جَوَابِزَ تُغْنِى كُلَّ مَا حِينِ",
+        "transcription": "tahuz jawaabiza tughnii kulla maa hiini",
+        "translations": {
+          "fr": "et tu obtiendras des récompenses qui t'enrichiront pour toute la vie>>."
+        }
+      },
+      {
+        "number": 3,
+        "text": "فَقَلْتُ حَسْنِىَ رَبِّى وَاكْتَفَيْتُ بِهِ",
+        "transcription": "faqultu hasniya rabbii waktafaytu bihi",
+        "translations": {
+          "fr": "J'ai répondu : Je compte sur mon Seigneur, je me contente de lui;"
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَلَسْتُ رَضِىَ خَيْرَ الْعِلْمِ وَالدِّينِ",
+        "transcription": "wa lastu radiya khayral hilmi wad diini",
+        "translations": {
+          "fr": "et je ne désire rien d'autre que le savoir et la religion."
+        }
+      },
+      {
+        "number": 5,
+        "text": "وَلَسْتُ أَرْجُو وَلَا أَخْشَى سِوَى مَلِكِى",
+        "transcription": "wa lastu arjuu wa laa akhshaa siwaa malikii",
+        "translations": {
+          "fr": "Je n'espère qu'en mon Roi, je ne crains que Lui, qu'il est Auguste"
+        }
+      },
+      {
+        "number": 6,
+        "text": "لِأَنَهُ جَلَّ يُغْنِنِى وَيُنْجِينِ",
+        "transcription": "li-abahu jalla yughninii wa yunjiini",
+        "translations": {
+          "fr": "c'est Lui qui peut m'enrichir et me sauver."
+        }
+      },
+      {
+        "number": 7,
+        "text": "أَنِّى أَفَوِّضُ أَحْوَا لِى لِمَنْ عَجَزُوا",
+        "transcription": "annii afawwidu ahwaa lii liman hajazuu",
+        "translations": {
+          "fr": "Comment pourrai-je confier mes affaires à des gens"
+        }
+      },
+      {
+        "number": 8,
+        "text": "عَنْ حَالِ أَنْفُسِهِمْ عَجْزَ الْمَسَاكِينِ",
+        "transcription": "han haala anfusihim hajzal masaakiini",
+        "translations": {
+          "fr": "qui sont aussi incapables de s'occuper des leurs que des affamés ?"
+        }
+      },
+      {
+        "number": 9,
+        "text": "أَوْكَيْفَ يَبْعَثُنِى حُبُّ الْحُطَامِ إِلَى",
+        "transcription": "awkayfa yabhasunii hubbul hutaami ilaa",
+        "translations": {
+          "fr": "Ou bien comment l'amour des vanités de ce monde m'oblige t-il à fréquenter des êtres"
+        }
+      },
+      {
+        "number": 10,
+        "text": "جِوَارِ مَنْ دُورُهُمْ رَوْضُ الشَّيَاطِينِ",
+        "transcription": "jiwaari man duuruhum rawdush shayaatiini",
+        "translations": {
+          "fr": "dont la mesure est le parterre fleuri des démons (Satan)?"
+        }
+      },
+      {
+        "number": 11,
+        "text": "إِنْ كُنْتُ ذَا حَزَنٍ أَوْكُبْتُ ذَا وَطَرٍ",
+        "transcription": "in kuntu zaa hazanin awkubtu zaa wa tarin",
+        "translations": {
+          "fr": "Si j'éprouve un chagrin ou bien si j'ai une requête à présenter,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "دَعَوْتُ ذَا الْعَيْنِ قَبْلَ الرَّاءِ وَالشِّينِ",
+        "transcription": "dahawtu zal hayni qablar raa-i wash shiini",
+        "translations": {
+          "fr": "c'est au maître du Trône que j'adresserais mes prières."
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَهْوَ الْمُعِينُ الَّذِى لَاشَىْءَ يُعْجِزُهُ",
+        "transcription": "wahwal muhiinul lazii laa shay-a yuhjizuhu",
+        "translations": {
+          "fr": "Il est l'aide que rien ne réduit à l'impuissance"
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَهْوَ الْمَكَوِّنُ مَاشَآ أَىَّ تَكْوِينِ",
+        "transcription": "wahwal mukawwinu maashaa ayya takwiini",
+        "translations": {
+          "fr": "et c'est lui qui fait ce qu'il veut de la manière qui lui plaise."
+        }
+      },
+      {
+        "number": 15,
+        "text": "إِنْ شَاءَ تَعَجِيلَ أَمْرِ كَانَ ذَا عَجَلٍ",
+        "transcription": "in shaa-a tahajiila amri kaana zaa hajalin",
+        "translations": {
+          "fr": "S'il veut brusquer une affaire celle-ci est vite réalisée"
+        }
+      },
+      {
+        "number": 16,
+        "text": "أَوْشَاءَ تَاجِيلَهُ يَبْطَا إِلَى الْحِينِ",
+        "transcription": "aw shaa-a taajiilahu yabtaa ilal hiini",
+        "translations": {
+          "fr": "et s'il veut en retarder l'échéance, elle ne sera accomplie qu'aprés le délai marqué."
+        }
+      },
+      {
+        "number": 17,
+        "text": "يَامَنْ يَّلُومُ فَلَا تُكْثِرْ وَدَعْ عَذَ لِى",
+        "transcription": "yaa man yaluumu falaa tuksir wa dah haza lii",
+        "translations": {
+          "fr": "Ô mon censeur qui me fais des reproches : n'exagère pas, cesse de me blâmer"
+        }
+      },
+      {
+        "number": 18,
+        "text": "إِذْ لَسْتُ مِنْ فَقْدَتِى الدُّنْيَا بِمَحْزُونِ",
+        "transcription": "iz lastu min faqdatid dunyaa bimahzuuni",
+        "translations": {
+          "fr": "car je ne m'attriste pas de la privation des biens terrestres!"
+        }
+      },
+      {
+        "number": 19,
+        "text": "إِنْ كَانَ عَيْبِىَ زَهْدٌ فِى حُطَامِهِمُ",
+        "transcription": "in kaana haybiya zahdun fii hutaamihimu",
+        "translations": {
+          "fr": "Si mon défaut consiste au renoncement du pouvoir des princes,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "فَذَاكَ عَيْبٌ نَفِيسٌ لَيْثَ يُخْزِينِ",
+        "transcription": "fazaaka haybun nafiisun laysa yukhziini",
+        "translations": {
+          "fr": "voilà un vice dont je ne rougirai point."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 76,
+    "name": "Liyan Qaada",
+    "transliterationName": "Liyan Qaada",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "liyan qaada mimman bil lazii rumtuhu mannaa"
+      },
+      {
+        "number": 2,
+        "text": "kitaabun haziizun zabba durrii ladun hannaa"
+      },
+      {
+        "number": 3,
+        "text": "yubash-shirunii baaqin unaajiihi wa hamdahu"
+      },
+      {
+        "number": 4,
+        "text": "bizikrin hakiimin jaabihi mursalun sannaa"
+      },
+      {
+        "number": 5,
+        "text": "mahal laahu muz bil faydi mah rawdihi habaa"
+      },
+      {
+        "number": 6,
+        "text": "mukaa badatish shaytana wa linsa wal jinnaa"
+      },
+      {
+        "number": 7,
+        "text": "ilaa man lahu kulliyyatii qad tawajjahat"
+      },
+      {
+        "number": 8,
+        "text": "midaadii wa aqlaamii wa qad kaana lii mannaa"
+      },
+      {
+        "number": 9,
+        "text": "yaquudu huluumal ghaybi rabbii muhallimii"
+      },
+      {
+        "number": 10,
+        "text": "ilaa kalkalii faydan yuril lafza wal mahnaa"
+      },
+      {
+        "number": 11,
+        "text": "shuhuurii wa ahwaamii ghadat khayra taahatin"
+      },
+      {
+        "number": 12,
+        "text": "liman bitawaa liifii hadaa man bihaa yuhnaa"
+      },
+      {
+        "number": 13,
+        "text": "tuwassilu aqlaamii ilal laahi haabidan"
+      },
+      {
+        "number": 14,
+        "text": "bilaa khalwatin wal laahu abqaa kamaa aghnaa"
+      },
+      {
+        "number": 15,
+        "text": "hadiyyaatu rabbii qaadatil ajra war ridaa"
+      },
+      {
+        "number": 16,
+        "text": "ilaynaa kamaa qad kayyabal humra wal maghnaa"
+      },
+      {
+        "number": 17,
+        "text": "wa haytu huluuman naafihaatin bilafzi kun"
+      },
+      {
+        "number": 18,
+        "text": "wa lii qaada rabbii khayra zaydin hanil husnaa"
+      },
+      {
+        "number": 19,
+        "text": "nafaa maalikii maasaa-anii qabla ru-yatin"
+      },
+      {
+        "number": 20,
+        "text": "wa sirtu lahu habdan khadiiman lizil asnaa"
+      },
+      {
+        "number": 21,
+        "text": "badaa liya annal laaha laa rabba ghayrahu"
+      },
+      {
+        "number": 22,
+        "text": "wa anna rasuulal laahi faaqal waraa husnaa"
+      },
+      {
+        "number": 23,
+        "text": "katabtu wa innii shaakirun lastu zash tikaa"
+      },
+      {
+        "number": 24,
+        "text": "wa hannii mahaa maa saa-anil laahu iz hanaaa"
+      }
+    ]
+  }
+}

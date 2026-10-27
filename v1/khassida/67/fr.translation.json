@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "Kafaaka Rabbuka",
+    "transliterationName": "Kafaaka Rabbuka",
+    "meter": "Rajas",
+    "edition": "fr.translation",
+    "verses": [
+      {
+        "number": 1,
+        "text": ""
+      },
+      {
+        "number": 2,
+        "text": ""
+      },
+      {
+        "number": 3,
+        "text": ""
+      },
+      {
+        "number": 4,
+        "text": ""
+      },
+      {
+        "number": 5,
+        "text": ""
+      },
+      {
+        "number": 6,
+        "text": ""
+      }
+    ]
+  }
+}

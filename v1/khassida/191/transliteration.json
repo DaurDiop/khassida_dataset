@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 191,
+    "name": "Yassara",
+    "transliterationName": "Yassara",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "yassara lii muyassirul hasiiri"
+      },
+      {
+        "number": 2,
+        "text": "makhtaaruhu liya bilaa masiiri"
+      },
+      {
+        "number": 3,
+        "text": "wallal lahiinu lisiwaaya mudbiraa"
+      },
+      {
+        "number": 4,
+        "text": "bimaa halaz zahri yaduumu dabaraa"
+      },
+      {
+        "number": 5,
+        "text": "mahaa tawajjuhal makaarihi liyaa"
+      },
+      {
+        "number": 6,
+        "text": "baaqin habaa bizikrihi wahwa liyaa"
+      },
+      {
+        "number": 7,
+        "text": "hanhu radiitu wahwa hannii raadi"
+      },
+      {
+        "number": 8,
+        "text": "bilaa makaariha walaa amraadi"
+      },
+      {
+        "number": 9,
+        "text": "radda lighayri jihatish shaytaanaa"
+      },
+      {
+        "number": 10,
+        "text": "man tayyabal mamarra wal awtaanaa"
+      },
+      {
+        "number": 11,
+        "text": "farra lighayri jihatil lahiinu"
+      },
+      {
+        "number": 12,
+        "text": "yasuuquhu lighayrinal muhiinu"
+      },
+      {
+        "number": 13,
+        "text": "hadiyyatii minal ilaahi wan nabii"
+      },
+      {
+        "number": 14,
+        "text": "kulliyyatii saffat wa saffat tunubii"
+      },
+      {
+        "number": 15,
+        "text": "tawfiiqu haadin qaadahul ilhaamu"
+      },
+      {
+        "number": 16,
+        "text": "qad abdaayaa lii maalahun bihaamu"
+      },
+      {
+        "number": 17,
+        "text": "badat liyal yawma birabbil ghuyyabu"
+      },
+      {
+        "number": 18,
+        "text": "ahaazanii mimman qalaw wa khuyyibuu"
+      },
+      {
+        "number": 19,
+        "text": "laa yatawajjahu linahwii mut-hibu"
+      },
+      {
+        "number": 20,
+        "text": "hannim mahat makaarihii wat tahabbu"
+      },
+      {
+        "number": 21,
+        "text": "sahaadatii bighayri mahwin kutibat"
+      },
+      {
+        "number": 22,
+        "text": "wa kawniyal habdal khadiima qad sabat"
+      },
+      {
+        "number": 23,
+        "text": "shakara lii muyassirul hasiiri"
+      },
+      {
+        "number": 24,
+        "text": "makhtaarahu liya bilaa masiiri"
+      }
+    ]
+  }
+}

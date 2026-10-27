@@ -1,0 +1,204 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 188,
+    "name": "Yaa Zal Wujuudi",
+    "transliterationName": "Yaa Zal Wujuudi",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "يَاذَا الْوُجُودِ وَالْبَقَآءِ وَالْقِدَمْ",
+        "transcription": "yaa zal wujuudi wal baqaa-i wal qidam",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "يَاذَا الْمُخَالَفَةِ خُذْمِنِّى الْخِدَمْ",
+        "transcription": "yaa zal mukhaalafati khuzminil khidam",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "يَاذَا الْقِيَامِ أَبَدًا وَالْوَحْدَهْ",
+        "transcription": "yaa zal qiyaami abadan wal wahdah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "يَامَنْ خِطَابِىَ إِلَيْهِ وَحْدَهْ",
+        "transcription": "yaa man khitaabiya ilayhi wahdah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "إِنَّكَ ذُو الْقُدْرَةِ وَالْإِرَادَهْ",
+        "transcription": "innaka zul qudrati wal iraadah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَالْعِلْمِ وَالْحَيَاتِ وَالْإِفَادَهْ",
+        "transcription": "wal hilmi wal hayaati wal ifaadah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "وَالصَّمْعِ والْبَصَرِ وَالْكَلَامِ",
+        "transcription": "was samhi wal basari wal kalaami",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "يَامَاحِيًا بِالْمُنْتَقَى ءَالَامِى",
+        "transcription": "yaa maahiyan bil muntaqaa aalaamii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "إِنَّكَ قَادِرٌ مُّرِيدٌ عَالِمْ",
+        "transcription": "innaka qaadirun muriidun haalim",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "حَىٌّ سِمِيعٌ زَحْزَحَ الْمَظَالِمْ",
+        "transcription": "hayyun simiihun zahzahal mazaalim",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "أَنْتَ بَصِيرٌ مُّتَكَلِّمٌ جَذَبْ",
+        "transcription": "anta basiirun mutakallimun jazab",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "لِىَ كِتَابَهُ الْمَجِيدَ فَانْجَذَبْ",
+        "transcription": "liya kitaabahul majiida fan jazab",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "لَكَ بِلَا افْتِرَآءٍ النَّفْسِيَّهْ",
+        "transcription": "laka bilaf tiraa-inin nafsiyyah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "يَامَنْ كَفَانِى الظُّلَمَ النَّفْسِيَّهْ",
+        "transcription": "yaa man kafaaniz zulaman nafsiyyah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "لَكَ بِلَا مِرَآءٍ السَّلْبِيَّهْ",
+        "transcription": "laka bilaa miraa-inis salbiyyah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "يَامَنْ كَفَانِى الظُّلَمَ الْقَلْبِيَّهْ",
+        "transcription": "yaa man kafaaniz zulamal qalbiyyah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "لَكَ بِلَا شَرِيكٍ الْمَعَانِى",
+        "transcription": "laka bilaa sharikinil mahaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "وَالْمَعْنَوِيَّاتُ بِلَا مُعَانِ",
+        "transcription": "wal mahnawiyyatu bilaa muhaani",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "يَافَاعِلًا بِإِذْنِهِ يَجْرِى الْقَدَرْ",
+        "transcription": "yaa faahilan bi-iznihi yajril qadar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "لِغَيْرِ أَحْمَدِكَ ذَا سُقْتَ الْكَدَرْ",
+        "transcription": "lighayri ahmadika zaa suqtal kadar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "بِجَاهِ أَحْمَدَ الْكَرِيمِ الْعَلَمِ",
+        "transcription": "bijaahi ahmadal karrimil halami",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "يَامَنْ بِهِ عَلَّمْتَ مَالَمْ يَعْلَمِ",
+        "transcription": "yaa man bihi hallamta maa lam yahlami",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "يَاذَا وُجُودٍ وَبَقَآءٍ وَقِدَمْ",
+        "transcription": "yaa zaa wujuudin wa baqaa-in wa qidam",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "لِلْعَرْشِ وَالْكُرْسِىِّ خُذْتَهِ الْخِدَمْ",
+        "transcription": "lil harshi wal kursiyyi khuztihil khidam",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

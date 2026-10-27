@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 16,
+    "name": "Astaghfirulaha Bihi",
+    "transliterationName": "Astaghfirulaha Bihi",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "astaghfirul laahal haziima wa atuub"
+      },
+      {
+        "number": 2,
+        "text": "ilayhi min zawahirin wa min ghuyuub"
+      },
+      {
+        "number": 3,
+        "text": "sa-altuhu bihaqqi wajhil laahi"
+      },
+      {
+        "number": 4,
+        "text": "maghfiratan min jumlatil manaahii"
+      },
+      {
+        "number": 5,
+        "text": "tubtu lahu min jumlatis saghaa-iri"
+      },
+      {
+        "number": 6,
+        "text": "mahal kabaa-iri wa min damaa-iri"
+      },
+      {
+        "number": 7,
+        "text": "ghaafiru lighfir kulla maa taqaddamaa"
+      },
+      {
+        "number": 8,
+        "text": "wa maa ta-akhkhara wa maa baynahumaa"
+      },
+      {
+        "number": 9,
+        "text": "fahhimniyal hilma wa zidnii hilmaa"
+      },
+      {
+        "number": 10,
+        "text": "wa hamalan wa adaban wa fahmaa"
+      },
+      {
+        "number": 11,
+        "text": "rabbiya lit shifil huluman nafihah"
+      },
+      {
+        "number": 12,
+        "text": "wajhal hayaati min shaqaa-in maanihah"
+      },
+      {
+        "number": 13,
+        "text": "ikshif liyal asraara wal ghawaamidaa"
+      },
+      {
+        "number": 14,
+        "text": "yaa khayra man  kashafa sirran ghaamidaa"
+      },
+      {
+        "number": 15,
+        "text": "lijmah jamiiha maa tafarraqa ladaa"
+      },
+      {
+        "number": 16,
+        "text": "khattii minal khayri wa saffil khaladaa"
+      },
+      {
+        "number": 17,
+        "text": "lii qud ladaa tafakkuril ahzama yaa"
+      },
+      {
+        "number": 18,
+        "text": "rabbii bikun waltahsiman qalamiyaa"
+      },
+      {
+        "number": 19,
+        "text": "hab liya yaa akramu fit tilaawah"
+      },
+      {
+        "number": 20,
+        "text": "khayran kasiiran minka wal halaawah"
+      },
+      {
+        "number": 21,
+        "text": "baarik liyal lahumma fii hayaatii"
+      },
+      {
+        "number": 22,
+        "text": "wajhal fu-aadii wa tanal aayaatii"
+      },
+      {
+        "number": 23,
+        "text": "hab liya kawnii bishra kulla man yatuub"
+      },
+      {
+        "number": 24,
+        "text": "wa liz zawaahira abin mahal ghuyuub"
+      }
+    ]
+  }
+}

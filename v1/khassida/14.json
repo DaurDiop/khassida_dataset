@@ -1,0 +1,908 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 14,
+    "name": "Asiru",
+    "transliterationName": "Asiru",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "أَسِيرُ مَعَ الْأَبْرَارِ حِينَ أَسِيرُ",
+        "transcription": "asiiru mahal abraari hiina asiiru",
+        "translations": {
+          "fr": "Je cheminais en vérité, lors de ma marche vers l'Exil, en compagnie des Vertueux Gens de Badr,"
+        }
+      },
+      {
+        "number": 2,
+        "text": "وَظَنَّ الْعِدَى أَنِّى هُنَاكَ أَسِيرُ",
+        "transcription": "wa zannal hidaa annii hunaaka asiiru",
+        "translations": {
+          "fr": "alors que mes persécuteurs étaient persuadés que j'étais leur prisonnier..."
+        }
+      },
+      {
+        "number": 3,
+        "text": "مَسِيرِ مَعَ الْأَخْيَارِ لِلَّهِ بِالنَّبِى",
+        "transcription": "masiiri mahal akh-yaari lil laahi bin nabii",
+        "translations": {
+          "fr": "Je  marchais en fait vers DIEU en compagnie du Prophète et de ses Excellents Compagnons"
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَمَا لِى لِغَيْرِ اللَّهِ عَوْضُ مَسِيرُ",
+        "transcription": "wa maa lii lighayril laahi hawdu masiiru",
+        "translations": {
+          "fr": "car ma marche ne saurait point avoir d'autre objet que DIEU LUI-MEME..."
+        }
+      },
+      {
+        "number": 5,
+        "text": "يَسِيرُ بِىَ الْجَذْبُ الَّذِى قَادَنِى إِلَى",
+        "transcription": "yasiiru biyal jazbul lazii qaadanii ilaa",
+        "translations": {
+          "fr": "Mon périple vers DIEU a été facilité par le Prophète qui m'a guidé vers le GENEREUX SEIGNEUR,"
+        }
+      },
+      {
+        "number": 6,
+        "text": "كَرِيمٍ عَلَيْهِ مَا أَرُومُ  يَسِيرُ",
+        "transcription": "kariimin halayhi maa aruumu yasiiru",
+        "translations": {
+          "fr": "CELUI pour Qui la réalisation de mes ambitions demeure infiniment aisée."
+        }
+      },
+      {
+        "number": 7,
+        "text": "شُكُورِ بِأَقْلَامِى وَقَلْبِى وَجُثَّتِى",
+        "transcription": "shukuurii bi aqlaamii wa qalbii wa jussatii",
+        "translations": {
+          "fr": "La gratitude que j'exprime à travers ma plume, mon coeur et tous les membres de mon corps est destinée à DIEU,"
+        }
+      },
+      {
+        "number": 8,
+        "text": "لِمَنْ كَانَ لِى بِالْجُودِ وَهْوَ شَكُورُ",
+        "transcription": "liman kaana lii bil juudi wahwa shakuuru",
+        "translations": {
+          "fr": "CELUI qui Se Montra Fabuleusement LIBERAL à mon égard et qui est le DIGNE de RECONNAISSANCE."
+        }
+      },
+      {
+        "number": 9,
+        "text": "نُصُورِى وَتَايِيدِى وَحِفْظِى لَدَى الْعِدَى",
+        "transcription": "nusuurii wa taayiidii wa hifzii ladal hidaa",
+        "translations": {
+          "fr": "Mon Soutien aussi bien que mon Appui et mon Rempart contre les ennemis me proviennent de DIEU,"
+        }
+      },
+      {
+        "number": 10,
+        "text": "مِنَ الْوَاسِعِ الْوَهَّابِ فَهْوَ نَصِيرُ",
+        "transcription": "minal waasihil wahhaabi fahwa nasiiru",
+        "translations": {
+          "fr": "le TRES-LARGE, le MEILLEUR DONATEUR qui Demeure l'AUXILIAIRE Incomparable..."
+        }
+      },
+      {
+        "number": 11,
+        "text": "أَمِيرِى لَدَى سَيْرِى وَمُكْثِى وَسِيلَتِى",
+        "transcription": "amiirii ladaa sayrii wa muksii wasiilatii",
+        "translations": {
+          "fr": "Lors de mon périple, je marchais sous les ordres du Prophète,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "خَدِيمًا لَّهُ وَهْوَ الْخَدِيمَ يَمِيرُ",
+        "transcription": "khadiiman lahu wahwal khadiima yamiiru",
+        "translations": {
+          "fr": "mon Commandant au service duquel je me suis voué et qui est digne de diriger le Serviteur que je suis."
+        }
+      },
+      {
+        "number": 13,
+        "text": "أُجُورِى عَلَى الْوَهَّابِ جَلَّ تَكَرُّمًا",
+        "transcription": "ujuurii halal wahhaabi jalla takarruman",
+        "translations": {
+          "fr": "Ma rétribution pour le Service que j'effectue à l'intention du Prophète Elu revient à DIEU,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "عَلَى خِدْمَةِ الْمُخْتَارِ وَهْوَ أَجِيرُ",
+        "transcription": "halaa khidmatil mukhtaari wahwa ajiiru",
+        "translations": {
+          "fr": "le DONATEUR par Excellence qui Se charge de récompenser Ses serviteurs."
+        }
+      },
+      {
+        "number": 15,
+        "text": "نُذُورِىَ كَوْنِى عَبْدَ ذِى الْعَرْشِ وَحْدَهُ",
+        "transcription": "nuzuuriya kawnii habda zil harshi wahdahu",
+        "translations": {
+          "fr": "Mon unique ambition est d'être promu au rang de parfait esclave de DIEU, le MAêtre DU Trône, l'UNIQUE,"
+        }
+      },
+      {
+        "number": 16,
+        "text": "خَدِيمًا لِخَيْرِ الْخَلْقِ وَهْوَ نَذِيرُ",
+        "transcription": "khadiiman likhayril khalqi wahwa naziiru",
+        "translations": {
+          "fr": "et à celui de Serviteur Privilègié du Prophète, la Meilleure Créature, l'Avertisseur."
+        }
+      },
+      {
+        "number": 17,
+        "text": "يُجِيرُ نِىَ الْكَافِى بِهِ مِنْ أَذَى الْعِدَى",
+        "transcription": "yujiiru niyal kaafii bihi min azal hidaa",
+        "translations": {
+          "fr": "Le SUPREME PROTECTEUR me rétribuera pour tous les tourments que m'ont fait subir mes persécuteurs"
+        }
+      },
+      {
+        "number": 18,
+        "text": "وَمِنْ كُلِّ سُوءٍ وَهْوَ جَلَّ مُجِيرُ",
+        "transcription": "wa min kulli suu-in wahwa jalla mujiiru",
+        "translations": {
+          "fr": "et pour tous les maux subis [au cours de ce Service] car Il constitue le plus Excellent RETRIBUTEUR."
+        }
+      },
+      {
+        "number": 19,
+        "text": "مَصِيرِىَ كَوْنِى عَبْدَهُ خَادِمَ النَّبِى",
+        "transcription": "masiiriya kawnii habdahu khaadiman nabii",
+        "translations": {
+          "fr": "Mon ultime visée est d'être élevé à la dignité de captif de DIEU et au degré de Serviteur Par Excellence du Prophète;"
+        }
+      },
+      {
+        "number": 20,
+        "text": "وَأَمْرُ الْبَرَايَا لِلْإِلَاهِ يَصِيرُ",
+        "transcription": "wa amrul baraayaa lil ilaahi yasiiru",
+        "translations": {
+          "fr": "et certes les affaires des créatures ne manqueront point de finir en DIEU..."
+        }
+      },
+      {
+        "number": 21,
+        "text": "شُهُورِى وَأَيَّامِى غَدًا لِّى شَوَاهِدٌ",
+        "transcription": "shuhuurii wa ayyaamii ghadan lii shawaahidun",
+        "translations": {
+          "fr": "Les mois et les jours de mon existence témoigneront tous à l'Au-delà"
+        }
+      },
+      {
+        "number": 22,
+        "text": "بِكَوْنِىَ عَبْدَ اللَّهِ وَهْوَ شَهِيرُ",
+        "transcription": "bikawniya habdal laahi wahwa shahiiru",
+        "translations": {
+          "fr": "de ma qualité d'Authentique Esclave de DIEU, CELUI Qui rend illustre."
+        }
+      },
+      {
+        "number": 23,
+        "text": "سُتُورِىَ فِى الدَّارَيْنِ مَدْحِى مُحَمَّدًا",
+        "transcription": "sutuuriya fid daarayni madhii muhammadan",
+        "translations": {
+          "fr": "Les Voiles garantissant mon honneur dans les Deux Demeures consistent à louer Muhammad"
+        }
+      },
+      {
+        "number": 24,
+        "text": "بِنَظْمٍ وَنَثْرٍ وَهْوَ نِعْمَ سَتُورُ",
+        "transcription": "binazmin wa nasrin wahwa nihma satuuru",
+        "translations": {
+          "fr": "dans mes panégyriques en rimes ou en prose; quels excellents Voiles!"
+        }
+      },
+      {
+        "number": 25,
+        "text": "بُذُورِى كِتَابُ اللَّهِ وَالسُّنَّةُ الَّتِى",
+        "transcription": "buzuurii kitaabul laahi was sunnatul latii",
+        "translations": {
+          "fr": "Mes semences sont le Livre de DIEU et la Tradition Prophétique grâce à qui"
+        }
+      },
+      {
+        "number": 26,
+        "text": "بِهَا أَحْتَمِى عَمَّا نَحَاهُ بَذُورُ",
+        "transcription": "bihaa ahtamii hammaa nahaahu bazuuru",
+        "translations": {
+          "fr": "je fus préservé de tout ce qu'exclut la bonne semence."
+        }
+      },
+      {
+        "number": 27,
+        "text": "قُصُورِى خَلَتْ وَالْأَهْلُ عَنِّى تَفَرَّقَتْ",
+        "transcription": "qusuurii khalat wal ahlu hannii tafarraqat",
+        "translations": {
+          "fr": "Mes demeures furent vidées et, des miens, je fus brutalement séparé en vertu [du Service auquel me voue]"
+        }
+      },
+      {
+        "number": 28,
+        "text": "لِمَدْحِى الَّذِى عَنْهُ الْمَدِيحُ قَصِيرُ",
+        "transcription": "limadhil lazii hanhul madiihu qasiiru",
+        "translations": {
+          "fr": "le Panégyrique du Prophète dont nulle apologie n'est à même de louer avec justesse les Avantages."
+        }
+      },
+      {
+        "number": 29,
+        "text": "غَرُورُ الْوَرَى غَرَّ النَّصَارَى بِكَيْدِهِ",
+        "transcription": "gharuurul waraa gharran nasaaraa bikaydihi",
+        "translations": {
+          "fr": "Les machinations ourdies par des personnes malveillantes ont abusé les colons au point qu'ils laissèrent libre cours à leur imagination,"
+        }
+      },
+      {
+        "number": 30,
+        "text": "وَظَنُّو الظُّنُونَا وَالظُّنُونُ غُرُورُ",
+        "transcription": "wa zannuz zunuunaa waz zunuunu ghuruuru",
+        "translations": {
+          "fr": "or celle-ci est souvent source de fausses idées..."
+        }
+      },
+      {
+        "number": 31,
+        "text": "لِرَبِّى الْتِفَاتِى لَا لَهُمْ تَائِبًا لَهُ",
+        "transcription": "lirabbil tifaatii laa lahum taa-iban lahu",
+        "translations": {
+          "fr": "Quant à moi, loin de me tourner vers eux [par crainte], j'ai orienté ma face vers mon SEIGNEUR en LUI exprimant mon repentir pour les péchés"
+        }
+      },
+      {
+        "number": 32,
+        "text": "مِنَ الذَّنْبِ وَالْئَافَاتِ وَهْوَ غَفُورُ",
+        "transcription": "minaz zanbi wal aafaati wahwa ghafuuru",
+        "translations": {
+          "fr": "et les défauts car IL Demeure l'ABSOLUTEUR par Excellence."
+        }
+      },
+      {
+        "number": 33,
+        "text": "لَهُ تُبْتُ مِنْ عَيْبِ الْتِفَتِى لِغَيْرِهِ",
+        "transcription": "lahu tubtu min haybil tifatii lighayrihi",
+        "translations": {
+          "fr": "A LUI je me repens de m'être tourné vers un autre que LUI"
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَمِنِّى لَهُ عَهْدٌ عَلَىَّ ضَمِيرُ",
+        "transcription": "wa minnii lahu hahdun halayya damiiru",
+        "translations": {
+          "fr": "et conclus avec LUI un Pacte [d'Adoration exclusive] que je m'engage solennellement à respecter."
+        }
+      },
+      {
+        "number": 35,
+        "text": "لَهُ تُبْتُ ذَا بَيْعٍ وَأَرْجُو رِضَاءَهُ",
+        "transcription": "lahu tubtu zaa bayhin wa arjuu ridaa-ahu",
+        "translations": {
+          "fr": "Devant LUI je fais acte de Repentance et Serment d'Allégeance [à Son Saint Messager], escomptant obtenir Sa Satisfaction;"
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَمِنِّى لَهُ شُكْرٌ يَدُومُ كَثِيرُ",
+        "transcription": "wa minnii lahu shukrun yaduumu kasiiru",
+        "translations": {
+          "fr": "certes, des Remerciements sans fin lui seront, de ma part, adressés."
+        }
+      },
+      {
+        "number": 37,
+        "text": "فُجِيتُ بِبِشْرٍ مِّنْهُ أَبْغِى شُكُورَهُ",
+        "transcription": "fujiitu bibishrin minhu abghii shukuurahu",
+        "translations": {
+          "fr": "Je fus surpris par un Bonheur procédant de LUI, ainsi désiré-je L'en remercier,"
+        }
+      },
+      {
+        "number": 38,
+        "text": "عَلَيْهِ صَفَاءً وَالْمُكُوثُ حُبُورُ",
+        "transcription": "halayhi safaa-an wal mukuusu hubuuru",
+        "translations": {
+          "fr": "LUI à Qui je dois cette pureté et une existence heureuse..."
+        }
+      },
+      {
+        "number": 39,
+        "text": "وَفِى الْقَلْبِ مِنْ رِّضْوَانِهِ مَا أُكِنُّهُ",
+        "transcription": "wa fil qalbi min ridwaanihi maa ukinnuhu",
+        "translations": {
+          "fr": "Dans mon coeur résident [des Secrets sur les Faveurs découlant] de Son Agrément, Secrets que je garde précieusement en moi"
+        }
+      },
+      {
+        "number": 40,
+        "text": "ضَنِينًا بِهِ إِنَّ الصُّدُورَ قُبُورُ",
+        "transcription": "daniinan bihi innas suduura qubuuru",
+        "translations": {
+          "fr": "et, certes, la poitrine de l'homme peut être aussi muette qu'une tombe..."
+        }
+      },
+      {
+        "number": 41,
+        "text": "لِمَوْلَاىَ حَمْدِى رَاضِيًا عَنْهُ شَاكِرًا",
+        "transcription": "limawlaaya hamdii raadiyan hanhu shaakiran",
+        "translations": {
+          "fr": "A DIEU, mon SOUVERAIN ABSOLU, j'adresse la Louange et LUI exprime ma satisfaction et ma gratitude pour avoir scellé si bien mon Mystère;"
+        }
+      },
+      {
+        "number": 42,
+        "text": "عَلَى سِرِّسِرِّ وَالْخَبِيرُ خَبِيرُ",
+        "transcription": "halaa sirri sirri wal khabiiru khabiiru",
+        "translations": {
+          "fr": "aussi n'en a pleine connaissance que LUI qui, en toute chose, est BIEN-INFORME..."
+        }
+      },
+      {
+        "number": 43,
+        "text": "رَضِيتُ بِهِ رَبًّا يُسَخِّرُ مَا يَشَآ",
+        "transcription": "radiitu bihi rabban yusakh-khiru maa yashaa",
+        "translations": {
+          "fr": "Je me satisfais pleinement de LUI comme SEIGNEUR, LUI Qui assujettit avec aisance ce qui LUI plaît en faveur de qui LUI plaît;"
+        }
+      },
+      {
+        "number": 44,
+        "text": "لِمَنْ شَاءَ بِالتَّيْسِيرِ وَهْوَ قَدِيرُ",
+        "transcription": "liman shaa-a bit taysiiri wahwa qadiiru",
+        "translations": {
+          "fr": "c'est vraiment LUI le TOUT-PUISSANT!"
+        }
+      },
+      {
+        "number": 45,
+        "text": "فَأَكْرِمْ بِهِ رَبًّا نَّفَى عَنِّىَ الْعِدَى",
+        "transcription": "fa-akrim bihi rabban nafaa hanniyal hidaa",
+        "translations": {
+          "fr": "Je m'honore d'avoir un MAITRE comme LUI Qui repoussa les ennemis de ma personne"
+        }
+      },
+      {
+        "number": 46,
+        "text": "وَسَاقَ الْمُنَى لِى وَالْجَنَابُ حَقِيرُ",
+        "transcription": "wa saaqal munaa lii wal janaabu haqiiru",
+        "translations": {
+          "fr": "et Qui déversa sur elle la manne de Ses Bienfaits en dépit de son insignifiance."
+        }
+      },
+      {
+        "number": 47,
+        "text": "غَنِيتُ بِهِ رَبًّا وَلِيًّا يَقُودُ لِى",
+        "transcription": "ghaniitu bihi rabban waliyyan yaquudu lii",
+        "translations": {
+          "fr": "Je me suffis de LUI comme SEIGNEUR et MAITRE, LUI Qui m'a fait atteindre mes objectifs;"
+        }
+      },
+      {
+        "number": 48,
+        "text": "مَرَامِى وَإِنِّى شَاكِرٌ وَفَقِيرُ",
+        "transcription": "maraamii wa innii shaakirun wa faqiiru",
+        "translations": {
+          "fr": "ainsi suis-je, en ce jour, un humble indigent louant son BIENFAITEUR."
+        }
+      },
+      {
+        "number": 49,
+        "text": "أُمُورِى لَهُ فَوَّضْتُ وَالْقَلْبُ طَيِّبٌ",
+        "transcription": "umuurii lahu fawwadtu wal qalbu tayyibun",
+        "translations": {
+          "fr": "Je LUI ai intégralement confié mes affaires, le coeur serein et, même solitaire au milieu des ennemis,"
+        }
+      },
+      {
+        "number": 50,
+        "text": "غَرِيبًا لَّدَى الْأَعْدَاءِ وَهْوَ بَصِيرُ",
+        "transcription": "ghariiban ladal ahdaa-i wahwa basiiru",
+        "translations": {
+          "fr": "je ne conçois aucun doute qu'IL Demeure parfaitement CLAIRVOYANT."
+        }
+      },
+      {
+        "number": 51,
+        "text": "رَفِيقِى كِتَابُ اللَّهِ وَالْمُصْطَفَى النَّبِى",
+        "transcription": "rafiiqii kitaabul laahi wal mustafan nabii",
+        "translations": {
+          "fr": "Certes mes seuls compagnons lors de cet exil en mer furent le Livre de DIEU,"
+        }
+      },
+      {
+        "number": 52,
+        "text": "وَأَصْحَابُهُ فِى الْبَحْرِ حِينَ أَدُورُ",
+        "transcription": "wa as-haabuhu fil bahri hiina aduuru",
+        "translations": {
+          "fr": "le Prophète Choisi par Excellence et Ses Vaillants Compagnons."
+        }
+      },
+      {
+        "number": 53,
+        "text": "أُخَاطِبُهُ بِالْمَدْحِ وَهْوَ بِطَيْبَةٍ",
+        "transcription": "ukhaatibuhu bil madhi wahwa bitaybatin",
+        "translations": {
+          "fr": "Dans mes panégyriques, je m'adressai directement au Prophète et, bien que reposant à Médine,"
+        }
+      },
+      {
+        "number": 54,
+        "text": "وَإِنِّى لَهُ جَارٌ هُنَاكَ يَزُورُ",
+        "transcription": "wa innii lahu jaarun hunaaka yazuuru",
+        "translations": {
+          "fr": "je vécus en constante cohabitation avec Lui et ne cessai de Lui rendre visite."
+        }
+      },
+      {
+        "number": 55,
+        "text": "أُخَاطِبُهُ وَهْوَ الْوَسِيلَةُ سَرْمَدًا",
+        "transcription": "ukhaatibuhu wahwal wasiilatu sarmadan",
+        "translations": {
+          "fr": "Je m'entretenais avec Lui qui, à jamais, restera mon Guide"
+        }
+      },
+      {
+        "number": 56,
+        "text": "وَفِى الْقَلْبِ مِنِّى مِنْ رِّضَاهُ سُرُورُ",
+        "transcription": "wa fil qalbi minnii min ridaahu suruuru",
+        "translations": {
+          "fr": "et de sa complaisance en mon Service, mon coeur éprouva une grande joie..."
+        }
+      },
+      {
+        "number": 57,
+        "text": "وَخَاطَبْتُهُ فِى الْبَحْرِ إِذْ سَيْرِىَ انْتَهَى",
+        "transcription": "wa khaatabtuhu fil bahri iz sayriyan tahaa",
+        "translations": {
+          "fr": "J'eus un entretien avec Lui en mer,"
+        }
+      },
+      {
+        "number": 58,
+        "text": "إِلَى اللَّهِ وَالْمُخْتَارِ وَهْوَ مُنِيرُ",
+        "transcription": "ilal laahi wal mukhtaari wahwa muniiru",
+        "translations": {
+          "fr": "lorsque j'atteignis le terme de ma marche vers DIEU et Son Prophète, le Choisi, l'Illuminateur"
+        }
+      },
+      {
+        "number": 59,
+        "text": "نَبِىَّ الْهُدَى طَابَتْ لِىَ النَّفْسُ هَاهُنَا",
+        "transcription": "nabiyyal hudaa taabat liyan nafsu haahunaa",
+        "translations": {
+          "fr": "Ô Messager de la Voie Droite ! Puisses-Tu apaiser mon àme ici-bas et dans l'Au-delà;"
+        }
+      },
+      {
+        "number": 60,
+        "text": "وَأَنْتَ بِمَدْحِى كَالصَّلَاةِ جَدِيرُ",
+        "transcription": "wa anta bimadhii kas salaati jadiiru",
+        "translations": {
+          "fr": "Tu demeures assuràment digne de mes éloges comme Tu l'es de la Prière (Salât-alâ-Nabî)"
+        }
+      },
+      {
+        "number": 61,
+        "text": "فَسَلْ خَالِقِى رَوْضَ الْعِدَى لِى مَعًا بِمَا",
+        "transcription": "fasal khaaliqii rawdal hidaa lii mahan bimaa",
+        "translations": {
+          "fr": "Sollicite auprès de mon CREATEUR qu'IL m'accorde, parmi les Faveurs que je ramène sur terre ferme,"
+        }
+      },
+      {
+        "number": 62,
+        "text": "أَءُوبُ بِهِ لِلْبَرِّ أَنْتَ نَذِيرُ",
+        "transcription": "a-uubu bihi lil barri anta naziiru",
+        "translations": {
+          "fr": "celle d'assujettir l'ensemble des ennemis, Ô Toi qui avertit des périls de l'Au-delà !"
+        }
+      },
+      {
+        "number": 63,
+        "text": "فَسَلْ خَالِقِى تَعْجِيلَ أَوْبِى بِمُنْيَتِى",
+        "transcription": "fasal khaaliqii tahjiila awbii bimunyatii",
+        "translations": {
+          "fr": "Demande à mon CREATEUR qu'il hâte mon retour chez les miens selon mes attentes"
+        }
+      },
+      {
+        "number": 64,
+        "text": "فَذَاكَ عَلَى الْمَوْلَى الْكَرِيمِ يَسِيرُ",
+        "transcription": "fazaaka halal mawlal kariimi yasiiru",
+        "translations": {
+          "fr": "car cela est infiniment aisé au GENEREUX SOUVERAIN..."
+        }
+      },
+      {
+        "number": 65,
+        "text": "عَلَيْكَ صَلَاةٌ مِّنْهُ جَلَّ مُسَلِّمًا",
+        "transcription": "halayka salaatun minhu jalla musalliman",
+        "translations": {
+          "fr": "Puisse-t-IL t'accorder la Paix et le Salut, au même titre qu'aux Tiens"
+        }
+      },
+      {
+        "number": 66,
+        "text": "مَعَ الْئَالِ وَالْأَ صْحَابِ نِعْمَ بُدُورُ",
+        "transcription": "mahal aali wal as-haabi nihma buduuru",
+        "translations": {
+          "fr": "et à Tes Compagnons [dont l'éclat défie la splendeur] de la pleine lune..."
+        }
+      },
+      {
+        "number": 67,
+        "text": "وَمِنْهُ  صَلَاةٌ مَّعْ سَلَامٍ إِلَيْكَ يَا",
+        "transcription": "wa minhu salaatun mah salaamin ilayka yaa",
+        "translations": {
+          "fr": "Que la Paix et le Salut émanant de DIEU Te soient assurés, Ô Espoir de mon coeur!"
+        }
+      },
+      {
+        "number": 68,
+        "text": "مُنَى كَلْكَلِى يَامَنْ نَّدَاهُ بُحُورُ",
+        "transcription": "munaa kalkalii yaa man nadaahu buhuuru",
+        "translations": {
+          "fr": "Toi dont l'abondance des invocations est à l'instar des océans..."
+        }
+      },
+      {
+        "number": 69,
+        "text": "أَغِثْنِى أَغِثْنِى يَاشَفِيعِى وَسِيلَتِى",
+        "transcription": "aghisnii aghisnii yaa shafiihii wasiilatii",
+        "translations": {
+          "fr": "Aide-moi ! Aide-moi ! Ô mon Intercesseur ! Ô mon Guide !"
+        }
+      },
+      {
+        "number": 70,
+        "text": "هُنَا وَغَدًا يَوْمَ السَّمَاءُ تَمُورُ",
+        "transcription": "hunaa wa ghadan yawmas samaa-u tamuuru",
+        "translations": {
+          "fr": "Assiste-moi ici-bas et à l'Au-delà, le Jour où le ciel s'évanouira..."
+        }
+      },
+      {
+        "number": 71,
+        "text": "وَقُدْنِى مِنَ الْفُجَّارِ وَالْبَحْرِ غَانِمًا",
+        "transcription": "wa qudnii minal fujjaari wal bahri ghaaniman",
+        "translations": {
+          "fr": "Délivre-moi des pervers et affranchis-moi de [cet exil] en mer en me ramenant sur terre ferme afin de retrouver mes Vertueux [frères musulmans];"
+        }
+      },
+      {
+        "number": 72,
+        "text": "إِلَى الْبَرِّ وَالْأَبْرَارِ أَنْتَ بَشِيرُ",
+        "transcription": "ilal barri wal abraari anta bashiiru",
+        "translations": {
+          "fr": "Tu demeures, certes, l'Apporteur de Bonnes Nouvelles..."
+        }
+      },
+      {
+        "number": 73,
+        "text": "فَبَشِّرْ ذَوِ الْإِسْلَامِ بِى عَاجِلًا وَكُنْ",
+        "transcription": "fabashshir zawil islaami bii haajilan wa kun",
+        "translations": {
+          "fr": "Réjouis dans un proche terme, à travers ma personne, tous les musulmans"
+        }
+      },
+      {
+        "number": 74,
+        "text": "مُنِيرًا بِىَ الْإِسْلَامَ أَنْتَ مُنِيرُ",
+        "transcription": "muniiran biyal islaama anta muniiru",
+        "translations": {
+          "fr": "et illumine à travers moi l'Islam, Ô Toi Qui illumines !"
+        }
+      },
+      {
+        "number": 75,
+        "text": "صَلَاةٌ وَتَسْلِيمٌ مِّنَ اللَّهِ سَرْمَدًا",
+        "transcription": "salaatun wa tasliimun minal laahi sarmadan",
+        "translations": {
+          "fr": "Puissent la Paix et le Salut de DIEU être éternellement assurés à Celui en dehors"
+        }
+      },
+      {
+        "number": 76,
+        "text": "عَلَى خَيْرِ مَنْ تُشْكَى إِلَيْهِ  أُمُورُ",
+        "transcription": "halaa khayri man tushkaa ilayhi umuuru",
+        "translations": {
+          "fr": "de qui on ne peut espérer trouver meilleur réconfort."
+        }
+      },
+      {
+        "number": 77,
+        "text": "عَلَى خَيْرِ خَلْقِ اللَّهِ طُرًّا مُّحَمَّدٍ",
+        "transcription": "halaa khayri khalqil laahi turran muhammadin",
+        "translations": {
+          "fr": "Le Prophète Muhammad, la Meilleure des créatures dans leur ensemble,"
+        }
+      },
+      {
+        "number": 78,
+        "text": "شَفِيعِى الَّذِى كُلِّى يَقِى وَيُنِيرُ",
+        "transcription": "shafiihil lazii kullii yaqii wa yuniiru",
+        "translations": {
+          "fr": "mon Intercesseur qui préserve et illumine mon Intégralité."
+        }
+      },
+      {
+        "number": 79,
+        "text": "مَعَ الْئَالِ وَالْأَصْحَابِ أُسْدِ الْعِدَى مَعًا",
+        "transcription": "mahal aali wal as-haabi usdil hidaa mahan",
+        "translations": {
+          "fr": "Au même titre qu'à sa Famille et à ses Compagnons, ces Lions intrépides devant l'ennemi"
+        }
+      },
+      {
+        "number": 80,
+        "text": "ذَوِى الذَّبِّ عَنِّى كُلَّ مَنْ سَيَجُورُ",
+        "transcription": "zawiz zabbi hannii kulla man sayajuuru",
+        "translations": {
+          "fr": "qui font battre en retraite tous ceux qui se dirigent vers moi animés de mauvaises intentions"
+        }
+      },
+      {
+        "number": 81,
+        "text": "عَلَى خِلِّهِ الصِّدِّيقِ رِضْوَانُ رَبِّهِ",
+        "transcription": "halaa khillihis siddiiqi ridwaanu rabbihi",
+        "translations": {
+          "fr": "Puisse DIEU Se montrer Satisfait de [Abu Bakr], l'Ami Intime du Messager de DIEU, le Véridique,"
+        }
+      },
+      {
+        "number": 82,
+        "text": "كَمَا قَارَنَا فِى الْغَارِ حِينَ يَسِيرُ",
+        "transcription": "kamaa qaaranaa fil ghaari hiina yasiiru",
+        "translations": {
+          "fr": "de la façon dont il demeura fidélement à ses cotés le jour où ils cheminérent vers la grotte..."
+        }
+      },
+      {
+        "number": 83,
+        "text": "عَلَى سَيْفِهِ الْفَارُوقِ مِنْ رَّبِّهِ رِضًى",
+        "transcription": "halaa sayfihil faaruuqi min rabbihi ridan",
+        "translations": {
+          "fr": "Puisse le SEIGNEUR manifester une Immense Satisfaction envers [Umar], son Vaillant Glaive,"
+        }
+      },
+      {
+        "number": 84,
+        "text": "كَبِيرٌ كَمَا قَدْ ذَبَّ وَهْوَ وَزِيرُ",
+        "transcription": "kabiirun kamaa qad zabba wahwa waziiru",
+        "translations": {
+          "fr": "celui qui a démêlé le Vrai du faux, son Assistant Intégre, de la façon dont il repoussa les mécréants..."
+        }
+      },
+      {
+        "number": 85,
+        "text": "وَمِنْهُ لِذِى النُّورَيْنِ أَبْغِى رِضَاءَهُ",
+        "transcription": "wa minhu lizin nuurayni abghii ridaa-ahu",
+        "translations": {
+          "fr": "Du TRES-HAUT je sollicite l'Agrément en faveur de [Uthman], le Détenteur des Deux Flambeaux,"
+        }
+      },
+      {
+        "number": 86,
+        "text": "كَمَا فَازَ بِالنُّورَيْنِ وَهْوَ صَبُورُ",
+        "transcription": "kamaa faaza bin nuurayni wahwa sabuuru",
+        "translations": {
+          "fr": "le Patient, de la façon dont il acquit la Lumière dans les Deux Mondes..."
+        }
+      },
+      {
+        "number": 87,
+        "text": "عَلَى وَالِدِ السِّبْطَيْنِ أَسْنَى رِضًى كَمَا",
+        "transcription": "halaa waalidis sibtayni asnaa ridan kamaa",
+        "translations": {
+          "fr": "Que le plus excellent Agrément soit assuré à [Ali], l'illustre père des deux petits-fils du Prophète,"
+        }
+      },
+      {
+        "number": 88,
+        "text": "أَبَادَ الْعِدَى بِالسَّيْفِ وَهْوَ شَهِيرُ",
+        "transcription": "abaadal hidaa bis sayfi wahwa shahiiru",
+        "translations": {
+          "fr": "de la façon dont il défit l'ennemi de son sabre décimateur..."
+        }
+      },
+      {
+        "number": 89,
+        "text": "عَلَى جُمْلَةِ الْأَصْحَابِ رِضْوَانُ رَبِّهِمْ",
+        "transcription": "halaa jumlatil as-haabi ridwaanu rabbihim",
+        "translations": {
+          "fr": "Sur l'ensemble des Compagnons du Prophète la Satisfaction de leur SEIGNEUR,"
+        }
+      },
+      {
+        "number": 90,
+        "text": "كَمَا جَاهَدُو مَنْ جَارَبِيسَ كَفُورُ",
+        "transcription": "kamaa jaahaduu man jaarabiisa kafuuru",
+        "translations": {
+          "fr": "de l'excellente façon dont ils combattirent les transgresseurs - quel funeste parti que la mécréance!"
+        }
+      },
+      {
+        "number": 91,
+        "text": "بِهِمْ أَرْتَجِى مِنْ مَّالِكِى نَصْرَهُ عَلَى",
+        "transcription": "bihim artajii min maalikii nasrahu halaa",
+        "translations": {
+          "fr": "C'est par leur grâce que j'escompte l'Assistance de DIEU, mon MAêtre,"
+        }
+      },
+      {
+        "number": 92,
+        "text": "ذَوِى الشِّرْكِ بِالتَّثْلِيثِ حِينَ تَجُورُ",
+        "transcription": "zawish shirki bit tasliisi hiina tajuuru",
+        "translations": {
+          "fr": "afin d'éconduire ces associateurs qui, dans leur insolence, proclament la Trinité de DIEU"
+        }
+      },
+      {
+        "number": 93,
+        "text": "يَظُنُّو نَنِى وَقْتَ اغْتِرَابِى لَدَيْهِمُ",
+        "transcription": "yazunnuu nanii waqtagh tiraabii ladayhimu",
+        "translations": {
+          "fr": "Ils étaient convaincus, au moment où je résidais tout seul parmi eux [pendant l'exil],"
+        }
+      },
+      {
+        "number": 94,
+        "text": "أَسِيرً الَّهُمْ وَالْكُلُّ ثَمَّ يَحُورُ",
+        "transcription": "asiiran lahum wal kullu samma yahuuru",
+        "translations": {
+          "fr": "que j'étais leur prisonnier; ils se fourvoyaient tous absolument..."
+        }
+      },
+      {
+        "number": 95,
+        "text": "حُيَارَى أُسَارَى الِشَّيَاطِينِ وَالْهَوَى",
+        "transcription": "huyaaraa usaaraa lish shayaatiini wal hawaa",
+        "translations": {
+          "fr": "En vérité ils nageaient dans l'erreur et c'était en fait eux les captifs de Satan et de leurs passions ;"
+        }
+      },
+      {
+        "number": 96,
+        "text": "وَإِنِّى لِرَبِّ الْعَرْشِ جَلَّ أَسِيرُ",
+        "transcription": "wa innii lirabbil harshi jalla asiiru",
+        "translations": {
+          "fr": "quant à moi, ma marche ne saurait se diriger vers un autre que le MAêtre du Trône - Exalté Soit-IL!"
+        }
+      },
+      {
+        "number": 97,
+        "text": "أَسِيرُ إِلَى ذِى الْبَرِّ وَالْبَحْرِ عَابِدًا",
+        "transcription": "asiiru ilaa zil barri wal bahri haabidan",
+        "translations": {
+          "fr": "Je me dirige en effet, en ma qualité de serviteur, vers CELUI à qui appartiennent la terre et la mer"
+        }
+      },
+      {
+        "number": 98,
+        "text": "وَلَسْتُ إِلَى الْفُجَّارِ عَوْضُ أَسِيرُ",
+        "transcription": "wa lastu ilal fujjaari hawdu asiiru",
+        "translations": {
+          "fr": "et jamais mon périple ne saurait avoir pour objet les pervers!"
+        }
+      },
+      {
+        "number": 99,
+        "text": "مَسِيرِى إِلَى الْوَهَّابِ جَلَّ جَلَالُهُ",
+        "transcription": " masiirii ilal wahhaabi jalla jalaaluhu",
+        "translations": {
+          "fr": "Ma marche a pour finalité le MEILLEUR DONATEUR - que Sa GRANDEUR Soit magnifiée"
+        }
+      },
+      {
+        "number": 100,
+        "text": "وَمَا لِى إِلَى غَيْرِ الْكَرِيمِ مَسِيرُ",
+        "transcription": "wa maa lii ilaa ghayril kariimi masiiru",
+        "translations": {
+          "fr": "et jamais je ne cheminerai vers un autre que le NOBLE SEIGNEUR!"
+        }
+      },
+      {
+        "number": 101,
+        "text": "تَمَسَّكْتُ بِالْحَبْلِ الْمَتِينِ مُرَتِّلًا",
+        "transcription": "tamassaktu bil hablil matiini murattilan",
+        "translations": {
+          "fr": "Je me suis arrimé au Coran, la Corde Incassable, en le lisant sans discontinuer"
+        }
+      },
+      {
+        "number": 102,
+        "text": "وَبِالْعُرْوَةِ الْوُثْقَى الَّتِى هِىَ نُورُ",
+        "transcription": "wa bil hurwatil wusqal latii hiya nuuru",
+        "translations": {
+          "fr": "et au Prophète, le Câble Sûr qui est pure Lumière..."
+        }
+      },
+      {
+        "number": 103,
+        "text": "بِهِ سِرْتُ مِنْ رَّبِّى لِرَبِّى مُوَحِّدًا",
+        "transcription": "bihi sirtu min rabbii lirabbii muwahhidan",
+        "translations": {
+          "fr": "Par ce Saint Livre je m'en suis retourné, procédant de mon SEIGNEUR,"
+        }
+      },
+      {
+        "number": 104,
+        "text": "وَحَوْلِى النَّصَارَى وَالْبُحُورُ تَمُورُ",
+        "transcription": "wa hawlin nasaaraa wal buhuuru tamuuru",
+        "translations": {
+          "fr": "vers mon SEIGNEUR dans la plus pure Unicité au moment même où les chrétiens m'entouraient et que déferlaient les vagues de la mer..."
+        }
+      },
+      {
+        "number": 105,
+        "text": "هُوَ الْكَنْزُ وَالْكِبْرِيتُ وَالزَّادُ لِى هُنَا",
+        "transcription": "huwal kanzu wal kibriitu waz zaadu lii hunaa",
+        "translations": {
+          "fr": "Ce Livre est mon trésor, ma fortune et mon viatique ici-bas,"
+        }
+      },
+      {
+        "number": 106,
+        "text": "بِهِ تَنْتَفِى نَارٌ غَدًا وَثُبُورُ",
+        "transcription": "bihi tantafii naarun ghadan wa subuuru",
+        "translations": {
+          "fr": "c'est grâce à lui que je serai préservé du Feu et de la ruine à l'Au-delà..."
+        }
+      },
+      {
+        "number": 107,
+        "text": "كِتَابٌ كَرِيمٌ مِّنْ كَرِيمٍ مُّكَرِّمٍ",
+        "transcription": "kitaabun kariimun min kariimin mukarrimin",
+        "translations": {
+          "fr": "C'est un Livre Honorable, émanant d'un SEIGNEUR HONORABLE sachant Honorer,"
+        }
+      },
+      {
+        "number": 108,
+        "text": "لِعَبْدٍ كَرِيمٍ لِّلْخَدِيمِ يَمِيرُ",
+        "transcription": "lihabdin kariimin lil khadiimi yamiiru",
+        "translations": {
+          "fr": "transmis à un esclave Honorable [le Prophète] qui guide le serviteur que je suis.."
+        }
+      },
+      {
+        "number": 109,
+        "text": "كِتَابٌ مَّجِيدٌ مِّنْ مَّجِيدٍ مُّمَجِّدٍ",
+        "transcription": "kitaabun majiidun min majiidin mumajjidin",
+        "translations": {
+          "fr": "C'est un Livre Majestueux, émanant d'un SEIGNEUR MAJESTUEUX sachant rendre auguste,"
+        }
+      },
+      {
+        "number": 110,
+        "text": "لِعَبْدٍ مَّجِيدٍ لِّلْكَفُورِ يَضِيرُ",
+        "transcription": "lihabdin majiidin lil kafuuri yadiiru",
+        "translations": {
+          "fr": "transmis à un esclave Auguste [le Prophète] qui défit les mécréants.."
+        }
+      },
+      {
+        "number": 111,
+        "text": "عَلَى مَنْ بِهِ قَدْ جَائَنَا مِنْهُ مُنْذِرًا",
+        "transcription": "halaa man bihi qad jaa-anaa minhu munziran",
+        "translations": {
+          "fr": "Que soit accordée au Prophète grâce à qui nous est parvenu le Livre"
+        }
+      },
+      {
+        "number": 112,
+        "text": "صَلَاةٌ تَقِينِى السُّوءَ حَيْثُ أَسِيرُ",
+        "transcription": "salaatun taqiinis suu-a haysu asiiru",
+        "translations": {
+          "fr": "qui avertit sur les périls de l'Au-delà une Prière qui me préserve à jamais du mal où que je puisse cheminer..."
+        }
+      }
+    ]
+  }
+}

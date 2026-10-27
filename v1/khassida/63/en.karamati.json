@@ -1,0 +1,363 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "Jazbu 1",
+    "transliterationName": "Jazbu 1",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1,
+        "text": "Praise be to the Manifest Truth (Al-Ḥaqq al-Mubīn, Allah), He whose Being is evident to me, for the clear Book (the Qur'an) and for all His blessings."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 2,
+        "text": "I praise my Lord, the Immense, with abundant praise that never ceases, invoking blessing upon a Generous one (Muḥammad) who led the creatures to the Giver of blessings (Allah)."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 3,
+        "text": "I give thanks to the Lord of the Glorious Throne, with a thanksgiving met by increase, greeting with peace the Incomparable one (Muḥammad) with all my breast and my speech."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 4,
+        "text": "I gave Him thanks for singling me out for the service of the Effacer (Al-Māḥī, Muḥammad), the sublime; a service rendered openly, and He loosed my fetters."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 5,
+        "text": "To Him my words are addressed, calling to what He loves, persevering; and He has led my aims to me, as provision for the Abode of Generosity (Paradise)."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 6,
+        "text": "O our Lord, O our Lord, O our Lord, O our Lord! O our Lord, accept our striving through the Chosen One (Muḥammad), the Revered."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 7,
+        "text": "For the Chosen One (Muḥammad), for whom blessing and peace are sought, together with the eulogy of every year, I have asked of Him who honours (Allah)."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 8,
+        "text": "Bless him who was made the Pole of existence (Quṭb al-wujūd) when he descended into it, and his Family, rich in gifts, and his Companions, and honour them."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 9,
+        "text": "Bless him who was made the best of Prophets, the favoured one, when our father (Adam) still lay in his clay; and magnify him."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 10,
+        "text": "And grant peace, O my Lord, to the Seal of the Prophets and of the chosen Messengers, our venerated Imām (Muḥammad)."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 11,
+        "text": "And bless, O Lord of Grace, the Messenger of Mercy, the bolt of the gate of retribution, the cause (of the creation) of every soul."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 12,
+        "text": "And grant peace, O my Everlasting Refuge (Aṣ-Ṣamad), to the Prophet Muḥammad, his Family and those who praise, and be with whoever follows in his footsteps."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 13,
+        "text": "O Lord of Permanence and Eternity, accept my services from me, and through them please him who holds precedence (Muḥammad), O You who illumine the path."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 14,
+        "text": "He is the choicest of the Arabs, he grants what is needed, he is the way of seeking, the physician of the sick."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 15,
+        "text": "Bless the Gate of Guidance, far-reaching, dispenser of munificence, lion against the foes, effacer of perdition, gateway of the heights and of generosity."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 16,
+        "text": "And grant peace to the Trustworthy (Al-Amīn, Muḥammad): he is the Firm and the Strong, he is the Protector and the Worthy of this praise; and honour him."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 17,
+        "text": "He is the Incomparable and the Glorious, he is the Dutiful and the Singular, who with uprightness leads to the Gardens whoever was blind (in spirit)."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 18,
+        "text": "Pour forth blessing and peace, O All-Powerful, upon Your Illuminating Lamp (as-Sirāj al-Munīr, Muḥammad): he is the Bearer of glad tidings and the Warner, with punishments and with blessings."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 19,
+        "text": "He is the Messenger of Mercy, he is vast in mercy, he is the master of eloquence, he is the Messenger of the great battle (al-malḥama)."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 20,
+        "text": "Pour forth blessing and peace forever, O You who sufficed me against grief, upon the Radiant Aḥmad (Muḥammad), and be with me in Your favours."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 21,
+        "text": "Adorn my outward and my inward with beauty through the Pure One (Muḥammad), O You who, by his rank, erase my grave sins and my lesser faults."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 22,
+        "text": "O You with whom is my hope, on my behalf pour forth Your blessing upon the Enwrapped One (Al-Muzzammil, Muḥammad), together with all the perfected and all the communities."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 23,
+        "text": "And grant peace, O Originator (Al-Badīʿ), to the Obeyed and the Obedient: he is the Intercessor whose intercession is accepted, Your magnified Beloved."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 24,
+        "text": "Bless the Venerated one (Muḥammad), O You who have shielded from shame; with You erase my fear, and with him magnify him."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 25,
+        "text": "O our Lord, O our Lord, O our Intimate Friend, O our Beloved, accept our writings from us through Your Chosen One (Muḥammad), the ladder (to You)."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 26,
+        "text": "Pour forth blessing and peace upon him (Muḥammad) who answered \"Yes!\" (Balā), first of all, on the Day of \"Am I not (your Lord)?\" (Alastu), before all who spoke."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 27,
+        "text": "Bless the best of Messengers, O You who through him bestow what is asked, together with the Family and the upright Companions, and accept my pen."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 28,
+        "text": "Grant that my pen be glad tidings of the one placed foremost (Muḥammad), and through him decree my pre-eminence, without harm or pain."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 29,
+        "text": "Bless the best of Prophets, who led the creatures with refined conduct (al-adab), O You who by his rank have sufficed me against my misconduct; and grant peace."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 30,
+        "text": "He is the one who, by his guidance, surpassed all other creatures, until his name appeared written upon Your magnified Throne,"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 31,
+        "text": "in the Gardens and upon the (heavenly) vaults, upon faces and in caves; and with spears and swords he uprooted every idol."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 32,
+        "text": "He led the rightly guided to bliss with the best of his Remembrances, the wise (the Qur'an), through his Lord, the Everlasting, the Ancient: glory be to Him who never sleeps!"
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 33,
+        "text": "Pour forth blessing and peace forever upon him for whom, on the night he was born, those persisting in sin were driven away."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 34,
+        "text": "The night of the Prophet's birth (Mawlid) is the night when doubts are erased, the night when toil is erased and the sinner is purified."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 35,
+        "text": "In it are salvation and success, with joy and attainment; in it gain and righteousness, with the repelling of punishments."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 36,
+        "text": "It held manifest wonders, attested by the transmitters, like the (sacred Persian) fire that was put out, together with the dissolving of abasement;"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 37,
+        "text": "and the lake of Sāwa, which had been magnified and revered by the Persians before the (true) religion, and was reduced to nothing;"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 38,
+        "text": "and like the falling of the shooting stars, to drive the people of doubt (the devils) from eavesdropping on the Prophet's tidings; and they returned full of remorse."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 39,
+        "text": "In it the Stoned One (Satan) was driven from the heavens by the stars, and fled defeated, blameworthy, with his faction, full of grief and anguish."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 40,
+        "text": "It (the light) shone forth when the best of Prophets was born, who appeared (in the world); may He (Allah) who guided his heart with wisdoms send blessing upon him."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 41,
+        "text": "An immense light, by which whoever was in the Mother of Cities, Mecca, the best of sanctuaries, saw the palaces of Caesar."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 42,
+        "text": "In it the palace of Chosroes split, which before had been raised high, its vault soaring towards the heaven of Him who honours (Allah);"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 43,
+        "text": "until even the throne was shattered, by the terror that enveloped it, before the light of the best of creation: O Lord, grant him peace,"
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 44,
+        "text": "after a blessing that never ceases, with the Family and the upright Companions; and through me renew the Path, without enemies or pain."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 45,
+        "text": "Pour forth blessing and peace upon him whose birth drove away towards others than us those who harbour hatred, and accept my services."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 46,
+        "text": "His birth (the Mawlid) is magnified, blessed, revered; honouring it is a duty for those who hold precedence (in faith)."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 47,
+        "text": "Honouring it according to the Sunna leads us to Paradise; through it grace increases for whoever is sincere and honours it."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 48,
+        "text": "Whoever honours the birth of our Prophet, Gate of Guidance, will not be called to account tomorrow: so respect it and honour it."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 49,
+        "text": "Whoever honours the birth of the best of creatures, Aḥmad (Muḥammad), is like one who was present at Badr, without any illusion."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 50,
+        "text": "Whoever has spent wealth for his noble birth, without extravagance, even to the value of a single dirham,"
+      }
+    ]
+  }
+}

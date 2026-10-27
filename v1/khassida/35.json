@@ -1,0 +1,588 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 35,
+    "name": "Halaman",
+    "transliterationName": "Halaman",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "عَلَى مَنْ عَلَىَّ وَلَسْتُ صَدِيحْ",
+        "transcription": "halaa man halayya wa lastu sadiih",
+        "translations": {
+          "fr": "A celui qui je me consacre sans fatigue"
+        }
+      },
+      {
+        "number": 2,
+        "text": "لَهُ كُلَّ عَامٍ هَدَا يَامَدِيحْ",
+        "transcription": "lahu kulla haamin hadaa yaa madiih",
+        "translations": {
+          "fr": "en chantant ses louanges chaque année."
+        }
+      },
+      {
+        "number": 3,
+        "text": "صَلَاةً تُحَاذِى صَلَامَ الْعَلِى",
+        "transcription": "salaatan tuhaazii salaamal halii",
+        "translations": {
+          "fr": "Et de prières qui ressemblent celles du Haut (Dieu)"
+        }
+      },
+      {
+        "number": 4,
+        "text": "بِئَالٍ وَصَحْبٍ وَكُلِّ نَصِيحْ",
+        "transcription": "bi-aalin wa sahbin wa kulli nasiih",
+        "translations": {
+          "fr": "A sa famille, ses compagnons et à tous les vertueux."
+        }
+      },
+      {
+        "number": 5,
+        "text": "أَدِيمُواْ ثَنَاءً عَلَى الْمُرْتَجَى",
+        "transcription": "adiimuu sanaa-an halal murtajaa",
+        "translations": {
+          "fr": "Chanter pour toujours  l'éloge de Prophète"
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَصَلُّواْ عَلَيْهِ صَلاَةً نَّصُوحْ",
+        "transcription": "wa salluu halayhi salaatan nasuuh",
+        "translations": {
+          "fr": "Et prier sur lui, une sincère prière"
+        }
+      },
+      {
+        "number": 7,
+        "text": "فَإِنِّى أُصَلِّى عَلَيْهِ هُنَا",
+        "transcription": "fa-innii usallii halayhi  hunaa",
+        "translations": {
+          "fr": "Moi, je prie sur lui ici,"
+        }
+      },
+      {
+        "number": 8,
+        "text": "بِئَالٍ وَصَحْبٍ وَكُلِّ  صَلِيحْ",
+        "transcription": "bi-aalin wa sahbin wa kulli saliih",
+        "translations": {
+          "fr": "sur sa famille, sur ses vertueux compagnons et sur les véridiques."
+        }
+      },
+      {
+        "number": 9,
+        "text": "إِلَاهِى فَصَلِّ بِغَيْرِ انْتِهَآ",
+        "transcription": "ilaahii fasalli bighayrin tihaa",
+        "translations": {
+          "fr": "Ô Seigneur, prie sans cesse"
+        }
+      },
+      {
+        "number": 10,
+        "text": "عَلَى الْمُصْطَفَى ذِى الْمُحَيَّا الصَّبِيحْ",
+        "transcription": "halal mustafaa zil muhayyas sabiih",
+        "translations": {
+          "fr": "sur Moustapha, détenteur d'intelligence âmerveillante."
+        }
+      },
+      {
+        "number": 11,
+        "text": "إِلَاهِى فَصَلِّ عَلَى مَنْ أَتَى",
+        "transcription": "ilaahii fasalli halaa man ataa",
+        "translations": {
+          "fr": "Seigneur  prie sur celui qui est"
+        }
+      },
+      {
+        "number": 12,
+        "text": "مُحِبًّا مُّحَبًّا صَبُورًا صَفُوحْ",
+        "transcription": "muhibban muhabban sabuuran safuuh",
+        "translations": {
+          "fr": "amoureux, aimé, clâment et patient"
+        }
+      },
+      {
+        "number": 13,
+        "text": "إِلَاهِى فَصَلِّ عَلَى مَنْ بَدَا",
+        "transcription": "iIaahii fasalli halaa man badaa",
+        "translations": {
+          "fr": "Seigneur  prie sur celui était"
+        }
+      },
+      {
+        "number": 14,
+        "text": "تَقِيًّا نَقِيًّا رَّئِيسًا رَّجُوحْ",
+        "transcription": "taqiyyan naqiyyan ra-iisan rajuuh",
+        "translations": {
+          "fr": "pieux, pure et guide exemplaire."
+        }
+      },
+      {
+        "number": 15,
+        "text": "إِلَاهِى فَصَلِّ عَلَى مَنْ هَدَى",
+        "transcription": "ilaahii fasalli halaa man hadaa",
+        "translations": {
+          "fr": "Seigneur prie sur celui à la guidance."
+        }
+      },
+      {
+        "number": 16,
+        "text": "مُطِيعًا مُطَاعًا لِرُشْدٍ جَنُوحْ",
+        "transcription": "mutiihan mutaahan lirushdin januuh",
+        "translations": {
+          "fr": "Celui qui est obéissant et à qui on suit ses ordres pour la droiture suprâme."
+        }
+      },
+      {
+        "number": 17,
+        "text": "إِلَاهِى فَصَلِّ عَلَى مَنْ دُعِى",
+        "transcription": "ilaahii fasalli halaa man duhii",
+        "translations": {
+          "fr": "Seigneur prie sur celui qu'on surnommait"
+        }
+      },
+      {
+        "number": 18,
+        "text": "بِبَرٍّ وَمَاحٍ لِّكُلِّ قَبِيحْ",
+        "transcription": "bi barrin wa maahin likulli qabiih",
+        "translations": {
+          "fr": "le sage et écarteur de tout mal."
+        }
+      },
+      {
+        "number": 19,
+        "text": "صَلَاةً تَكُفُّ الْبَلَا وَالرَّدَى",
+        "transcription": "salaatan takufful ballaa war radaa",
+        "translations": {
+          "fr": "prière qui éloigne le mal et la perte"
+        }
+      },
+      {
+        "number": 20,
+        "text": "تَجُرُّ مُنًى لَّا تَشُوبُ مَصُوحْ",
+        "transcription": "tajurru munnan laa tashuubu masuuh",
+        "translations": {
+          "fr": "qui améne la fortune licite."
+        }
+      },
+      {
+        "number": 21,
+        "text": "صَلاَةً تُرَقِّى لِنَيْلِ الْعُلَى",
+        "transcription": "salaatan turaqqii linaylil hulaa",
+        "translations": {
+          "fr": "prière conduisant vers le haut,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "تُقَوِّى الْعُقُولَ بِعَقْدٍ صَحِيحْ",
+        "transcription": "tuqawwil huquula bihaqdin sahiih",
+        "translations": {
+          "fr": "renforçant la foi sublime des coeurs."
+        }
+      },
+      {
+        "number": 23,
+        "text": "صَلَاةً تَجُودُ بِخَيْرِ مُنًى",
+        "transcription": "salaatan tajuudu bikhayri munan",
+        "translations": {
+          "fr": "prière par laquelle on obtient de bonnes choses"
+        }
+      },
+      {
+        "number": 24,
+        "text": "يَزُولُ بِعَا عَيْبُ نَفْسٍ وَرُوحْ",
+        "transcription": "yazuulu bihaa haybu nafsin wa ruuh",
+        "translations": {
+          "fr": "et par laquelle s'efface la vice de l'âme et de l'esprit."
+        }
+      },
+      {
+        "number": 25,
+        "text": "صَلَاةً تُرِينِى هُنَا وَجْهَهُ",
+        "transcription": "salaatan turiinii hunaa wajhahu",
+        "translations": {
+          "fr": "prière qui dévoile à mes yeux ici au bas monde"
+        }
+      },
+      {
+        "number": 26,
+        "text": "عِيَانًا لِّيَشْفِىَ قَلْبِى الْجَرِيحْ",
+        "transcription": "hiyaanan liyashfiya qalbil jariih",
+        "translations": {
+          "fr": "et qui soignera mon coeur brisé."
+        }
+      },
+      {
+        "number": 27,
+        "text": "صَلَاةً تُرَبِّى الْمُصَلِّى الَّذِى",
+        "transcription": "salaatan turabbil musallil lazii",
+        "translations": {
+          "fr": "prière qui corrige <<protège>> celui qui"
+        }
+      },
+      {
+        "number": 28,
+        "text": "دَعَاهُ اللَّعِينُ لِشَىْءٍ مُّطِيحْ",
+        "transcription": "dahaahul lahiinu lishay-in mutiih",
+        "translations": {
+          "fr": "l'accomplit contre l'appel à la débauche lancé par le maudit(Ibliss)."
+        }
+      },
+      {
+        "number": 29,
+        "text": "صَرَفْتُ لِسَانِى وَقَلْبِى مَعًا",
+        "transcription": "saraftu lisaanii wa qalbii mahan",
+        "translations": {
+          "fr": "J'ai orienté ma parole et mon coeur ensemble"
+        }
+      },
+      {
+        "number": 30,
+        "text": "إِلَى الْمُبْتَغَى مِنْهُ خَيْرَ فُتُوحْ",
+        "transcription": "ilal mubtaghaa minhu khayra futuuh",
+        "translations": {
+          "fr": "vers celui à qui on cherche la meilleure ouverture."
+        }
+      },
+      {
+        "number": 31,
+        "text": "إِلَى الْمُصْطَفَى الْمُنْتَقَى الْمُجْتَبَى",
+        "transcription": "ilal mustafal muntaqal mujtabaa",
+        "translations": {
+          "fr": "A Moustapha l'élu, le purifié, le sage,"
+        }
+      },
+      {
+        "number": 32,
+        "text": "عَنَيْتُ الْكَرِيمَ الشَّفِيعَ النَّصِيحْ",
+        "transcription": "hanaytul kariimash shafiihan nasiih",
+        "translations": {
+          "fr": "et le vrai intercepteur, je me consacre."
+        }
+      },
+      {
+        "number": 33,
+        "text": "هُوَ الْمُعْتَمَى الْمُكْتَفِى الْمُكْتَفَى",
+        "transcription": "huwal muhtamal muktafil muktafaa",
+        "translations": {
+          "fr": "Il est l'écouteur, le défenseur à qui l'allié"
+        }
+      },
+      {
+        "number": 34,
+        "text": "بِهِ وَالْوَكِيلُ الْأَجِيرُ الرَّبُوحْ",
+        "transcription": "bihi wal wakiilul ajiirur rabuuh",
+        "translations": {
+          "fr": "et le travailleur trouvent de récompense bénéfique."
+        }
+      },
+      {
+        "number": 35,
+        "text": "مُرَبًّى مُّرَبٍّ رَّسُولٌ نَّبِى",
+        "transcription": "murabban murabbin rasuulun nabii",
+        "translations": {
+          "fr": "Mon éducateur, quel éducateur! Il est le Messager, le Prophète."
+        }
+      },
+      {
+        "number": 36,
+        "text": "نَجِىُّ الْإِلَاهِ الْكَلِيمُ الْفَصِيحْ",
+        "transcription": "najiyyul ilaahil kaliimul fasiih",
+        "translations": {
+          "fr": "L'interlocuteur de Dieu l'éloquent parleur."
+        }
+      },
+      {
+        "number": 37,
+        "text": "جَمِيلُ الْمُحَيَّا زَكِىُّ الْحِجَى",
+        "transcription": "jamiilul muhayyaa zakiyyul hijaa",
+        "translations": {
+          "fr": "Il a la beauté sublime et l'intelligence immense."
+        }
+      },
+      {
+        "number": 38,
+        "text": "مَبَرٌّ مَّعَاذٌ لِّكُلِّ طَرِيحْ",
+        "transcription": "mabarrun mahaazun likulli tariih",
+        "translations": {
+          "fr": "Il est la porte de tout le bien par laquelle s'échappe de tout le mal."
+        }
+      },
+      {
+        "number": 39,
+        "text": "زَعِيمٌ بِكَشْفِ كُرُوبِ الَّذِى",
+        "transcription": "zahiimun bi kashfi kuruubil lazii",
+        "translations": {
+          "fr": "Il est le guide qui soulage l'angoisse de celui"
+        }
+      },
+      {
+        "number": 40,
+        "text": "يَلُوذُ بِهِ لاِتِّقَآءِ دُنُوحْ",
+        "transcription": "yaluuzu bihi littiqaa-i dunuuh",
+        "translations": {
+          "fr": "qui se confie à lui pour la repentance."
+        }
+      },
+      {
+        "number": 41,
+        "text": "حَرَامٌ عَلَى مَنْ هُدَاهُ أَبَى",
+        "transcription": "haraamun halaa man hudaahu abaa",
+        "translations": {
+          "fr": "Il est interdit à celui qui refuse son chemin (du Prophète),"
+        }
+      },
+      {
+        "number": 42,
+        "text": "دُخُولُ جِنَانٍ دَخِيلًا تُرِيحْ",
+        "transcription": "dukhuulu jinaanin dakhiilan turiih",
+        "translations": {
+          "fr": "d'entrer dans le paradis par une entrée apaisée."
+        }
+      },
+      {
+        "number": 43,
+        "text": "وَمَنْ لَّمْ يَلِجْ نَهْجَهُ يُنْتَظَرْ",
+        "transcription": "wa man lam yalij nahjahu yuntazar",
+        "translations": {
+          "fr": "Celui qui ne suit pas son chemin sera accueilli"
+        }
+      },
+      {
+        "number": 44,
+        "text": "بِغُلٍّ ثَقِيلٍ وَنَارٍ لَّفُوحْ",
+        "transcription": "bighullin saqiilin wa naarin lafuuh",
+        "translations": {
+          "fr": "par une soif ardente et un feu brûlant."
+        }
+      },
+      {
+        "number": 45,
+        "text": "طَفَوْنَا عَلَى غَيْرِنَا بِالعُلَّى",
+        "transcription": "tafawnaa halaa ghayrinaa bil hullaa",
+        "translations": {
+          "fr": "J'ai surpassé outre en degré de grandeur"
+        }
+      },
+      {
+        "number": 46,
+        "text": "إِذِ الْمُصْطَفَى قَدْ طَّفَا بِالرُّجُوحْ",
+        "transcription": "izil mustafaa qad tafaa bir rujuuh",
+        "translations": {
+          "fr": "car Moustapha a dépassé tous par son poids."
+        }
+      },
+      {
+        "number": 47,
+        "text": "أَدِيمُواْ امْتِدَاحًا لِّبَحْرِ النَّدَى",
+        "transcription": "adiimum tidaahan libahrin nadaa",
+        "translations": {
+          "fr": "Chanter pour toujours l'éloge de la mer de générosité"
+        }
+      },
+      {
+        "number": 48,
+        "text": "جَزِيلُ اللُّهَى فَتَنَالُواْ الرُّبُوحْ",
+        "transcription": "jaziilul luhaa fatanaalur rubuuh",
+        "translations": {
+          "fr": "et d'immense récompense vous obtiendrez comme bénéfice."
+        }
+      },
+      {
+        "number": 49,
+        "text": "أَدِيمُواْ ثَنَاءَ الَّذِى قَدْ حَوَى",
+        "transcription": "adiimuu sanaa-al lazii qad hawaa",
+        "translations": {
+          "fr": "Chanter pour toujours l'éloge de celui qui détient"
+        }
+      },
+      {
+        "number": 50,
+        "text": "سَجَايَا الْكِرَامِ بِفَضْلِ الْمَنُوحْ",
+        "transcription": "sajaayal kiraami bifadlil manuuh",
+        "translations": {
+          "fr": "les qualités de sagesse par la grâce du donneur (Dieu)."
+        }
+      },
+      {
+        "number": 51,
+        "text": "فَلَا يَنْبَغِى أَنْ يَّفُوهَ ذَكِى",
+        "transcription": "falaa yanbaghii an yafuuha zakii",
+        "translations": {
+          "fr": "L'intellectuel ne doit parler que"
+        }
+      },
+      {
+        "number": 52,
+        "text": "بِمَدْحٍ عَجِيبٍ لِّغَيْرِ سَمُوحْ",
+        "transcription": "bimadhin hajiibin lighayri samuuh",
+        "translations": {
+          "fr": "de l'âmerveille éloge dû à l'egard du Prophète."
+        }
+      },
+      {
+        "number": 53,
+        "text": "فَمَدْحُ النَّبِىِّ الْكَرِيمِ الْعَلِى",
+        "transcription": "famadhun nabiyyil kariimil halii",
+        "translations": {
+          "fr": "Chanter l'éloge du grand Prophète"
+        }
+      },
+      {
+        "number": 54,
+        "text": "يَكُفُّ الْعَنَآ وَالرَّدَى وَالْفُضُوحْ",
+        "transcription": "yakufful hanaa war radaa wal fuduuh",
+        "translations": {
+          "fr": "est une protection contre la fatigue, la perte et la honte."
+        }
+      },
+      {
+        "number": 55,
+        "text": "يُصَفِّى فُؤَادًا عَرَاهُ الْأَذَى",
+        "transcription": "yusaffii fu-aadan haraahul azaa",
+        "translations": {
+          "fr": "Il donne la pureté au coeur bourré de péchés,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "وَيَجْلُو الصَّدَى وَالظَّلَامَ الطَّمُوحْ",
+        "transcription": "wa yajlus sadaa waz zalaamat tamuuh",
+        "translations": {
+          "fr": "il résout le problâme et la tyrannie ambiante."
+        }
+      },
+      {
+        "number": 57,
+        "text": "مَدَحْتُ النَّنِىَّ الْكَرِيمَ السَّخِى",
+        "transcription": "madahtun nabiyyal kariimas sakhii",
+        "translations": {
+          "fr": "J'ai chanté l'éloge du Prophète généreux,"
+        }
+      },
+      {
+        "number": 58,
+        "text": "وَأَرْجُو بِهِ الدَّهْرَ أَنْ لَّا أَطُوحْ",
+        "transcription": "wa arjuu bihid dahra an laa atuuh",
+        "translations": {
+          "fr": "j'espère en rester à jamais sans détour."
+        }
+      },
+      {
+        "number": 59,
+        "text": "حَمِدْتُّ إِلَاهِى الَّذِى جَرَّنِى",
+        "transcription": "hamidttu ilaahil lazii jarranii",
+        "translations": {
+          "fr": "J'ai remercié mon Seigneur qui m'a conduit"
+        }
+      },
+      {
+        "number": 60,
+        "text": "إِلَى خِدْمَةِ الْمُجْتَبَى ذِى الْفُتُوحْ",
+        "transcription": "ilaa khidmatil mujtabaa zil futuuh",
+        "translations": {
+          "fr": "au service de l'élu, détenteur des victoires."
+        }
+      },
+      {
+        "number": 61,
+        "text": "حَمِدْتُّ إِلَاهِىَ حَمْدًا يَفِى",
+        "transcription": "hamidttu ilaahiya hamdan yafii",
+        "translations": {
+          "fr": "J'ai remercié mon Seigneur; remerciement par"
+        }
+      },
+      {
+        "number": 62,
+        "text": "بِخَيْرِ مَزِيدٍ عَلَى مَآ أُتِيحْ",
+        "transcription": "bikhayri maziidin halaa maa utiih",
+        "translations": {
+          "fr": "lequel s'accroît le bien qui m'a était gratifié."
+        }
+      },
+      {
+        "number": 63,
+        "text": "حَمِدْتُّ إِلَاهِى الَّذِى جَرَّنِى",
+        "transcription": "hamidttu ilaahil lazii jarranii",
+        "translations": {
+          "fr": "J'ai remercié mon Seigneur qui m'a conduit"
+        }
+      },
+      {
+        "number": 64,
+        "text": "إِلَى خِدْمَةِ الْمُقْتَفَى ذِى السُّمُوحْ",
+        "transcription": "ilaa khidmatil muqtafaa zis sumuuh",
+        "translations": {
+          "fr": "au service du guide si tolérant."
+        }
+      },
+      {
+        "number": 65,
+        "text": "حَمِدْتُّ إِلَاهِى بِشُكْرٍ لَّهُ",
+        "transcription": "hamidttu ilaahii bishukrin lahu",
+        "translations": {
+          "fr": "J'ai remercié mon Seigneur,"
+        }
+      },
+      {
+        "number": 66,
+        "text": "عَلَى جَذْبِ قَلْبِى لِحُبِّ النَّصِيحْ",
+        "transcription": "halaa jazbi qalbii lihubbin nasiih",
+        "translations": {
+          "fr": "qui a orienté mon coeur à l'amour sincère du Prophète."
+        }
+      },
+      {
+        "number": 67,
+        "text": "لِحُبِّ الرَّسُولِ الَّذِى سَرْمَدًا",
+        "transcription": "lihubbir rassulil lazii sarmadan",
+        "translations": {
+          "fr": "Par l'amour du Prophète, je prie pour lui"
+        }
+      },
+      {
+        "number": 68,
+        "text": "أُصَلِى عَلَيْهِ بِمَدْحٍ مَّلِيحْ",
+        "transcription": "usalii halayhi bimadhin maliih",
+        "translations": {
+          "fr": "et je chante son éloge salé éternellement."
+        }
+      },
+      {
+        "number": 69,
+        "text": "فَكُنْ سَيِّدِى لِلْخَدِيمِ الدَّنِى",
+        "transcription": "fakun sayyidii lil khadiimid danii",
+        "translations": {
+          "fr": "Ô Maître, sois pour moi, humble serviteur, mon guide"
+        }
+      },
+      {
+        "number": 70,
+        "text": "شَفِيعًا لِّيَوْمِ الْعَنَا وَالْكُلُوحْ",
+        "transcription": "shafiihan liyawmil hanaa wal kuluuh.",
+        "translations": {
+          "fr": "le jour de la fatigue et de l'angoisse (le jour du jugement dernier)."
+        }
+      },
+      {
+        "number": 71,
+        "text": "عَلَيْكَ سَلَامَا الَّذِى أَبْتَغِى",
+        "transcription": "halayka salaamal lazii abtaghii",
+        "translations": {
+          "fr": "Que soit sur vous la paix par laquelle je veux conclure"
+        }
+      },
+      {
+        "number": 72,
+        "text": "لَدَيْهِ خِتَامًا بِفَوْزٍ يُرِيحْ",
+        "transcription": "ladayhi khitaaman bifawzin yuriih",
+        "translations": {
+          "fr": "en demandant une réussite apaisante."
+        }
+      }
+    ]
+  }
+}

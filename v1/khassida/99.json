@@ -1,0 +1,1499 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 99,
+    "name": "Matlabushiffa",
+    "transliterationName": "Matlabushiffa",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "حَمْدًا لِّمُنْزِلِ الضَّنَى وَالدَّآءِ",
+        "transcription": "hamdan limunzilid danaa wad daa-i",
+        "translations": {
+          "fr": "Louange à dieu qui fait descendre le dépérissement"
+        }
+      },
+      {
+        "number": 2,
+        "text": "وَمُنْزِلِ الشِّفَاءِ وَالدَّوَآءِ",
+        "transcription": "wa munzilish shifaa-i wad dawaa-i",
+        "translations": {
+          "fr": "et la maladie. Comme il révèle le remède et le médicament."
+        }
+      },
+      {
+        "number": 3,
+        "text": "مَنْ أَمَرَ الْعِبَادَ بِالدُّعَآءِ",
+        "transcription": "man amaral hibaada bid duhaa-i",
+        "translations": {
+          "fr": "C'est lui qui ordonne l'invocation aux serviteurs"
+        }
+      },
+      {
+        "number": 4,
+        "text": "لِيَدْ فَعُواْ بِهِ عَنِ الْبَلَآءِ",
+        "transcription": "liyad fahuu bihi hanil balaa-i",
+        "translations": {
+          "fr": "pour repousser par elle la malheur."
+        }
+      },
+      {
+        "number": 5,
+        "text": "ثُمَّ عَلَى مَنْ حَيْثُ مَسَّ ذَا مَرَضْ",
+        "transcription": "summa halaa man haysu massa zaa marad",
+        "translations": {
+          "fr": "Que soit ensuite sur celui qui des qu'il touche le malade"
+        }
+      },
+      {
+        "number": 6,
+        "text": "يَبْرَاْ بِلَا بُظْإٍ وَفَازَ بِالْغَرَضْ",
+        "transcription": "yabra bilaa buz-in wa faaza bil gharad",
+        "translations": {
+          "fr": "ce dernier recouvre, sans retard, la santé et obtient son desir."
+        }
+      },
+      {
+        "number": 7,
+        "text": "مُحَمَّدٍ طَبِيبِنَا الْحَكِيمِ",
+        "transcription": "muhammadin tabiibinal hakiimi",
+        "translations": {
+          "fr": "Mouhamed notre sage médecin, le plus noble par"
+        }
+      },
+      {
+        "number": 8,
+        "text": "أَزْكَى سَلَامَىْ رَبِّنَا الْكَرِيمِ",
+        "transcription": "azkaa salaamay rabbinal kariimi",
+        "translations": {
+          "fr": "salut de notre Seigneur le savant."
+        }
+      },
+      {
+        "number": 9,
+        "text": "وَالْئَالِ وَالصَّحْبِ ذَوِى الْعَلَآءِ",
+        "transcription": "wal aali was sahbi zawil halaa-i",
+        "translations": {
+          "fr": "Ainsi que sur sa famille et ses compagnons,"
+        }
+      },
+      {
+        "number": 10,
+        "text": "مَااحْتَجَ ذُوالْأَسْقَامِ لِلشِّفَآءِ",
+        "transcription": "mahtaja zul asqaami lish shifaa-i",
+        "translations": {
+          "fr": "tant que les malades  auront besoin de guérison."
+        }
+      },
+      {
+        "number": 11,
+        "text": "هَاذَا وَإِنِّى الْيَوْمَ ذُو أَوْجَاعِ",
+        "transcription": "haazaa wa innil yawma zuu awjaahi",
+        "translations": {
+          "fr": "Cela fait et je suis aujourd'hui souffrant en souhaitant"
+        }
+      },
+      {
+        "number": 12,
+        "text": "مُبْتَغِيًا عَوْنَ الْمُجِيبِ الدَّاعِى",
+        "transcription": "mubtaghiyan hawnal mujiibid daahii",
+        "translations": {
+          "fr": "l'aide de celui qui exauce le requérant."
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَأَشْتَكِى إِلَيْهِ مَا مِنَ الضَّرَرْ",
+        "transcription": "wa ashtakii ilayhi maa minad darar",
+        "translations": {
+          "fr": "Je me plains au Seigneur, du mal qui m'a frappé"
+        }
+      },
+      {
+        "number": 14,
+        "text": "قَدْ مَسَّنِى حَتَّى أَرَانِى مُحْتَضَرْ",
+        "transcription": "qad massanii hattaa araanii muhtadar",
+        "translations": {
+          "fr": "au point de m'emmener en présence de la mort."
+        }
+      },
+      {
+        "number": 15,
+        "text": "يَارَبَّنَا يَارَبَّنَا يَارَبَّنَا",
+        "transcription": "yaa rabbanaa yaa rabbanaa yaa rabbanaa",
+        "translations": {
+          "fr": "Ô Notre Seigneur! Ô Notre Seigneur! Ô Notre Seigneur!"
+        }
+      },
+      {
+        "number": 16,
+        "text": "يَارَبَّنَا يَارَبَّنَا إِدْفَعْ ضُرَّنَا",
+        "transcription": "yaa rabbanaa yaa rabbanaa idfah durranaa",
+        "translations": {
+          "fr": "Ô Notre Seigneur! Ô Notre Seigneur! Eloigne notre mal."
+        }
+      },
+      {
+        "number": 17,
+        "text": "بِجَاهِ خَيْرِ الْعَالَمِينَ الْأَكْرَمِ",
+        "transcription": "bijaahi khayril haalamiinal akrami",
+        "translations": {
+          "fr": "Pour considération pour le meilleur des hommes  les plus illustres,"
+        }
+      },
+      {
+        "number": 18,
+        "text": "ثُمَّ بِيُمْنِ رَمَضَانَ الْأَعْظَمِ",
+        "transcription": "summa biyumni ramadaanal ahzami",
+        "translations": {
+          "fr": "ensuite pour honorer pour Ramadan le plus grand."
+        }
+      },
+      {
+        "number": 19,
+        "text": "يَاللَّهُ يَارَحْمَانُ يَارَحِيمُ",
+        "transcription": "yal laahu yaa rahmaanu yaa rahiimu",
+        "translations": {
+          "fr": "Ô Dieu! Ô le Bienfaiteur! Ô le Miséricordieux!"
+        }
+      },
+      {
+        "number": 20,
+        "text": "يَابَرُّ يَاكَرِيمُ يَاعَظِيمُ",
+        "transcription": "yaa barru yaa kariimu yaa haziimu",
+        "translations": {
+          "fr": "Ô le Juste! Ô le Généreux! Ô le Grand!"
+        }
+      },
+      {
+        "number": 21,
+        "text": "إِغْفِرْ ذُنُوبَنَا تَقَبَّلْ مِنَا",
+        "transcription": "ighfir zunuubanaa taqabbal minaa",
+        "translations": {
+          "fr": "Pardonne-nous nos péchés, accepte nos actes,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَاحْمِ حِمَانَا وَتَجَا وَزْعَنَا",
+        "transcription": "wahmi himaanaa wa tajaa wazhanaa",
+        "translations": {
+          "fr": "protège-nous, laisse nos péchés impunis."
+        }
+      },
+      {
+        "number": 23,
+        "text": "وَأَنْزِلَنْ يَّارَبَّنَا خَيْرَ نِعَمْ",
+        "transcription": "wa anzilan yaa rabbanaa khayra niham",
+        "translations": {
+          "fr": "Ô notre Seigneur apporte les meilleures faveurs"
+        }
+      },
+      {
+        "number": 24,
+        "text": "مَكَانَ مَا نَخَافُ مِنْ شَرِّ نِقَمْ",
+        "transcription": "makaana maa nakhaafu min sharri niqam",
+        "translations": {
+          "fr": "à la place des mauvais châtiments que nous craignons."
+        }
+      },
+      {
+        "number": 25,
+        "text": "وَهَبْ لَنَا الْئَادَابَ وَالْمَزَايَا",
+        "transcription": "wa hab lanal aadaaba wal mazaayaa",
+        "translations": {
+          "fr": "Accorde-nous la politesse et les qualités"
+        }
+      },
+      {
+        "number": 26,
+        "text": "وَكُفَّنَا الْئَافَاتِ وَالرَّزَايَا",
+        "transcription": "wa kuffanal aafaati war razaayaa",
+        "translations": {
+          "fr": "Eloigne-nous des calamités et des préjudices"
+        }
+      },
+      {
+        "number": 27,
+        "text": "وَهَبْ لَنَا الْحِرْصَ عَلَى الطَّاعَاتِ",
+        "transcription": "wa hab lanal hirsa halat taahaati",
+        "translations": {
+          "fr": "Octroie-nous  le desir immodéré de pratiquer les devoirs religieux."
+        }
+      },
+      {
+        "number": 28,
+        "text": "وَكُفَّنَا الْكَسَلَ فِى الْأَوْقَاتِ",
+        "transcription": "wa kuffanal kasala fil awqaati",
+        "translations": {
+          "fr": "Ecarte-nous de la paresse aux heures de dévotion."
+        }
+      },
+      {
+        "number": 29,
+        "text": "يَابَرُّ يَالَطِيفُ يَامُعَافِى",
+        "transcription": "yaa barru yaa latiifu yaa muhaafii",
+        "translations": {
+          "fr": "Ô Toi le Juste, le Bon par excellence, le Préservateur"
+        }
+      },
+      {
+        "number": 30,
+        "text": "يَامَنْ لَّهُ أَمْرُ الْوَرَى يَاشَافِى",
+        "transcription": "yaa man lahu amrul waraa yaa shaafii",
+        "translations": {
+          "fr": "Ô Toi qui accorde la guérison et dispose entièrement de la destinée des créatures !"
+        }
+      },
+      {
+        "number": 31,
+        "text": "أَنْزِلْ شِفَآءَكَ مَكَانَ الدَّآءِ",
+        "transcription": "anzil shifaa-aka makaanad daa-i",
+        "translations": {
+          "fr": "Fais descendre ton remède là où se cache la maladie."
+        }
+      },
+      {
+        "number": 32,
+        "text": "وَلَا تُعَامِلْنَا بِالْإِبْتِلَآءِ",
+        "transcription": "walaa tuhaamilnaa bil ibtilaa-i",
+        "translations": {
+          "fr": "N'agis point à notre endroit par la voie des épreuves."
+        }
+      },
+      {
+        "number": 33,
+        "text": "وَأَنْزِلِ النَّفْعَ مَكَانَ الضُّرِّ",
+        "transcription": "wa anzilin nafha makaanad durri",
+        "translations": {
+          "fr": "Donne l'avantage au lieu du dommage."
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَأَنْزِلِ الْخَيْرَ مَكَانَ الشَّرِّ",
+        "transcription": "wa anzilil khayra makaanash sharri",
+        "translations": {
+          "fr": "Et le bien au lieu du mal."
+        }
+      },
+      {
+        "number": 35,
+        "text": "وَأَنْزَلِ الْعِلْمَ مَكَانَ الْجَهْلِ",
+        "transcription": "wa anzilil hilma makaanal jahli",
+        "translations": {
+          "fr": "Procure le savoir en remplacement de l'ignorance."
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَأَنْزِلِ الْجُودَ مَكَانَ الْبُخْلِ",
+        "transcription": "wa anzilil juuda makaanal bukhli",
+        "translations": {
+          "fr": "Et la générosité face à l'avarice."
+        }
+      },
+      {
+        "number": 37,
+        "text": "وَأَنْزِلِ الْغِنَى مَكَانَ الْفَقْرِ",
+        "transcription": "wa anzilil ghinaa makaanal faqri",
+        "translations": {
+          "fr": "Attribue la richesse à l'inverse de la pauvreté."
+        }
+      },
+      {
+        "number": 38,
+        "text": "وَأَنْزِلِ الشُّكْرَ مَكَانَ الْكُفْرِ",
+        "transcription": "wa anzilish shukra makaanal kufri",
+        "translations": {
+          "fr": "Et la reconnaissance à l'opposé de l'ingratitude."
+        }
+      },
+      {
+        "number": 39,
+        "text": "وَاشْفِ جَمِيعَ الْمُسْلِمِينَ عَاجِلَا",
+        "transcription": "washfi jamiihal muslimiina haajilaa",
+        "translations": {
+          "fr": "Guérit tous les musulmans dans le monde d'ici bas préserve les"
+        }
+      },
+      {
+        "number": 40,
+        "text": "ثُمَّ قِهِمْ خَوْفًا وَحُزْنًا أَجِلَا",
+        "transcription": "summa qihim khawfan wa huznan ajilaa",
+        "translations": {
+          "fr": "ensuite de la peur et de la tristesse dans la vie future."
+        }
+      },
+      {
+        "number": 41,
+        "text": "وَنَجِّهِمْ وَعَافِهِمْ وَالْطُفْ بِهِمْ",
+        "transcription": "wa najjihim wa haafihim wal tuf bihim",
+        "translations": {
+          "fr": "Sauve-les, pardonne-les, soit bienveillant pour eux"
+        }
+      },
+      {
+        "number": 42,
+        "text": "وَلَا تُوَاخِذْهِمْ بِكُثْرِ ذَنْبِهِمْ",
+        "transcription": "walaa tuwaakhizhim bikusri zanbihim",
+        "translations": {
+          "fr": "et, ne leur en veut pas à cause de leurs nombreux péchés."
+        }
+      },
+      {
+        "number": 43,
+        "text": "فَإِنَّهُمْ وَإِنْ عَصَوْكَ يَا أَحَدْ",
+        "transcription": "fa-innahum wa in hasawka yaa ahad",
+        "translations": {
+          "fr": "Ô l'Unique, s'ils t'ont sans doute désobéis par"
+        }
+      },
+      {
+        "number": 44,
+        "text": "لِغَفْلَةٍ لَّمْ يُشْرِكُواْ بِكَ أَحَدْ",
+        "transcription": "lighaflatin lam yushrikuu bika ahad",
+        "translations": {
+          "fr": "négligence, ils ne t'ont associé à personne."
+        }
+      },
+      {
+        "number": 45,
+        "text": "وَإِنَّهُمْ أَبْدَا نُهُمْ لَا تَقْدِرُ",
+        "transcription": "wa innahum abdaa nuhum laa taqdiru",
+        "translations": {
+          "fr": "Leurs corps dont la faiblesse  est manifeste"
+        }
+      },
+      {
+        "number": 46,
+        "text": "عَلَى بَلَآئِكَ لِضُعْفٍ يَظْهَرُ",
+        "transcription": "halaa balaa-ika liduhfin yazharu",
+        "translations": {
+          "fr": "ne peuvent supporter tes malheurs."
+        }
+      },
+      {
+        "number": 47,
+        "text": "قُلُوبُهُمْ لَيْسَتْ تَّمِيلُ أَبَدَا",
+        "transcription": "quluubuhum laysat tamiilu abadaa",
+        "translations": {
+          "fr": "Leurs coeurs ne se conduiront jamais"
+        }
+      },
+      {
+        "number": 48,
+        "text": "إِلَى سِوَاكَ مِنْ هُنَا إِلَى غَدَا",
+        "transcription": "ilaa siwaaka min hunaa ilaa ghadaa",
+        "translations": {
+          "fr": "vers un autre que Toi et ce à tout jamais."
+        }
+      },
+      {
+        "number": 49,
+        "text": "لَاكِنَّمَا تَلَصُّصَ الْجَوَارِحِ",
+        "transcription": "laa kinnamaa talassusul jawaarihi",
+        "translations": {
+          "fr": "Cependant l'exercice du vol par les membres du"
+        }
+      },
+      {
+        "number": 50,
+        "text": "أَفْضَاهُمُ لِأَقْبَحِ الْقَبَآءِحِ",
+        "transcription": "afdaahumu li aqbahil qabaa-ihi",
+        "translations": {
+          "fr": "corps les a amenés aux actions les plus vilaines."
+        }
+      },
+      {
+        "number": 51,
+        "text": "فَلَا تُوَاخِذْ هُمْ بِمَا لَايَنْقُصُكْ",
+        "transcription": "falaa tuwaakhiz hum bimaa laa yanqusuk",
+        "translations": {
+          "fr": "Ne les châtie pas pour ce qui ne te rabaisse guère."
+        }
+      },
+      {
+        "number": 52,
+        "text": "وَلَهُمُ هَبِ الَّذِى لَايَنْفَعُكْ",
+        "transcription": "wa lahumu habil lazii laa yanfahuk",
+        "translations": {
+          "fr": "Accorde-leur ce qui ne sert à rien."
+        }
+      },
+      {
+        "number": 53,
+        "text": "يَاللَّهُ يَامُقَلِّبَ الْقُلُوبِ",
+        "transcription": "yal laahu yaa muqallibal quluubi",
+        "translations": {
+          "fr": "Ô Dieu, Toi qui renverse les coeurs."
+        }
+      },
+      {
+        "number": 54,
+        "text": "قَلِّبْ قُلُوبَنَا عَنِ الْعُيُوبِ",
+        "transcription": "qallib quluubanaa hanil huyuubi",
+        "translations": {
+          "fr": "Détourne les nôtres des vices."
+        }
+      },
+      {
+        "number": 55,
+        "text": "وَأَغْرِنَا بِحُبِّ كُلِّ مُسْلِمِ",
+        "transcription": "wa aghrinaa bihubbi kulli muslimi",
+        "translations": {
+          "fr": "Inspire-nous l'amour de tout musulman."
+        }
+      },
+      {
+        "number": 56,
+        "text": "وَنَجِّنَا مِنْ شَرِّ كُلِّ مُجْرِمِ",
+        "transcription": "wa najjinaa min sharri kulli mujrimi",
+        "translations": {
+          "fr": "Délivre-nous du mal de tout infidèle."
+        }
+      },
+      {
+        "number": 57,
+        "text": "وَاجْعَلْ جَمِيعَ الْمُسْلِمِينَ طُرَّا",
+        "transcription": "wajhal jamiihal muslimiina turraa",
+        "translations": {
+          "fr": "Fais de l'ensemble des musulmans nos amis,"
+        }
+      },
+      {
+        "number": 58,
+        "text": "لَنَآ أَخِلَّآءَ فَنُكْفَى ضُرَّا",
+        "transcription": "lanaa akhillaa-a fanukfaa durraa",
+        "translations": {
+          "fr": "nous seront alors éloignés du mal."
+        }
+      },
+      {
+        "number": 59,
+        "text": "وَاجْعَلْ جَمِيعَ الْمُومِنِينَ فِى الْهُدَى",
+        "transcription": "wajhal jamiihal muuminiina fil hudaa",
+        "translations": {
+          "fr": "Mets sur le droit chemin tous les croyantes"
+        }
+      },
+      {
+        "number": 60,
+        "text": "وَالْمُومِنَاتِ ثُمَّ عَافِهِمْ غَدَا",
+        "transcription": "wal muuminaati summa haafihum ghadaa",
+        "translations": {
+          "fr": "et les croyants puis préserve-les demain."
+        }
+      },
+      {
+        "number": 61,
+        "text": "وَاجْعَلْ جَمِيعَ الْمُسْلِمِينَ فِى ارْتِقَآ",
+        "transcription": "wajhal jamiihal muslimiina fir tiqaa",
+        "translations": {
+          "fr": "Donne de l'ascension à tous les musulmans."
+        }
+      },
+      {
+        "number": 62,
+        "text": "وَالْمُسْلِمَاتِ بِازْدِ يَادِهِمْ تُقَى",
+        "transcription": "wal muslimaati bizdi yaadihim tuqaa",
+        "translations": {
+          "fr": "Et augmente leur piété."
+        }
+      },
+      {
+        "number": 63,
+        "text": "وَاجْعَلْ جَمِيعَ الْعُلَمَآءِ عَامِلِينْ",
+        "transcription": "wajhal jamiihal hulamaa-i haamiliin",
+        "translations": {
+          "fr": "Fais de tous les érudits des pratiquants. Fais de tous"
+        }
+      },
+      {
+        "number": 64,
+        "text": "وَاجْعَلْ جَمِيعَ الْعَامِلِينَ مُخْلِصِنْ",
+        "transcription": "wajhal jamiihal haamiliina mukhlisin",
+        "translations": {
+          "fr": "les pratiquants des gens offrant un culte pur."
+        }
+      },
+      {
+        "number": 65,
+        "text": "وَاجْعَلْ جَمِيعَ الْمُحْلِصِينَ زَاهِدِنْ",
+        "transcription": "wajhal jamiihal muhlisiina zaahidin",
+        "translations": {
+          "fr": "Rends tous les gens sincères ascètes."
+        }
+      },
+      {
+        "number": 66,
+        "text": "وَاجْعَلْ جَمِيعَ الزَّهِدِينَ نَاصِحِينْ",
+        "transcription": "wajhal jamiihaz zahidiina naasihin",
+        "translations": {
+          "fr": "Ces derniers deviennent de conseiller loyaux."
+        }
+      },
+      {
+        "number": 67,
+        "text": "وَاجْعَلْ جَمِيعَ النَّاصِحِينَ صَادِقِينْ",
+        "transcription": "wajhal jamiihan naasihiina saadiqiin",
+        "translations": {
+          "fr": "Donne à tous les conseillers la qualité des hommes francs"
+        }
+      },
+      {
+        "number": 68,
+        "text": "وَاجْعَلْ جَمِيعَ الصَّادِقِينَ فَآءِزِينْ",
+        "transcription": "wajhal jamiihas saadiqiina faa-iziin",
+        "translations": {
+          "fr": "et que ceux-ci obtiennent la salut."
+        }
+      },
+      {
+        "number": 69,
+        "text": "وَأَغْرِنَا يَارَبَّنَا بِالْخِدْمَهْ",
+        "transcription": "wa aghrinaa yaa rabbanaa bil khidmah",
+        "translations": {
+          "fr": "Ô notre Seigneur incite-nous toujours à travailler"
+        }
+      },
+      {
+        "number": 70,
+        "text": "لِلْمُسْلِمِينَ أَبَدًا وَالرَّحْمَهْ",
+        "transcription": "lil muslimiina abadan war rahmah",
+        "translations": {
+          "fr": "pour les musulmans et à nous attendrir sur leur sort."
+        }
+      },
+      {
+        "number": 71,
+        "text": "وَجْعَلْ لَهُمْ فِينَا هُدًى وَخَيْرَا",
+        "transcription": "wajhal lahum fiinaa hudan wa khayraa",
+        "translations": {
+          "fr": "Offre-leur parmi nous la droiture et le bien."
+        }
+      },
+      {
+        "number": 72,
+        "text": "وَكُفَّهُمْ مِّنَّا أَذًى وَضَيْرَا",
+        "transcription": "wa kuffahum minnaa azan wa dayraa",
+        "translations": {
+          "fr": "Eloigne-les de nos torts et dommages."
+        }
+      },
+      {
+        "number": 73,
+        "text": "وَأَغْرِنَا بِحُبِّهِمْ لِوَجْهِكَا",
+        "transcription": "wa aghrinaa bihubbihim liwajhikaa",
+        "translations": {
+          "fr": "Inspire-nous de leur affection pour ton plaisir et nous te"
+        }
+      },
+      {
+        "number": 74,
+        "text": "وَأَغْرِهِمْ بِحُبِّنَا فَنَسْلُكَا",
+        "transcription": "wa aghrihim bihubbinaa fanaslukaa",
+        "translations": {
+          "fr": "demandons de les rendre avides de la nôtre."
+        }
+      },
+      {
+        "number": 75,
+        "text": "وَاجْعَلْ جَمِيعَ إِخْوَتِى وَنَسَبِى",
+        "transcription": "wajhal jamiiha ikhwatii wa nasabii",
+        "translations": {
+          "fr": "Fais grâce à l'ensemble de mes frères et de ma famille"
+        }
+      },
+      {
+        "number": 76,
+        "text": "فِى رَحْمَةٍ يَوْمَ اشْتِدَادِ النَّصَبِ",
+        "transcription": "fii rahmatin yawmash tidaadin nasabi",
+        "translations": {
+          "fr": "le jour de malheur pénible."
+        }
+      },
+      {
+        "number": 77,
+        "text": "وَاجْعَلْ لَّنَا هُنَا وَهَنَّا حَظَّا",
+        "transcription": "wajhal lanaa hunaa wa hannaa hazzaa",
+        "translations": {
+          "fr": "Accorde-nous ici et là une chance prospère par"
+        }
+      },
+      {
+        "number": 78,
+        "text": "ذَاغِبْطَةٍ تَفَضُّلًا فَنُحْظَى",
+        "transcription": "zaa ghibtatin tafaddulan fanuhzaa",
+        "translations": {
+          "fr": "faveur et nous seront considérés."
+        }
+      },
+      {
+        "number": 79,
+        "text": "وَهَبْ لَنَا مَكَارِمَ الْأَخْلَاقِ",
+        "transcription": "wa hab lanaa makaarimal akhlaaqi",
+        "translations": {
+          "fr": "Donne-nous de nobles caractères avec amour"
+        }
+      },
+      {
+        "number": 80,
+        "text": "مَعَ التَّحَابُبِ بِلَا شِقَاقِ",
+        "transcription": "mahat tahaabubi bilaa shiqaaqi",
+        "translations": {
+          "fr": "réciproque sans dissension."
+        }
+      },
+      {
+        "number": 81,
+        "text": "وَاجْعَلْ صَقِيرَنَا يُوَقِّرُ الْكَبِيرْ",
+        "transcription": "wajhal saqiiranaa yuwaqqirul kabiir",
+        "translations": {
+          "fr": "Pousse nos jeunes à respecter les adultes."
+        }
+      },
+      {
+        "number": 82,
+        "text": "وَاجْعَلْ كَبِيرِنَا يُعِينُ لِلصَّغِيرْ",
+        "transcription": "wajhal kabiirinaa yuhiinu lis saghiir",
+        "translations": {
+          "fr": "Et nos adultes à prêter secours aux jeunes."
+        }
+      },
+      {
+        "number": 83,
+        "text": "وَاجْعَلْ قُلُوبَنَا عَلِى التَّوَادُدِ",
+        "transcription": "wajhal quluubanaa halat tawaadudi",
+        "translations": {
+          "fr": "Mets dans nos coeurs l'amour mutuel sans"
+        }
+      },
+      {
+        "number": 84,
+        "text": "بِلَا تَنَازُعٍ وَلَاتَحَاسُدِ",
+        "transcription": "bilaa tanaazuhin walaa tahaasudi",
+        "translations": {
+          "fr": "contestation, ni envie réciproque."
+        }
+      },
+      {
+        "number": 85,
+        "text": "وَلَا تَخَاصُمٍ وَلَاتَدَابُرِ",
+        "transcription": "walaa takhaasumin walaa tadaaburi",
+        "translations": {
+          "fr": "Ni querelle, ni abandon mutuel, ni haine,"
+        }
+      },
+      {
+        "number": 86,
+        "text": "وَلَا تَبَاغُضٍ وَلَاتَنَافُرِ",
+        "transcription": "walaa tabaaghudin walaa tanaafuri",
+        "translations": {
+          "fr": "ni antipathie réciproque."
+        }
+      },
+      {
+        "number": 87,
+        "text": "حَتَّى نَصِيرَ مُسْلِمِينَ خَاشِعِينْ",
+        "transcription": "hattaa nasiira muslimiina khaashihiin",
+        "translations": {
+          "fr": "Afin que nous devenions des musulmans"
+        }
+      },
+      {
+        "number": 88,
+        "text": "وَمُومِنِينَ مُخْلِصِينَ صَالِحِينْ",
+        "transcription": "wa muuminiina mukhlisiina saalihiin",
+        "translations": {
+          "fr": "soumis et de vrais croyants vertueux."
+        }
+      },
+      {
+        "number": 89,
+        "text": "وَاغْفِرْ لَنَا وَعَافِنَا بِعَافِيَهْ",
+        "transcription": "waghfir lanaa wa haafinaa bihaafiyah",
+        "translations": {
+          "fr": "Pardonne-nous et accorde-nous un salut."
+        }
+      },
+      {
+        "number": 90,
+        "text": "تَكُونُ فِى الدَّارَيْنِ غَيْرَ عَافِيَهْ",
+        "transcription": "takuunu fid daarayni ghayra haafiyah",
+        "translations": {
+          "fr": "N'étant dans les deux demeures que le salut éternel."
+        }
+      },
+      {
+        "number": 91,
+        "text": "وَاحْمِ وَحُطْ وَكُفَّنَا عَنْ مَّظْلَمَهْ",
+        "transcription": "wahmi wa hut wa kuffanaa han mazlamah",
+        "translations": {
+          "fr": "Protège, ôte et éloigne-nous de l'injustice."
+        }
+      },
+      {
+        "number": 92,
+        "text": "وَنَجِّ كُلَّ مُسْلِمٍ وَمُسْلِمَهْ",
+        "transcription": "wa najji kulla muslimin wa muslimah",
+        "translations": {
+          "fr": "Sauve tout musulman et musulmane."
+        }
+      },
+      {
+        "number": 93,
+        "text": "وَأَوْلِنَا يَارَبَّنَا حُسْنَ الْخِتَامْ",
+        "transcription": "wa awlinaa yaa rabbanaa husnal khitaam",
+        "translations": {
+          "fr": "Ô notre Seigneur accorde-nous une bonne fin au"
+        }
+      },
+      {
+        "number": 94,
+        "text": "عِنْدَ الْمَمَاتِ وَغَدًا يَوْمَ الْقِيَامْ",
+        "transcription": "hindal mamaati wa ghadan yawmal qiyaam",
+        "translations": {
+          "fr": "moment de la mort et demain au jour de la résurrection."
+        }
+      },
+      {
+        "number": 95,
+        "text": "بِجَاهِ خَيْرِ مَنْ شَفَى الْأَمْرَاضَا",
+        "transcription": "bijaahi khayri man shafal amraadaa",
+        "translations": {
+          "fr": "Par considération pour le meilleur de ceux qui"
+        }
+      },
+      {
+        "number": 96,
+        "text": "وَوَهَبَ الْمَرْغُوبَ وَالْأَغْرَاضَا",
+        "transcription": "wa wahabal marghuuba wal aghraadaa",
+        "translations": {
+          "fr": "guérissent les maladies et offrant les choses désirées et les objectifs."
+        }
+      },
+      {
+        "number": 97,
+        "text": "مُحَمَّدٍ طَبِيبِنَا الْهُمَامِ",
+        "transcription": "muhammadin tabiibinal humaami",
+        "translations": {
+          "fr": "Mouhamed notre médecin des soucis, celui qui guérit"
+        }
+      },
+      {
+        "number": 98,
+        "text": "الْمُبْرِإِ الْأَمْرَاضِ وَالْأَسْقَامِ",
+        "transcription": "al mubri-il amraadi wal asqaami",
+        "translations": {
+          "fr": "les maladies et les maigreurs."
+        }
+      },
+      {
+        "number": 99,
+        "text": "وَصَلِّيَنْ عَلَيْهِ ثُمَّ سَلِّمَا",
+        "transcription": "wa salliyan halayhi summa sallimaa",
+        "translations": {
+          "fr": "Benis-le, salue-le ensuite avec sa famille"
+        }
+      },
+      {
+        "number": 100,
+        "text": "وَءَالِهِ مَعَ الصِّحَابِ الْكُرَمَآ",
+        "transcription": "wa aalihi mahas sihaabil kuramaa",
+        "translations": {
+          "fr": "et ses nobles compagnons."
+        }
+      },
+      {
+        "number": 101,
+        "text": "مَآ أَفْلَحَ الْمَشْغُولُ بِالدُّعَآءِ",
+        "transcription": "maa aflahal mashghuulu bid duhaa-i",
+        "translations": {
+          "fr": "Tant que le soucieux réussira avec l'invocation et"
+        }
+      },
+      {
+        "number": 102,
+        "text": "وَعُوفِىَ الْمَرِيضُ بِاسْتِشْفَآءِ",
+        "transcription": "wa huufiyal mariidu bis tishfaa-i",
+        "translations": {
+          "fr": "le malade sera guérit avec la recherche du remède."
+        }
+      },
+      {
+        "number": 103,
+        "text": "وَلِلنَّاظِمِ أَيْضًا",
+        "transcription": "wa linnaazimi aydan",
+        "translations": {
+          "fr": "Et au poète également"
+        }
+      },
+      {
+        "number": 104,
+        "text": "زَادَهُ اللَّهُ شِفَاءً وَفَيْضًا",
+        "transcription": "zaadahul laahu shifaa-an wa faydan",
+        "translations": {
+          "fr": "Que Dieu le guérisse et le favorise davantage."
+        }
+      },
+      {
+        "number": 105,
+        "text": "يَامَنْ يَّرُومُ دَفْعَ كُلِّ دَآءِ",
+        "transcription": "yaa man yaruumu dafha kulli daa-i",
+        "translations": {
+          "fr": "Ô Toi qui désire repousser toute maladie."
+        }
+      },
+      {
+        "number": 106,
+        "text": "فَلَا تُفَارِقْ مَطْلَبَ الشِّفَآءِ",
+        "transcription": "falaa tufaariq matlabash shifaa-i",
+        "translations": {
+          "fr": "N'abandonne pas la recherche du remède."
+        }
+      },
+      {
+        "number": 107,
+        "text": "وَدُمْ عَلَيْهِ فِى الْمَسَآءِ وَالصَّبَاحْ",
+        "transcription": "wa dum halayhi fil masaa-i was sabaah",
+        "translations": {
+          "fr": "Continue à le faire matin et soir. Sois sincère,"
+        }
+      },
+      {
+        "number": 108,
+        "text": "وَأَخْلِصَ تَنَلْ شِفَآءً وَفَلَاحْ",
+        "transcription": "wa akhlisa tanal shifaa-an wa falaah",
+        "translations": {
+          "fr": "tu obtiendras le remède et le bonheur."
+        }
+      },
+      {
+        "number": 109,
+        "text": "بِإِذْنِ رَبِّنَا وَجَاهِ الْمُصْطَفَى",
+        "transcription": "bi-izni rabbinaa wa jaahil mustafaa",
+        "translations": {
+          "fr": "Par autorisation de Notre Seigneur et par considération pour Mouhamed"
+        }
+      },
+      {
+        "number": 110,
+        "text": "صَلَّى عَلَيْهِ رَبُّنَا كَمَا اصْطَفَى",
+        "transcription": "sallaa halayhi rabbunaa kamas tafaa",
+        "translations": {
+          "fr": "que Dieu le bénisse comme il l'a choisi."
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "حَمْدًا لِّمُنْزِلِ الضَّنَى وَالدَّآءِ ۞ وَمُنْزِلِ الشِّفَاءِ وَالدَّوَآءِ",
+        "translations": {
+          "it.karamati": "Lode a Colui che fa scendere la debolezza e la malattia, e che fa scendere la guarigione e il rimedio.",
+          "en.karamati": "Praise be to Him who sends down frailty and disease, and who sends down healing and remedy,",
+          "fr.karamati": "Louange à dieu qui fait descendre le dépérissement et la maladie. Comme il révèle le remède et le médicament."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "مَنْ أَمَرَ الْعِبَادَ بِالدُّعَآءِ ۞ لِيَدْ فَعُواْ بِهِ عَنِ الْبَلَآءِ",
+        "translations": {
+          "it.karamati": "Colui che ha ordinato ai servi di invocare (fare du'ā), affinché per mezzo di esso respingano la tribolazione.",
+          "en.karamati": "He who commanded the servants to supplicate (duʿāʾ), so that by it they may ward off affliction.",
+          "fr.karamati": "C'est lui qui ordonne l'invocation aux serviteurs pour repousser par elle la malheur."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "ثُمَّ عَلَى مَنْ حَيْثُ مَسَّ ذَا مَرَضْ ۞ يَبْرَاْ بِلَا بُظْإٍ وَفَازَ بِالْغَرَضْ",
+        "translations": {
+          "it.karamati": "Poi [benedizione] su colui che, non appena toccava un malato, questi guariva senza indugio e otteneva ciò che desiderava:",
+          "en.karamati": "Then upon him who, whenever he touched one who was sick, that one recovered without delay and obtained what he sought:",
+          "fr.karamati": "Que soit ensuite sur celui qui des qu'il touche le malade ce dernier recouvre, sans retard, la santé et obtient son desir."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "مُحَمَّدٍ طَبِيبِنَا الْحَكِيمِ ۞ أَزْكَى سَلَامَىْ رَبِّنَا الْكَرِيمِ",
+        "translations": {
+          "it.karamati": "Muhammad, il nostro medico saggio; su di lui siano i più puri saluti del nostro Signore Generoso,",
+          "en.karamati": "Muḥammad, our wise physician; upon him be the purest greetings of peace of our Generous Lord,",
+          "fr.karamati": "Muhammad, notre sage médecin ; sur lui soient les plus purs saluts de notre Seigneur Généreux,"
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "وَالْئَالِ وَالصَّحْبِ ذَوِى الْعَلَآءِ ۞ مَااحْتَجَ ذُوالْأَسْقَامِ لِلشِّفَآءِ",
+        "translations": {
+          "it.karamati": "e sulla sua famiglia e i suoi Compagni dotati di nobiltà, finché un malato avrà bisogno di guarigione.",
+          "en.karamati": "and upon his Family and Companions, possessors of eminence, so long as the sick have need of healing.",
+          "fr.karamati": "Ainsi que sur sa famille et ses compagnons, tant que les malades auront besoin de guérison."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "هَاذَا وَإِنِّى الْيَوْمَ ذُو أَوْجَاعِ ۞ مُبْتَغِيًا عَوْنَ الْمُجِيبِ الدَّاعِى",
+        "translations": {
+          "it.karamati": "Ciò detto, io oggi mi trovo afflitto da dolori, cercando il soccorso di Colui che esaudisce chi Lo invoca,",
+          "en.karamati": "That said, I am today afflicted with pains, seeking the help of Him who answers the one who calls,",
+          "fr.karamati": "Cela fait et je suis aujourd'hui souffrant en souhaitant l'aide de celui qui exauce le requérant."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "وَأَشْتَكِى إِلَيْهِ مَا مِنَ الضَّرَرْ ۞ قَدْ مَسَّنِى حَتَّى أَرَانِى مُحْتَضَرْ",
+        "translations": {
+          "it.karamati": "e a Lui solo rivolgo il mio lamento per il male che mi ha colpito, al punto da farmi sentire come in fin di vita.",
+          "en.karamati": "and to Him I complain of the harm that has touched me, until I see myself as one at death's door.",
+          "fr.karamati": "Je me plains au Seigneur, du mal qui m'a frappé au point de m'emmener en présence de la mort."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "يَارَبَّنَا يَارَبَّنَا يَارَبَّنَا ۞ يَارَبَّنَا يَارَبَّنَا إِدْفَعْ ضُرَّنَا",
+        "translations": {
+          "it.karamati": "O nostro Signore, o nostro Signore, o nostro Signore! O nostro Signore, o nostro Signore, allontana il nostro male!",
+          "en.karamati": "O our Lord, O our Lord, O our Lord! O our Lord, O our Lord, ward off our harm!",
+          "fr.karamati": "Ô Notre Seigneur! Ô Notre Seigneur! Ô Notre Seigneur! Ô Notre Seigneur! Ô Notre Seigneur! Eloigne notre mal."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "بِجَاهِ خَيْرِ الْعَالَمِينَ الْأَكْرَمِ ۞ ثُمَّ بِيُمْنِ رَمَضَانَ الْأَعْظَمِ",
+        "translations": {
+          "it.karamati": "Per il rango del Migliore dei mondi, il più Nobile, e per la benedizione del mese di Ramadān il Grandioso.",
+          "en.karamati": "By the standing of the Best of the worlds, the Most Noble, and then by the blessing of the great month of Ramaḍān.",
+          "fr.karamati": "Par le rang du Meilleur des mondes, le plus Noble, puis par la bénédiction du grand mois de Ramadan."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "يَاللَّهُ يَارَحْمَانُ يَارَحِيمُ ۞ يَابَرُّ يَاكَرِيمُ يَاعَظِيمُ",
+        "translations": {
+          "it.karamati": "O Allah, o Compassionevole, o Misericordioso! O Benevolo, o Generoso, o Immenso!",
+          "en.karamati": "O God, O Compassionate, O Merciful! O Kind, O Generous, O Immense!",
+          "fr.karamati": "Ô Dieu ! Ô Compatissant ! Ô Miséricordieux ! Ô Bienfaisant ! Ô Généreux ! Ô Immense !"
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "إِغْفِرْ ذُنُوبَنَا تَقَبَّلْ مِنَا ۞ وَاحْمِ حِمَانَا وَتَجَا وَزْعَنَا",
+        "translations": {
+          "it.karamati": "Perdona i nostri peccati, accetta le nostre opere, proteggi il nostro rifugio e sorvola sulle nostre mancanze.",
+          "en.karamati": "Forgive our sins, accept from us, protect our sanctuary, and pass over our faults.",
+          "fr.karamati": "Pardonne-nous nos péchés, accepte nos actes, protège notre sanctuaire et passe sur nos fautes."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "وَأَنْزِلَنْ يَّارَبَّنَا خَيْرَ نِعَمْ ۞ مَكَانَ مَا نَخَافُ مِنْ شَرِّ نِقَمْ",
+        "translations": {
+          "it.karamati": "Fai scendere, o nostro Signore, le migliori grazie al posto dei castighi e dei mali che temiamo.",
+          "en.karamati": "And send down, O our Lord, the best of blessings in place of the evil of the punishments we fear.",
+          "fr.karamati": "Ô notre Seigneur apporte les meilleures faveurs à la place des mauvais châtiments que nous craignons."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "وَهَبْ لَنَا الْئَادَابَ وَالْمَزَايَا ۞ وَكُفَّنَا الْئَافَاتِ وَالرَّزَايَا",
+        "translations": {
+          "it.karamati": "Donaci le buone maniere spirituali e le virtù, e risparmiaci i flagelli e le disgrazie.",
+          "en.karamati": "And grant us good manners and excellences, and restrain from us afflictions and calamities.",
+          "fr.karamati": "Accorde-nous la politesse et les qualités Eloigne-nous des calamités et des préjudices"
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "وَهَبْ لَنَا الْحِرْصَ عَلَى الطَّاعَاتِ ۞ وَكُفَّنَا الْكَسَلَ فِى الْأَوْقَاتِ",
+        "translations": {
+          "it.karamati": "Donaci lo zelo nell'obbedienza a Te, e allontana da noi la pigrizia in ogni momento.",
+          "en.karamati": "And grant us eagerness for acts of obedience, and restrain from us laziness at all times.",
+          "fr.karamati": "Octroie-nous le desir immodéré de pratiquer les devoirs religieux. Ecarte-nous de la paresse aux heures de dévotion."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "يَابَرُّ يَالَطِيفُ يَامُعَافِى ۞ يَامَنْ لَّهُ أَمْرُ الْوَرَى يَاشَافِى",
+        "translations": {
+          "it.karamati": "O Benevolo, o Dolce (Latīf), o Datore di salute! O Colui nelle cui mani è il destino del creato, o Guaritore (Shāfī)!",
+          "en.karamati": "O Kind, O Gentle (Laṭīf), O Giver of well-being! O You in whose hand is the command of creation, O Healer (Shāfī)!",
+          "fr.karamati": "Ô Bienfaisant, ô Doux (Laṭīf), ô Dispensateur de santé ! Ô Toi qui détiens le destin du créé, ô Guérisseur (Shāfī) !"
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "أَنْزِلْ شِفَآءَكَ مَكَانَ الدَّآءِ ۞ وَلَا تُعَامِلْنَا بِالْإِبْتِلَآءِ",
+        "translations": {
+          "it.karamati": "Fai scendere la Tua guarigione al posto della malattia, e non trattarci con la durezza della prova.",
+          "en.karamati": "Send down Your healing in place of the disease, and do not treat us with trial.",
+          "fr.karamati": "Fais descendre ta guérison à la place de la maladie, et ne nous traite pas par l'épreuve."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "وَأَنْزِلِ النَّفْعَ مَكَانَ الضُّرِّ ۞ وَأَنْزِلِ الْخَيْرَ مَكَانَ الشَّرِّ",
+        "translations": {
+          "it.karamati": "Fai scendere il beneficio al posto del danno, e fai scendere il bene al posto del male.",
+          "en.karamati": "And send down benefit in place of harm, and send down good in place of evil.",
+          "fr.karamati": "Donne l'avantage au lieu du dommage. Et le bien au lieu du mal."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "وَأَنْزَلِ الْعِلْمَ مَكَانَ الْجَهْلِ ۞ وَأَنْزِلِ الْجُودَ مَكَانَ الْبُخْلِ",
+        "translations": {
+          "it.karamati": "Fai scendere la conoscenza al posto dell'ignoranza, e fai scendere la generosità al posto dell'avarizia.",
+          "en.karamati": "And send down knowledge in place of ignorance, and send down generosity in place of miserliness.",
+          "fr.karamati": "Procure le savoir en remplacement de l'ignorance. Et la générosité face à l'avarice."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "وَأَنْزِلِ الْغِنَى مَكَانَ الْفَقْرِ ۞ وَأَنْزِلِ الشُّكْرَ مَكَانَ الْكُفْرِ",
+        "translations": {
+          "it.karamati": "Fai scendere la ricchezza (l'autosufficienza) al posto della povertà, e la gratitudine al posto dell'ingratitudine.",
+          "en.karamati": "And send down sufficiency in place of poverty, and send down gratitude in place of ingratitude.",
+          "fr.karamati": "Attribue la richesse à l'inverse de la pauvreté. Et la reconnaissance à l'opposé de l'ingratitude."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "وَاشْفِ جَمِيعَ الْمُسْلِمِينَ عَاجِلَا ۞ ثُمَّ قِهِمْ خَوْفًا وَحُزْنًا أَجِلَا",
+        "translations": {
+          "it.karamati": "Guarisci presto tutti i musulmani, e proteggili in futuro dalla paura e dalla tristezza.",
+          "en.karamati": "And heal all the Muslims swiftly, then guard them against fear and sorrow in time to come.",
+          "fr.karamati": "Guéris promptement tous les musulmans, puis préserve-les ensuite de la peur et de la tristesse."
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "وَنَجِّهِمْ وَعَافِهِمْ وَالْطُفْ بِهِمْ ۞ وَلَا تُوَاخِذْهِمْ بِكُثْرِ ذَنْبِهِمْ",
+        "translations": {
+          "it.karamati": "Salvali, dona loro salute, sii dolce con loro e non punirli per la moltitudine dei loro peccati.",
+          "en.karamati": "And deliver them, and grant them well-being, and be gentle with them, and do not take them to account for the multitude of their sins.",
+          "fr.karamati": "Sauve-les, accorde-leur la santé, sois doux envers eux et ne les châtie pas pour la multitude de leurs péchés."
+        }
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "فَإِنَّهُمْ وَإِنْ عَصَوْكَ يَا أَحَدْ ۞ لِغَفْلَةٍ لَّمْ يُشْرِكُواْ بِكَ أَحَدْ",
+        "translations": {
+          "it.karamati": "Poiché essi, anche se Ti hanno disobbedito per disattenzione, o Unico, non hanno mai associato nessuno a Te!",
+          "en.karamati": "For indeed, though they have disobeyed You, O One, out of heedlessness, they have not associated anyone with You.",
+          "fr.karamati": "Ô l'Unique, s'ils t'ont sans doute désobéis par négligence, ils ne t'ont associé à personne."
+        }
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "وَإِنَّهُمْ أَبْدَا نُهُمْ لَا تَقْدِرُ ۞ عَلَى بَلَآئِكَ لِضُعْفٍ يَظْهَرُ",
+        "translations": {
+          "it.karamati": "In verità i loro corpi non riescono a reggere le Tue prove, per via di una debolezza evidente.",
+          "en.karamati": "And indeed their bodies are never able to bear Your trials, because of a weakness that is manifest.",
+          "fr.karamati": "Leurs corps dont la faiblesse est manifeste ne peuvent supporter tes malheurs."
+        }
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "قُلُوبُهُمْ لَيْسَتْ تَّمِيلُ أَبَدَا ۞ إِلَى سِوَاكَ مِنْ هُنَا إِلَى غَدَا",
+        "translations": {
+          "it.karamati": "I loro cuori non inclinano mai verso altri che Te, da questo mondo fino all'Aldilà;",
+          "en.karamati": "Their hearts never incline to any besides You, from here until tomorrow;",
+          "fr.karamati": "Leurs coeurs ne se conduiront jamais vers un autre que Toi et ce à tout jamais."
+        }
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "لَاكِنَّمَا تَلَصُّصَ الْجَوَارِحِ ۞ أَفْضَاهُمُ لِأَقْبَحِ الْقَبَآءِحِ",
+        "translations": {
+          "it.karamati": "ma il cedimento furtivo delle membra li ha condotti a commettere brutture.",
+          "en.karamati": "but rather the stealthy slipping of the limbs has led them to the ugliest of ugly deeds.",
+          "fr.karamati": "Cependant l'exercice du vol par les membres du corps les a amenés aux actions les plus vilaines."
+        }
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "فَلَا تُوَاخِذْ هُمْ بِمَا لَايَنْقُصُكْ ۞ وَلَهُمُ هَبِ الَّذِى لَايَنْفَعُكْ",
+        "translations": {
+          "it.karamati": "Non punirli dunque per colpe che nulla tolgono alla Tua maestà, e dona loro il perdono che a Te nulla costa.",
+          "en.karamati": "So do not take them to account for what does not diminish You, and grant them that which does not profit You.",
+          "fr.karamati": "Ne les châtie donc pas pour ce qui ne Te diminue en rien, et accorde-leur ce qui ne Te profite pas."
+        }
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "يَاللَّهُ يَامُقَلِّبَ الْقُلُوبِ ۞ قَلِّبْ قُلُوبَنَا عَنِ الْعُيُوبِ",
+        "translations": {
+          "it.karamati": "O Allah, o Colui che volge i cuori! Allontana i nostri cuori dai vizi e dai difetti.",
+          "en.karamati": "O God, O Turner of hearts! Turn our hearts away from faults.",
+          "fr.karamati": "Ô Dieu, Toi qui renverse les coeurs. Détourne les nôtres des vices."
+        }
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "وَأَغْرِنَا بِحُبِّ كُلِّ مُسْلِمِ ۞ وَنَجِّنَا مِنْ شَرِّ كُلِّ مُجْرِمِ",
+        "translations": {
+          "it.karamati": "Infondi in noi l'amore per ogni musulmano, e salvaci dal male di ogni malvagio.",
+          "en.karamati": "And inspire us with love of every Muslim, and deliver us from the evil of every wrongdoer.",
+          "fr.karamati": "Inspire-nous l'amour de tout musulman et sauve-nous du mal de tout criminel."
+        }
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "وَاجْعَلْ جَمِيعَ الْمُسْلِمِينَ طُرَّا ۞ لَنَآ أَخِلَّآءَ فَنُكْفَى ضُرَّا",
+        "translations": {
+          "it.karamati": "Rendi tutti i musulmani indistintamente amici fraterni per noi, così che siamo preservati da ogni danno.",
+          "en.karamati": "And make all the Muslims, altogether, friends to us, so that we are spared harm.",
+          "fr.karamati": "Fais de l'ensemble des musulmans nos amis, nous seront alors éloignés du mal."
+        }
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "وَاجْعَلْ جَمِيعَ الْمُومِنِينَ فِى الْهُدَى ۞ وَالْمُومِنَاتِ ثُمَّ عَافِهِمْ غَدَا",
+        "translations": {
+          "it.karamati": "Mantieni tutti i credenti e le credenti nella retta guida, e concedi loro salvezza nell'Aldilà.",
+          "en.karamati": "And keep all the believing men and believing women upon guidance, and then grant them well-being tomorrow.",
+          "fr.karamati": "Mets sur le droit chemin tous les croyantes et les croyants puis préserve-les demain."
+        }
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "وَاجْعَلْ جَمِيعَ الْمُسْلِمِينَ فِى ارْتِقَآ ۞ وَالْمُسْلِمَاتِ بِازْدِ يَادِهِمْ تُقَى",
+        "translations": {
+          "it.karamati": "Fai progredire tutti i musulmani e le musulmane in elevazione spirituale, accrescendo il loro timor di Dio (Taqwā).",
+          "en.karamati": "And make all the Muslim men and Muslim women to rise, in the increase of their God-fearing piety (Taqwā).",
+          "fr.karamati": "Donne de l'ascension à tous les musulmans. Et augmente leur piété."
+        }
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "وَاجْعَلْ جَمِيعَ الْعُلَمَآءِ عَامِلِينْ ۞ وَاجْعَلْ جَمِيعَ الْعَامِلِينَ مُخْلِصِنْ",
+        "translations": {
+          "it.karamati": "Rendi tutti i sapienti ('Ulamā') praticanti, e rendi tutti i praticanti sinceri (puri d'intenzione).",
+          "en.karamati": "And make all the learned practise what they know, and make all who practise sincere.",
+          "fr.karamati": "Fais de tous les érudits des pratiquants. Fais de tous les pratiquants des gens offrant un culte pur."
+        }
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "وَاجْعَلْ جَمِيعَ الْمُحْلِصِينَ زَاهِدِنْ ۞ وَاجْعَلْ جَمِيعَ الزَّهِدِينَ نَاصِحِينْ",
+        "translations": {
+          "it.karamati": "Rendi tutti i sinceri distaccati dal mondo (asceti), e rendi tutti gli asceti buoni consiglieri.",
+          "en.karamati": "And make all the sincere ascetic, and make all the ascetics givers of sincere counsel.",
+          "fr.karamati": "Rends tous les gens sincères ascètes. Ces derniers deviennent de conseiller loyaux."
+        }
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "وَاجْعَلْ جَمِيعَ النَّاصِحِينَ صَادِقِينْ ۞ وَاجْعَلْ جَمِيعَ الصَّادِقِينَ فَآءِزِينْ",
+        "translations": {
+          "it.karamati": "Rendi tutti i buoni consiglieri veritieri, e rendi tutti i veritieri vittoriosi.",
+          "en.karamati": "And make all the givers of counsel truthful, and make all the truthful triumphant.",
+          "fr.karamati": "Fais de tous les conseillers des gens véridiques, et fais de tous les véridiques des vainqueurs."
+        }
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "وَأَغْرِنَا يَارَبَّنَا بِالْخِدْمَهْ ۞ لِلْمُسْلِمِينَ أَبَدًا وَالرَّحْمَهْ",
+        "translations": {
+          "it.karamati": "Innamoraci, o nostro Signore, del servizio (Khidma) verso i musulmani sempre, e della misericordia.",
+          "en.karamati": "And inspire us, O our Lord, with service to the Muslims always, and with mercy.",
+          "fr.karamati": "Ô notre Seigneur incite-nous toujours à travailler pour les musulmans et à nous attendrir sur leur sort."
+        }
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "وَجْعَلْ لَهُمْ فِينَا هُدًى وَخَيْرَا ۞ وَكُفَّهُمْ مِّنَّا أَذًى وَضَيْرَا",
+        "translations": {
+          "it.karamati": "Fa' che essi trovino in noi guida e bene, e risparmia loro qualsiasi fastidio o danno da parte nostra.",
+          "en.karamati": "And place in us for them guidance and good, and restrain from them harm and injury from us.",
+          "fr.karamati": "Offre-leur parmi nous la droiture et le bien. Eloigne-les de nos torts et dommages."
+        }
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "وَأَغْرِنَا بِحُبِّهِمْ لِوَجْهِكَا ۞ وَأَغْرِهِمْ بِحُبِّنَا فَنَسْلُكَا",
+        "translations": {
+          "it.karamati": "Ispira a noi il loro amore per il Tuo Volto, e ispira a loro il nostro amore, affinché camminiamo insieme sulla retta via.",
+          "en.karamati": "And inspire us with love of them for Your Face, and inspire them with love of us, so that we may walk the path.",
+          "fr.karamati": "Inspire-nous de leur affection pour ton plaisir et nous te demandons de les rendre avides de la nôtre."
+        }
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "وَاجْعَلْ جَمِيعَ إِخْوَتِى وَنَسَبِى ۞ فِى رَحْمَةٍ يَوْمَ اشْتِدَادِ النَّصَبِ",
+        "translations": {
+          "it.karamati": "Poni tutti i miei fratelli e la mia parentela nella Tua misericordia nel Giorno della grande fatica.",
+          "en.karamati": "And place all my brothers and my kinsfolk in mercy on the day when toil becomes severe.",
+          "fr.karamati": "Fais grâce à l'ensemble de mes frères et de ma famille le jour de malheur pénible."
+        }
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "وَاجْعَلْ لَّنَا هُنَا وَهَنَّا حَظَّا ۞ ذَاغِبْطَةٍ تَفَضُّلًا فَنُحْظَى",
+        "translations": {
+          "it.karamati": "Concedici qui e nell'Aldilà una sorte degna di ammirazione per Tua grazia, così da essere colmati di favore.",
+          "en.karamati": "And grant us, here and there, a portion, a cause for envy, by Your favour, so that we may be favoured.",
+          "fr.karamati": "Accorde-nous ici et là une chance prospère par faveur et nous seront considérés."
+        }
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "وَهَبْ لَنَا مَكَارِمَ الْأَخْلَاقِ ۞ مَعَ التَّحَابُبِ بِلَا شِقَاقِ",
+        "translations": {
+          "it.karamati": "Donaci i più nobili caratteri morali, insieme all'amore reciproco senza alcuna divisione.",
+          "en.karamati": "And grant us the noble traits of character, together with mutual love without discord.",
+          "fr.karamati": "Donne-nous de nobles caractères avec amour réciproque sans dissension."
+        }
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "وَاجْعَلْ صَقِيرَنَا يُوَقِّرُ الْكَبِيرْ ۞ وَاجْعَلْ كَبِيرِنَا يُعِينُ لِلصَّغِيرْ",
+        "translations": {
+          "it.karamati": "Fa' che il nostro giovane rispetti l'anziano, e che il nostro anziano aiuti e sostenga il giovane.",
+          "en.karamati": "And make our young honour the elder, and make our elder help the young.",
+          "fr.karamati": "Pousse nos jeunes à respecter les adultes. Et nos adultes à prêter secours aux jeunes."
+        }
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "وَاجْعَلْ قُلُوبَنَا عَلِى التَّوَادُدِ ۞ بِلَا تَنَازُعٍ وَلَاتَحَاسُدِ",
+        "translations": {
+          "it.karamati": "Unisci i nostri cuori nell'affetto fraterno, senza contese e senza invidia reciproca,",
+          "en.karamati": "And make our hearts united in mutual affection, without quarrelling and without envy,",
+          "fr.karamati": "Mets dans nos coeurs l'amour mutuel sans contestation, ni envie réciproque."
+        }
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "وَلَا تَخَاصُمٍ وَلَاتَدَابُرِ ۞ وَلَا تَبَاغُضٍ وَلَاتَنَافُرِ",
+        "translations": {
+          "it.karamati": "senza litigi, senza voltarci le spalle, senza odio e senza avversione,",
+          "en.karamati": "and without disputing and without turning the back on one another, and without mutual hatred and without aversion,",
+          "fr.karamati": "Ni querelle, ni abandon mutuel, ni haine, ni antipathie réciproque."
+        }
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "حَتَّى نَصِيرَ مُسْلِمِينَ خَاشِعِينْ ۞ وَمُومِنِينَ مُخْلِصِينَ صَالِحِينْ",
+        "translations": {
+          "it.karamati": "affinché diventiamo musulmani umili e devoti, e credenti sinceri e virtuosi.",
+          "en.karamati": "until we become Muslims who are humble, and believers who are sincere and righteous.",
+          "fr.karamati": "Afin que nous devenions des musulmans soumis et de vrais croyants vertueux."
+        }
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "وَاغْفِرْ لَنَا وَعَافِنَا بِعَافِيَهْ ۞ تَكُونُ فِى الدَّارَيْنِ غَيْرَ عَافِيَهْ",
+        "translations": {
+          "it.karamati": "Perdonaci e donaci una salute perfetta che non svanisca mai né in questa vita né nell'altra.",
+          "en.karamati": "And forgive us, and grant us well-being with a well-being that in the two abodes will not fade.",
+          "fr.karamati": "Pardonne-nous et accorde-nous une santé parfaite qui, dans les deux demeures, ne s'efface pas."
+        }
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "وَاحْمِ وَحُطْ وَكُفَّنَا عَنْ مَّظْلَمَهْ ۞ وَنَجِّ كُلَّ مُسْلِمٍ وَمُسْلِمَهْ",
+        "translations": {
+          "it.karamati": "Proteggici, custodiscici, trattienici da ogni ingiustizia e salva ogni musulmano e musulmana.",
+          "en.karamati": "And protect, and surround, and restrain us from any wrongdoing, and deliver every Muslim man and Muslim woman.",
+          "fr.karamati": "Protège-nous, entoure-nous, retiens-nous de toute injustice, et sauve tout musulman et toute musulmane."
+        }
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "وَأَوْلِنَا يَارَبَّنَا حُسْنَ الْخِتَامْ ۞ عِنْدَ الْمَمَاتِ وَغَدًا يَوْمَ الْقِيَامْ",
+        "translations": {
+          "it.karamati": "Concedici, o nostro Signore, una buona fine (Husn al-Khitām) al momento della morte e domani nel Giorno della Resurrezione,",
+          "en.karamati": "And grant us, O our Lord, a good ending (Ḥusn al-Khitām), at the time of death and tomorrow on the Day of Resurrection,",
+          "fr.karamati": "Ô notre Seigneur accorde-nous une bonne fin au moment de la mort et demain au jour de la résurrection."
+        }
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "بِجَاهِ خَيْرِ مَنْ شَفَى الْأَمْرَاضَا ۞ وَوَهَبَ الْمَرْغُوبَ وَالْأَغْرَاضَا",
+        "translations": {
+          "it.karamati": "per il rango del migliore tra coloro che hanno guarito le malattie e donato ciò che è desiderato e ricercato:",
+          "en.karamati": "by the standing of the best of those who healed the diseases and bestowed what is desired and sought:",
+          "fr.karamati": "Par considération pour le meilleur de ceux qui guérissent les maladies et offrant les choses désirées et les objectifs."
+        }
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "مُحَمَّدٍ طَبِيبِنَا الْهُمَامِ ۞ الْمُبْرِإِ الْأَمْرَاضِ وَالْأَسْقَامِ",
+        "translations": {
+          "it.karamati": "Muhammad, il nostro medico magnanimo, colui che guarisce i morbi e le infermità.",
+          "en.karamati": "Muḥammad, our noble physician, who cures diseases and illnesses.",
+          "fr.karamati": "Muhammad, notre médecin magnanime, celui qui guérit les maladies et les infirmités."
+        }
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "وَصَلِّيَنْ عَلَيْهِ ثُمَّ سَلِّمَا ۞ وَءَالِهِ مَعَ الصِّحَابِ الْكُرَمَآ",
+        "translations": {
+          "it.karamati": "Riversa benedizioni e pace su di lui, sulla sua famiglia e sui suoi nobili Compagni,",
+          "en.karamati": "And send blessings upon him, and then peace, and upon his Family with the noble Companions,",
+          "fr.karamati": "Benis-le, salue-le ensuite avec sa famille et ses nobles compagnons."
+        }
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "text": "مَآ أَفْلَحَ الْمَشْغُولُ بِالدُّعَآءِ ۞ وَعُوفِىَ الْمَرِيضُ بِاسْتِشْفَآءِ",
+        "translations": {
+          "it.karamati": "finché avrà successo chi si dedica all'invocazione e guarirà il malato che chiede la guarigione,",
+          "en.karamati": "so long as the one occupied with supplication prospers, and the sick is restored to health by seeking healing.",
+          "fr.karamati": "Tant que réussira celui qui s'adonne à l'invocation, et que sera guéri le malade qui demande la guérison."
+        }
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "text": "وَلِلنَّاظِمِ أَيْضًا ۞ زَادَهُ اللَّهُ شِفَاءً وَفَيْضًا",
+        "translations": {
+          "it.karamati": "e anche per il compositore di questi versi: che Allah lo accresca in guarigione e grazia sovrabbondante!",
+          "en.karamati": "And for the composer also: may God increase him in healing and abundance.",
+          "fr.karamati": "Et au poète également Que Dieu le guérisse et le favorise davantage."
+        }
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "text": "يَامَنْ يَّرُومُ دَفْعَ كُلِّ دَآءِ ۞ فَلَا تُفَارِقْ مَطْلَبَ الشِّفَآءِ",
+        "translations": {
+          "it.karamati": "O tu che desideri respingere ogni malattia, non separarti mai da «Matlabu ash-Shifā'» (La Ricerca della Guarigione)!",
+          "en.karamati": "O you who seek to ward off every disease, do not depart from the seeking of healing (Maṭlab ash-Shifāʾ),",
+          "fr.karamati": "Ô Toi qui désire repousser toute maladie. N'abandonne pas la recherche du remède."
+        }
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "text": "وَدُمْ عَلَيْهِ فِى الْمَسَآءِ وَالصَّبَاحْ ۞ وَأَخْلِصَ تَنَلْ شِفَآءً وَفَلَاحْ",
+        "translations": {
+          "it.karamati": "Sii costante nel recitarlo sera e mattina con sincerità: otterrai guarigione e pieno successo,",
+          "en.karamati": "and persevere in it in the evening and the morning, and be sincere: you will attain healing and success,",
+          "fr.karamati": "Continue à le faire matin et soir. Sois sincère, tu obtiendras le remède et le bonheur."
+        }
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "text": "بِإِذْنِ رَبِّنَا وَجَاهِ الْمُصْطَفَى ۞ صَلَّى عَلَيْهِ رَبُّنَا كَمَا اصْطَفَى",
+        "translations": {
+          "it.karamati": "con il permesso del nostro Signore e per il rango del Prescelto (Al-Mustafā); che il nostro Signore lo benedica così come lo ha prescelto.",
+          "en.karamati": "by the permission of our Lord and the standing of the Chosen One (Al-Muṣṭafā); may our Lord bless him as He chose him.",
+          "fr.karamati": "Par autorisation de Notre Seigneur et par considération pour Mouhamed que Dieu le bénisse comme il l'a choisi."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 157,
+    "name": "Safar",
+    "transliterationName": "Safar",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "صَلَاةُ الَّذِى فِى كُلِّ شَهْرٍ وَفِى صَفَرْ",
+        "transcription": "salaatul lazii fii kulli shahrin wa fii safar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "حَمَانِى عَلَى مَاحٍ مَّحَا الْحَبْسَ وَالسَّفَرْ",
+        "transcription": "hamaanii halaa maahin mahal habsa was safar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "فَلَاحِ بِكَوْنِى عَبْدَ رَبِّى خَدِيمَهُ",
+        "transcription": "falaahi bikawnii habda rabbii khadiimahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "عَجِيبٌ بِهِ لِى جَادَ مُغْنٍ عَنِ النَّفَرْ",
+        "transcription": "hajiibun bihi lii jaada mughnin hanin nafar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "رَضِيتُ عَنِ الْمَوْلَى وَعَنْ خَيْرِ خَلْقِهِ",
+        "transcription": "radiitu hanil mawlaa wa han khayri khalqihi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "عَلَيْهِ سَلَامَا مَنْ لَّهُ أُبْتُ بِالظَّفَرْ",
+        "transcription": "halayhi salaamaa man lahu ubtu biz zafar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "صَلَاةٌ وَتَسْلِيمٌ مَّعَ الْبِشْرِ سَرْمَدًا",
+        "transcription": "salaatun wa tasliimun mahal bishri sarmadan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "عَلَى مَنْ بِهِ مُكْثِى مَعَ الْأَمْنِ وَالْبَشَرْ",
+        "transcription": "halaa man bihi muksii mahal amni wal bashar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "فِرَارِىَ بِالْمُخْتَارِ مِنْ قَبْلُ قَادَ لِى",
+        "transcription": "firaariya bil mukhtaari min qablu qaada lii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "مُكُوثًا وَتَبْشِيرًا لَّدَى الْجِنِّ وَالْبَشَرْ",
+        "transcription": "mukuusan wa tabshiran ladal jinni wal bashar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "رَفَعْتُ شُكُورًا بَعْدَ حَمْدٍ مُّخَلَّدٍ",
+        "transcription": "rafahtu shukuuran bahda hamdin mukhalladin",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "لِّبَاقٍ مَحَا ضُرِّى الَّذِى حَازَهُ الْقَدَرْ",
+        "transcription": "libaaqin mahaa durril lazii haazahul qadar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "صَلَاةُ الَّذِى أَدْعُوهُ عَبْدًا لَّهُ بِهِ",
+        "transcription": "salaatul lazii adhuuhu habdan lahu bihi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "عَلَى مَنْ بِهِ لِى قَادَ صَفْوًا بِلَا كَدَرْ",
+        "transcription": "halaa man bihi lii qaada safwan bilaa kadar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "فَصَاحَةُ خَيْرِ الْخَلْقِ أَبْدَتْ قَصَآءِدِى",
+        "transcription": "fasaahatu khayril khalqi abdat qasaa-idii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "وَكَوْنِى بِهَا عَبْدًا خَدِيمًا لَّهُ ظَهَرْ",
+        "transcription": "wa kawnii bihaa habdan khadiiman lahu zahar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "رَبِحْتُ رَبَاحًا لَّمْ يَكُنْ قَطُّ مِثْلُهُ",
+        "transcription": "rabihtu rabaahan lam yakun qattu misluhu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "بِفَضْلِ الَّذِى كَوْنِى حَبِيبًا لَّهُ اشْتَهَرْ",
+        "transcription": "bifadlil lazii kawnii habiiban lahush tahar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "صَلَاةُ الَّذِى لِى قَادَ كَوْنِى خَلِيلَهُ",
+        "transcription": "salaatul lazii lii qaada kawnii khaliilahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "عَلَى مَنْ بِهِ لِى طَيَّبَ الْبَدْوَ وَالْحَضَرْ",
+        "transcription": "halaa man bihi lii tayyabal badwa wal hadar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "فُتُوحَاتُ رَبِّ الْعَرْشِ أَنْقَتْ مَعَائِبِى",
+        "transcription": "futuuhaatu rabbil harshi anqat mahaa-ibii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "بِجَاهِ الَّذِى بَاهَتْ بِهِ مَنْ عَلَوْ مُضَرْ",
+        "transcription": "bijaahil lazii baahat bihi man halaw mudar",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "رَبَاحِىَ فِى إِخْدَامِ خَيْرِ الْوَرَى بَدَا",
+        "transcription": "rabaahiya fii ikhdaami khayril waraa badaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "وَفِى كُلِّ شَهْرٍ زَيْدُ رِبْحِى وَفِى صَفَرْ",
+        "transcription": "wa fii kulli shahrin zaydu ribhii wa fii safar",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

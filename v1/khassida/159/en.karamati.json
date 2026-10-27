@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 159,
+    "name": "Sana Ilaahi",
+    "transliterationName": "Sana Ilaahi",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "My God has guarded my every horizon, filling it with granted wishes, and forever He has freed my hand from having to say \"give me\"."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "He (Allah) who never ceases to be my strength and my might has guided the learned and the Saints (al-awliyāʾ) to me."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "My ode has surpassed the odes of the noble, and forever it leads to me the most excellent of wishes."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "My gift puts to shame every king who set himself up as a rival, and the King (Allah) has abased him."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "God has erased, in my favour, the advance of the Nazarenes (the Christian colonisers), by \"There is no god but God\"."
+      }
+    ]
+  }
+}

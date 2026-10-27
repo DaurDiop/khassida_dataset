@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 77,
+    "name": "Madahtu Nabiyyal Muntaqa",
+    "transliterationName": "Madahtu Nabiyyal Muntaqa",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "madahtun nabiyyal muntaqan nuura azmaanaa"
+      },
+      {
+        "number": 2,
+        "text": "liwajhi rahiimin lam yazal qattu rahmaanaa"
+      },
+      {
+        "number": 3,
+        "text": "hamaanii hanish shaytaani wad durri maalikii"
+      },
+      {
+        "number": 4,
+        "text": "bijaahi shafiihin qaada lii minhu ihsaanaa"
+      },
+      {
+        "number": 5,
+        "text": "radiitu hanil baaqii wa han khayri khalqihi"
+      },
+      {
+        "number": 6,
+        "text": "wa fii madhihi jaawaztu kahban wa hassanaa"
+      },
+      {
+        "number": 7,
+        "text": "rafahtu ilal mukhtaari lil laahi muddatan"
+      },
+      {
+        "number": 8,
+        "text": "midaadii wa aqlaamii wa lii zaana miizaanaa"
+      },
+      {
+        "number": 9,
+        "text": "mahal laahu amraadan nahatnii bijaahihi"
+      },
+      {
+        "number": 10,
+        "text": "kamaa lisiwaa qalbii nafal laahu ahzaanaa"
+      },
+      {
+        "number": 11,
+        "text": "muhammadunal mukhtaaru maahin wa mukrimun"
+      },
+      {
+        "number": 12,
+        "text": "halayhi salaatul laahi maadaama mihwaanaa"
+      },
+      {
+        "number": 13,
+        "text": "dahaanii ilaa madhin nabii hubbu zaatihi"
+      },
+      {
+        "number": 14,
+        "text": "halayhi salaamul laahi maa huztu ridwaanaa"
+      },
+      {
+        "number": 15,
+        "text": "hamaanii ilaahii bin nabii han madarratin"
+      },
+      {
+        "number": 16,
+        "text": "wa lii tayyabal mukhtaaru bil laahi awtaanaa"
+      },
+      {
+        "number": 17,
+        "text": "izaa qudttu lil mukhtaari bil laahi khidmatan"
+      },
+      {
+        "number": 18,
+        "text": "kafaanii bihil baaqii shaqaa-an wa shaytaanaa"
+      },
+      {
+        "number": 19,
+        "text": "hamidttu halal mukhtaari rabbil lazii mahaa"
+      },
+      {
+        "number": 20,
+        "text": "huyuuban nahat zaatii wa lii qaada ghufraanaa"
+      },
+      {
+        "number": 21,
+        "text": "mahal laahu qasdad durri nahwii bijaahi man"
+      },
+      {
+        "number": 22,
+        "text": "ilayhi bihi aw saltu maa faaqa jiiraanaa"
+      },
+      {
+        "number": 23,
+        "text": "dahaanii li-ikhdaamin nabii hubbu zaatihi"
+      },
+      {
+        "number": 24,
+        "text": "bihubbii rahiiman lam yazal qattu rahmaanaa"
+      }
+    ]
+  }
+}

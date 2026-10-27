@@ -1,0 +1,61 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 161,
+    "name": "Shakuru Rafihu",
+    "transliterationName": "Shakuru Rafihu",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Ma gratitude va à un Seigneur Généreux, qui est Très Reconnaissant (Shakkār), et j'espère de Lui, dans les deux demeures, des faveurs toujours neuves et pures."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "J'ai écrit, en signe de gratitude envers Lui, ce par quoi j'espère être heureux, reconnaissant et assidu dans Son rappel (Dhikr)."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "J'ai tourné ma face, durant le mois du Prophète, mon soutien, vers le Très Généreux, Celui qui élève (Ar-Rāfiʿ), le Grand Donateur, avec gratitude."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "J'ai espéré de Lui, le Très-Haut, qu'Il agrée mon œuvre avec reconnaissance et qu'Il m'élève aujourd'hui ; quel excellent Pardonneur !"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "J'ai espéré qu'Il efface de moi toutes mes fautes dans leur totalité, et qu'Il me soumette à jamais les mécréants."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "En vérité, je m'adresse à Lui au milieu de la mer, en exil, et Il ne cesse d'être — que Sa Majesté soit exaltée — le Dominateur (Qahhār) et le Contraignant réparateur (Jabbār)."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Tu m'as surpris, ô Seigneur, par des bienfaits ; accorde-moi de retourner à la terre ferme, et soumets-moi quiconque me rivalise ou me combat."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Sur le Prophète prie avec le salut, ainsi que sur ses nobles, et élève-moi et accrois-moi, après l'élévation, de faveurs toujours neuves."
+      }
+    ]
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 35,
+    "name": "Halaman",
+    "transliterationName": "Halaman",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "halaa man halayya wa lastu sadiih"
+      },
+      {
+        "number": 2,
+        "text": "lahu kulla haamin hadaa yaa madiih"
+      },
+      {
+        "number": 3,
+        "text": "salaatan tuhaazii salaamal halii"
+      },
+      {
+        "number": 4,
+        "text": "bi-aalin wa sahbin wa kulli nasiih"
+      },
+      {
+        "number": 5,
+        "text": "adiimuu sanaa-an halal murtajaa"
+      },
+      {
+        "number": 6,
+        "text": "wa salluu halayhi salaatan nasuuh"
+      },
+      {
+        "number": 7,
+        "text": "fa-innii usallii halayhi  hunaa"
+      },
+      {
+        "number": 8,
+        "text": "bi-aalin wa sahbin wa kulli saliih"
+      },
+      {
+        "number": 9,
+        "text": "ilaahii fasalli bighayrin tihaa"
+      },
+      {
+        "number": 10,
+        "text": "halal mustafaa zil muhayyas sabiih"
+      },
+      {
+        "number": 11,
+        "text": "ilaahii fasalli halaa man ataa"
+      },
+      {
+        "number": 12,
+        "text": "muhibban muhabban sabuuran safuuh"
+      },
+      {
+        "number": 13,
+        "text": "iIaahii fasalli halaa man badaa"
+      },
+      {
+        "number": 14,
+        "text": "taqiyyan naqiyyan ra-iisan rajuuh"
+      },
+      {
+        "number": 15,
+        "text": "ilaahii fasalli halaa man hadaa"
+      },
+      {
+        "number": 16,
+        "text": "mutiihan mutaahan lirushdin januuh"
+      },
+      {
+        "number": 17,
+        "text": "ilaahii fasalli halaa man duhii"
+      },
+      {
+        "number": 18,
+        "text": "bi barrin wa maahin likulli qabiih"
+      },
+      {
+        "number": 19,
+        "text": "salaatan takufful ballaa war radaa"
+      },
+      {
+        "number": 20,
+        "text": "tajurru munnan laa tashuubu masuuh"
+      },
+      {
+        "number": 21,
+        "text": "salaatan turaqqii linaylil hulaa"
+      },
+      {
+        "number": 22,
+        "text": "tuqawwil huquula bihaqdin sahiih"
+      },
+      {
+        "number": 23,
+        "text": "salaatan tajuudu bikhayri munan"
+      },
+      {
+        "number": 24,
+        "text": "yazuulu bihaa haybu nafsin wa ruuh"
+      },
+      {
+        "number": 25,
+        "text": "salaatan turiinii hunaa wajhahu"
+      },
+      {
+        "number": 26,
+        "text": "hiyaanan liyashfiya qalbil jariih"
+      },
+      {
+        "number": 27,
+        "text": "salaatan turabbil musallil lazii"
+      },
+      {
+        "number": 28,
+        "text": "dahaahul lahiinu lishay-in mutiih"
+      },
+      {
+        "number": 29,
+        "text": "saraftu lisaanii wa qalbii mahan"
+      },
+      {
+        "number": 30,
+        "text": "ilal mubtaghaa minhu khayra futuuh"
+      },
+      {
+        "number": 31,
+        "text": "ilal mustafal muntaqal mujtabaa"
+      },
+      {
+        "number": 32,
+        "text": "hanaytul kariimash shafiihan nasiih"
+      },
+      {
+        "number": 33,
+        "text": "huwal muhtamal muktafil muktafaa"
+      },
+      {
+        "number": 34,
+        "text": "bihi wal wakiilul ajiirur rabuuh"
+      },
+      {
+        "number": 35,
+        "text": "murabban murabbin rasuulun nabii"
+      },
+      {
+        "number": 36,
+        "text": "najiyyul ilaahil kaliimul fasiih"
+      },
+      {
+        "number": 37,
+        "text": "jamiilul muhayyaa zakiyyul hijaa"
+      },
+      {
+        "number": 38,
+        "text": "mabarrun mahaazun likulli tariih"
+      },
+      {
+        "number": 39,
+        "text": "zahiimun bi kashfi kuruubil lazii"
+      },
+      {
+        "number": 40,
+        "text": "yaluuzu bihi littiqaa-i dunuuh"
+      },
+      {
+        "number": 41,
+        "text": "haraamun halaa man hudaahu abaa"
+      },
+      {
+        "number": 42,
+        "text": "dukhuulu jinaanin dakhiilan turiih"
+      },
+      {
+        "number": 43,
+        "text": "wa man lam yalij nahjahu yuntazar"
+      },
+      {
+        "number": 44,
+        "text": "bighullin saqiilin wa naarin lafuuh"
+      },
+      {
+        "number": 45,
+        "text": "tafawnaa halaa ghayrinaa bil hullaa"
+      },
+      {
+        "number": 46,
+        "text": "izil mustafaa qad tafaa bir rujuuh"
+      },
+      {
+        "number": 47,
+        "text": "adiimum tidaahan libahrin nadaa"
+      },
+      {
+        "number": 48,
+        "text": "jaziilul luhaa fatanaalur rubuuh"
+      },
+      {
+        "number": 49,
+        "text": "adiimuu sanaa-al lazii qad hawaa"
+      },
+      {
+        "number": 50,
+        "text": "sajaayal kiraami bifadlil manuuh"
+      },
+      {
+        "number": 51,
+        "text": "falaa yanbaghii an yafuuha zakii"
+      },
+      {
+        "number": 52,
+        "text": "bimadhin hajiibin lighayri samuuh"
+      },
+      {
+        "number": 53,
+        "text": "famadhun nabiyyil kariimil halii"
+      },
+      {
+        "number": 54,
+        "text": "yakufful hanaa war radaa wal fuduuh"
+      },
+      {
+        "number": 55,
+        "text": "yusaffii fu-aadan haraahul azaa"
+      },
+      {
+        "number": 56,
+        "text": "wa yajlus sadaa waz zalaamat tamuuh"
+      },
+      {
+        "number": 57,
+        "text": "madahtun nabiyyal kariimas sakhii"
+      },
+      {
+        "number": 58,
+        "text": "wa arjuu bihid dahra an laa atuuh"
+      },
+      {
+        "number": 59,
+        "text": "hamidttu ilaahil lazii jarranii"
+      },
+      {
+        "number": 60,
+        "text": "ilaa khidmatil mujtabaa zil futuuh"
+      },
+      {
+        "number": 61,
+        "text": "hamidttu ilaahiya hamdan yafii"
+      },
+      {
+        "number": 62,
+        "text": "bikhayri maziidin halaa maa utiih"
+      },
+      {
+        "number": 63,
+        "text": "hamidttu ilaahil lazii jarranii"
+      },
+      {
+        "number": 64,
+        "text": "ilaa khidmatil muqtafaa zis sumuuh"
+      },
+      {
+        "number": 65,
+        "text": "hamidttu ilaahii bishukrin lahu"
+      },
+      {
+        "number": 66,
+        "text": "halaa jazbi qalbii lihubbin nasiih"
+      },
+      {
+        "number": 67,
+        "text": "lihubbir rassulil lazii sarmadan"
+      },
+      {
+        "number": 68,
+        "text": "usalii halayhi bimadhin maliih"
+      },
+      {
+        "number": 69,
+        "text": "fakun sayyidii lil khadiimid danii"
+      },
+      {
+        "number": 70,
+        "text": "shafiihan liyawmil hanaa wal kuluuh."
+      },
+      {
+        "number": 71,
+        "text": "halayka salaamal lazii abtaghii"
+      },
+      {
+        "number": 72,
+        "text": "ladayhi khitaaman bifawzin yuriih"
+      }
+    ]
+  }
+}

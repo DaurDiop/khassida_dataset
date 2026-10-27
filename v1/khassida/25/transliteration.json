@@ -1,0 +1,445 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 25,
+    "name": "Bismil Laahi Ikfini 1",
+    "transliterationName": "Bismil Laahi Ikfini 1",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "bismil ilaahi ikfinil akdaara yal laahu"
+      },
+      {
+        "number": 2,
+        "text": "saffil baqaa-a bihi lii fiika yal laahu"
+      },
+      {
+        "number": 3,
+        "text": "yaa man lahul amru yaa man laashariika lahu"
+      },
+      {
+        "number": 4,
+        "text": "wassih wa mallik wa atliq fiika yal laahu"
+      },
+      {
+        "number": 5,
+        "text": "waajahtukal yawma yaa rahmaanu murtajiyan"
+      },
+      {
+        "number": 6,
+        "text": "fawzii bimaa si-tu fii dunyaaka yal laahu"
+      },
+      {
+        "number": 7,
+        "text": "antar rahiimul lazii arjuu birahmatihi"
+      },
+      {
+        "number": 8,
+        "text": "an laa ulaaqiya durran minka yal laahu"
+      },
+      {
+        "number": 9,
+        "text": "mallik yamiinii wa qalbis su-la yaa malikii"
+      },
+      {
+        "number": 10,
+        "text": "bilaa hisaabin bijuudin minka yal laahu"
+      },
+      {
+        "number": 11,
+        "text": "qaddasta sirriya yaa qudduusu murtadiyan"
+      },
+      {
+        "number": 12,
+        "text": "hannii wa hanka radiitud dahra yal laahu"
+      },
+      {
+        "number": 13,
+        "text": "antas salaamul lazii sallamta kulliya min"
+      },
+      {
+        "number": 14,
+        "text": "huyuubi nafsii bitayyin minka yal laahu"
+      },
+      {
+        "number": 15,
+        "text": "yaa muuminu ikfi janaabid durra mah kadarin"
+      },
+      {
+        "number": 16,
+        "text": "wa hab liyal amna fid daarayni yal laahu"
+      },
+      {
+        "number": 17,
+        "text": "wa bil muhaymini lish had bishtiraa-ika maa"
+      },
+      {
+        "number": 18,
+        "text": "qad bihtu sirran ilal jannati yal laahu"
+      },
+      {
+        "number": 19,
+        "text": "antal haziizul lazii abghii bihizzatihi"
+      },
+      {
+        "number": 20,
+        "text": "hizzan yukhalidu lit takriima yal laahu"
+      },
+      {
+        "number": 21,
+        "text": "ajbarta lii innakal jabbaaru duuna liqaa"
+      },
+      {
+        "number": 22,
+        "text": "kullal hidaa bil lazii likh tarta yal laahu"
+      },
+      {
+        "number": 23,
+        "text": "kafaytanii kulla zii kibri bilaa kulafin"
+      },
+      {
+        "number": 24,
+        "text": "yaa mutakabbiru rudtal kulla yal laahu"
+      },
+      {
+        "number": 25,
+        "text": "yaa khaaliqal khalqi likh luq maa ashaa abadan"
+      },
+      {
+        "number": 26,
+        "text": "bil bishri was safwi war ridwaani yal laahu"
+      },
+      {
+        "number": 27,
+        "text": "yaa baarii-al khalqi qud lin nafha duuuna azan"
+      },
+      {
+        "number": 28,
+        "text": "wa qud liyal ajra lil jannaati yal laahu"
+      },
+      {
+        "number": 29,
+        "text": "antal musawwiru khallid lin nabii bushran"
+      },
+      {
+        "number": 30,
+        "text": "wa sawwiran liya duunal makri yal laahu"
+      },
+      {
+        "number": 31,
+        "text": "ghafarta lii kulla zanbin qad ataytu bihi"
+      },
+      {
+        "number": 32,
+        "text": "lish had bishukriya yaa ghaffaaru yal laahu"
+      },
+      {
+        "number": 33,
+        "text": "qaharta lii rabbi ahdaa-ii bilaa sababin"
+      },
+      {
+        "number": 34,
+        "text": "minnii hamidttuka yaa qahhaaru yal laahu"
+      },
+      {
+        "number": 35,
+        "text": "wa habta lii minka su-lan faaqa mas-alatii"
+      },
+      {
+        "number": 36,
+        "text": "falaka shukriya yaa wahhaabu yal laahu"
+      },
+      {
+        "number": 37,
+        "text": "lii qudtta asmaana laj yaa man lahu humurii"
+      },
+      {
+        "number": 38,
+        "text": "wa qudtta lir rizqa yaa razzaaqu yal laahu"
+      },
+      {
+        "number": 39,
+        "text": "fatahta lii kulla baabin kunta faatihahu"
+      },
+      {
+        "number": 40,
+        "text": "li-awliyaa-ika yaa fattaahu yal laahu"
+      },
+      {
+        "number": 41,
+        "text": "hallamtanil ghayba hattaa sirtu muntabihan"
+      },
+      {
+        "number": 42,
+        "text": "antal haliimul lazii hallamta yal laahu"
+      },
+      {
+        "number": 43,
+        "text": "qabadta yaa qaabidul aswaa-a wan sarafat"
+      },
+      {
+        "number": 44,
+        "text": "lighayri nahwiya kal akdaari yal laahu"
+      },
+      {
+        "number": 45,
+        "text": "basatta yaa baasitul aamaala lii biridan"
+      },
+      {
+        "number": 46,
+        "text": "fashkur mubaasatatid daarayni yal laahu"
+      },
+      {
+        "number": 47,
+        "text": "khafadta yaa khaafidul ahdaa-a lii wa madaw"
+      },
+      {
+        "number": 48,
+        "text": "lighayri nahwii bikhafdin minka yal laahu"
+      },
+      {
+        "number": 49,
+        "text": "rafahta yaa raafihud daarayni martabatii"
+      },
+      {
+        "number": 50,
+        "text": "bilan khifaadi bifadlin minka yal laahu"
+      },
+      {
+        "number": 51,
+        "text": "antal muhizzul lazii laa zamtu hizzatahu"
+      },
+      {
+        "number": 52,
+        "text": "khillan muhazzan wa hibban fiika yal laahu"
+      },
+      {
+        "number": 53,
+        "text": "antal muzillul lazii zallat lihizzatihi"
+      },
+      {
+        "number": 54,
+        "text": "al insu wal jinnu wash shaytaanu yal laahu"
+      },
+      {
+        "number": 55,
+        "text": "antas samiihul lazii naajaytuhu zamanan"
+      },
+      {
+        "number": 56,
+        "text": "wa bil masaraati lii qad judtta yal laahu"
+      },
+      {
+        "number": 57,
+        "text": "antal basiirul lazii lii qaada jumlata maa"
+      },
+      {
+        "number": 58,
+        "text": "likh tarta dunyaa wa ukhraa minka yal laahu"
+      },
+      {
+        "number": 59,
+        "text": "hakamta yaa hakamul baaqii bikawniya zaa"
+      },
+      {
+        "number": 60,
+        "text": "fawzin bimaa ghaabi min bushraaka yal laahu"
+      },
+      {
+        "number": 61,
+        "text": "hatalta yaa hadlu ahdaa-ii bighayri liqaa"
+      },
+      {
+        "number": 62,
+        "text": "walaa diraarin wa lii qad kunta yal laahu"
+      },
+      {
+        "number": 63,
+        "text": "antal latiiful lazii qad qudtta lii abadan"
+      },
+      {
+        "number": 64,
+        "text": "lutfan hajiiban yaziidul fikra yal laahu"
+      },
+      {
+        "number": 65,
+        "text": "antal khabiirul lazii haayantu khubratahu"
+      },
+      {
+        "number": 66,
+        "text": "wa qudtta lii minka hilmal ghaybi yal laahu"
+      },
+      {
+        "number": 67,
+        "text": "antal haliimul lazii zahzahta jumlata man"
+      },
+      {
+        "number": 68,
+        "text": "lam tardahum lii lighayrid dahra yal laahu"
+      },
+      {
+        "number": 69,
+        "text": "antal haziimul lazii baanat hazaamatuhu"
+      },
+      {
+        "number": 70,
+        "text": "lii qudtta fadlan haziiman minka yal laahu"
+      },
+      {
+        "number": 71,
+        "text": "antal ghafuurul lazii lii qudta maghfiratan"
+      },
+      {
+        "number": 72,
+        "text": "mahat huyuubii radiitu hanka yal laahu"
+      },
+      {
+        "number": 73,
+        "text": "antash shakuurul lazii kullii ladayka ridan"
+      },
+      {
+        "number": 74,
+        "text": "wa lii shakarta jamiihis sahyi yal laahu"
+      },
+      {
+        "number": 75,
+        "text": "antal haliyyul lazii ahlaytanii abadan"
+      },
+      {
+        "number": 76,
+        "text": "bighayri makrin wa lii hallalta yal laahu"
+      },
+      {
+        "number": 77,
+        "text": "antal kabiirul lazii baanat kabaaratuhu"
+      },
+      {
+        "number": 78,
+        "text": "lii qudtta minka kabiiral ajri yal laahu"
+      },
+      {
+        "number": 79,
+        "text": "antal hafiizul lazii wajjahta fii abadin"
+      },
+      {
+        "number": 80,
+        "text": "ilaa siwaayal hidaa wa durra yal laahu"
+      },
+      {
+        "number": 81,
+        "text": "antal muqiitul lazii khalladta lii raghadan"
+      },
+      {
+        "number": 82,
+        "text": "bilaa hisaabin ilal jannaati yal laahu"
+      },
+      {
+        "number": 83,
+        "text": "antal hasiibul lazii qadik tafaytu bihi"
+      },
+      {
+        "number": 84,
+        "text": "hanil hidaa wal azaa wal kaddi yal laahu"
+      },
+      {
+        "number": 85,
+        "text": "antal jaliilul lazii saaqat jalaalatuhu"
+      },
+      {
+        "number": 86,
+        "text": "ilaa siwaanal hidad daarayni yal laahu"
+      },
+      {
+        "number": 87,
+        "text": "antal kariimul lazii qad qudtta lii karaman"
+      },
+      {
+        "number": 88,
+        "text": "dunyaa wa ukhraa mahat tabshiiri yal laahu"
+      },
+      {
+        "number": 89,
+        "text": "antar raqiibul lazii baanat siyaanatuhu"
+      },
+      {
+        "number": 90,
+        "text": "kulliyyatii han siwar ridwaani yal laahu"
+      },
+      {
+        "number": 91,
+        "text": "antal mujiibul lazin qaadat bighayri hanaa"
+      },
+      {
+        "number": 92,
+        "text": "ijaabatun minka lii likhtarta yal laahu"
+      },
+      {
+        "number": 93,
+        "text": "wa innakal waasihul baaqii wa lii abadan"
+      },
+      {
+        "number": 94,
+        "text": "wassahta tawsihatan bil hitqi yal laahu"
+      },
+      {
+        "number": 95,
+        "text": "antal hakiimul lazii alaqtanii lisiwaa"
+      },
+      {
+        "number": 96,
+        "text": "maasaa-anii wa mawtas suu-a yal laahu"
+      },
+      {
+        "number": 97,
+        "text": "antal waduudul lazin qaadat mawaddatuhu"
+      },
+      {
+        "number": 98,
+        "text": "lii sarmadan bir ridaa wal qurbi yal laahu"
+      },
+      {
+        "number": 99,
+        "text": "antal majiidul lazii baanat majaadatuhu"
+      },
+      {
+        "number": 100,
+        "text": "wa qudtta lii minka majdan faaqa yal laahu"
+      },
+      {
+        "number": 101,
+        "text": "wa innakal baahisul mubqii bilaa dararin"
+      },
+      {
+        "number": 102,
+        "text": "kafaytanii jumlatal akdaari yal laahu"
+      },
+      {
+        "number": 103,
+        "text": "antash shahiidul lazin qaadat shahaadatuhu"
+      },
+      {
+        "number": 104,
+        "text": "lii bishtiraa-ika minnii zaaka yal laahu"
+      },
+      {
+        "number": 105,
+        "text": "yaa haqqu lish had bihaqqin wamhu jumlata maa"
+      },
+      {
+        "number": 106,
+        "text": "lam tarda lii mutlaqan bil fadli yal laahu"
+      },
+      {
+        "number": 107,
+        "text": "antal wakiilul lazii qadik tafaytu bihi"
+      },
+      {
+        "number": 108,
+        "text": "fid dafhi wal jalbi yaa zal khalqi yaa laahu"
+      }
+    ]
+  }
+}

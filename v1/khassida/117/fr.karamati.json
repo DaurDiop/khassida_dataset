@@ -1,0 +1,349 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 117,
+    "name": "Muqadamatul Amdah 3",
+    "transliterationName": "Muqadamatul Amdah 3",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 97,
+        "text": "Où que je sois (ʿayth), ô toi qui donnes la vie, te visitent de ma part mon cœur et mon esprit, chargés de bonnes nouvelles, en un instant."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 98,
+        "text": "Mon éloge, que j'ai imposé à l'âme avec effort, énumère tes mérites, qui n'ont pas de fin."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 99,
+        "text": "Ma certitude me préserve d'abandonner les éloges d'un maître (Muḥammad) par lequel l'Éternel (Allah) m'a préservé des gens de l'injustice et de l'égarement."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 100,
+        "text": "Sur ma main droite pèse la dette d'une écriture qui a renfermé l'agrément (divin), au service de mon Ami intime, l'homme de Médine, porteur de la bonne guidance."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 101,
+        "text": "Répand sur toi prière et paix Celui (Allah) par qui une poignée (de sable) de ta main a dispersé les ennemis par le jet."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 102,
+        "text": "Te parviennent de moi, à tout moment et à toute heure, agrément et action de grâce, compagnons de l'amour pour le Vivant (Allah)."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 103,
+        "text": "Répand prière et paix sur vous, sur votre Famille et sur vos Compagnons, l'Éternel (Allah), qui m'a favorisé par l'inspiration."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 104,
+        "text": "L'Éternel t'annonce, comme marque d'honneur, la bonne nouvelle de mon écriture, même si je suis éloigné de la terre de Médine."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 105,
+        "text": "Mon Seigneur détourne vers d'autres que moi tout ce que je n'aime pas, par toi, dans les deux demeures, ô toi qui attires la protection."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 106,
+        "text": "L'Éternel me fait parvenir les bonnes nouvelles du Dispensateur du bienfait, par toi, en tout temps, ô toi qui possèdes la préséance, l'excellence et la proximité (de Dieu)."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 107,
+        "text": "Tout mon être vénère tout ton être, aujourd'hui et demain ; et si mon Seigneur le veut, jamais l'on ne me verra faiblir."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 108,
+        "text": "Tout mon être resserre le lien de mon amour et de mon service, par Celui (Allah) qui a conduit vers moi, en un instant (ṭayy), la plus excellente des stations spirituelles."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 109,
+        "text": "Je suis sorti, par la grâce de Dieu, de ce qui attire le reproche, et celui qui reproche se tourne vers les gens qui m'ont abandonné."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 110,
+        "text": "Je suis sorti, par la grâce de Dieu, de toute fausseté vers la Vérité, et la foi en Dieu s'enracine solidement."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 111,
+        "text": "Les trésors de mon Seigneur se sont ouverts pour moi, et ont écarté vers d'autres que moi tout mal, en ce monde, dans l'autre et dans le Barzakh (le monde intermédiaire)."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 112,
+        "text": "Accueille de moi l'action de grâce, comme on accueille ce qui élève, et par elle annonce la bonne nouvelle à l'Élu (Muḥammad), ô le meilleur des guides, qui confère la dignité de maître."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 113,
+        "text": "Je suis sorti du mal avec Celui qui efface (Al-Māḥī, Muḥammad), par (la grâce de) mon Seigneur ; et ne se tourne pas vers moi celui qui s'enfle d'orgueil."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 114,
+        "text": "M'adresser à toi, ô le meilleur des créatures, est mon bonheur : cela rassure tout mon être au Jour où l'on soufflera dans la Trompe."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 115,
+        "text": "Tu as repoussé de moi les ennemis, et écarté vers d'autres que nous ceux qui ont tyrannisé, alors que chacun d'eux s'enflait d'arrogance."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 116,
+        "text": "Ton Serviteur (Khadīm) est satisfait de toi : agrée son action de grâce, pour la Face de Celui (Allah) par amour de qui il s'anéantit en toi."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 117,
+        "text": "Ses péchés ont été effacés de lui après le repentir tourné vers l'Éternel, dont il est le serviteur, soupirant humblement vers Lui."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 118,
+        "text": "Accueille cette année, ô Élu (Al-Mukhtār, Muḥammad), pour (l'amour de) Dieu, mon service : sur toi les deux saluts de paix de Celui (Allah) par qui je me glorifie de toi."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 119,
+        "text": "Je suis sorti de ce qui doit être abandonné pour Dieu seul, et mon pacte de vente avec Lui est un pacte qui ne se dissout pas."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 120,
+        "text": "Ma sortie, par (la grâce de) mon Seigneur, avec toi, a eu lieu avant l'année hakasash (1325 H, 1907, selon l'abjad maghrébin) ; et celui qui reproche se tourne vers d'autres que moi, non vers moi."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 121,
+        "text": "Par (la grâce de) mon Seigneur, ma sortie, avec mon entrée dans la demeure, a effacé auparavant tout ébranlement passé."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 122,
+        "text": "À Lui aussi l'action de grâce, après une louange perpétuelle, pour l'Élu (Muḥammad), le meilleur des créatures, le privilégié."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 123,
+        "text": "Pour mon Seigneur, le Très-Haut, je suis devenu un serviteur qui s'adresse à celui (Muḥammad) dont l'excellence est manifeste à quiconque a l'intelligence."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 124,
+        "text": "(Le verset) « Certes vous est venu (un Messager) » (Coran 9:128) nous est parvenu vous louant, de la part de Dieu, Maître du Trône immense, qui accorde l'excellence."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 125,
+        "text": "Dans le Coran est venu ce qui nous indique ta préséance, de la part de Celui (Allah) qui accorde le don parfait."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 126,
+        "text": "Tu es celui à qui, dès l'éternité, a été conférée la Prophétie, alors qu'Adam était encore entre l'eau et l'argile, sur le point de se manifester."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 127,
+        "text": "Chacun des élus possède excellence et rang ; mais auprès du Très-Haut nul serviteur n'est comme le fils de ʿAbd Allāh (Muḥammad)."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 128,
+        "text": "Chacun des maîtres possède prestige et sacralité ; mais le rang de l'Élu (Muḥammad), le Pieux, s'élève au-dessus de tous."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 129,
+        "text": "Si les Messagers qui t'ont précédé vinrent avec les signes prodigieux, ils les obtinrent par toi, de Celui (Allah) qui prodigue la grâce."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 130,
+        "text": "Au Maître du Trône j'ai remis tout mon être, par votre rang ; et mon viatique vers Ses Jardins est le meilleur des (Livres) révélés (le Coran)."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 131,
+        "text": "Pour vous j'ai demandé à mon Seigneur Ses deux saluts de paix, à jamais, avec la Famille et les Compagnons, ô le meilleur des Envoyés."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 132,
+        "text": "À mon Seigneur, qui par votre rang a rendu dociles pour moi les ennemis, va mon action de grâce après la louange, sans aucun ébranlement."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 133,
+        "text": "Mon besoin s'est tourné vers Celui (Allah) qui fend ce qui était soudé (Fātiq ar-ratq) ; en vérité je suis Son serviteur, et Il m'a accordé l'affranchissement."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 134,
+        "text": "Mes calames portent envers Lui une dette de reconnaissance, pour ma séparation — sans avoir à rencontrer — des gens de l'injustice et de la dépravation."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 135,
+        "text": "La haine de ceux qui associent (à Dieu) a conduit vers moi tout ce que j'espérais ; et en vérité je suis plein de reconnaissance pour cette séparation."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 136,
+        "text": "Les cœurs des agresseurs ont été poussés vers d'autres que nous, comme leurs corps ; et Dieu préserve pour moi ma demeure."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 137,
+        "text": "J'ai voulu rendre grâce à Dieu d'une action de grâce pure, en m'adressant au meilleur des créatures, par l'apparence et le caractère."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 138,
+        "text": "Tu es venu le premier, parce que l'Éminent (Allah) t'a placé devant, ô notre Messager, et tu as obtenu la sublimité, ô toi qui soutiens la Vérité par la vérité."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 139,
+        "text": "Dieu a fait descendre pour toi des versets qui ont repoussé (tout ennemi) vers d'autres, hormis ceux qu'Il a choisis pour moi parmi les créatures."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 140,
+        "text": "Par eux j'ai vaincu les gens de la haine, et ils sont un bouclier : par eux l'Éternel m'a gardé et a élevé mon horizon."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 141,
+        "text": "Leur récitation est mon trésor, mon prestige et ma force ; par eux il m'a été accordé d'être, auprès de Dieu, un homme de vérité."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 142,
+        "text": "Par eux je me suis rapproché de Celui qui les a révélés, Lui qui par eux était avec moi ; et je L'ai satisfait par l'action de grâce, en actes et en paroles."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 143,
+        "text": "Par eux mon œil s'est apaisé et mon âme s'est rassérénée ; par eux je suis parvenu à Dieu, Celui qui sépare et qui unit."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 144,
+        "text": "Dieu a comblé mes besoins par celui (Muḥammad) qui nous les a apportés ; et par eux je suis serviteur et Serviteur (Khadīm), avec la liberté."
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 65,
+    "name": "Jazbu 3",
+    "transliterationName": "Jazbu 3",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 101,
+        "text": "I venti lo soccorrevano come lo soccorrevano le lance, ed egli non aveva bisogno di armi, grazie al suo Signore che onora."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 102,
+        "text": "O Signore, benedici in eterno il Profeta Aḥmad (Muḥammad), la sua Famiglia, gente della retta guida, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 103,
+        "text": "O Signore, benedici per sempre il Profeta che Ti ha adorato, la sua Famiglia, gente della munificenza, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 104,
+        "text": "O Signore, benedici in ogni istante il Tuo Messaggero fedele, la sua Famiglia, gente della certezza, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 105,
+        "text": "O Signore, benedici attraverso i secoli colui che ha cancellato la perdizione, la sua Famiglia, gente della letizia, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 106,
+        "text": "O Signore, benedici ogni anno il Profeta, il migliore degli uomini, e la sua Famiglia, in perpetuo, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 107,
+        "text": "O Signore, benedici in ogni tempo l'Eloquente dal silenzio raccolto, la sua Famiglia, gente della devozione, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 108,
+        "text": "O Signore, benedici di giorno il Profeta, vanto (della stirpe) di Nizār, la sua Famiglia, gente della gloria, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 109,
+        "text": "O Signore, benedici al mattino il Profeta, ricco di rettitudine, la sua Famiglia, gente della riuscita, e i suoi Compagni, e dona la pace."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 110,
+        "text": "Effondi benedizione e pace, alla sera e nella notte, o Tu che sei il Santo (Al-Quddūs), sul capo dei capi, il migliore delle creature, la mia scala (verso di Te)."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 111,
+        "text": "O Signore, benedici con la pace il Profeta, in perpetuo, e la Famiglia e i nobili Compagni, e per suo tramite accogli il mio componimento."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 112,
+        "text": "Benedici il leone (Muḥammad) che ha risanato (i cuori) nel giorno di Badr, quando tenne fede, insieme ai Compagni di pura fede (al-ḥunafāʾ), al suo patto magnificato."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 113,
+        "text": "Dona la pace alla Luna piena (Muḥammad) che ha dissipato le tenebre dei cuori e si è innalzata, a quanti possiedono le stazioni sublimi e alla sua schiera, e magnificali."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 114,
+        "text": "Si levò il migliore degli uomini in mezzo alle schiere più elette, contro i superbi, come la luna piena in mezzo alle stelle."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 115,
+        "text": "Un giorno in cui la lotta si fece aspra, un giorno in cui il combattimento si fece aspro, il giorno in cui gli uomini si riconobbero, il giorno del compiacimento e dello sgomento."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 116,
+        "text": "Quel giorno fu la riuscita per chi è ben guidato, e il guadagno; per chi ascende, e la rettitudine, per ogni musulmano."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 117,
+        "text": "Un giorno in cui il Signore delle creature ha perdonato i peccati di quanti presero parte al suo combattimento, i gravi come i lievi."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 118,
+        "text": "I Compagni, gente del bene, vi incontrarono i compagni (di Quraysh), gente del danno; ed erano gli uni e gli altri leoni infuriati, di alte risolutezze."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 119,
+        "text": "Si contesero insieme la morte, e ciascuno di loro fu valoroso, bramando l'incontro (con Dio) o d'essere abbattuto, per amore di Colui che cancella le angosce (Muḥammad)."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 120,
+        "text": "E combatterono coloro la cui morte l'Intercessore degli intercessori (Muḥammad) aveva annunciato, finché la polvere si levò fra il vile e il prode."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 121,
+        "text": "Poi discesero dal cielo una cavalleria e un esercito immenso verso il capo dei nobili (Muḥammad), recando letizia senza angoscia."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 122,
+        "text": "Il Signore degli uomini lo rafforzò con un esercito di angeli possenti, per (accrescerne) il numero, non per lo scontro corpo a corpo: essi abbatterono i superbi."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 123,
+        "text": "E fra loro, quando giunsero, vi era il suo amico intimo glorificato, Gabriele — quale eccelso sostegno! — su un destriero possente."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 124,
+        "text": "Ed essi accorsero alla lotta con le spade e con le lance, per amore della rettitudine e della riuscita, dietro l'Imām supremo (Muḥammad)."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 125,
+        "text": "E fra loro vi era colui che ha realizzato (la fede), nostro signore, il favorito da Dio, il più sincero di quanti hanno creduto nell'illustre Hāshimita (Muḥammad):"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 126,
+        "text": "il suo Veridico (Aṣ-Ṣiddīq, Abū Bakr), il magnificato, possessore di maestà, il venerato, il suo paziente compagno nella grotta, secondo soltanto al Sapientissimo (il Profeta)."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 127,
+        "text": "E fra loro vi era colui al quale fu annunciato ogni bene, ʿUmar, nostro signore, l'uomo del consiglio, gloria di ogni musulmano."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 128,
+        "text": "E fra loro vi era colui che sposò le due figlie del capo dei giusti (Muḥammad), le Due Luci, quando prosperarono con la remissione di ogni peccato:"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 129,
+        "text": "nostro signore, l'adorno di bellezza, ʿUthmān, colui che uccisero mentre recitava il Libro di Colui (Allah) che dona con larghezza."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 130,
+        "text": "E fra loro vi era colui che dissipò l'idolatria, padre di Al-Ḥusayn e di Al-Ḥasan, porta delle scienze, il genero (del Profeta), padre degli astri nobili:"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 131,
+        "text": "nostro signore, l'onorato, il suo ʿAlī magnificato, che abbatte i nemici, il leone impavido, che cancella l'offesa e la tristezza."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 132,
+        "text": "Per quel giorno abbiamo ottenuto la sicurezza dal timore, dalla pena e dalla vergogna, dal tormento e dal rimorso."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 133,
+        "text": "Per esso (il giorno di Badr) siamo stati dispensati, in vista dei Giardini, dalla spedizione e dall'umiliazione; per esso il tempo ci è divenuto propizio, con l'accoglienza dei (nostri) servizi."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 134,
+        "text": "Lodiamo dunque Allah per la nostra salvezza da chi ci ha odiato e da ogni male decretato, per mezzo del Prescelto (Muḥammad), posto innanzi a tutti."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 135,
+        "text": "In verità mi rivolgo al Bello (Allah) per lui (Muḥammad), per la Famiglia giusta e per i suoi Compagni, senza che cadano nell'oblio, con «benedici» e «dona la pace»."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 136,
+        "text": "O Signore nostro, o Signore nostro, o nostro Amico intimo, o nostro Amato, benedici il nostro signore Muḥammad e dona la pace,"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 137,
+        "text": "e alla sua Famiglia, ai suoi Compagni e a chiunque gli sia legato fra i Santi della sua schiera; e accogli il mio calamo."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 138,
+        "text": "Compiaciti dei nobili Compagni, di un compiacimento che conduca a me ciò che bramo; e sii con me, o Signore degli uomini, senza nemici né dolore."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 139,
+        "text": "Gradisci la mia benedizione sul nostro signore, Porta delle altezze, e accogli questo poema per il Tuo nobile Volto."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 140,
+        "text": "O Signore nostro, benedici il migliore dei Profeti che siano stati inviati, Muḥammad, accresci l'elevazione della sua comunità, e dona la pace."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 141,
+        "text": "O Signore nostro, benedici il migliore dei Messaggeri, il prediletto, Muḥammad; rendi dolce come il miele il mio scritto, e dona la pace."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 142,
+        "text": "O Signore nostro, benedici il migliore dei Profeti, l'esaltato, Muḥammad; per suo tramite accogli la mia scrittura, e dona la pace."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 143,
+        "text": "O Signore nostro, benedici il migliore dei Messaggeri, il venerato, Muḥammad; per suo tramite adorna di bellezza il mio stato, e dona la pace."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 144,
+        "text": "O Signore nostro, benedici il migliore degli intercessori, la cui intercessione è accolta, Muḥammad; per suo tramite porta a compimento il mio intento, e dona la pace."
+      }
+    ]
+  }
+}

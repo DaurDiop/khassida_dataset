@@ -1,0 +1,60 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "name": "Mim Ra Shin",
+    "transliterationName": "Mim Ra Shin",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "مِدَادِى وَأَقْلَامِى وَقَلْبِى وَجُثْمَانِى",
+        "transcription": "midaadii wa aqlaamii wa qalbii wa jusmaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "لِمُغْنٍ بَدِيعٍ لِّى يُسَخِرُ أَزْمَانِى",
+        "transcription": "limughnin badiihin lii yusakhiru azmaanii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "رَبَاحِى كِتَابٌ جَآءَنَا مِنْهُ مُحْكَمًا",
+        "transcription": "rabaahii kitaabun jaa-anaa minhu muhkaman",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "أَتَى مِنْ رَّحِيمٍ لَّمْ يَزَلْ خَيْرَ الرَّحْمَانِ",
+        "transcription": "ataa min rahiimin lam yazal khayrar rahmaani",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "شُكُورِىَ فِى الدَّارَيْنِ لِلَّهِ وَحْدَهُ",
+        "transcription": "shukuuriya fid daarayni lil laahi wahdahu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "عَلَى مَنْ بِهِ أَبْقَى  فُؤَادِى وَجُثْمَانِ",
+        "transcription": "halaa man bihi abqaa fu-aadii wa jusmaanii",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

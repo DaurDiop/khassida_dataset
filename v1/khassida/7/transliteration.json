@@ -1,0 +1,221 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 7,
+    "name": "Alaa Inani",
+    "transliterationName": "Alaa Inani",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "alaa innanii usnii halaa khayri munhimi"
+      },
+      {
+        "number": 2,
+        "text": "walaa ashtakii lil khalqi min faqdi anhumi"
+      },
+      {
+        "number": 3,
+        "text": "faman zannanii fii ghurbatii zaa tazallulin"
+      },
+      {
+        "number": 4,
+        "text": "ilaa ghayri mughnin waasihin fahwa qad hami"
+      },
+      {
+        "number": 5,
+        "text": "lahu ashtakii duhfii wa faqri wa ghurbatii"
+      },
+      {
+        "number": 6,
+        "text": "wa arjuu rajuuhii haajilan khayra munhami"
+      },
+      {
+        "number": 7,
+        "text": "shakawtu lahu hajzi fa-ashkaa wa kaana lii"
+      },
+      {
+        "number": 8,
+        "text": "bimaa faaqa zannii fahwa akramu mukrimi"
+      },
+      {
+        "number": 9,
+        "text": "nahaa jaa-inibii man gharra hum kufru hum bihi"
+      },
+      {
+        "number": 10,
+        "text": "fahanhum hamaanii taaridan kulla mujrimi"
+      },
+      {
+        "number": 11,
+        "text": "lahush shukru minii raajiyan minhu matlabatii"
+      },
+      {
+        "number": 12,
+        "text": "bilaa kulfatin minnii wa qad zaala maghrami"
+      },
+      {
+        "number": 13,
+        "text": "la-in gharranii man gharrahuz zannu haasidan"
+      },
+      {
+        "number": 14,
+        "text": "famaa gharranii man qaadanii bit takarrumi"
+      },
+      {
+        "number": 15,
+        "text": "faman yalqinii lil jahdi fil bahri zaa qiyan"
+      },
+      {
+        "number": 16,
+        "text": "faqad jaa-anii fil bahri juudul mukarrimi"
+      },
+      {
+        "number": 17,
+        "text": "wa man saa-ahu kawnii limawlaaya haabidan"
+      },
+      {
+        "number": 18,
+        "text": "wa kawnii khadiiman lish shafiihil muqaddami"
+      },
+      {
+        "number": 19,
+        "text": "fa-innii lahu fil barri wal bahri haabidun"
+      },
+      {
+        "number": 20,
+        "text": "khadiimun limunjin min dawaahii tanaddumi"
+      },
+      {
+        "number": 21,
+        "text": "wa man sadda hannii fal mawaahibu aqbalat"
+      },
+      {
+        "number": 22,
+        "text": "minal waasihil mughnil hafiighil muqaddimi"
+      },
+      {
+        "number": 23,
+        "text": "wa man yulqinii fil bahri rawman lighurbatii"
+      },
+      {
+        "number": 24,
+        "text": "falii min ilaahir rawdu fii kulli haylami"
+      },
+      {
+        "number": 25,
+        "text": "lirabbil tijaa-i fii huduuri wa ghaybatii"
+      },
+      {
+        "number": 26,
+        "text": "wa bil mustafaa ashkuu lahu nihma sullami"
+      },
+      {
+        "number": 27,
+        "text": "halayhi salaatul laahi summa salaamuhu"
+      },
+      {
+        "number": 28,
+        "text": "bi-aali lahu was sahbi mah kulli muslimi"
+      },
+      {
+        "number": 29,
+        "text": "ilaahii halaa khayril baraayaa muhammadin"
+      },
+      {
+        "number": 30,
+        "text": "adim sarmadan azkaa salaatin wa sallimi"
+      },
+      {
+        "number": 31,
+        "text": "mahal aali wal as-haabi turran wa ruddanii"
+      },
+      {
+        "number": 32,
+        "text": "sariihan ilaa tuubaa wa hutnii wa hallimi"
+      },
+      {
+        "number": 33,
+        "text": "ilaahii halayyad dahra kawnii khadiimahu"
+      },
+      {
+        "number": 34,
+        "text": "wa kawnii khadiimal aayi hallim wa fahhimi"
+      },
+      {
+        "number": 35,
+        "text": "ilaahii minal wahhaabi abghii tabahhuran"
+      },
+      {
+        "number": 36,
+        "text": "wa kashfan wa ilhaaman falik shiq wa alhimi"
+      },
+      {
+        "number": 37,
+        "text": "tawajjahtu lil fattaahi abghii futuuhahu"
+      },
+      {
+        "number": 38,
+        "text": "wa arjuu fuyuudan min wal faydu yanhami"
+      },
+      {
+        "number": 39,
+        "text": "radiitu hanil qahhaari izraada lil hidaa"
+      },
+      {
+        "number": 40,
+        "text": "ghariiban fariidan hinda hum ayya mubhami"
+      },
+      {
+        "number": 41,
+        "text": "saardiihi bil qur-aani shukran lahu bihi"
+      },
+      {
+        "number": 42,
+        "text": "halaa anhumii bil qalbi wal jismi wal fami"
+      },
+      {
+        "number": 43,
+        "text": "halayya lahu idmaanu makhtaara lii hudan"
+      },
+      {
+        "number": 44,
+        "text": "wa urdiihi bil aayaati izsirna maghnami"
+      },
+      {
+        "number": 45,
+        "text": "shukuuri wa ridwaanii wa hamdii linaafihin"
+      },
+      {
+        "number": 46,
+        "text": "ataanii biqur-aani haziimin muhazzami"
+      },
+      {
+        "number": 47,
+        "text": "huwal kanzu wan nuurul mubiinul lazii bihi"
+      },
+      {
+        "number": 48,
+        "text": "hanin naari wal ahdaa-i wal haari nakhtami"
+      },
+      {
+        "number": 49,
+        "text": "kitaabun haziizun min haziizin ataa bihi"
+      },
+      {
+        "number": 50,
+        "text": "haziizun amiinun lil haziizil mutammimi"
+      },
+      {
+        "number": 51,
+        "text": "kitaabun kariimun min kariimin mukarrimin"
+      },
+      {
+        "number": 52,
+        "text": "lihabdin kariimin munqizinzii tarahhumi"
+      }
+    ]
+  }
+}

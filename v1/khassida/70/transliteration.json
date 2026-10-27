@@ -1,0 +1,125 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 70,
+    "name": "Khayra Dayfin",
+    "transliterationName": "Khayra Dayfin",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "yaa khayra dayfin ataa bil bishri wal madadi"
+      },
+      {
+        "number": 2,
+        "text": "ahlan wa sahlan war tarhiiban bilaa hadadi"
+      },
+      {
+        "number": 3,
+        "text": "laazilta dayfan kariiman zaa-iran abadan"
+      },
+      {
+        "number": 4,
+        "text": "mukarraman biqirat taahaati was sadadi"
+      },
+      {
+        "number": 5,
+        "text": "muhazzaman hinda rabbi laa shariika lahu"
+      },
+      {
+        "number": 6,
+        "text": "wa hinda ahlit tuqaa wal hilmi war rashadi"
+      },
+      {
+        "number": 7,
+        "text": "laazilta maa hiya aw zaarin wa qaadiya aw"
+      },
+      {
+        "number": 8,
+        "text": "taarin wa taarida agh-yarin minal khaladi"
+      },
+      {
+        "number": 9,
+        "text": "wa saafidan kulla shaytaanin bimaa mahahu"
+      },
+      {
+        "number": 10,
+        "text": "wa mut-hifan lizawil ihsaani bis safadi"
+      },
+      {
+        "number": 11,
+        "text": "wa muzhiban kulla ahzaanin nadiiqu bihaa"
+      },
+      {
+        "number": 12,
+        "text": "fid dahri af-idatan yaa muzhiban nakadi"
+      },
+      {
+        "number": 13,
+        "text": "wa zaa-idan kulla haamin maa nafuuzu bihi"
+      },
+      {
+        "number": 14,
+        "text": "min juudi mughnin kariimin naafihiz zayadi"
+      },
+      {
+        "number": 15,
+        "text": "yaa shahra rabbin kariimin fiika jaada lanaa"
+      },
+      {
+        "number": 16,
+        "text": "bilaylatil qadri zaatil fadli war raghadi"
+      },
+      {
+        "number": 17,
+        "text": "innii uhibbuka hubbaz zaati zaa talabi"
+      },
+      {
+        "number": 18,
+        "text": "min maalikii fiika is-haadan bilaa awadi"
+      },
+      {
+        "number": 19,
+        "text": "zaa tawbatin fiika aydan maadiyan abadan"
+      },
+      {
+        "number": 20,
+        "text": "biz zikri wash shukri wal qur-aani lil ahadi"
+      },
+      {
+        "number": 21,
+        "text": "ilayhi qad tubtu fii shahbaana han rajabin"
+      },
+      {
+        "number": 22,
+        "text": "mujaddidan fiika fash-had lii bitarki dadi"
+      },
+      {
+        "number": 23,
+        "text": "lish had bi-akhzii kitaabal laahi fiika hunaa"
+      },
+      {
+        "number": 24,
+        "text": "ilar tihaa liya yawmas sabti wal ahadi"
+      },
+      {
+        "number": 25,
+        "text": "wash-had bihubbiika hubbaz zaati yaa amalii"
+      },
+      {
+        "number": 26,
+        "text": "wa kun habiibiya yawmal hawli wal kamadi"
+      },
+      {
+        "number": 27,
+        "text": "innii uhibbuka yaa shahras siyaami bilaa"
+      },
+      {
+        "number": 28,
+        "text": "ghish-shin fa-ahlan wa tarhiiban bilaa hadadi"
+      }
+    ]
+  }
+}

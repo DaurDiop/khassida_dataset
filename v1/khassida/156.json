@@ -1,0 +1,492 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 156,
+    "name": "Sabhun Taqii",
+    "transliterationName": "Sabhun Taqii",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "سَبْعٌ تَقِى أَبْوَابَ كُلِّ نَارِ",
+        "transcription": "sabhun taqii abwaaba kulli naari",
+        "translations": {
+          "fr": "Sept (versets) empêchent l'ouverture des portes de tout feu (d'ici bas et dans l'au-delà)"
+        }
+      },
+      {
+        "number": 2,
+        "text": "تَجُودُ بِالدِّرْهَمِ وَالدِّينَارِ",
+        "transcription": "tajuudu bid dirhami wad diinaari",
+        "translations": {
+          "fr": "et ils attirent de substantiels dons en pièces d'or et d'argent."
+        }
+      },
+      {
+        "number": 3,
+        "text": "تُفِيدُ كُلَّ مَنْ لَّهَا تَدَبَّرَا",
+        "transcription": "tufiidu kulla man lahaa tadabbaraa",
+        "translations": {
+          "fr": "A quiconque sait y réfléchir et imiter ils sont utiles en ce sens"
+        }
+      },
+      {
+        "number": 4,
+        "text": "بِكَنْزَىِ الدَّارَيْنِ حَيْثُ اعْتَبَرَا",
+        "transcription": "bikanzayid daarayni haysuh tabaraa",
+        "translations": {
+          "fr": "qu'ils lui apportent les trésors de ce monde et de l'autre."
+        }
+      },
+      {
+        "number": 5,
+        "text": "تَمْنَعُ أَبْوَابَ الْجَحِيمِ سَبْعَهْ",
+        "transcription": "tamnahu abwaabal jahiimi sabhah",
+        "translations": {
+          "fr": "Ils ferment les sept portes de l'enfer,"
+        }
+      },
+      {
+        "number": 6,
+        "text": "مِمَنْ تَدَبَّرَ وَتُنْمِى نَفْعَهْ",
+        "transcription": "miman tadabbara wa tunmii nafhah",
+        "translations": {
+          "fr": "ils sont profitables à tout être qui sait méditer."
+        }
+      },
+      {
+        "number": 7,
+        "text": "تَقُودُ كُلَّ مُنْيَةٍ تُفِيدُ",
+        "transcription": "taquudu kulla munyatin tufiidu",
+        "translations": {
+          "fr": "Ils font se réaliser tout souhait utile"
+        }
+      },
+      {
+        "number": 8,
+        "text": "لِكُلِّ مَنْ يَّعْدِى وَيَسْتَ فِيدُ",
+        "transcription": "likulli man yahdii wa yasta fiidu",
+        "translations": {
+          "fr": "à tout guide et à tout élève."
+        }
+      },
+      {
+        "number": 9,
+        "text": "تَطْرُدُ عَنْ قَآرِئِهَا اللَّهِينَا",
+        "transcription": "tatrudu han qaari-ihal lahiinaa",
+        "translations": {
+          "fr": "Ils chassent le maudit Satan loin de leur lecture"
+        }
+      },
+      {
+        "number": 10,
+        "text": "بِنَفْىِ هَادٍ لَّمْ يَزَلُ مُعِينَا",
+        "transcription": "binaf-yi haadin lam yazalu muhiinaa",
+        "translations": {
+          "fr": "grâce au guide qui ne cesse d'aider les autres."
+        }
+      },
+      {
+        "number": 11,
+        "text": "تَجُودُ بِالْعُلُومِ وَالْأَعْمَلِ",
+        "transcription": "tajuudu bil huluumi wal ahmali",
+        "translations": {
+          "fr": "Ils font accueillir le savoir et accomplir de bonnes oeuvres,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "قَآئِدَةٌ لِّلسُّولِ وَالْئَامَلِ",
+        "transcription": "qaa-idatun lis suuli wal aamali",
+        "translations": {
+          "fr": "ils sont bons pour ceux qui sollicitent des faveurs et qui espèrent en recevoir."
+        }
+      },
+      {
+        "number": 13,
+        "text": "تُعِينُ قَآرِءًا عَلَى الْحَاجَاتِ",
+        "transcription": "tuhiinu qaari-an halal haajaati",
+        "translations": {
+          "fr": "Ils aident leur lecteur à réaliser ces désirs,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَتُنْقَذُ الْأَبْنَآءَ كَالزَّوْجَاتِ",
+        "transcription": "wa tunqazul abnaa-a kaz zawjaati",
+        "translations": {
+          "fr": "ils assurent le salut aux fils comme aux épouses."
+        }
+      },
+      {
+        "number": 15,
+        "text": "تَكْفِى الْعِدَى وَالْجُوحَ وَالْوَبَآءَا",
+        "transcription": "takfil hidaa wal juuhal wal wabaa-aa",
+        "translations": {
+          "fr": "Ils protègent contre les ennemis,"
+        }
+      },
+      {
+        "number": 16,
+        "text": "كَمَا تُلِينُ مَنْ أَبَى إِبَآءَا",
+        "transcription": "kamaa tuliinu man abaa ibaa-aa",
+        "translations": {
+          "fr": "contre la faim et contre les épidémies."
+        }
+      },
+      {
+        "number": 17,
+        "text": "تَزِيدُ عَقِلًا وَتَرُدُّ ضَرَرَا",
+        "transcription": "taziidu haqilan wa taruddu dararaa",
+        "translations": {
+          "fr": "Ils renforcent le rendement des facultés intellectuelles."
+        }
+      },
+      {
+        "number": 18,
+        "text": "عَمَنْ يُّلَازِمْ وَتَكْفِى الْغَرَرَا",
+        "transcription": "haman yulaazim wa takfil ghararaa",
+        "translations": {
+          "fr": "Ils repoussent le mal loin de quiconque le récite continuellement et éloigne les illusions et les risques."
+        }
+      },
+      {
+        "number": 19,
+        "text": "تُيَسِّرُ الْعَسِيرَ وَتُكْثِرُ الثَّوَابْ",
+        "transcription": "tuyassirul hasiira wa tuksirus sawaab",
+        "translations": {
+          "fr": "Ils facilitent l'obtention de ce qui est difficile à se procurer"
+        }
+      },
+      {
+        "number": 20,
+        "text": "فِى كُلِّ بَآئِحٍ وَتَهْدِى لِلصَّوَابْ",
+        "transcription": "fii kulli baa-ihin a tahdii lis sawaab",
+        "translations": {
+          "fr": "et ils multiplient les bonnes récompenses dans tout acte permis. Ils mettent dans la droiture et donnent raison."
+        }
+      },
+      {
+        "number": 21,
+        "text": "تَقُودُ مَنْ لَا زَمَهَا لِلْخَيْرِ",
+        "transcription": "taquudu man laa zamahaa lil khayri",
+        "translations": {
+          "fr": "Ils font obtenir ce qui bon à leur lecteur"
+        }
+      },
+      {
+        "number": 22,
+        "text": "كَمَا تُنَجِّى مِنْ جَمِيعِ الضَّيْرِ",
+        "transcription": "kamaa tunajii min jamiihid dayri",
+        "translations": {
+          "fr": "de même qu'ils sauvent de tous les malheurs."
+        }
+      },
+      {
+        "number": 23,
+        "text": "تَفْتَحُ أَبْوَابَ الْجِنَانِ تُكْرِمُ",
+        "transcription": "taftahu abwaabal jinaani tukrimu",
+        "translations": {
+          "fr": "Ils ouvrent les portes du paradis."
+        }
+      },
+      {
+        "number": 24,
+        "text": "جَنَابَ مَنْ يَّقْرَ أُهَافَ يُكْرَمُ",
+        "transcription": "janaaba man yaqra uhaafa yukramu",
+        "translations": {
+          "fr": "Ils honorent la personne qui les récite et la font respecter."
+        }
+      },
+      {
+        "number": 25,
+        "text": "تَجُودُ بِالشِّفَآءِ مِنْ كُلِّ مَرَضْ",
+        "transcription": "tajuudu bish shifaa-i min kulli marad",
+        "translations": {
+          "fr": "Ils apportent un remède à toute maladie"
+        }
+      },
+      {
+        "number": 26,
+        "text": "كَمَا لِقَآرِءٍ تَجُودُ بِالْغَرَضْ",
+        "transcription": "kamaa liqaari-in tajuudu bil gharad",
+        "translations": {
+          "fr": "de même qu'ils apportent la satisfaction des désirs de leur lecteur."
+        }
+      },
+      {
+        "number": 27,
+        "text": "تَدْفَعُ كَيْدَ الْكَائِدِنَ تُنْمِى",
+        "transcription": "tadfahu kaydal kaa-idina tunmii",
+        "translations": {
+          "fr": "Ils déjouent les plans machiavéliques des trompeurs."
+        }
+      },
+      {
+        "number": 28,
+        "text": "قَارِئَهَا خَيْرَ جَزَآ وَغُنْمِ",
+        "transcription": "qaari-ahaa khayra jazaa wa ghunmi",
+        "translations": {
+          "fr": "Ils apportent à leur lecteur la meilleure récompense et le meilleur gain."
+        }
+      },
+      {
+        "number": 29,
+        "text": "تُكْثِرُ خَيْرَاتِ الدُّيُورِ تُرْدِى",
+        "transcription": "tuksiru khayraatid duyuuri turdii",
+        "translations": {
+          "fr": "Ils multiplient l'abondance des pays."
+        }
+      },
+      {
+        "number": 30,
+        "text": "مَنْ رَّامَ أَنْ يَّظْلِمَ حِزْبَ الْفَرْدِ",
+        "transcription": "man raama an yazlima hizbal fardi",
+        "translations": {
+          "fr": "Ils exterminent ceux qui tentent d'opprimer le parti de l'Unique."
+        }
+      },
+      {
+        "number": 31,
+        "text": "تَقُودُ مَنْ يَّقْرَ أُهَا لِلْمُنْيَهْ",
+        "transcription": "taquudu man yaqra uhaa lil munyah",
+        "translations": {
+          "fr": "Ils conduisent leur lecteur à réaliser son rêve."
+        }
+      },
+      {
+        "number": 32,
+        "text": "وَلِلْعُلَى تُخْرِ جُهُ مِنْ مِّرْيَهْ",
+        "transcription": "wa lil hulaa tukhri juhu min mir-yah",
+        "translations": {
+          "fr": "Ils le portent loin de l'orgueil vers l'idéal."
+        }
+      },
+      {
+        "number": 33,
+        "text": "تُلْجِمُ أَفْوَاهَ ذَوِى الْإِفْسَادِ",
+        "transcription": "tuljimu afwaaha zawil ifsaadi",
+        "translations": {
+          "fr": "Ils musèlent les malfaisants"
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَتَعْصِمُ الْمَبِيعَ مَنْ كَسَادِ",
+        "transcription": "wa tahsimul mabiiha man kasaadi",
+        "translations": {
+          "fr": "et empêchent la mévente pour le commerçant."
+        }
+      },
+      {
+        "number": 35,
+        "text": "تُنِيرُ قَلْبَ كُلِّ ذِى صَلَاحِ",
+        "transcription": "tuniiru qalba kullii zii salaahi",
+        "translations": {
+          "fr": "Ils illuminent le coeur de tout vertueux,"
+        }
+      },
+      {
+        "number": 36,
+        "text": "تُنِيلُهُ الْأَجْرَ مَعَ الصَّلَاحِ",
+        "transcription": "tuniiluhul ajra mahas salaahi",
+        "translations": {
+          "fr": "et lui attirent le salaire et le bonheur."
+        }
+      },
+      {
+        "number": 37,
+        "text": "مَنْ يَّتْلُهَا لِحَاجَةٍ تُقْضَ بِلَا",
+        "transcription": "man yatluhaa lihaajatin tuqda bilaa",
+        "translations": {
+          "fr": "Quiconque les récite verra son désir se réaliser sans aucun doute"
+        }
+      },
+      {
+        "number": 38,
+        "text": "شَكٍّ وَمَنْ لَّمْ يَتْلُهَا لَنْ يُّقْبَلَا",
+        "transcription": "shakkin wa man lam yatluhaa lan yuqbalaa",
+        "translations": {
+          "fr": "et quiconque ne les récite ne sera pas exaucé dans ses prières."
+        }
+      },
+      {
+        "number": 39,
+        "text": "وَمَنْ تَلَاهَا مُخْلِصًا لِوَجْهِ مَنْ",
+        "transcription": "wa man talaahaa mukhlisan liwajhi man",
+        "translations": {
+          "fr": "Quiconque les récite sincèrement pour plaire à Dieu"
+        }
+      },
+      {
+        "number": 40,
+        "text": "أَنْزَلَهَا فَازَ بِأَجْرٍ وَأَمَنْ",
+        "transcription": "anzalahaa faaza bi-ajrin wa aman",
+        "translations": {
+          "fr": "qui les a révélés obtiendra une récompense et une sécurité."
+        }
+      },
+      {
+        "number": 41,
+        "text": "وَمَنْ بِهَا دَخَلَ فِى أَمْرٍ فَلَا",
+        "transcription": "wa man bihaa dakhala fii amrin falaa",
+        "translations": {
+          "fr": "Quiconque les récite au début de chaque entreprise"
+        }
+      },
+      {
+        "number": 42,
+        "text": "يَكُونُ خَآئِبً وَلَا مُنْسَفِلَا",
+        "transcription": "yakuunu khaa-iban walaa munsafilaa",
+        "translations": {
+          "fr": "ne sera pas déçu dans son attente et n'échouera point."
+        }
+      },
+      {
+        "number": 43,
+        "text": "وَمَنْ بِهَا رَامَ عَزِيزًا نَالَهُ",
+        "transcription": "wa man bihaa raama haziizan naalahu",
+        "translations": {
+          "fr": "Quiconque dans son désir d'obtenir un bien précieux,"
+        }
+      },
+      {
+        "number": 44,
+        "text": "مِنْ مُّطْلِقٍ أَبَدَ لِى جَمَالَهُ",
+        "transcription": "min mutliqin abada lii jamaalahu",
+        "translations": {
+          "fr": "les récite, réussira grâce à l'Absolu qui m'a accordé sa beauté."
+        }
+      },
+      {
+        "number": 45,
+        "text": "وَمَنْ تَلَاهَا فِى اتِّبَاعٍ يُوجَرِ",
+        "transcription": "wa man talaahaa fit tibaahin yuujari",
+        "translations": {
+          "fr": "Quiconque les récite en allant chez une personne généreuse et prospère,"
+        }
+      },
+      {
+        "number": 46,
+        "text": "عِنْدَ كَرِيمٍ مُّعْتِقٍ لَمْ يُحْجَرِ",
+        "transcription": "hinda kariimin muhtiqin lam yuhjari",
+        "translations": {
+          "fr": "l'accès de celle-ci ne lui sera pas interdit."
+        }
+      },
+      {
+        "number": 47,
+        "text": "وَمَنْ تَلَاهَا وَهْوَ ذُو اتِّقَآءِ",
+        "transcription": "wa man talaahaa wahwa zut tiqaa-i",
+        "translations": {
+          "fr": "Quiconque les récite en pieux obtiendra l'agrément"
+        }
+      },
+      {
+        "number": 48,
+        "text": "نَالَ رِضَى مَنْ جَادَ بِالْبَقَآءِ",
+        "transcription": "naala ridaa man jaada bil baqaa-i",
+        "translations": {
+          "fr": "de celui qui excelle par son éternité."
+        }
+      },
+      {
+        "number": 49,
+        "text": "صَلَّى وَسَلَّمَ عَلَى مُحَمَّدِ",
+        "transcription": "sallaa wa sallama halaa muhammadi",
+        "translations": {
+          "fr": "Bénédiction et Paix sur Muhammad,"
+        }
+      },
+      {
+        "number": 50,
+        "text": "وَءَالِهِ وَصَحْبِهِ وَالْحُمَّدِ",
+        "transcription": "wa aalihi wa sahbihi wal humadi",
+        "translations": {
+          "fr": "sur sa famille et ses compagnons qui louent Dieu continuellement."
+        }
+      },
+      {
+        "number": 51,
+        "text": "مَنْ جَعَلَ الْقُرْءَانَ حِينَ أَنْزَلَا",
+        "transcription": "man jahalal qur-aana hiina anzalaa",
+        "translations": {
+          "fr": "De la part de celui qui a mis le coran recopié de la table bien gardée"
+        }
+      },
+      {
+        "number": 52,
+        "text": "مِنْ لَّوْحِهِ فِى يَدِّ رُوحٍ نَّزَلَا",
+        "transcription": "min lawhihi fii yaddi ruuhin nazalaa",
+        "translations": {
+          "fr": "entre les mains de l'esprit saint (Gabriel)."
+        }
+      },
+      {
+        "number": 53,
+        "text": "صَلَّى وَسَلَّمَ عَلَيْهِمَا الْجَمِيلْ",
+        "transcription": "sallaa wa sallama halayhimal jamiil",
+        "translations": {
+          "fr": "Que la magnifique bénisse Muhammad et Gabriel et leur accorde le salut."
+        }
+      },
+      {
+        "number": 54,
+        "text": "وَكَانَ لِى بِفَضْلِهِ حَيْثُ أَمِيلْ",
+        "transcription": "wa kaana lii bifadlihi haysu amiil",
+        "translations": {
+          "fr": "Qu'il soit avec moi en me comblant de grâce partout où je me tourne."
+        }
+      },
+      {
+        "number": 55,
+        "text": "صَلَّى عَلَيْهِمَا بِئَالِ الْمُصْطَفَى",
+        "transcription": "sallaa halayhimaa bi-aalil mustafaa",
+        "translations": {
+          "fr": "Qu'il bénisse les deux par considération pour la famille de l'Elu,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "وَصَحْبِهِ وَكُلِّ مَنْ نَّالَ اصْطَفَى",
+        "transcription": "wa sahbihi wa kulli man naalas tafaa",
+        "translations": {
+          "fr": "et de ses compagnons par amour de Lui et pour l'amour de quiconque a été purifié."
+        }
+      },
+      {
+        "number": 57,
+        "text": "صَلَّى وَسَلَّمَ عَلَى الْجَمِيعِ",
+        "transcription": "sallaa wa sallama halal jamiihi",
+        "translations": {
+          "fr": "Bénédiction et Salut sur tous,"
+        }
+      },
+      {
+        "number": 58,
+        "text": "خَيْرُ شُكُورٍ رَّافِعٍ سَمِيعِ",
+        "transcription": "khayru shukuurin raafihin samiihi",
+        "translations": {
+          "fr": "de la part du meilleur Reconnaissant qui élève et qui entend."
+        }
+      },
+      {
+        "number": 59,
+        "text": "وَأَفْضَلُ الصَّلَاةِ مَعْ خَيْرِ سَلَامْ",
+        "transcription": "wa afdalus salaati mah khayri salaam",
+        "translations": {
+          "fr": "Que la meilleure bénédiction et la meilleure paix soient sur Eux deux"
+        }
+      },
+      {
+        "number": 60,
+        "text": "عَلَيْهِمَا كَمَا أَفَادَ بِالْكَلَامْ",
+        "transcription": "halayhimaa kamaa afaada bil kalaam",
+        "translations": {
+          "fr": "comme il l'a enseigné par la parole (dans le coran)."
+        }
+      }
+    ]
+  }
+}

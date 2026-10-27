@@ -1,0 +1,213 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 176,
+    "name": "Wajjahtu Kulliya",
+    "transliterationName": "Wajjahtu Kulliya",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "wajjahtu kulliya zaa qurbin minal laahi"
+      },
+      {
+        "number": 2,
+        "text": "khillan wa hibban wa zaa shawqin ilal laahi"
+      },
+      {
+        "number": 3,
+        "text": "al laahu akbaru mimmaa kuntu afhaluhu"
+      },
+      {
+        "number": 4,
+        "text": "wa lastu akhshaa wa laa arjuu siwal laahi"
+      },
+      {
+        "number": 5,
+        "text": "zikrii wa shukrii wa ridwaanii wa mahmadatii"
+      },
+      {
+        "number": 6,
+        "text": "bil qalbi wal jismi wal aqlaami lil laahi"
+      },
+      {
+        "number": 7,
+        "text": "kullii lirabbiya fii sirrin wa fii halanin"
+      },
+      {
+        "number": 8,
+        "text": "wa lastu as-alu ghayran naafihil laahi"
+      },
+      {
+        "number": 9,
+        "text": "radiitu han naafihin baaqin wa ashkuruhu"
+      },
+      {
+        "number": 10,
+        "text": "ilal jinnaani biqawlil hamdu lil laahi"
+      },
+      {
+        "number": 11,
+        "text": "waqaaniyad durra takriiman wa wijjaha lii"
+      },
+      {
+        "number": 12,
+        "text": "nafhan bilaa kulafin fash shukru lil laahi"
+      },
+      {
+        "number": 13,
+        "text": "al laahu akbaru min haqdii wa min hamalii"
+      },
+      {
+        "number": 14,
+        "text": "wa min maqaalii fakulli taaba lil laahi"
+      },
+      {
+        "number": 15,
+        "text": "al laahu azhaba maa yadhuu azan lisiwaa"
+      },
+      {
+        "number": 16,
+        "text": "makhtiira lii hinda rabbil akrami lil laahi"
+      },
+      {
+        "number": 17,
+        "text": "lahul wujuudul lazii qad zaanahu qidamun"
+      },
+      {
+        "number": 18,
+        "text": "mahal baqaa-i wa ghayrul laahi lil laahi"
+      },
+      {
+        "number": 19,
+        "text": "lahu shukuurii wa hamdii raadiiyan wa lahu"
+      },
+      {
+        "number": 20,
+        "text": "kulliyyatii sarmadan fal khalqu lil laahi"
+      },
+      {
+        "number": 21,
+        "text": "huwal kariimul lazii lii qaada duuna hanan"
+      },
+      {
+        "number": 22,
+        "text": "makhtiira lii hindahu fal amru lil laahi"
+      },
+      {
+        "number": 23,
+        "text": "faazat qilaami bizikril laahi muzzamanin"
+      },
+      {
+        "number": 24,
+        "text": "wa faaza kulliya fid daarayni wal laahi"
+      },
+      {
+        "number": 25,
+        "text": "yaquudu lil laahu fid daarayni murtadiyan"
+      },
+      {
+        "number": 26,
+        "text": "hannii muraadiya qawdal baasitil laahi"
+      },
+      {
+        "number": 27,
+        "text": "afnaa qulaatii bilaa tawjiihihim abadan"
+      },
+      {
+        "number": 28,
+        "text": "ilaa jihaatiya zaa ajrin ladal laahi"
+      },
+      {
+        "number": 29,
+        "text": "yadii wa qalbii lahu habdan lahu biridan"
+      },
+      {
+        "number": 30,
+        "text": "zaa khidmatin lirasuulil laahi bil laahi"
+      },
+      {
+        "number": 31,
+        "text": "yaa rabbi salli wa sallim sarmadan karaman"
+      },
+      {
+        "number": 32,
+        "text": "halaa wasiilatiyal huzmaa ilal laahi"
+      },
+      {
+        "number": 33,
+        "text": "azkaa salaatin bitasliimin bilaa hadadin"
+      },
+      {
+        "number": 34,
+        "text": "halan nabiyyir rasuulil habda lil laahi"
+      },
+      {
+        "number": 35,
+        "text": "muhammadin khayri man ghaabuu wa man hadaruu"
+      },
+      {
+        "number": 36,
+        "text": "wal aali was sahbi hizbil maalikil laahi"
+      },
+      {
+        "number": 37,
+        "text": "madadttu lil laahi rabbil haalamiina  yadii"
+      },
+      {
+        "number": 38,
+        "text": "wa madda lii minhu fadlal waasihil laahi"
+      },
+      {
+        "number": 39,
+        "text": "han maalikin naafihin barrin radiitu bilaa"
+      },
+      {
+        "number": 40,
+        "text": "sukhtin wa han qaa-idii lil laahi bil laahi"
+      },
+      {
+        "number": 41,
+        "text": "dahaa lizikrii wa shukrin jussatii karamun"
+      },
+      {
+        "number": 42,
+        "text": "mimman bihi saara kullii taahatal laahi"
+      },
+      {
+        "number": 43,
+        "text": "wajjahtu kullii liman yughnii bilaa sababin"
+      },
+      {
+        "number": 44,
+        "text": "hanil azaa raadiyan han zil waral laahi"
+      },
+      {
+        "number": 45,
+        "text": "diinii ilal jannatil islaamu wahwa halaa"
+      },
+      {
+        "number": 46,
+        "text": "diinan siwaahu wa zaa nassun minal laahi"
+      },
+      {
+        "number": 47,
+        "text": "ahtaaniyal laahu zikran min ladunhu wa qad"
+      },
+      {
+        "number": 48,
+        "text": "qabiltuhu minhu zaa qurbin minal laahi"
+      },
+      {
+        "number": 49,
+        "text": "tasliimu baaqin halaa khayril waraa wa halaa"
+      },
+      {
+        "number": 50,
+        "text": "hizbin lahu wa halal mustaaqi lil  laahi"
+      }
+    ]
+  }
+}

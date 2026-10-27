@@ -1,0 +1,581 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 9,
+    "name": "Alhamdu Yujaazi",
+    "transliterationName": "Alhamdu Yujaazi",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "الْحَمْدُ لِلَّهِ الَّذِى يُجَازِ",
+        "transcription": "al hamdu lil laahil lazii yujaazi",
+        "translations": {
+          "fr": "La Louange soit à Dieu qui rétribue ceux qui font du bien,"
+        }
+      },
+      {
+        "number": 2,
+        "text": "مَنْ أَحْسَنُواْ بِالْخَيْرِ وَالْمَفَازِ",
+        "transcription": "man ahsanuu bil khayri wal mafaazi",
+        "translations": {
+          "fr": "à travers ses Bienfaits et sa Félicité."
+        }
+      },
+      {
+        "number": 3,
+        "text": "وَصَلَوَاتُهُ عَلَى التِّهَامِى",
+        "transcription": "wa salawaatuhu halat tihaamii",
+        "translations": {
+          "fr": "Puissent son Salut et sa Prière etre accordés au Prophète éminent,"
+        }
+      },
+      {
+        "number": 4,
+        "text": "وَءَالِهِ وَصَحْبِهِ الْخُدَّامِ",
+        "transcription": "wa aalihi wa sahbihil khuddaami",
+        "translations": {
+          "fr": "à sa famille et à ses compagnons, les fidéles serviteurs."
+        }
+      },
+      {
+        "number": 5,
+        "text": "هَاذَا وَإِنِّى الْيَوْمَ ذُو رِضَآءِ",
+        "transcription": "haazaa wa innil yawma zuu ridaa-i",
+        "translations": {
+          "fr": "J'exprime en ce jour ma profonde gratitude à Dieu"
+        }
+      },
+      {
+        "number": 6,
+        "text": "وَذُو مَحَبَّةٍ لِّهَآؤُ لَّاءِ",
+        "transcription": "wa zuu mahabbatin lihaa-u laa-i",
+        "translations": {
+          "fr": "et mon amour infini pour ses Serviteurs Priviliégés."
+        }
+      },
+      {
+        "number": 7,
+        "text": "لِذَاكَ قُلْتُ طَالِبًا مِّنَ الْكَرِيمْ",
+        "transcription": "lizaaka qultu taaliban minal kariim",
+        "translations": {
+          "fr": "Raison pour laquelle, en implorant du Généreux Seigneur, leur rétribution"
+        }
+      },
+      {
+        "number": 8,
+        "text": "جَزَآءَ هُمْ بِجَاهِ ذِى الْجَاهِ الْعَظِيمْ",
+        "transcription": "jazaa-a hum bijaahi zil jaahil haziim",
+        "translations": {
+          "fr": "par la grace éminente du Prophète, je dis ceci:"
+        }
+      },
+      {
+        "number": 9,
+        "text": "يَارَبَّنَا يَارَبَّنَا يَارَبَّنَا",
+        "transcription": "yaa rabbanaa yaa rabbanaa yaa rabbanaa",
+        "translations": {
+          "fr": "Ô notre Seigneur! Ô notre Seigneur! Ô notre Seigneur!"
+        }
+      },
+      {
+        "number": 10,
+        "text": "يَارَبَّنَا يَارَبَّنَا يَاحِبَّنَا",
+        "transcription": "yaa rabbanaa yaa rabbanaa yaa hibbanaa",
+        "translations": {
+          "fr": "Ô notre Seigneur! Ô notre Seigneur! Ô notre Bien-Aimé!"
+        }
+      },
+      {
+        "number": 11,
+        "text": "صَلِّ عَلَى خَيْرِ الْوَرَى مُحَمَّدِ",
+        "transcription": "salli halaa khayril waraa muhammadi",
+        "translations": {
+          "fr": "Accorde Ton Salut à la Meilleure Créature Mouhamed,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "وَءَالِهِ مَعَ الصِّحَابِ الْعُبَّدِ",
+        "transcription": "wa aalihi mahas sihaabil hubbadi",
+        "translations": {
+          "fr": "à sa Famille et à ses Compagnons, les Adorateurs de Dieu."
+        }
+      },
+      {
+        "number": 13,
+        "text": "وَاغْفِرْ ذُنُوبِى وَذُنُوبَ الْمُسْلِمِينْ",
+        "transcription": "waghfir zunuubii wa zunuubal muslimiin",
+        "translations": {
+          "fr": "Pardonne-nous nos péchés, à moi et à l'ensemble des musulmans, hommes"
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَالْمُسْلِمَاتِ يَاغَفُورُ يَامُعِينْ",
+        "transcription": "wal muslimaati yaa ghafuuru yaa muhiin",
+        "translations": {
+          "fr": "et femmes. Ô Toi qui pardonnes et qui accordes l'Assistance!"
+        }
+      },
+      {
+        "number": 15,
+        "text": "وَاقْضِ حَوَائِجَ الَّذِينَ دَامُواْ",
+        "transcription": "waqdi hawaa-ijal laziina daamuu",
+        "translations": {
+          "fr": "Consens à exaucer les voeux de tous ceux qui se consacrent sans relâche"
+        }
+      },
+      {
+        "number": 16,
+        "text": "فِى خِدْمَتِى وَهَبْ لَهُمْ مَّارَامُواْ",
+        "transcription": "fii khidmatii wa hab lahum maaraamuu",
+        "translations": {
+          "fr": "à mon service et réalise leurs aspirations."
+        }
+      },
+      {
+        "number": 17,
+        "text": "وَارْزُقْهُمُ الْإِيمَانَ وَالْإِسْلَامَا",
+        "transcription": "warzuqhumul iimaana wal islaamaa",
+        "translations": {
+          "fr": "Favorise-les de la Foi, de la Pratique religieuse et de la Perfection spirituelle,"
+        }
+      },
+      {
+        "number": 18,
+        "text": "وَالْفَتْحَ وَالْإِحْسَانَ وَاسْتِسْلَامَا",
+        "transcription": "wal fat-ha wal ihsaana wastislaamaa",
+        "translations": {
+          "fr": "au même titre que de la Réussite et de la Soumission à Dieu."
+        }
+      },
+      {
+        "number": 19,
+        "text": "وَجَازِهِمْ عَنِّىَ بِالْغُفْرَانِ",
+        "transcription": "wa jaazihim hanniya bil ghufraani",
+        "translations": {
+          "fr": "Rétribue-les de ma part, en les gratifiant de Ton Pardon,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "وَبِالْكَرَامَاتِ وَبِالرِّضْوَانِ",
+        "transcription": "wa bil karaamaati wa bir ridwaani",
+        "translations": {
+          "fr": "des Honneurs et ton Agrément."
+        }
+      },
+      {
+        "number": 21,
+        "text": "وَاجْذُبْهُمُ إِلَى الْهُدَى وَالْخَيْرِ",
+        "transcription": "wajzubhumu ilal hudaa wal khayri",
+        "translations": {
+          "fr": "Dirige-les vers la Droiture et les Bienfaits,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَاصْرِفْهُمُ عَنِ الرَّدَى وَالضَّيْرِ",
+        "transcription": "wasrifhumu hanir radaa wad dayri",
+        "translations": {
+          "fr": "détourne-les de la perdition et des malheurs."
+        }
+      },
+      {
+        "number": 23,
+        "text": "وَاغْفِرْ لَهُمْ كُلَّ لَغًى وَذَنْبِ",
+        "transcription": "waghfir lahum kulla laghan wa zanbi",
+        "translations": {
+          "fr": "Pardonne-leur toutes leurs erreurs et leurs péchés,"
+        }
+      },
+      {
+        "number": 24,
+        "text": "وَهَبْ لَهُمْ مَّعًا صَلَاحَ الْقَلْبِ",
+        "transcription": "wa hab lahum mahan salaahal qalbi",
+        "translations": {
+          "fr": "et gratifie-les tous ensemble d'un coeur pur."
+        }
+      },
+      {
+        "number": 25,
+        "text": "وَكُنْ مَّعِينَهُمْ عَلَى أُمُورِ",
+        "transcription": "wa kun mahiinahum halaa umuuri",
+        "translations": {
+          "fr": "Accorde-leur en tout temps Ton Assistance dans toutes"
+        }
+      },
+      {
+        "number": 26,
+        "text": "الدِّينِ وَالدُّنْيَا مَدَى الدُّهُورِ",
+        "transcription": "ad diini wad dunyaa madad duhuuri",
+        "translations": {
+          "fr": "leurs affaires spirituelles et terrestres."
+        }
+      },
+      {
+        "number": 27,
+        "text": "وَلَاتُوَاخِذْ هُمْ بِمَا قَدْ أَجْرَمُواْ",
+        "transcription": "walaa tuwaakhiz hum bimaa qad ajramuu",
+        "translations": {
+          "fr": "Ne leur tiens point rigueur de leurs transgressions,"
+        }
+      },
+      {
+        "number": 28,
+        "text": "فِى السِّرِّ وَالْجَهْرِ فَأَنْتَ الْأَكْرَمُ",
+        "transcription": "fis sirri wal jahri fa-antal akramu",
+        "translations": {
+          "fr": "en public et en secret, Ô Toi le Plus Honorable!"
+        }
+      },
+      {
+        "number": 29,
+        "text": "وَافْتَحْ عَلَيْهِمْ فِى الْعُلُومِ فَتْحَا",
+        "transcription": "waftah halayhim fil huluumi fat-haa",
+        "translations": {
+          "fr": "Ouvre-leur grandement les portes du Savoir utile"
+        }
+      },
+      {
+        "number": 30,
+        "text": "يُزِيلُ عَنْهُمْ دَنَسًا وَقُبْحَا",
+        "transcription": "yuziilu hanhum danasan wa qubhaa",
+        "translations": {
+          "fr": "qui les préserve des ternissures et des turpitudes."
+        }
+      },
+      {
+        "number": 31,
+        "text": "وَهَبْ لَهُمْ سَعَادَةً تَدُومُ",
+        "transcription": "wa hab lahum sahaadatan taduumu",
+        "translations": {
+          "fr": "Accorde-leur un Bonheur pérenne,"
+        }
+      },
+      {
+        "number": 32,
+        "text": "يَابَرُّ يَامُجِيبُ يَاكَرِيمُ",
+        "transcription": "yaa barru yaa mujiibu yaa kariimu",
+        "translations": {
+          "fr": "Ô Toi le Bon, Ô Toi le Généreux qui exauces les prières!"
+        }
+      },
+      {
+        "number": 33,
+        "text": "وَاصْرِقْ قُلُوبَهُمْ إِلَى الطَّاعَاتِ",
+        "transcription": "wasriq quluubahum ilat taahaati",
+        "translations": {
+          "fr": "Oriente leurs coeurs vers l'obéissance à Dieu,"
+        }
+      },
+      {
+        "number": 34,
+        "text": "بِالْعِلْمِ وَالْعَمَلِ فِى الْأَوْقَاتِ",
+        "transcription": "bil hilmi wal hamali fil awqaati",
+        "translations": {
+          "fr": "à travers la Science et les Bonnes oeuvres accomplies en tout temps."
+        }
+      },
+      {
+        "number": 35,
+        "text": "بِجَاهِ أَفْضَلِ الْوَرَى مُحَمَّدِ",
+        "transcription": "bijaahi afdalil waraa muhammadi",
+        "translations": {
+          "fr": "Ceci, par la Grce du Prophète MOuhamed, la Meilleure Créature,"
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَحَقِّ شَهْرِ رَمَضَانَ الْأَمْجَدِ",
+        "transcription": "wa haqqi shahri ramadaanal amjadi",
+        "translations": {
+          "fr": "et celle du mois auguste de Ramadan."
+        }
+      },
+      {
+        "number": 37,
+        "text": "وَحَقِّ ءَالِهِ وَصَحْبِهِ جَمِيعْ",
+        "transcription": "wa haqqi aalihi wa sahbihi jamiih",
+        "translations": {
+          "fr": "Par la Grâce de sa Famille, l'ensemble de ses Compagnons"
+        }
+      },
+      {
+        "number": 38,
+        "text": "وَحَقِّ كُلِّ ذِى عِبَادَةٍ مُّطِيعْ",
+        "transcription": "wa haqqi kulli zii hibaadatin mutiih",
+        "translations": {
+          "fr": "et celle de tous Tes Adorateurs obéissants."
+        }
+      },
+      {
+        "number": 39,
+        "text": "وَصَلِّيَنْ عَلَيْهِ ثُمَّ سَلِّمَا",
+        "transcription": "wa salliyan halayhi summa sallimaa",
+        "translations": {
+          "fr": "Accorde la Paix et le Salut au Prophète,"
+        }
+      },
+      {
+        "number": 40,
+        "text": "وَءَالِهِ وَصَحْبِهِ وَكَرِّمَا",
+        "transcription": "wa aalihi wa sahbihi wa karrimaa",
+        "translations": {
+          "fr": "à sa Famille et ses Compagnons, puis honore-les davantage."
+        }
+      },
+      {
+        "number": 41,
+        "text": "مَادَامَاتِ الْخِدْمَةُ سُلَّمًا إِلَى",
+        "transcription": "maadaamaatil khidmatu sullaman ilaa",
+        "translations": {
+          "fr": "Tant que le Service rendu constituera une échelle menant vers"
+        }
+      },
+      {
+        "number": 42,
+        "text": "سَعَادَةٍ وَلِنَجَاةٍ وَعُلَى",
+        "transcription": "sahaadatin wa linajaatin wa hulaa",
+        "translations": {
+          "fr": "la Félicité, le Salut et l'Elevation..."
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "الْحَمْدُ لِلَّهِ الَّذِى يُجَازِ ۞ مَنْ أَحْسَنُواْ بِالْخَيْرِ وَالْمَفَازِ",
+        "translations": {
+          "it.karamati": "La lode appartiene ad Allah, che ricompensa coloro che hanno operato il bene con il bene e con il trionfo.",
+          "en.karamati": "Praise belongs to God, who requites those who have done good with good and with triumph.",
+          "fr.karamati": "La louange appartient à Dieu, qui rétribue ceux qui ont fait le bien par le bien et par le triomphe."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "وَصَلَوَاتُهُ عَلَى التِّهَامِى ۞ وَءَالِهِ وَصَحْبِهِ الْخُدَّامِ",
+        "translations": {
+          "it.karamati": "E le Sue benedizioni siano sul Tihāmī (Muḥammad, il Profeta della Tihāma), sulla sua Famiglia e sui suoi Compagni, suoi servitori.",
+          "en.karamati": "And may His blessings be upon the Tihāmī (Muḥammad, the Prophet of Tihāma), upon his Family and his Companions, his servants.",
+          "fr.karamati": "Et que Ses prières soient sur le Tihāmī (Muḥammad, le Prophète de la Tihāma), sur sa Famille et sur ses Compagnons, ses serviteurs."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "هَاذَا وَإِنِّى الْيَوْمَ ذُو رِضَآءِ ۞ وَذُو مَحَبَّةٍ لِّهَآؤُ لَّاءِ",
+        "translations": {
+          "it.karamati": "Ciò premesso, io oggi sono colmo di gradimento e colmo d'amore per costoro (i miei discepoli).",
+          "en.karamati": "That said, today I am filled with contentment and filled with love for these (my disciples).",
+          "fr.karamati": "Cela dit, je suis aujourd'hui empli d'agrément et empli d'amour pour ceux-là (mes disciples)."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "لِذَاكَ قُلْتُ طَالِبًا مِّنَ الْكَرِيمْ ۞ جَزَآءَ هُمْ بِجَاهِ ذِى الْجَاهِ الْعَظِيمْ",
+        "translations": {
+          "it.karamati": "Per questo ho detto, chiedendo al Generoso (Allah) la loro ricompensa, per il rango di colui (Muḥammad) che possiede il rango immenso:",
+          "en.karamati": "Therefore I said, asking the Generous (Allah) for their recompense, by the rank of him (Muḥammad) who possesses the mighty rank:",
+          "fr.karamati": "C'est pourquoi j'ai dit, demandant au Généreux (Allah) leur rétribution, par le rang de celui (Muḥammad) qui possède le rang immense :"
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "يَارَبَّنَا يَارَبَّنَا يَارَبَّنَا ۞ يَارَبَّنَا يَارَبَّنَا يَاحِبَّنَا",
+        "translations": {
+          "it.karamati": "O Signore nostro, o Signore nostro, o Signore nostro! O Signore nostro, o Signore nostro, o nostro Amato!",
+          "en.karamati": "O our Lord, O our Lord, O our Lord! O our Lord, O our Lord, O our Beloved!",
+          "fr.karamati": "Ô notre Seigneur, ô notre Seigneur, ô notre Seigneur ! Ô notre Seigneur, ô notre Seigneur, ô notre Bien-Aimé !"
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "صَلِّ عَلَى خَيْرِ الْوَرَى مُحَمَّدِ ۞ وَءَالِهِ مَعَ الصِّحَابِ الْعُبَّدِ",
+        "translations": {
+          "it.karamati": "Benedici il migliore del creato, Muḥammad, la sua Famiglia e, con essi, i Compagni devoti all'adorazione.",
+          "en.karamati": "Bless the best of creation, Muḥammad, his Family and, with them, the Companions devoted to worship.",
+          "fr.karamati": "Prie sur le meilleur des créatures, Muḥammad, sur sa Famille et, avec eux, sur les Compagnons voués à l'adoration."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "وَاغْفِرْ ذُنُوبِى وَذُنُوبَ الْمُسْلِمِينْ ۞ وَالْمُسْلِمَاتِ يَاغَفُورُ يَامُعِينْ",
+        "translations": {
+          "it.karamati": "Perdona i miei peccati e i peccati dei musulmani e delle musulmane, o Perdonatore (Al-Ghafūr), o Soccorritore (Al-Muʿīn).",
+          "en.karamati": "Forgive my sins and the sins of the Muslim men and Muslim women, O All-Forgiving (Al-Ghafūr), O Helper (Al-Muʿīn).",
+          "fr.karamati": "Pardonne mes péchés et les péchés des musulmans et des musulmanes, ô Très-Pardonnant (Al-Ghafūr), ô Secourable (Al-Muʿīn)."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "وَاقْضِ حَوَائِجَ الَّذِينَ دَامُواْ ۞ فِى خِدْمَتِى وَهَبْ لَهُمْ مَّارَامُواْ",
+        "translations": {
+          "it.karamati": "Esaudisci i bisogni di coloro che hanno perseverato nel mio servizio, e dona loro ciò che hanno bramato.",
+          "en.karamati": "Fulfil the needs of those who have persevered in my service, and grant them what they have longed for.",
+          "fr.karamati": "Comble les besoins de ceux qui ont persévéré à mon service, et accorde-leur ce qu'ils ont désiré."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "وَارْزُقْهُمُ الْإِيمَانَ وَالْإِسْلَامَا ۞ وَالْفَتْحَ وَالْإِحْسَانَ وَاسْتِسْلَامَا",
+        "translations": {
+          "it.karamati": "Elargisci loro la fede (al-īmān) e la sottomissione (al-islām), l'apertura spirituale (al-fatḥ), l'eccellenza (al-iḥsān) e il totale abbandono a Te.",
+          "en.karamati": "Grant them faith (al-īmān) and submission (al-islām), spiritual opening (al-fatḥ), excellence (al-iḥsān) and complete surrender to You.",
+          "fr.karamati": "Accorde-leur la foi (al-īmān) et la soumission (al-islām), l'ouverture spirituelle (al-fatḥ), l'excellence (al-iḥsān) et l'abandon total à Toi."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "وَجَازِهِمْ عَنِّىَ بِالْغُفْرَانِ ۞ وَبِالْكَرَامَاتِ وَبِالرِّضْوَانِ",
+        "translations": {
+          "it.karamati": "Ricompensali da parte mia con il perdono, con i favori prodigiosi (al-karāmāt) e con il Tuo compiacimento.",
+          "en.karamati": "Requite them on my behalf with forgiveness, with wondrous graces (al-karāmāt) and with Your good pleasure.",
+          "fr.karamati": "Rétribue-les de ma part par le pardon, par les faveurs prodigieuses (al-karāmāt) et par Ton agrément."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "وَاجْذُبْهُمُ إِلَى الْهُدَى وَالْخَيْرِ ۞ وَاصْرِفْهُمُ عَنِ الرَّدَى وَالضَّيْرِ",
+        "translations": {
+          "it.karamati": "Attirali verso la retta guida e il bene, e distoglili dalla perdizione e dal danno.",
+          "en.karamati": "Draw them towards right guidance and good, and turn them away from perdition and harm.",
+          "fr.karamati": "Attire-les vers la bonne guidance et le bien, et détourne-les de la perdition et du mal."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "وَاغْفِرْ لَهُمْ كُلَّ لَغًى وَذَنْبِ ۞ وَهَبْ لَهُمْ مَّعًا صَلَاحَ الْقَلْبِ",
+        "translations": {
+          "it.karamati": "Perdona loro ogni vana parola e ogni peccato, e dona loro, tutti insieme, la purezza del cuore.",
+          "en.karamati": "Forgive them every idle word and every sin, and grant them, all together, purity of heart.",
+          "fr.karamati": "Pardonne-leur toute parole vaine et tout péché, et accorde-leur, à tous ensemble, la pureté du cœur."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "وَكُنْ مَّعِينَهُمْ عَلَى أُمُورِ ۞ الدِّينِ وَالدُّنْيَا مَدَى الدُّهُورِ",
+        "translations": {
+          "it.karamati": "Sii il loro Soccorritore nelle cose della religione e di questo mondo, per tutto il corso dei secoli.",
+          "en.karamati": "Be their Helper in the affairs of religion and of this world, throughout the course of the ages.",
+          "fr.karamati": "Sois leur Secours dans les affaires de la religion et de ce monde, tout au long des siècles."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "وَلَاتُوَاخِذْ هُمْ بِمَا قَدْ أَجْرَمُواْ ۞ فِى السِّرِّ وَالْجَهْرِ فَأَنْتَ الْأَكْرَمُ",
+        "translations": {
+          "it.karamati": "Non chiedere loro conto delle colpe che hanno commesso, in segreto e in palese, poiché Tu sei il Generosissimo (Al-Akram).",
+          "en.karamati": "Do not take them to account for the offences they have committed, in secret and in the open, for You are the Most Generous (Al-Akram).",
+          "fr.karamati": "Ne leur tiens pas rigueur des fautes qu'ils ont commises, en secret et en public, car Tu es le Très-Généreux (Al-Akram)."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "وَافْتَحْ عَلَيْهِمْ فِى الْعُلُومِ فَتْحَا ۞ يُزِيلُ عَنْهُمْ دَنَسًا وَقُبْحَا",
+        "translations": {
+          "it.karamati": "Concedi loro nelle scienze un'apertura (fatḥ) che rimuova da loro ogni impurità e ogni bruttura.",
+          "en.karamati": "Grant them in the sciences an opening (fatḥ) that removes from them every impurity and every ugliness.",
+          "fr.karamati": "Accorde-leur dans les sciences une ouverture (fatḥ) qui ôte d'eux toute souillure et toute laideur."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "وَهَبْ لَهُمْ سَعَادَةً تَدُومُ ۞ يَابَرُّ يَامُجِيبُ يَاكَرِيمُ",
+        "translations": {
+          "it.karamati": "Dona loro una felicità che perduri, o Benevolo (Al-Barr), o Tu che esaudisci (Al-Mujīb), o Generoso (Al-Karīm).",
+          "en.karamati": "Grant them a happiness that endures, O Kind (Al-Barr), O Answerer of prayers (Al-Mujīb), O Generous (Al-Karīm).",
+          "fr.karamati": "Accorde-leur un bonheur qui demeure, ô Bienfaisant (Al-Barr), ô Toi qui exauces (Al-Mujīb), ô Généreux (Al-Karīm)."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "وَاصْرِقْ قُلُوبَهُمْ إِلَى الطَّاعَاتِ ۞ بِالْعِلْمِ وَالْعَمَلِ فِى الْأَوْقَاتِ",
+        "translations": {
+          "it.karamati": "Volgi i loro cuori verso le opere di obbedienza, con la scienza e con l'azione, in ogni tempo,",
+          "en.karamati": "Turn their hearts towards acts of obedience, through knowledge and through action, at all times,",
+          "fr.karamati": "Tourne leurs cœurs vers les actes d'obéissance, par la science et par l'action, en tout temps,"
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "بِجَاهِ أَفْضَلِ الْوَرَى مُحَمَّدِ ۞ وَحَقِّ شَهْرِ رَمَضَانَ الْأَمْجَدِ",
+        "translations": {
+          "it.karamati": "per il rango del più eccellente del creato, Muḥammad, e per la sacralità del gloriosissimo mese di Ramaḍān,",
+          "en.karamati": "by the rank of the most excellent of creation, Muḥammad, and by the sanctity of the most glorious month of Ramaḍān,",
+          "fr.karamati": "par le rang du plus excellent des créatures, Muḥammad, et par le droit du très glorieux mois de Ramaḍān,"
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "وَحَقِّ ءَالِهِ وَصَحْبِهِ جَمِيعْ ۞ وَحَقِّ كُلِّ ذِى عِبَادَةٍ مُّطِيعْ",
+        "translations": {
+          "it.karamati": "e per la sacralità della sua Famiglia e di tutti i suoi Compagni, e per la sacralità di ogni adoratore obbediente.",
+          "en.karamati": "and by the sanctity of his Family and all his Companions, and by the sanctity of every obedient worshipper.",
+          "fr.karamati": "et par le droit de sa Famille et de tous ses Compagnons, et par le droit de tout adorateur obéissant."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "وَصَلِّيَنْ عَلَيْهِ ثُمَّ سَلِّمَا ۞ وَءَالِهِ وَصَحْبِهِ وَكَرِّمَا",
+        "translations": {
+          "it.karamati": "Effondi la Tua benedizione su di lui (Muḥammad), poi la Tua pace, sulla sua Famiglia e sui suoi Compagni, e colmali d'onore,",
+          "en.karamati": "Pour forth Your blessing upon him (Muḥammad), then Your peace, upon his Family and his Companions, and honour them,",
+          "fr.karamati": "Répands Ta prière sur lui (Muḥammad), puis Ta paix, sur sa Famille et sur ses Compagnons, et comble-les d'honneur,"
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "مَادَامَاتِ الْخِدْمَةُ سُلَّمًا إِلَى ۞ سَعَادَةٍ وَلِنَجَاةٍ وَعُلَى",
+        "translations": {
+          "it.karamati": "finché il servizio (al Profeta) resterà una scala verso la felicità, la salvezza e l'elevazione.",
+          "en.karamati": "for as long as service (to the Prophet) remains a ladder to happiness, salvation and exaltation.",
+          "fr.karamati": "tant que le service (du Prophète) demeurera une échelle vers le bonheur, le salut et l'élévation."
+        }
+      }
+    ]
+  }
+}

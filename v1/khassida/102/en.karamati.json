@@ -1,0 +1,405 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "Mawahibu 1",
+    "transliterationName": "Mawahibu 1",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1,
+        "text": "In the name of the Divinity (Allah) my gift grows, without limit or end."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 2,
+        "text": "Praise to my Lord, the best of those who nurture, who has restored my heart through following the example (of the Prophet)."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 3,
+        "text": "To Him my thanksgiving, without ingratitude; He is my Helper, and from Him comes my ransom."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 4,
+        "text": "To Him my drawing near, without estrangement; to Him my words are addressed, together with my right guidance."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 5,
+        "text": "Yours my contentment, Yours my praise, Yours my seeking refuge, together with my asking for Your gifts."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 6,
+        "text": "O You who have healed me, O You who have shielded me from whoever treated me harshly, by erasing every ill!"
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 7,
+        "text": "Let down Your veils over me, set my affairs in order, multiply my blessings, without toil."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 8,
+        "text": "O You who have answered whoever answered You, grant me a response in this call."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 9,
+        "text": "O Lord of Beauty, O Lord of Majesty, O Best of Protectors, make my gift pure."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 10,
+        "text": "O Lord of Oneness, O Lord of Existence, be with me in generosity, without end."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 11,
+        "text": "Make pure my arrival (at You), without heedlessness on my part; grant me generously what I ask, and adorn my mantle with beauty."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 12,
+        "text": "Grant me recitation (of the Qur'an) with its sweetness, grant me understanding at the moment I perform it."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 13,
+        "text": "You have set my state aright without my having to depart; through me guide my family, without tears."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 14,
+        "text": "Accept my repentance and protect my person, preserve my return (to You) and perfect my intelligence."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 15,
+        "text": "Keep me from the Deceiver (Satan) and erase the delusions; grant me a victorious help, with firm support."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 16,
+        "text": "Lead to me a gift that increases perfection, O You who are exalted above all partners."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 17,
+        "text": "You have increased my right guidance, You have led Your gifts to me, to my full contentment, without any complaint."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 18,
+        "text": "O Best of those who enrich, who have enriched me by pure favour: Him I praise, without excess."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 19,
+        "text": "Yours my thanksgiving in my dwellings, O Lord of the palaces (of Paradise), without exile."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 20,
+        "text": "O You who have clothed me, O You who have given me drink, O You who have shielded me from desolation!"
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 21,
+        "text": "You are my spring, You are my pillar: illumine my heart, O Lord of Light."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 22,
+        "text": "You have removed my fault, dispelled my doubt, purified my inmost being like that of the pure elect."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 23,
+        "text": "You have brought my journey to completion, made my provision good: be with me in goodness, as with the God-fearing."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 24,
+        "text": "O Best of those who give life, be with me in Your care and with excellent striving, as with the discerning."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 25,
+        "text": "Grant me uprightness, keep me from blame, grant me honour, by him (Muḥammad) who bears the Banner (of Praise),"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 26,
+        "text": "by the possessor of beauty, by the possessor of perfection, by the possessor of the heights, by the possessor of the remedy,"
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 27,
+        "text": "by him devoted to worship, by him who dispenses benefit, by the wonders that break the ordinary (granted) to the Saints,"
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 28,
+        "text": "by the giver of gifts, the lion of battle, who fells the wretched men,"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 29,
+        "text": "by him who has the Companions, people of answered prayer, dispeller of sorrow, people of light,"
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 30,
+        "text": "by him of the battles, dispeller of anguish, light of the wise, effacer of ostentation."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 31,
+        "text": "He (Muḥammad) is the Illuminating (Al-Munīr), he is the Bearer of glad tidings (Al-Bashīr): to him I point with this praise."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 32,
+        "text": "To him my words are addressed, without reproach, without veil and without hardship."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 33,
+        "text": "O best of creatures, O possessor of virtues, O possessor of gifts, make my edifice pure."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 34,
+        "text": "You (O Prophet) are my joy, without delusion: make pure my piety, illumine my dwelling."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 35,
+        "text": "Of you I speak, and I do not lament; to you I return, without fading away."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 36,
+        "text": "May the Lord who guided you requite you on my behalf, beyond your wishes, on the Day of Requital."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 37,
+        "text": "May my Lord requite you, O best of beloveds, best of those who are loved, without any loss."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 38,
+        "text": "Truly I am the Servant (Khadīm), wherever I abide, and I do not depart from this contentment."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 39,
+        "text": "You are my protector from the Deceiver (Satan) and from the delusions of the one who calls to wretchedness."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 40,
+        "text": "You have guarded my place, increased my hopes: grant me my time, by Him (Allah) who possesses Permanence."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 41,
+        "text": "You (Muḥammad) are my path to the King (Allah), you who erase falsehoods and bestow purity."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 42,
+        "text": "You are the Beautiful, towards you I incline; you are the Messenger, who asks no wage."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 43,
+        "text": "Yours my tongue together with my heart; and I do not approach you as the poets (of this world) do."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 44,
+        "text": "You are the Way: through you one reaches Him (Allah) who grants the most precious of riches."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 45,
+        "text": "You have removed my nakedness, removed my straying, perfected my judgement like that of the great."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 46,
+        "text": "O best of mankind, to you my pens are devoted, without blame, but in full contentment."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 47,
+        "text": "O possessor of beauty, O possessor of virtue, you are the Means (Al-Wasīla) to Him (Allah) who holds the Decree."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 48,
+        "text": "In you is my trusting repose in the All-Firm (Al-Matīn), without temptation and without end."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 49,
+        "text": "O best of servants, gateway of benefactions, light of the lands, my loftiest hope!"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 50,
+        "text": "You have removed my anguish, erased my wrongdoing: grant me a knowledge that calls to salvation."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 51,
+        "text": "You have removed my poverty, kept my secret for me, without guile or satire."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 52,
+        "text": "You have purified my soul, undone my captivity, dispelled my confusion, driven the veil away from me."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 53,
+        "text": "You have guarded my every horizon, increased my gifts, preserved my being together with the favours."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 54,
+        "text": "To you is my return with my multitudes, without hunger and without error."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 55,
+        "text": "Towards you I turn, O possessor of gifts, after my prayer of blessing, together with praise."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 56,
+        "text": "With you I am content, in you I have forgotten (all else), just as I have been freed from hardship."
+      }
+    ]
+  }
+}

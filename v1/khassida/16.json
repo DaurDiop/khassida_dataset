@@ -1,0 +1,338 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 16,
+    "name": "Astaghfirulaha Bihi",
+    "transliterationName": "Astaghfirulaha Bihi",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ وَأَتُوبْ",
+        "transcription": "astaghfirul laahal haziima wa atuub",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "إِلَيْهِ مِنْ ظَوَهِرٍ وَمِنْ غُيُوبْ",
+        "transcription": "ilayhi min zawahirin wa min ghuyuub",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "سَأَلْتُهُ بِحَقِّ وَجْهِ اللَّهِ",
+        "transcription": "sa-altuhu bihaqqi wajhil laahi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "مَغْفِرَةً مِّنْ جُمْلَةِ الْمَنَاهِى",
+        "transcription": "maghfiratan min jumlatil manaahii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "تُبْتُ لَهُ مِنْ جُمْلَةِ الصَّغَآئِرِ",
+        "transcription": "tubtu lahu min jumlatis saghaa-iri",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "مَعَ الْكَبَآئِرِ وَمِنْ ضَمَآئِرِ",
+        "transcription": "mahal kabaa-iri wa min damaa-iri",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "غَافِرُ لِى اغْفِرْ كُلَّ مَا تَقَدَّمَا",
+        "transcription": "ghaafiru lighfir kulla maa taqaddamaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "وَمَا تَأَخَّرَ وَمَا بَيْنَهُمَا",
+        "transcription": "wa maa ta-akhkhara wa maa baynahumaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "فَهِّمْنِىَ الْعِلْمَ وَزِدْنِى عِلْمَا",
+        "transcription": "fahhimniyal hilma wa zidnii hilmaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "وَعَمَلًا وَأَدَبًا وَفَهْمَا",
+        "transcription": "wa hamalan wa adaban wa fahmaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "رَبِّىَ لِى اطْشِفِ الْعُلُومَ النَّفِعَهْ",
+        "transcription": "rabbiya lit shifil huluman nafihah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "وَجْعَلْ حَيَاةِ مِنْ شَقَآءٍ مَّانِعَهْ",
+        "transcription": "wajhal hayaati min shaqaa-in maanihah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "اكْشِفْ لِىَ الْأَسْرَارَ وَالْغَوَامِضَا",
+        "transcription": "ikshif liyal asraara wal ghawaamidaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "يَاخَيْرَ مَنْ كَشَفَ سِرًّا غَامِضَا",
+        "transcription": "yaa khayra man  kashafa sirran ghaamidaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "لِى اجْمَعْ جَمِيعَ مَا تَفَرَّقَ لَدَى",
+        "transcription": "lijmah jamiiha maa tafarraqa ladaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "خَطِّى مِنَ الْخَيْرِ وَصَفِّ الْخَلَدَا",
+        "transcription": "khattii minal khayri wa saffil khaladaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "لِى قُدْ لَدَى تَفَكُّرِى الْأَعْظَمَ يَا",
+        "transcription": "lii qud ladaa tafakkuril ahzama yaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "رَبِّى بِكُنْ وَّلْتَعْصِمَنْ قَلَمِيَا",
+        "transcription": "rabbii bikun waltahsiman qalamiyaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "هَبْ لِىَ يَآأَكْرَمُ فِى التِّلَاوَهْ",
+        "transcription": "hab liya yaa akramu fit tilaawah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "خَيْرًا كَثِيرًا مِنْكَ وَالْحَلَاوَهْ",
+        "transcription": "khayran kasiiran minka wal halaawah",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 21,
+        "text": "بَارِكْ لِىَ اللَّهُمَّ فِى حَيَاتِى",
+        "transcription": "baarik liyal lahumma fii hayaatii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 22,
+        "text": "وَاجْعَلْ فُؤَادِى وَطَنَ الْئَايَاتِى",
+        "transcription": "wajhal fu-aadii wa tanal aayaatii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 23,
+        "text": "هَبْ لِىَ كَوْنِى بِشْرَ كُلَّ مَنْ يَّتُوبْ",
+        "transcription": "hab liya kawnii bishra kulla man yatuub",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 24,
+        "text": "وَلِى الظَّوَاهِرَ أَبِنْ مَّعَ الْغُيُوبْ",
+        "transcription": "wa liz zawaahira abin mahal ghuyuub",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ وَأَتُوبْ ۞ إِلَيْهِ مِنْ ظَوَهِرٍ وَمِنْ غُيُوبْ",
+        "translations": {
+          "it.karamati": "Chiedo perdono ad Allah l'Immenso e a Lui mi volgo pentito, per i peccati manifesti e per quelli nascosti.",
+          "en.karamati": "I ask forgiveness of God the Immense, and I turn to Him repentant, from sins manifest and from sins hidden.",
+          "fr.karamati": "Je demande pardon à Dieu, l'Immense, et je reviens à Lui repentant, des péchés apparents comme des péchés cachés."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "سَأَلْتُهُ بِحَقِّ وَجْهِ اللَّهِ ۞ مَغْفِرَةً مِّنْ جُمْلَةِ الْمَنَاهِى",
+        "translations": {
+          "it.karamati": "Gli ho chiesto, per la sacralità del Volto di Allah, il perdono da tutte le cose proibite.",
+          "en.karamati": "I asked Him, by the right of the Face of God, for forgiveness from the whole of the forbidden things.",
+          "fr.karamati": "Je Lui ai demandé, par le droit de la Face de Dieu, un pardon pour l'ensemble des choses interdites."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "تُبْتُ لَهُ مِنْ جُمْلَةِ الصَّغَآئِرِ ۞ مَعَ الْكَبَآئِرِ وَمِنْ ضَمَآئِرِ",
+        "translations": {
+          "it.karamati": "Mi sono pentito dinanzi a Lui per la totalità delle colpe lievi, insieme a quelle gravi e a quelle celate nell'intimo.",
+          "en.karamati": "I repented to Him of the whole of the minor sins, together with the major ones and those of the inner thoughts.",
+          "fr.karamati": "Je me suis repenti devant Lui de l'ensemble des fautes légères, avec les fautes graves et celles des pensées intimes."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "غَافِرُ لِى اغْفِرْ كُلَّ مَا تَقَدَّمَا ۞ وَمَا تَأَخَّرَ وَمَا بَيْنَهُمَا",
+        "translations": {
+          "it.karamati": "O Perdonatore! Perdonami tutto ciò che ho commesso in passato, ciò che verrà dopo e tutto ciò che sta nel mezzo.",
+          "en.karamati": "O Forgiver! Forgive me all that has gone before, and what comes after, and what lies between the two.",
+          "fr.karamati": "Ô Pardonneur ! Pardonne-moi tout ce qui a précédé, ce qui viendra après et ce qui se trouve entre les deux."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "فَهِّمْنِىَ الْعِلْمَ وَزِدْنِى عِلْمَا ۞ وَعَمَلًا وَأَدَبًا وَفَهْمَا",
+        "translations": {
+          "it.karamati": "Concedimi la comprensione della scienza e accrescimi in sapere, in opere rette, in buona educazione spirituale e in discernimento.",
+          "en.karamati": "Make me understand knowledge, and increase me in knowledge, and in action, and in good conduct, and in understanding.",
+          "fr.karamati": "Fais-moi comprendre la science et accrois ma science, ainsi que mon action, ma bonne conduite et ma compréhension."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "رَبِّىَ لِى اطْشِفِ الْعُلُومَ النَّفِعَهْ ۞ وَجْعَلْ حَيَاةِ مِنْ شَقَآءٍ مَّانِعَهْ",
+        "translations": {
+          "it.karamati": "Signore mio, svelami le scienze benefiche e rendi la mia vita protetta da ogni miseria e infelicità.",
+          "en.karamati": "My Lord, unveil for me the beneficial sciences, and make my life protected from misery.",
+          "fr.karamati": "Mon Seigneur, dévoile-moi les sciences utiles et fais que ma vie soit préservée de toute misère."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "اكْشِفْ لِىَ الْأَسْرَارَ وَالْغَوَامِضَا ۞ يَاخَيْرَ مَنْ كَشَفَ سِرًّا غَامِضَا",
+        "translations": {
+          "it.karamati": "Svelami i segreti spirituali e le questioni profonde, o Migliore tra coloro che svelano i misteri reconditi.",
+          "en.karamati": "Unveil for me the secrets and the obscure matters, O Best of those who unveil an obscure secret.",
+          "fr.karamati": "Dévoile-moi les secrets et les choses obscures, ô Meilleur de ceux qui dévoilent un secret obscur."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لِى اجْمَعْ جَمِيعَ مَا تَفَرَّقَ لَدَى ۞ خَطِّى مِنَ الْخَيْرِ وَصَفِّ الْخَلَدَا",
+        "translations": {
+          "it.karamati": "Riunisci per me tutto il bene che si è disperso nella mia scrittura, e purifica il mio cuore e la mia mente.",
+          "en.karamati": "Gather for me all the good that has been scattered in my writing, and purify my mind.",
+          "fr.karamati": "Rassemble pour moi tout le bien qui s'est dispersé dans mon écriture, et purifie mon esprit."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "لِى قُدْ لَدَى تَفَكُّرِى الْأَعْظَمَ يَا ۞ رَبِّى بِكُنْ وَّلْتَعْصِمَنْ قَلَمِيَا",
+        "translations": {
+          "it.karamati": "Guidami, durante la mia meditazione, verso il bene supremo, o Signore mio, con il Tuo decreto «Sii!» (Kun), e preserva il mio calamo (la mia penna) dall'errore.",
+          "en.karamati": "Guide me, in my greatest reflection, O my Lord, by \"Be!\" (Kun), and preserve my pen from error.",
+          "fr.karamati": "Conduis-moi, dans ma plus grande réflexion, ô mon Seigneur, par « Sois ! » (Kun), et préserve ma plume de l'erreur."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "هَبْ لِىَ يَآأَكْرَمُ فِى التِّلَاوَهْ ۞ خَيْرًا كَثِيرًا مِنْكَ وَالْحَلَاوَهْ",
+        "translations": {
+          "it.karamati": "Donami, o Generosissimo, nella recitazione (del Corano e degli scritti) un bene abbondante da parte Tua e la dolcezza spirituale.",
+          "en.karamati": "Grant me, O Most Generous, in recitation, abundant good from You, and sweetness.",
+          "fr.karamati": "Accorde-moi, ô Très Généreux, dans la récitation, un bien abondant de Ta part ainsi que la douceur."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "بَارِكْ لِىَ اللَّهُمَّ فِى حَيَاتِى ۞ وَاجْعَلْ فُؤَادِى وَطَنَ الْئَايَاتِى",
+        "translations": {
+          "it.karamati": "Benedici per me, o Allah, la mia vita, e rendi il mio cuore la dimora dei Tuoi segni (e versetti).",
+          "en.karamati": "Bless for me, O God, my life, and make my heart the dwelling of Your verses.",
+          "fr.karamati": "Bénis pour moi, ô Dieu, ma vie, et fais de mon cœur la demeure de Tes versets."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "هَبْ لِىَ كَوْنِى بِشْرَ كُلَّ مَنْ يَّتُوبْ ۞ وَلِى الظَّوَاهِرَ أَبِنْ مَّعَ الْغُيُوبْ",
+        "translations": {
+          "it.karamati": "Concedimi di essere motivo di gioia e buon annuncio per chiunque si penta, e rendimi chiare le realtà esteriori insieme a quelle invisibili.",
+          "en.karamati": "Grant me to be glad tidings for everyone who repents, and make manifest to me the outward realities together with the unseen.",
+          "fr.karamati": "Accorde-moi d'être une bonne nouvelle pour quiconque se repent, et rends-moi manifestes les réalités apparentes ainsi que les cachées."
+        }
+      }
+    ]
+  }
+}

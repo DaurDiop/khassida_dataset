@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "Kafaaka Rabbuka",
+    "transliterationName": "Kafaaka Rabbuka",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "kafaaka rabbuka yakfiikum kafa-kifatan"
+      },
+      {
+        "number": 2,
+        "text": "kafaa kahaa min kamiimin kaana min maliki"
+      },
+      {
+        "number": 3,
+        "text": "kafaaka rabbuka kaafil kahfi kaabiri fii"
+      },
+      {
+        "number": 4,
+        "text": "min kawkabin kaana yuhkii kawkabal fuluki"
+      },
+      {
+        "number": 5,
+        "text": "takran karan kakaran karan kafii kabadin"
+      },
+      {
+        "number": 6,
+        "text": "tahkum shakkikatukum kalaklukil kuluki"
+      }
+    ]
+  }
+}

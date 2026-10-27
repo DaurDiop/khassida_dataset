@@ -1,0 +1,61 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 43,
+    "name": "Ihdi Jamihana",
+    "transliterationName": "Ihdi Jamihana",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "ihdi jamiihanas siraatal mustaqiim"
+      },
+      {
+        "number": 2,
+        "text": "wa bisahiihin kun lanaa bilaa saqiim"
+      },
+      {
+        "number": 3,
+        "text": "laka khitaabii yaa qariibu yaa mujiib"
+      },
+      {
+        "number": 4,
+        "text": "yaa man bihi laa zamanii khayru hajiib"
+      },
+      {
+        "number": 5,
+        "text": "hab lii wa lil laziina qad tahallaquu"
+      },
+      {
+        "number": 6,
+        "text": "biya hudan bihi likhayri nutlaqu"
+      },
+      {
+        "number": 7,
+        "text": "iyyaaka nahbudu wa nastahiinu"
+      },
+      {
+        "number": 8,
+        "text": "fa-innakal mahbuudu wal muhiinu"
+      },
+      {
+        "number": 9,
+        "text": "dalaltanaa bika halayka yaa raqiib"
+      },
+      {
+        "number": 10,
+        "text": "yaa man bihi yanhuu lahu kullu naqiib"
+      },
+      {
+        "number": 11,
+        "text": "yaa zas siraatil mustaqiimi hab lanaa"
+      },
+      {
+        "number": 12,
+        "text": "hudan bihi yaghbitunaa man qablanaa"
+      }
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 102,
+    "name": "Mawahibu 1",
+    "transliterationName": "Mawahibu 1",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "bismil ilaahi yanmuu luhaa-ii"
+      },
+      {
+        "number": 2,
+        "text": "bilaa manaahi walan tihaahi"
+      },
+      {
+        "number": 3,
+        "text": "hamdan lirabii khayri murabbi"
+      },
+      {
+        "number": 4,
+        "text": "qad ramma qalbii bil iqtidaa-i"
+      },
+      {
+        "number": 5,
+        "text": "lahu shukuurii bilaa kufuuri"
+      },
+      {
+        "number": 6,
+        "text": "wahwa nasiiri minhu fidaa-ii"
+      },
+      {
+        "number": 7,
+        "text": "lahuq tiraabii bilagh tiraabi"
+      },
+      {
+        "number": 8,
+        "text": "lahu khitaabii mahah tidaa-ii"
+      },
+      {
+        "number": 9,
+        "text": "laka ridaa-ii laka sanaa-ii"
+      },
+      {
+        "number": 10,
+        "text": "lakal tijaa-ii mahaj tidaa-i"
+      },
+      {
+        "number": 11,
+        "text": "yaa man shafaanii yaa man hamaanii"
+      },
+      {
+        "number": 12,
+        "text": "hamman jafaanii bimahwi daa-i"
+      },
+      {
+        "number": 13,
+        "text": "asbil sutuurii aslih umuurii"
+      },
+      {
+        "number": 14,
+        "text": "kassir khuyuurii bilaa kidaa-i"
+      },
+      {
+        "number": 15,
+        "text": "yaa man ajaabaa  manis tajaabaa"
+      },
+      {
+        "number": 16,
+        "text": "hab lii ijaabaa fii zan nidaa-i"
+      },
+      {
+        "number": 17,
+        "text": "yaa zal jamaali yaa zal jalaali"
+      },
+      {
+        "number": 18,
+        "text": "yaa khayra waali saffi luhaa-ii"
+      },
+      {
+        "number": 19,
+        "text": "yaa zal wuhuudi yaa zal wujuudi"
+      },
+      {
+        "number": 20,
+        "text": "kun lii bijuudi bilan tihaa-i"
+      },
+      {
+        "number": 21,
+        "text": "saffi wusuulii bilaa ghufuulii"
+      },
+      {
+        "number": 22,
+        "text": "lii jud bisuuli jammil ridaa-i"
+      },
+      {
+        "number": 23,
+        "text": "hab lit tilaawah mahal halaawah"
+      },
+      {
+        "number": 24,
+        "text": "hab lid diraayah ladal adaa-i"
+      },
+      {
+        "number": 25,
+        "text": "aslahta haalii bilar tihaali"
+      },
+      {
+        "number": 26,
+        "text": "bihdi hiyaali bilaa bukaa-i"
+      },
+      {
+        "number": 27,
+        "text": "liqbal mataabi wahmi janaabii"
+      },
+      {
+        "number": 28,
+        "text": "wa sun ma-aabii jawwid zakaa-ii"
+      },
+      {
+        "number": 29,
+        "text": "qinil gharuuraa wamhul ghuruuraa"
+      },
+      {
+        "number": 30,
+        "text": "hab lii nasuuraa mahat tikaa-i"
+      },
+      {
+        "number": 31,
+        "text": "qud lii nawaalaa yunmii kamaalaa"
+      },
+      {
+        "number": 32,
+        "text": "yaa man tahaalaa han shurakaa-i"
+      },
+      {
+        "number": 33,
+        "text": "zidtta hudaayaa qudtta hadaayaa"
+      },
+      {
+        "number": 34,
+        "text": "lii biridaayaa duunash tikaa-i"
+      },
+      {
+        "number": 35,
+        "text": "yaa khayra mughni aghnaa bimanni"
+      },
+      {
+        "number": 36,
+        "text": "halayhi usnii bilaa ghalaa-i"
+      },
+      {
+        "number": 37,
+        "text": "laka shukuurii hinda duyuurii"
+      },
+      {
+        "number": 38,
+        "text": "yaa zal qusuuri bilaa jalaa-i"
+      },
+      {
+        "number": 39,
+        "text": "yaa man kasaanii yaa man saqaanii"
+      },
+      {
+        "number": 40,
+        "text": "yaa man hamaanii hanil khalaa-i"
+      },
+      {
+        "number": 41,
+        "text": "anta muuraadii anta himadii"
+      },
+      {
+        "number": 42,
+        "text": "nawwir fu-aadii yaa zad diyaa-i"
+      },
+      {
+        "number": 43,
+        "text": "zahzahta haybii azhabta raybii"
+      },
+      {
+        "number": 44,
+        "text": "tahharta jaybii kal asfiyaa-i"
+      },
+      {
+        "number": 45,
+        "text": "anhayta sayrii tayyabta mayrii"
+      },
+      {
+        "number": 46,
+        "text": "kun lii bikhayri kal atqiyaa-i"
+      },
+      {
+        "number": 47,
+        "text": "yaa khayra muh-yii kun lii birah-yi"
+      },
+      {
+        "number": 48,
+        "text": "wa khayri sah-yi kal azkiyaa-i"
+      },
+      {
+        "number": 49,
+        "text": "hab lis tiqaamah qinil malaamah"
+      },
+      {
+        "number": 50,
+        "text": "hab lil karaamah bizil liwaa-i"
+      },
+      {
+        "number": 51,
+        "text": "bizil jamaali bizil kamaali"
+      },
+      {
+        "number": 52,
+        "text": "bizil mahaali bizid dawaa-i"
+      },
+      {
+        "number": 53,
+        "text": "bizil hibaadah bizil ifaadah"
+      },
+      {
+        "number": 54,
+        "text": "bikharqi haadah lil awliyaa-i"
+      },
+      {
+        "number": 55,
+        "text": "bizin nawaali laysil qitaali"
+      },
+      {
+        "number": 56,
+        "text": "murdir rijaali la-ashqiyaa-i"
+      },
+      {
+        "number": 57,
+        "text": "bizis sahaabah zawil ijaabah"
+      },
+      {
+        "number": 58,
+        "text": "jaalil ka-aabah zawid diyaa-i"
+      },
+      {
+        "number": 59,
+        "text": "bizil huruubi jaalil kuruubi"
+      },
+      {
+        "number": 60,
+        "text": "nuuril ariibi maahir riyaa-i"
+      },
+      {
+        "number": 61,
+        "text": "zaakal muniiru zaakal bashiiru"
+      },
+      {
+        "number": 62,
+        "text": "lahu ushiiru bizas sanaa-i"
+      },
+      {
+        "number": 63,
+        "text": "lahu khitaabii bilaa hitaabi"
+      },
+      {
+        "number": 64,
+        "text": "walaa hijaabi walaa hanaa-i"
+      },
+      {
+        "number": 65,
+        "text": "khayral baraayaa yaa zal mazaayaa"
+      },
+      {
+        "number": 66,
+        "text": "yaa zal hataayaa saffi binaa-ii"
+      },
+      {
+        "number": 67,
+        "text": "anta suruurii bilaa ghuruuri"
+      },
+      {
+        "number": 68,
+        "text": "saffi buruurii nawwir finaa-ii"
+      },
+      {
+        "number": 69,
+        "text": "fiika aquulu walaa ahuulu"
+      },
+      {
+        "number": 70,
+        "text": "fiika a-uulu bilaa fanaa-i"
+      },
+      {
+        "number": 71,
+        "text": "hannii jazaakaa rabbun hadaakaa"
+      },
+      {
+        "number": 72,
+        "text": "fawqa munaakaa yawmal jazaa-i"
+      },
+      {
+        "number": 73,
+        "text": "jazaakaa rabbii yaa khayra hibbi"
+      },
+      {
+        "number": 74,
+        "text": "khayra muhabbi bilar tizaa-i"
+      },
+      {
+        "number": 75,
+        "text": "innil khadiimu haysu uqiimu"
+      },
+      {
+        "number": 76,
+        "text": "walaa ariimu zal ijtizaa-i"
+      },
+      {
+        "number": 77,
+        "text": "anta mujiirii minal gharuuri"
+      },
+      {
+        "number": 78,
+        "text": "wa min ghuruuri daahii shaqaa-i"
+      },
+      {
+        "number": 79,
+        "text": "sunta makaanii zidtta amaanii"
+      },
+      {
+        "number": 80,
+        "text": "hab lii zamaanii bizil baqaa-i"
+      },
+      {
+        "number": 81,
+        "text": "anta suluukii ilal maliiki"
+      },
+      {
+        "number": 82,
+        "text": "maahil ufuuki muhtin naqaa-i"
+      },
+      {
+        "number": 83,
+        "text": "antal jamiilu laka amiilu"
+      },
+      {
+        "number": 84,
+        "text": "antar rasuulu bilaa jiraa-i"
+      },
+      {
+        "number": 85,
+        "text": "laka lisaanii mahal janaani"
+      },
+      {
+        "number": 86,
+        "text": "walaa udaanii kash shuharaa-i"
+      },
+      {
+        "number": 87,
+        "text": "antas sabiilu bikal wusuulu"
+      },
+      {
+        "number": 88,
+        "text": "liman yuniilu khayra saraa-i"
+      },
+      {
+        "number": 89,
+        "text": "azhabta hur-yii azhabta ghayyii"
+      },
+      {
+        "number": 90,
+        "text": "kammalta ra-yii kal kubaraa-i"
+      },
+      {
+        "number": 91,
+        "text": "khayral anaami fiika qilaamii"
+      },
+      {
+        "number": 92,
+        "text": "bilaa malaami bal biridaa-i"
+      },
+      {
+        "number": 93,
+        "text": "yaa zal jamiilah yaa zal fadiilah"
+      },
+      {
+        "number": 94,
+        "text": "antal wasiilah lizil qadaa-i"
+      },
+      {
+        "number": 95,
+        "text": "fiika sukuunii ilal matiini"
+      },
+      {
+        "number": 96,
+        "text": "bilaa futuuni walan qidaa-i"
+      },
+      {
+        "number": 97,
+        "text": "khayral hibaadi baabal ayaadii"
+      },
+      {
+        "number": 98,
+        "text": "nuural bilaadi asnaa rajaa-ii"
+      },
+      {
+        "number": 99,
+        "text": "azhabta ghammii mahawta zulmii"
+      },
+      {
+        "number": 100,
+        "text": "lii jud bihilmi daahii najaa-i"
+      },
+      {
+        "number": 101,
+        "text": "azhabta faqrii lii sunta sirrii"
+      },
+      {
+        "number": 102,
+        "text": "min ghayri makri walaa hijaa-i"
+      },
+      {
+        "number": 103,
+        "text": "zakkayta nafsii fakakta habsii"
+      },
+      {
+        "number": 104,
+        "text": "azhabta labsii zudtta ghitaa-i"
+      },
+      {
+        "number": 105,
+        "text": "sunta jihaatii zidtta hibaatii"
+      },
+      {
+        "number": 106,
+        "text": "abqayta zaatii mahal hataa-i"
+      },
+      {
+        "number": 107,
+        "text": "laka rujuuhii maha jumuuhii"
+      },
+      {
+        "number": 108,
+        "text": "bighayri juuhi walaa khataa-i"
+      },
+      {
+        "number": 109,
+        "text": "lakal tifaatii yaa zas silaati"
+      },
+      {
+        "number": 110,
+        "text": "bahda salaatii mahas sanaa-i"
+      },
+      {
+        "number": 111,
+        "text": "hanka radiitu bika nasiitu"
+      },
+      {
+        "number": 112,
+        "text": "kamaa ghaniitu hanil hanaa-i"
+      }
+    ]
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 179,
+    "name": "Wal Baladu",
+    "transliterationName": "Wal Baladu",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "وَجَّهْتُ كُلِّ لِلْوَدُودِ الصَّمَدِ",
+        "transcription": "wajjahtu kulli lil waduudis samadi",
+        "translations": {
+          "fr": "Je tourne entièrement ma face vers DIEU, le MAGNANIME, l'ETERNEL"
+        }
+      },
+      {
+        "number": 2,
+        "text": "ذَاخِدْمَةِ لِّلْمُصْطَفَى مُحَمَّدِ",
+        "transcription": "zaa khidmati lil mustafaa muhammadi",
+        "translations": {
+          "fr": "tout en me constituant le Serviteur du Prophète Muhammad, l'Elu."
+        }
+      },
+      {
+        "number": 3,
+        "text": "الْحَمْدُ وَالشُّكْرُ مَعًا لِلَّهِ",
+        "transcription": "al hamdu wash shukru mahan lil laahi",
+        "translations": {
+          "fr": "La louange et la gratitude à la fois reviennent à DIEU"
+        }
+      },
+      {
+        "number": 4,
+        "text": "عَلَى النَّبِى وَلَدِ عَبْدِ اللَّهِ",
+        "transcription": "halan nabii waladi habdil laahi",
+        "translations": {
+          "fr": "pour nous avoir envoyé le Prophète, fils d'Abdallâh"
+        }
+      },
+      {
+        "number": 5,
+        "text": "لِلَّهِ بِالذِّكْرِ الْحَكِيمِ أَنْقَلِبْ",
+        "transcription": "lil laahi biz zikril hakiimi anqalib",
+        "translations": {
+          "fr": "Par le Coran, l'Edification de la Sagesse, je me dirige vers DIEU"
+        }
+      },
+      {
+        "number": 6,
+        "text": "مَعَ النَّبِى وَلَدِ عَبْدِ الْمُطَّلِبْ",
+        "transcription": "mahan nabii wa ladi habdil muttalib",
+        "translations": {
+          "fr": "sous la Gouverne du Prophète, le petit-fils d'Abdu-l-Muttalib"
+        }
+      },
+      {
+        "number": 7,
+        "text": "بَدَّدَ لِى شَمْلَ عَدُوٍ غَاشِمِ",
+        "transcription": "baddada lii shamla haduwin ghaashimi",
+        "translations": {
+          "fr": "Puisse mon SEIGNEUR disperser la ligne formée par l'ennemi tyrannique contre moi"
+        }
+      },
+      {
+        "number": 8,
+        "text": "رَبِّى بِجَاهِ الْمُصْطَفَى ابْنِ هَاشِمِ",
+        "transcription": "rabbi bijaahil mustafabni haashimi",
+        "translations": {
+          "fr": "par considération pour l'Elu, descendant de Hâchim"
+        }
+      },
+      {
+        "number": 9,
+        "text": "لِى جَادَ رَبِّىى بِنَوَالٍ قَدْ أَنَافْ",
+        "transcription": "lii jaada rabbii binawaalin qad anaaf",
+        "translations": {
+          "fr": "Que mon SEIGNEUR m'accorde de substantielles Faveurs et me gratifie de la compagnie du Pur,"
+        }
+      },
+      {
+        "number": 10,
+        "text": "بِالْمُنْتَقَى الْمُخْتَارِ مِنْ عَبْدِ مَنَافْ",
+        "transcription": "bil muntaqal mukhtaari min habdi manaaf",
+        "translations": {
+          "fr": "le Choisi Par Excellence, descendant d'Abdu-l-Manâf"
+        }
+      },
+      {
+        "number": 11,
+        "text": "دُعَاءِىَ اسْتَجَابَ بِالْمَخْفِىِّ",
+        "transcription": "duhaa-iyas tajaaba bil makhfiyyi",
+        "translations": {
+          "fr": "Puisse mon SEIGNEUR exaucer ma prière en me gratifiant de Ses Mystères"
+        }
+      },
+      {
+        "number": 12,
+        "text": "رَبِّىَ بِالْمُخْتَارِ مِنْ قُصَىِّ",
+        "transcription": "rabbiya bil mukhtaari min qusayyi",
+        "translations": {
+          "fr": "au nom du Choisi, descendant de Qusay"
+        }
+      },
+      {
+        "number": 13,
+        "text": "أَسْأَلُهُ نَيْلَ الْمُنَى بِلَا اسْتِلَابْ",
+        "transcription": "as-aluhu naylal munaa bilas tilaab",
+        "translations": {
+          "fr": "Je LUI demande de m'accorder des Dons Insignes, en dehors de toute épreuve ou illusion,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "وَلَا غُرُورٍ بِالنَّبِىِّ ابْنِ كِلَابْ",
+        "transcription": "walaa ghuruurin bin nabiyyibni kilaab",
+        "translations": {
+          "fr": "par considération pour le Prophète, descendant de Kilâb"
+        }
+      },
+      {
+        "number": 15,
+        "text": "لِى جُدْ بِخَيْرٍ وَاكْفِنِى مَضَرَّهْ",
+        "transcription": "lii jud bikhayrin wakfinii madarrah",
+        "translations": {
+          "fr": "Accorde-moi Tes Bienfaits et préserve-moi des maux, Ô SEIGNEUR!"
+        }
+      },
+      {
+        "number": 16,
+        "text": "رَبِّ بِجَاهِ الْمُجْتَبَى ابْنِ مُرَّهْ",
+        "transcription": "rabbi bijaahil mujtababni murrah",
+        "translations": {
+          "fr": "Par la grâce de l'Elu, descendant de Murrah"
+        }
+      },
+      {
+        "number": 17,
+        "text": "طَيِّبْ فُؤَادِىَ بِرَوْضِ صَعْبِ",
+        "transcription": "tayyab fu-aadiya birawdi sahbi",
+        "translations": {
+          "fr": "Purifie à jamais mon cœur à travers en assurant mon éducation,"
+        }
+      },
+      {
+        "number": 18,
+        "text": "لِى أَبَدَآ بِالْمُنْتَقَى ابْنِ كَعْبِ",
+        "transcription": "lii abadaa bil muntaqabni kahbi",
+        "translations": {
+          "fr": "par considération pour le Choisi Par Excellence, descendant de Ka'ab"
+        }
+      },
+      {
+        "number": 19,
+        "text": "يَاللَّهُ يَاذَا الْعَرْشِ وَالْكُرْسِىِّ",
+        "transcription": "yal laahu yaa zal harshi wal kursiyyi",
+        "translations": {
+          "fr": "Ô SEIGNEUR! Ô TOI le POSSESSEUR du Trône et du Siège,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "صَلِّ بِتَسْلِيمٍ عَلَى اللُّؤَىِّ",
+        "transcription": "salli bitasliimin halal lu-ayyi",
+        "translations": {
+          "fr": "accorde Paix et Salut au descendant de Lu'ay !"
+        }
+      },
+      {
+        "number": 21,
+        "text": "يَارَبِّ سُقْ لِى جُمْلَةَ الْمَطَالِبِ",
+        "transcription": "yaa rabbi suq lii jumlatal mataalibi",
+        "translations": {
+          "fr": "Ô SEIGNEUR ! Daigne m'accorder toutes mes aspirations sans compter"
+        }
+      },
+      {
+        "number": 22,
+        "text": "بِلَا حِسَابِ بِالنَّبِى ابْنِ غَالِبِ",
+        "transcription": "bilaa hisaabi bin nabibni ghaalibi",
+        "translations": {
+          "fr": "au nom du Prophète, descendant de Ghâlib"
+        }
+      },
+      {
+        "number": 23,
+        "text": "بَدِيعُ سَخِّرْ لِىَ كُلَّ شَهْرِ",
+        "transcription": "badiihu sakhkhir liya kulla shahri",
+        "translations": {
+          "fr": "Ô TOI le CREATEUR ! Soumets-moi les mois"
+        }
+      },
+      {
+        "number": 24,
+        "text": "وَكُلَّ يَوْمٍ بِالنَّبِى ابْنِ فِهْرِ",
+        "transcription": "wa kulla yawmin bin nabibni fihri",
+        "translations": {
+          "fr": "et les jours par considération pour le Prophète, descendant de Fihr"
+        }
+      },
+      {
+        "number": 25,
+        "text": "يَاخَيْرَ نَاصِرٍ وَخَيْرَ مَالِكِ",
+        "transcription": "yaa khayra naasirin wa khayra maaliki",
+        "translations": {
+          "fr": "Ô SEIGNEUR ! Ô TOI le MEILLEUR SECOUREUR ! TOI le PLUS EXCELLENT des ROIS !"
+        }
+      },
+      {
+        "number": 26,
+        "text": "أُنْصُرْ وَمَلِّكْنِىَ بِابْنِ مَالِكِ",
+        "transcription": "unsur wa mallikniya bibni maaliki",
+        "translations": {
+          "fr": "Assiste-moi et fais-moi triompher, au nom du descendant de Mâlik"
+        }
+      },
+      {
+        "number": 27,
+        "text": "خَبِيئَتِى وَعِزَّتِى وَنَضْرِ",
+        "transcription": "khabii-atii wa hizzatii wa nadri",
+        "translations": {
+          "fr": "Mon Mystère, mon Honneur, ma Splendeur, c'est TOI SEIGNEUR !"
+        }
+      },
+      {
+        "number": 28,
+        "text": "كَوْنُكَ لِى فَلِىَ كُنْ بِالنَّضْرِ",
+        "transcription": "kawnuka lii faliya kun bin nadri",
+        "translations": {
+          "fr": "Sois donc en ma faveur par considération pour le descendant de Nadar"
+        }
+      },
+      {
+        "number": 29,
+        "text": "رُضْ لِى الْعِدَى وَلِىَ هَبْ جُنَانَهْ",
+        "transcription": "rud lil hidaa wa liya hab junaanah",
+        "translations": {
+          "fr": "Dompte mes ennemis et procure-moi la Sécurité"
+        }
+      },
+      {
+        "number": 30,
+        "text": "بِالْمُصْطَفَى الْمُخْتَارِ مِنْ كِنَانَهْ",
+        "transcription": "bil mustafal mukhtaari min kinaanah",
+        "translations": {
+          "fr": "par la grâce du Choisi Par Excellence, l'Elu, descendant de Kinâna"
+        }
+      },
+      {
+        "number": 31,
+        "text": "جُدْ لِى بِمَا بِهِ أُنِيرُ خَيْمَهْ",
+        "transcription": "jud lii bimaa bihi uniiru khaymah",
+        "translations": {
+          "fr": "Accorde-moi une grâce qui illuminera mon entourage aussi bien qu'ailleurs,"
+        }
+      },
+      {
+        "number": 32,
+        "text": "وَغَيْرَ هَابِمَنْ أَضَآ خُزَيْمَهْ",
+        "transcription": "wa ghayra haabiman adaa khuzaymah",
+        "translations": {
+          "fr": "par considération pour Celui qui irradia la postérité de Khuzayma."
+        }
+      },
+      {
+        "number": 33,
+        "text": "نَجِّ جَنَابِى مِنْ جِوَارِ مُشْرِكَهْ",
+        "transcription": "najji janaabii min jiwaari mushrikah",
+        "translations": {
+          "fr": "Preserve moi du voisinage des païens, hommes"
+        }
+      },
+      {
+        "number": 34,
+        "text": "وَمُشْرِكِ بِالْمُصْطَفَى ابْنِ مُدْرِكَهْ",
+        "transcription": "wa mushriki bil mustafabni mudrikah",
+        "translations": {
+          "fr": "ou femmes, par considération pour l'Elu, descendant de Mudrika."
+        }
+      },
+      {
+        "number": 35,
+        "text": "بَارِكْ لِىَ اللَّهُمَّ فِى قِيَاسِى",
+        "transcription": "baarik liyal lahumma fii qiyaasii",
+        "translations": {
+          "fr": "Ô mon DIEU ! Inspire-moi des pensées bénites"
+        }
+      },
+      {
+        "number": 36,
+        "text": "بِمَنْ جَهَلْتَهُ ضِيَآ الْيَاسِ",
+        "transcription": "biman jahaltahu diyal yaasi",
+        "translations": {
+          "fr": "au nom de Celui par qui Tu éclairas la descendance d'Ilyâs."
+        }
+      },
+      {
+        "number": 37,
+        "text": "أُنْصُرْ جَنَابِى عِنْدَ سَيْرٍ وَحَضَرْ",
+        "transcription": "unsur janaabii hinda sayrin wa hadar",
+        "translations": {
+          "fr": "Assiste mon entourage en ma présence ou en mon absence"
+        }
+      },
+      {
+        "number": 38,
+        "text": "وَلَكَ قَرِّبْنِى بِجَاهِ ابْنِ مُضَرْ",
+        "transcription": "wa laka qarribnii bijaahibni mudar",
+        "translations": {
+          "fr": "et rapproche-moi de Toi par considération pour le descendant de Mudar."
+        }
+      },
+      {
+        "number": 39,
+        "text": "تَفَضَّلَنْ عَلَىَّ رَبِّ أَنْ أُزَارْ",
+        "transcription": "tafaddalan halayya rabbi an uzaar",
+        "translations": {
+          "fr": "Fais-moi la faveur, Ô SEIGNEUR !, d'être un croyant à qui l'on rend visite pour Ta FACE"
+        }
+      },
+      {
+        "number": 40,
+        "text": "فِيكَ وَفِى خَيْرِ الْوَرَى نُورِ نِزَارْ",
+        "transcription": "fiika wa fii khayril waraa nuuri nizaar",
+        "translations": {
+          "fr": "et pour l'amour du Meilleur des hommes, la Lumière de Nizâr"
+        }
+      },
+      {
+        "number": 41,
+        "text": "هَدَيْتَنِى يَاخَيْرَ هَادٍ قَدْ وَعَدْ",
+        "transcription": "hadaytanii yaa khayra haadin qad wa had",
+        "translations": {
+          "fr": "Ô MEILLEUR GUIDE ! Guide-moi dans le droit chemin conformément à Ta Promesse et réalise,"
+        }
+      },
+      {
+        "number": 42,
+        "text": "أَنْجَزْتَ لِى الْوَعْدَ بِأَفْضَلِ مَعَدْ",
+        "transcription": "anjazta lil wahda bi-afdali mahad",
+        "translations": {
+          "fr": "par la grâce du Meilleur des descendants de Ma'ad, Ta Promesse en ma faveur."
+        }
+      },
+      {
+        "number": 43,
+        "text": "وَهَبْتَ لِى فَضْلًا إِلَى الْجِنَانِ",
+        "transcription": "wa habta lii fadlan ilal jinaani",
+        "translations": {
+          "fr": "Accorde-moi une Grâce perdurant jusqu'au Paradis"
+        }
+      },
+      {
+        "number": 44,
+        "text": "يَرْفَعُ كُلِّ بِالنَّبِى الْعَدْنَانِ",
+        "transcription": "yarfahu kulli bin nabil hadnaani",
+        "translations": {
+          "fr": "et hissant tout mon être en une Station Elevée, de par le nom du Prophète, descendant d'Adnân..."
+        }
+      },
+      {
+        "number": 45,
+        "text": "بَرَكَتَا الصِّدِّيقِ وَالْفَارُوقِ",
+        "transcription": "barakatas siddiiqi wal faaruuqi",
+        "translations": {
+          "fr": "La Bénédiction de DIEU revient assurément à ABU BAKR, le Véridique, et à UMAR, qui a démêlé le vrai du faux ;"
+        }
+      },
+      {
+        "number": 46,
+        "text": "جَامِعَتَا الْمَجْمُوعِ وَالْمَفْرُوقِ",
+        "transcription": "jaamihatal majmuuhi wal mafruuqi",
+        "translations": {
+          "fr": "eux qui ont réuni ce qui était uni à ce qui était désuni."
+        }
+      },
+      {
+        "number": 47,
+        "text": "أَكْرَمَ رَبِّ الْعَرْشِ ذَا النُّورَيْنِ",
+        "transcription": "akrama rabbil harshi zan nuurayni",
+        "translations": {
+          "fr": "Le MAITRE du Trône a honoré, en ce monde et dans l'autre, UTHMAN, l'époux des deux Lumières,"
+        }
+      },
+      {
+        "number": 48,
+        "text": "وَوَالِدَ السِّبْطَيْنَ فِى الدَّارَيْنِ",
+        "transcription": "wa waalidas sibtayni fid darayni",
+        "translations": {
+          "fr": "au même titre que ALI, le père des petits-fils du Prophète."
+        }
+      },
+      {
+        "number": 49,
+        "text": "ذَبَّتْ صَحَابَةُ النَّبِىِّ الَاتْقِيَآ",
+        "transcription": "zabbat sahaabatun nabiyyi latqiyaa",
+        "translations": {
+          "fr": "Les Pieux Compagnons du Prophète ont arrêté et repoussé l'avance des [idolâtres] voués à la damnation,"
+        }
+      },
+      {
+        "number": 50,
+        "text": "عَلَيْهِمُ الرِّضْوَانُ مَجْوَا لَاشْقِيَآ",
+        "transcription": "halayhimur ridwaanu majwaa lashqiyaa",
+        "translations": {
+          "fr": "puisse DIEU les agréer..."
+        }
+      },
+      {
+        "number": 51,
+        "text": "نَفَى اللَّعِينَ مَنْ لَّهُ حَيْزُومُ",
+        "transcription": "nafal lahiina man lahu hayzuumu",
+        "translations": {
+          "fr": "L'Archange Gabriel, le Cavalier de Hayzum, a repoussé Satan, le maudit, en même temps que les ennemis [de l'Islam] ;"
+        }
+      },
+      {
+        "number": 52,
+        "text": "مَعَ الْعِدَى فَجُبْدُهُمْ مَّهْزُومُ",
+        "transcription": "mahal hidaa fajubduhum mahzuumu",
+        "translations": {
+          "fr": "aussi leur armée a t-elle été vaincue."
+        }
+      },
+      {
+        "number": 53,
+        "text": "رَفَعَ أَهْلُ بَدْرٍ لِااسْلَامَا",
+        "transcription": "rafaha ahlu badrin lislaamaa",
+        "translations": {
+          "fr": "Les Combattants de Badr ont élevé haut le Flambeau de l'Islam"
+        }
+      },
+      {
+        "number": 54,
+        "text": "وَزَحْزَحُواْ الْفُجَّارَ وَالظَّلَامَا",
+        "transcription": "wa zahzahul fujjaara waz zalaamaa",
+        "translations": {
+          "fr": "et éloigné les impies et les injustes."
+        }
+      },
+      {
+        "number": 55,
+        "text": "بَآءَ بِمَا يَسُوءُهُ الْخَنَّاسُ",
+        "transcription": "baa-a bimaa yasuu-uhul khannaasu",
+        "translations": {
+          "fr": "DIEU a purifié Sa Religion des ternissures du démon"
+        }
+      },
+      {
+        "number": 56,
+        "text": "وَسُرَّ مَنْ لَّهُ أَنَاخَ النَّاسُ",
+        "transcription": "wa surra man lahu anaakhan naasu",
+        "translations": {
+          "fr": "et, par-là, a apporté la Joie à tout partisan du Bien-aimé Prophète."
+        }
+      },
+      {
+        "number": 57,
+        "text": "بَارَ لَنَا التَّوْحِيدُ وَالْفِقْهُ مَعَا",
+        "transcription": "baara lanat tawhiidu wal fiqhu mahaa",
+        "translations": {
+          "fr": "Ainsi purent nous parvenir la Science de l'Unicité Divine, la Loi Islamique"
+        }
+      },
+      {
+        "number": 58,
+        "text": "تَصَوُّفٍ بِمَنْ عِدَانَا قَمَعَا",
+        "transcription": "tasawwufin biman hidaanaa qamahaa",
+        "translations": {
+          "fr": "et le Soufisme grâce à ces Combattants qui assujettirent leurs ennemis."
+        }
+      },
+      {
+        "number": 59,
+        "text": "هَدِيَّةُ اللَّهِ الْوَدُودِ الصَّمَدِ",
+        "transcription": "hadiyyatul laahil waduudis samadi",
+        "translations": {
+          "fr": "Puissent les Dons de DIEU. le MAGNANIME, l'ETERNEL"
+        }
+      },
+      {
+        "number": 60,
+        "text": "أَبْقَتْ حَيَاتِى بِالنَّبِى مُحَمَّدِ",
+        "transcription": "abqat hayaatii bin nabii muhammadi",
+        "translations": {
+          "fr": "pérenniser à jamais mon existence de par le Saint Nom du Prophète Muhammad..."
+        }
+      }
+    ]
+  }
+}

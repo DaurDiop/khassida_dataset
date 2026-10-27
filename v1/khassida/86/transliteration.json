@@ -1,0 +1,205 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "name": "Mafatihul Jinan 1",
+    "transliterationName": "Mafatihul Jinan 1",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "ahbabtu rabbal haalamiin"
+      },
+      {
+        "number": 2,
+        "text": "mahal amiini wal amiin"
+      },
+      {
+        "number": 3,
+        "text": "wan qaada zikruhul amiin"
+      },
+      {
+        "number": 4,
+        "text": "likalkalii wa jasadii"
+      },
+      {
+        "number": 5,
+        "text": "naajaytu zal harshil haziim"
+      },
+      {
+        "number": 6,
+        "text": "bil hubbi mah durrin naziim"
+      },
+      {
+        "number": 7,
+        "text": "wa liya kaana bihaziim"
+      },
+      {
+        "number": 8,
+        "text": "wa saananii han hussadii"
+      },
+      {
+        "number": 9,
+        "text": "nahaa bitawhiidil ahad"
+      },
+      {
+        "number": 10,
+        "text": "qalbiya rabbil multahad"
+      },
+      {
+        "number": 11,
+        "text": "wa lam yakilnii li-ahad"
+      },
+      {
+        "number": 12,
+        "text": "fii safarii wa baladii"
+      },
+      {
+        "number": 13,
+        "text": "ilayya qaada fis safar"
+      },
+      {
+        "number": 14,
+        "text": "khilii wa hibii bizafar"
+      },
+      {
+        "number": 15,
+        "text": "mustaghniyan hanin nafar"
+      },
+      {
+        "number": 16,
+        "text": "bijundihi fii khaladii"
+      },
+      {
+        "number": 17,
+        "text": "lam yanhunii mubaarizu"
+      },
+      {
+        "number": 18,
+        "text": "wa faydu rabbii baarizu"
+      },
+      {
+        "number": 19,
+        "text": "ibliisu laa yubaarizu"
+      },
+      {
+        "number": 20,
+        "text": "jundal haziizul ahadi"
+      },
+      {
+        "number": 21,
+        "text": "lam yanhunii manih tarad"
+      },
+      {
+        "number": 22,
+        "text": "aw man liqalbihi marad"
+      },
+      {
+        "number": 23,
+        "text": "wa lii yaquudu fil gharad"
+      },
+      {
+        "number": 24,
+        "text": "rabbiya maa lam yujhadi"
+      },
+      {
+        "number": 25,
+        "text": "al laahu kaana lii bimaa"
+      },
+      {
+        "number": 26,
+        "text": "yubqii zulaalan shabimaa"
+      },
+      {
+        "number": 27,
+        "text": "ghadan wa lii quutan bimaa"
+      },
+      {
+        "number": 28,
+        "text": "qaada wa khayra raghadi"
+      },
+      {
+        "number": 29,
+        "text": "hadiyyatul laahil muhiin"
+      },
+      {
+        "number": 30,
+        "text": "saaqat lighayriyal lahiin"
+      },
+      {
+        "number": 31,
+        "text": "wal yawma bil laahu yuhiin"
+      },
+      {
+        "number": 32,
+        "text": "man shaa-ahu wa fii ghadi"
+      },
+      {
+        "number": 33,
+        "text": "madda liyal laahul bushar"
+      },
+      {
+        "number": 34,
+        "text": "bijaahi sayyidil bashar"
+      },
+      {
+        "number": 35,
+        "text": "wa liya yumnahu nashar"
+      },
+      {
+        "number": 36,
+        "text": "lam anhu maa lam yufidi"
+      },
+      {
+        "number": 37,
+        "text": "hallamanil laahul haliim"
+      },
+      {
+        "number": 38,
+        "text": "mimmaa yashaa-u min huluum"
+      },
+      {
+        "number": 39,
+        "text": "wa zabba qitlii bil kuluum"
+      },
+      {
+        "number": 40,
+        "text": "munsarifan bisafadi"
+      },
+      {
+        "number": 41,
+        "text": "naajaytu rabbiyal kariim"
+      },
+      {
+        "number": 42,
+        "text": "bikutubin laysa tariim"
+      },
+      {
+        "number": 43,
+        "text": "anwaaruhaa wa lii yaruum"
+      },
+      {
+        "number": 44,
+        "text": "ahmadu khayra safadi"
+      },
+      {
+        "number": 45,
+        "text": "al laahu rabbul haalamiin"
+      },
+      {
+        "number": 46,
+        "text": "sallaa halal haadil amiin"
+      },
+      {
+        "number": 47,
+        "text": "fil mala-il mukammaliin"
+      },
+      {
+        "number": 48,
+        "text": "han ruuhinaa wal jasadi"
+      }
+    ]
+  }
+}

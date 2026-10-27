@@ -1,0 +1,854 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 180,
+    "name": "Walaqad Karamna 1",
+    "transliterationName": "Walaqad Karamna 1",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "وَجَّحْتُ وَجْهِى لِمَنْ تَكْرِيمُهُ بَانَا",
+        "transcription": "wajjahtu wajhii liman takriimuhu baanaa",
+        "translations": {
+          "fr": "Je retourne ma face vers Celui dont les bienfaits sont révélés"
+        }
+      },
+      {
+        "number": 2,
+        "text": "فِى شَهْرِ مَوْلِدِ مَنْ فِى الْبَحْرِ رَبَّانَا",
+        "transcription": "fii shahri mawlidi man fil bahri rabbaanaa",
+        "translations": {
+          "fr": "au mois de la naissance de Celui qui nous conduisit à la mer."
+        }
+      },
+      {
+        "number": 3,
+        "text": "لِلَّهِ شُكْرِىَ فِى شَهْرِ الرَّبِيعِ هُنَا",
+        "transcription": "lil laahi shukriya fii shahrir rabiihi hunaa",
+        "translations": {
+          "fr": "Mes remerciements vont vers Dieu en ce mois du Maouloud."
+        }
+      },
+      {
+        "number": 4,
+        "text": "عَلَى ابْتِدَآءِى الَّذِى لِى اخْتَارَ قُرْبَانَا",
+        "transcription": "halab tidaa-il lazii likh taraa qurbaanaa",
+        "translations": {
+          "fr": "Je débute un travail qui m'a été choisi pour me servir de prière et de méditation."
+        }
+      },
+      {
+        "number": 5,
+        "text": "قَدْ أَقْبَلَ الْخَيْرُ مِمَّنْ لَّاشَرِيكَ لَهُ",
+        "transcription": "qad aqbalal khayru mimman laa shariika lahu",
+        "translations": {
+          "fr": "Je me dirige vers un bonheur en provenance de Celui qui n'a pas d'égal dans son règne,"
+        }
+      },
+      {
+        "number": 6,
+        "text": "فِى الْمُلْكِ وَالْحَمْدِ إِسْرَارًا وَإِعْلَانَا",
+        "transcription": "fil mulki wal hamdi israaran wa ihlaanaa",
+        "translations": {
+          "fr": "de ses créations apparues ou cachées."
+        }
+      },
+      {
+        "number": 7,
+        "text": "دَعَوْتُ بَرًّا رَّحِيمًا نِّعْمَ كَرَّمَنَا",
+        "transcription": "dahawtu barran rahiiman nihma karramanaa",
+        "translations": {
+          "fr": "J'appelle le Bon, le Pitoyable, Celui par la volonté de qui nous sommes hommes"
+        }
+      },
+      {
+        "number": 8,
+        "text": "فِى الْبَرِّ وَالْبَحْرِ نِعْمَ اللَّهُ مَوْلَانَا",
+        "transcription": "fil barri wal bahri nihmal laahu mawlaanaa",
+        "translations": {
+          "fr": "sur terre comme sur mer (le Généreux, Le Tout Puissant, Dieu Notre Créateur)."
+        }
+      },
+      {
+        "number": 9,
+        "text": "كَوِّنْ بِكُنْ لِّىَ فِى ذَا الْيَوْمِ تَوْسِعَةً",
+        "transcription": "kawwin bikun liya fii zal yawmi tawsihatan",
+        "translations": {
+          "fr": "Sois pour moi, par Ta Grandeur et Ta Puissance, mon aide en tout temps"
+        }
+      },
+      {
+        "number": 10,
+        "text": "حَتَّى أُقِيمَ لِدِينِ اللَّهِ أَرْكَانَا",
+        "transcription": "hattaa uqiima lidiinil laahi arkaanaa",
+        "translations": {
+          "fr": "afin que je puisse asseoir les piliers de l'Islam divin."
+        }
+      },
+      {
+        "number": 11,
+        "text": "رَبَّيْتَنِى فَلْتَهَبْ لِى الْعَامَ يَاصَمَدِى",
+        "transcription": "rabbaytanii faltahab lil haama yaa samadii",
+        "translations": {
+          "fr": "Tu m'as éduqué, accorde-moi en cette année Ô Seigneur,"
+        }
+      },
+      {
+        "number": 12,
+        "text": "إِدْ مَانَ خَيْرٍ وَإِسْعَادًا وَإِسْكَانا",
+        "transcription": "id maana khayrin wa is-haadan wa iskaanaa",
+        "translations": {
+          "fr": "un bonheur réel, une félicité et une demeure constante."
+        }
+      },
+      {
+        "number": 13,
+        "text": "رَبَّيْتَنِى بَعْدَ إطْعَامٍ وَتَرْوِيَةٍ",
+        "transcription": "rabbaytanii bahda it-haamin wa tarwiyatin",
+        "translations": {
+          "fr": "Tu m'as éduqué après m'avoir nourri et m'avoir abreuvé au jour où on doit s'abreuver,"
+        }
+      },
+      {
+        "number": 14,
+        "text": "عَنْ يَّوْمِ تَرْوِيَةٍ إِذْ جُهْتُ صَدْيَانَا",
+        "transcription": "han yawmi tarwiyatin iz juhtu sad-yaanaa",
+        "translations": {
+          "fr": "Tu m'as protégé à cause de ma pauvreté."
+        }
+      },
+      {
+        "number": 15,
+        "text": "مَكَّنْتَينَى بَعْدَ ضَيْقٍ سُقْتَ لِى حُلَلًا",
+        "transcription": "makkantanii bahda dayqin suqta lii hulalan",
+        "translations": {
+          "fr": "Tu m'as abrité de mes ennemis, Tu m'as donné des parures."
+        }
+      },
+      {
+        "number": 16,
+        "text": "مُّوَسِّعًا بَعْدَ مَا قَدْ عِقْتُ عُرْيَانَا",
+        "transcription": "muwassihan bahda maa qad hiqtu hur-yaanaa",
+        "translations": {
+          "fr": "Tu m'as mis à l'aise au moment où la pauvreté m'envahissait."
+        }
+      },
+      {
+        "number": 17,
+        "text": "نَاجَيْتُكَ الْيَوْمَ يَامَنْ أَمْسِ كَرَّمَنِى",
+        "transcription": "naajaytukal yawma yaa man amsi karramanii",
+        "translations": {
+          "fr": "Je m'entretiens aujourd'hui avec Toi, car Tu m'avais honoré hier."
+        }
+      },
+      {
+        "number": 18,
+        "text": "وَسُقْتَ لِى الْيَوْمَ إِيقَانًا وَبُرْهَانَا",
+        "transcription": "wa suqta lil yawma iiqaanan wa burhaanaa",
+        "translations": {
+          "fr": "Tu as fait de moi un fidèle confiant et un guide."
+        }
+      },
+      {
+        "number": 19,
+        "text": "اصْرِفْ قُلُوبَ النَّصَارَى يَاقَدِيرُ إِلَى",
+        "transcription": "isrif quluuban nasaaraa yaa qadiiru ilaa",
+        "translations": {
+          "fr": "Retourne l'esprit (coeur) des toubabs, Toi Le Tout Puissant afin qu'ils m'aident,"
+        }
+      },
+      {
+        "number": 20,
+        "text": "نَصْرِى وَرُضْ لِىَ مَنْ قَدْ عَزَّ أَوَهَانَا",
+        "transcription": "nasrii wa rud liya man qad hazza aw haanaa",
+        "translations": {
+          "fr": "adoucit le coeur des riches et des pauvres fidèles."
+        }
+      },
+      {
+        "number": 21,
+        "text": "بِكَوْنِكَ الْوَاحِدَ الْقَهَّارَ مُنْفَرِدًا",
+        "transcription": "bikawnikal waahidal qahhaara munfaridan",
+        "translations": {
+          "fr": "Par Ta Solitude Inégalable et Ton Règne Céleste, Toi Le Dompteur,"
+        }
+      },
+      {
+        "number": 22,
+        "text": "لِى اقْهَرْ عِدَانَا عَلَى بُشْرَاىَ إِدْمَانَا",
+        "transcription": "liqhar hidaanaa halaa bushraaaya idmaanaa",
+        "translations": {
+          "fr": "aide-moi à combattre mes ennemis et confère-moi un bonheur éternel."
+        }
+      },
+      {
+        "number": 23,
+        "text": "نَبَّهْتَنِى أَمَسِ تَنْبِيهًا أَرَى عَجَبًا",
+        "transcription": "nabbahtanii amsi tanbiihan araa hajaban",
+        "translations": {
+          "fr": "Tu m'as éveillé hier, de ce réveil j'ai vu de véritables merveilles."
+        }
+      },
+      {
+        "number": 24,
+        "text": "أَنْتَ الْبَدِيعُ الَّذِى مَا زَالَ رَحْمَانَا",
+        "transcription": "antal badiihul lazii maa zaala rahmaanaa",
+        "translations": {
+          "fr": "Tu es Le Créateur qui ne cesse d'être Pitoyable."
+        }
+      },
+      {
+        "number": 25,
+        "text": "يَسَّرْتَ لِى أَمْسِ هَبْ لِى الْيَوْمَ تَوْسِعَةً",
+        "transcription": "yassarta lii amsi hab lil yawma tawsihatan",
+        "translations": {
+          "fr": "Tu m'as facilité l'existence hier et Tu m'as donné une large vie."
+        }
+      },
+      {
+        "number": 26,
+        "text": "بِهَآ أُلَازِمُ مَاتَرْضَاهُ إِحْسَانَا",
+        "transcription": "bihaa ulaazimu maatardaahu ihsaanaa",
+        "translations": {
+          "fr": "J'en profite pour ce que Tu aimes et ce que Tu as embelli."
+        }
+      },
+      {
+        "number": 27,
+        "text": "ءَاوَيْتَنِى بَعْدَ مَا ضَاقَ الْفُؤَادُ أَذًى",
+        "transcription": "aawaytanii bahda maa daaqal fu-aadu azan",
+        "translations": {
+          "fr": "Aux plus durs moments de mon existence mon coeur était attristé, Tu m'as assisté;"
+        }
+      },
+      {
+        "number": 28,
+        "text": "فَسَرْمَدًا لِّىَ رُضْ جِنًّا وَإِنْسَانَا",
+        "transcription": "fasarmadan liya rud jinnan wa insaanaa",
+        "translations": {
+          "fr": "efface de moi tout mauvais penchant des hommes et des djinns et pour toujours."
+        }
+      },
+      {
+        "number": 29,
+        "text": "أَسْلَمْتُ وَجْهِى إِلَيْكَ الْيَوَمَ ذَا خِدَمٍ",
+        "transcription": "aslamtu wajhii ilaykal yawma zaa khidamin",
+        "translations": {
+          "fr": "Je me confie à Toi aujourd'hui et me propose d'être un serviteur."
+        }
+      },
+      {
+        "number": 30,
+        "text": "لِّمَنْ غَدَوْتُ لَهُ كَعْبًا وَحَسَّانَا",
+        "transcription": "liman ghadawtu lahu kahban wa hassaanaa",
+        "translations": {
+          "fr": "Aussi, je débute un travail où à Tes Côtés je remplacerai Kahab et Assane."
+        }
+      },
+      {
+        "number": 31,
+        "text": "دَعَا مِدَادِى قَضَآ حَاجِى لِخِدْمَةِ مَنْ",
+        "transcription": "dahaa midaadii qadaa haajii likhidmati man",
+        "translations": {
+          "fr": "Par l'encre (que j'utilise dans mes écrits) j'appelle ce qui exauce les voeux à cause du travail"
+        }
+      },
+      {
+        "number": 32,
+        "text": "تَبْشِرُهُ ضَرَرَا الْأَعْدَآءِ أَنْسَانَا",
+        "transcription": "tabshiruhu dararal ahdaa-i ansaanaa",
+        "translations": {
+          "fr": "de Celui dont la satisfaction me sert d'armes pour combattre les ennemis."
+        }
+      },
+      {
+        "number": 33,
+        "text": "مُحَمَّدٍ خَيْرِ خَلْقِ اللَّهِ سَيِّدِنَا",
+        "transcription": "muhammadin khayri khalqil laahi sayyidinaa",
+        "translations": {
+          "fr": "Mohamed notre éclairé, le meilleur des créatures"
+        }
+      },
+      {
+        "number": 34,
+        "text": "صَلَّى عَلَيْهِ الَّذِى أَدْعُوهُ تِبْيَانَا",
+        "transcription": "sallaa halyhil lazii adhuuhu tib-yaanaa",
+        "translations": {
+          "fr": "qu'il soit honoré par Celui dont j'implore la Grâce à tout instant."
+        }
+      },
+      {
+        "number": 35,
+        "text": "وَجِّهْ صَلَاةً بِتَسْلِيمٍ لَّهُ أَبَدًا",
+        "transcription": "wajjih salaatan bitasliimin lahu abadan",
+        "translations": {
+          "fr": "Que paix, bonheur et félicité demeurent éternellement en Mohamed,"
+        }
+      },
+      {
+        "number": 36,
+        "text": "وَلِى بَيَانًا وَعَنِّى كُفَّ عِصْيَانَا",
+        "transcription": "wa lii bayaanan wa hannii kuffa his-yaanaa",
+        "translations": {
+          "fr": "par mes écrits, je demande au Seigneur de me servir de défense contre les péchés."
+        }
+      },
+      {
+        "number": 37,
+        "text": "حَمَلْتَنِى رَبِّ بِالتَّكْرِيمِ دُونَ عَنًا",
+        "transcription": "hamaltanii rabbi bit takriimi duuna hanan",
+        "translations": {
+          "fr": "Ô généreux Seigneur, accorde-moi plus que ce que j'espérais avoir de Toi."
+        }
+      },
+      {
+        "number": 38,
+        "text": "فِى الْبَرِّ وَالْبَحْرِ زِدْ رِزْقًا وَتُكْلَانَا",
+        "transcription": "fil barri wal bahri zid rizqan wa tuklaanaa",
+        "translations": {
+          "fr": "Adoucis les bons comme les méchants (qui viennent vers moi)."
+        }
+      },
+      {
+        "number": 39,
+        "text": "مَلِّكْنِىَ الْعَامَ يَاوَهَّابُ فَوْقَ رَجَآ",
+        "transcription": "mallikniyal haama yaa wahhaabu fawqa rajaa",
+        "translations": {
+          "fr": "Ô Seigneur sois toujours avec moi et accorde-moi toutes mes demandes,"
+        }
+      },
+      {
+        "number": 40,
+        "text": "ءِى وَلْتَرُضْ لِىَ عَدَآءً وَمُسْلَانَا",
+        "transcription": "ii waltarud liya hadaa-an wa muslaanaa",
+        "translations": {
+          "fr": "efface de moi tout ce que tu bannis du dedans comme du dehors."
+        }
+      },
+      {
+        "number": 41,
+        "text": "لِى جُدْ بِرِزْقٍ حَلَالٍ طَيِّبٍ وَقِنِى",
+        "transcription": "lii jud birizqin halaalin tayyibin wa qinii",
+        "translations": {
+          "fr": "Je me confie à Toi Le Pitoyable, Le Généreux, Le Non Envieux,"
+        }
+      },
+      {
+        "number": 42,
+        "text": "مَا لَسْتَ تَرْضَاهُ إِسْرَارًا وَإِعْلَانَا",
+        "transcription": "maa lasta tardaahu israaran wa ihlaanaa",
+        "translations": {
+          "fr": "je dirige tous mes espoirs et désirs vers toi, espérant recevoir de toi une aide constante."
+        }
+      },
+      {
+        "number": 43,
+        "text": "نَاجَيْتُ بِرًّا رَّحِيمًا مُّغْنِيًا وَلَهُ",
+        "transcription": "naajaytu barran rahiiman mughniyan wa lahu",
+        "translations": {
+          "fr": "Accepte toutes mes prières et élargis mon existence d'ici bas et d'au-delà, Toi le Large,"
+        }
+      },
+      {
+        "number": 44,
+        "text": "أَمْرِى أُفَوِّضُ أَرْجُو نَصْرَهُ الَانَا",
+        "transcription": "amrii ufawwidu arjuu nasrahu laanaa",
+        "translations": {
+          "fr": "Le Non Envieux dont L'Existence ne cesse d'être Céleste."
+        }
+      },
+      {
+        "number": 45,
+        "text": "أُشْكُرْ شُكُورِىَ وَسِّعْ لِى هُنَا وَغَدًا",
+        "transcription": "ushkur shukuuriya wassih lii hunaa wa ghadan",
+        "translations": {
+          "fr": "Exauce tous mes voeux Toi qui accordes le salut,"
+        }
+      },
+      {
+        "number": 46,
+        "text": "يَاوَاسِعًا مُّغْنِيًا مَّازَالَ دَيَّانَا",
+        "transcription": "yaa waasihan mughniyan maazaala dayyaanaa",
+        "translations": {
+          "fr": "afin que je devienne source intarissable (de savoir)."
+        }
+      },
+      {
+        "number": 47,
+        "text": "هَبْ لِى بِكَوْبِكَ وَهَّابًا مُّنَاىَ مَعًا",
+        "transcription": "hab lii bikawnika wahhaaban munaaya mahan",
+        "translations": {
+          "fr": "Mets tout à ma portée et fais de ma vie une existence large et profitable,"
+        }
+      },
+      {
+        "number": 48,
+        "text": "حَتَّى أَكُونَ بِمَآءِ الْغَيْبِ رَيَّانَا",
+        "transcription": "hattaa akuuna bimaa-il ghaybi rayyaanaa",
+        "translations": {
+          "fr": "comme Tu as vénéré la nuit de Laylatul Qadr et éternellement."
+        }
+      },
+      {
+        "number": 49,
+        "text": "مَكِّنْ وَّوَسِّعْ وَمُكْشِى اجْعَلْ بِتَوْسِعَةٍ",
+        "transcription": "makkin wa wassih wa mukshijhal bitawsihatin",
+        "translations": {
+          "fr": "Fais que mon existence Te soit entièrement consacrée,"
+        }
+      },
+      {
+        "number": 50,
+        "text": "كَلَيْلَتِ الْقَدْرِ أَحْيَانًا فَأَحْيَانَا",
+        "transcription": "kalaylatil qadri ah-yaanan fa-ahyaanaa",
+        "translations": {
+          "fr": "fais que les fidèles me croient et me suivent sans cesse."
+        }
+      },
+      {
+        "number": 51,
+        "text": "فِيكَ اجْعَلِ الْمُكْثَ ذَا فَنْىِ بِلَا زَلَلٍ",
+        "transcription": "fiikaj halil muksa zaa fan-yi bilaa zalalin",
+        "translations": {
+          "fr": "Accorde-moi bonheur paix et fidélité, Toi dont l'aide ne cesse de servir avec bonté"
+        }
+      },
+      {
+        "number": 52,
+        "text": "وَكَمِّلَنْ بِىَ أَعْيَانًا فَأَعْيَآنَا",
+        "transcription": "wa kammilan biya ah-yaanan fa-ahyaanaa",
+        "translations": {
+          "fr": "et de sortir le fidèle de l'ennui."
+        }
+      },
+      {
+        "number": 53,
+        "text": "يَسِّرْ لِىَ الْخَيْرَ وَاعْصِمْنِى وَزِدْ رَشَدِى",
+        "transcription": "yassir liyal khayra wahsimnii wa zid rashadii",
+        "translations": {
+          "fr": "Exauce mes voeux, approuve et augmente ma bonne conduite,"
+        }
+      },
+      {
+        "number": 54,
+        "text": "يَانَافِعًا لَمْ يَزَلْ بَرًا وَمَنَّانَا",
+        "transcription": "yaa naafihan lam yazal barran wa mannaanaa",
+        "translations": {
+          "fr": "Toi Le Généreux qui necesse d'être généreux."
+        }
+      },
+      {
+        "number": 55,
+        "text": "إِلَيْكَ قَلْبِى وَجُثْمَانِى كَذَاكَ يَدِى",
+        "transcription": "ilayka qalbii wa jusmanii kazaaka yadii",
+        "translations": {
+          "fr": "Mon âme, mon corps ainsi que mes bras sont dirigés vers Toi,"
+        }
+      },
+      {
+        "number": 56,
+        "text": "يَاهَادِيًا لَّمْ يَزَلْ رَبًّا وَحَنَّانَا",
+        "transcription": "yaa haadiyan lam yazal rabban wa hannaanaa",
+        "translations": {
+          "fr": "Toi Le Bon qui ne cesse d'être Céleste."
+        }
+      },
+      {
+        "number": 57,
+        "text": "لِى جُدْ بِلُقْيَى ذَوِى الْإِيمَانِ فِى عَجَلٍ",
+        "transcription": "lii jud biluq-yaa zawil iimaani fii hajalin",
+        "translations": {
+          "fr": "Accorde-moi la possibilité de rencontrer rapidement les vrais croyants,"
+        }
+      },
+      {
+        "number": 58,
+        "text": "حَتَّى تُبَشِّرَ مَنْ قَدْ كَانَ حَزْنَانَا",
+        "transcription": "hattaa tubashshira man qad kaana haznaanaa",
+        "translations": {
+          "fr": "afin que je puisse réjouir ceux qui s'étaient inquiétés."
+        }
+      },
+      {
+        "number": 59,
+        "text": "بِكَوْنِكَ الْقَاهِرَ الْجَبَّارَ رُمْتُ هُنَا",
+        "transcription": "bikawnikal qaahiral jabbaara rumtu hunaa",
+        "translations": {
+          "fr": "Toi Le Dompteur des puissants, je cherche ici la possibilité de n'avoir à discuter"
+        }
+      },
+      {
+        "number": 60,
+        "text": "أَنْ لَّا أُنَازِعَ جَبَّارًا وَسُلْطَانَا",
+        "transcription": "an laa unaaziha jabbaaran wa sultaanaa",
+        "translations": {
+          "fr": "ni avec les braves ni avec les rois."
+        }
+      }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "وَجَّحْتُ وَجْهِى لِمَنْ تَكْرِيمُهُ بَانَا ۞ فِى شَهْرِ مَوْلِدِ مَنْ فِى الْبَحْرِ رَبَّانَا",
+        "translations": {
+          "it.karamati": "Ho rivolto il mio volto a Colui (Allah) il cui onorare è manifesto, nel mese della nascita di colui (il Profeta Muḥammad) per il quale sul mare Egli ci ha custoditi.",
+          "en.karamati": "I have turned my face to Him (Allah) whose honouring is manifest, in the month of the birth of him (the Prophet Muḥammad) through whom He sustained us upon the sea.",
+          "fr.karamati": "J'ai tourné mon visage vers Celui (Allah) dont l'honneur accordé est manifeste, au mois de la naissance de celui (le Prophète Muḥammad) par qui sur la mer Il nous a gardés."
+        },
+        "appNumber": 1
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "لِلَّهِ شُكْرِىَ فِى شَهْرِ الرَّبِيعِ هُنَا ۞ عَلَى ابْتِدَآءِى الَّذِى لِى اخْتَارَ قُرْبَانَا",
+        "translations": {
+          "it.karamati": "Ad Allah il mio rendimento di grazie, qui, nel mese di Rabīʿ (al-Awwal), per il mio intraprendere ciò che Egli ha scelto per me come offerta votiva.",
+          "en.karamati": "To God my thanksgiving, here, in the month of Rabīʿ (al-Awwal), for my undertaking of what He has chosen for me as a votive offering.",
+          "fr.karamati": "À Dieu mon action de grâce, ici, au mois de Rabīʿ (al-Awwal), pour mon commencement de ce qu'Il a choisi pour moi comme offrande votive."
+        },
+        "appNumber": 2
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "قَدْ أَقْبَلَ الْخَيْرُ مِمَّنْ لَّاشَرِيكَ لَهُ ۞ فِى الْمُلْكِ وَالْحَمْدِ إِسْرَارًا وَإِعْلَانَا",
+        "translations": {
+          "it.karamati": "Già è giunto il bene da Colui (Allah) che non ha socio nel regno né nella lode, nel segreto e nel palese.",
+          "en.karamati": "Already good has come from Him (Allah) who has no partner in sovereignty or in praise, in secret and in the open.",
+          "fr.karamati": "Déjà le bien est venu de Celui (Allah) qui n'a nul associé dans le royaume ni dans la louange, en secret comme en public."
+        },
+        "appNumber": 3
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "دَعَوْتُ بَرًّا رَّحِيمًا نِّعْمَ كَرَّمَنَا ۞ فِى الْبَرِّ وَالْبَحْرِ نِعْمَ اللَّهُ مَوْلَانَا",
+        "translations": {
+          "it.karamati": "Ho invocato il Benevolo (Al-Barr), il Misericordioso (Ar-Raḥīm): quanto eccelso Colui che ci ha onorati sulla terra e sul mare! Quanto eccelso è Allah, nostro Signore!",
+          "en.karamati": "I have called upon the Kind (Al-Barr), the Most Merciful (Ar-Raḥīm): how excellent He who has honoured us on land and sea! How excellent is God, our Master!",
+          "fr.karamati": "J'ai invoqué le Bienfaisant (Al-Barr), le Très-Miséricordieux (Ar-Raḥīm) : quel excellent Celui qui nous a honorés sur terre et sur mer ! Quel excellent Maître est Dieu, notre Seigneur !"
+        },
+        "appNumber": 4
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "كَوِّنْ بِكُنْ لِّىَ فِى ذَا الْيَوْمِ تَوْسِعَةً ۞ حَتَّى أُقِيمَ لِدِينِ اللَّهِ أَرْكَانَا",
+        "translations": {
+          "it.karamati": "Con il Tuo «Sii!» (Kun) fa' esistere per me, in questo giorno, un'ampiezza di mezzi, affinché io innalzi pilastri per la religione di Allah.",
+          "en.karamati": "By Your \"Be!\" (Kun) bring into being for me, on this day, an abundance of means, that I may raise pillars for the religion of God.",
+          "fr.karamati": "Par Ton « Sois ! » (Kun) fais exister pour moi, en ce jour, une largesse de moyens, afin que j'érige des piliers pour la religion de Dieu."
+        },
+        "appNumber": 5
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "رَبَّيْتَنِى فَلْتَهَبْ لِى الْعَامَ يَاصَمَدِى ۞ إِدْ مَانَ خَيْرٍ وَإِسْعَادًا وَإِسْكَانا",
+        "translations": {
+          "it.karamati": "Mi hai cresciuto con cura: concedimi dunque, quest'anno, o mio Eterno Rifugio (Aṣ-Ṣamad), la perseveranza (idmān) nel bene, la felicità e una dimora serena.",
+          "en.karamati": "You have nurtured me: so grant me, this year, O my Everlasting Refuge (Aṣ-Ṣamad), perseverance (idmān) in good, felicity and a peaceful abode.",
+          "fr.karamati": "Tu m'as élevé avec soin : accorde-moi donc, cette année, ô mon Absolu (Aṣ-Ṣamad), la persévérance (idmān) dans le bien, le bonheur et une demeure paisible."
+        },
+        "appNumber": 6
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "رَبَّيْتَنِى بَعْدَ إطْعَامٍ وَتَرْوِيَةٍ ۞ عَنْ يَّوْمِ تَرْوِيَةٍ إِذْ جُهْتُ صَدْيَانَا",
+        "translations": {
+          "it.karamati": "Mi hai cresciuto dopo avermi nutrito e dissetato, dal giorno della Tarwiya (l'8 di Dhū l-Ḥijja), quando vagavo assetato.",
+          "en.karamati": "You have nurtured me after feeding me and giving me drink, since the Day of Tarwiya (the 8th of Dhū l-Ḥijja), when I wandered thirsty.",
+          "fr.karamati": "Tu m'as élevé après m'avoir nourri et abreuvé, depuis le jour de la Tarwiya (le 8 de Dhū l-Ḥijja), quand j'errais assoiffé."
+        },
+        "appNumber": 7
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "مَكَّنْتَينَى بَعْدَ ضَيْقٍ سُقْتَ لِى حُلَلًا ۞ مُّوَسِّعًا بَعْدَ مَا قَدْ عِقْتُ عُرْيَانَا",
+        "translations": {
+          "it.karamati": "Mi hai reso saldo dopo l'angustia, hai condotto a me vesti preziose, allargando ogni cosa dopo che ero stato trattenuto, spoglio.",
+          "en.karamati": "You have made me firm after hardship, You have led to me fine garments, widening all things after I had been held back, bereft.",
+          "fr.karamati": "Tu m'as affermi après la gêne, Tu as conduit vers moi des habits précieux, élargissant toute chose après que j'eus été retenu, dénudé."
+        },
+        "appNumber": 8
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "نَاجَيْتُكَ الْيَوْمَ يَامَنْ أَمْسِ كَرَّمَنِى ۞ وَسُقْتَ لِى الْيَوْمَ إِيقَانًا وَبُرْهَانَا",
+        "translations": {
+          "it.karamati": "Oggi Ti ho rivolto la mia intima preghiera, o Tu che ieri mi hai onorato, e oggi hai condotto a me la certezza e la prova evidente.",
+          "en.karamati": "Today I have addressed You in intimate prayer, O You who honoured me yesterday, and today You have led to me certainty and clear proof.",
+          "fr.karamati": "Aujourd'hui je T'ai adressé ma prière intime, ô Toi qui hier m'as honoré, et aujourd'hui Tu as conduit vers moi la certitude et la preuve éclatante."
+        },
+        "appNumber": 9
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "اصْرِفْ قُلُوبَ النَّصَارَى يَاقَدِيرُ إِلَى ۞ نَصْرِى وَرُضْ لِىَ مَنْ قَدْ عَزَّ أَوَهَانَا",
+        "translations": {
+          "it.karamati": "Volgi i cuori dei Nazareni (i colonizzatori cristiani), o Onnipotente, al mio soccorso, e piega per me chiunque sia potente o debole.",
+          "en.karamati": "Turn the hearts of the Nazarenes (the Christian colonisers), O All-Powerful, to my aid, and subdue for me whoever is mighty or weak.",
+          "fr.karamati": "Tourne les cœurs des Nazaréens (les colonisateurs chrétiens), ô Tout-Puissant, vers mon secours, et dompte pour moi quiconque est puissant ou faible."
+        },
+        "appNumber": 10
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "بِكَوْنِكَ الْوَاحِدَ الْقَهَّارَ مُنْفَرِدًا ۞ لِى اقْهَرْ عِدَانَا عَلَى بُشْرَاىَ إِدْمَانَا",
+        "translations": {
+          "it.karamati": "Poiché Tu sei l'Unico (Al-Wāḥid), il Dominatore (Al-Qahhār), solo e senza pari, soggioga per me i nostri nemici, perché perduri il mio lieto annuncio.",
+          "en.karamati": "Since You are the One (Al-Wāḥid), the Subduer (Al-Qahhār), alone and without peer, subdue our enemies for me, so that my glad tidings may endure.",
+          "fr.karamati": "Puisque Tu es l'Unique (Al-Wāḥid), le Dominateur (Al-Qahhār), seul et sans pareil, soumets pour moi nos ennemis, afin que dure ma bonne nouvelle."
+        },
+        "appNumber": 11
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "نَبَّهْتَنِى أَمَسِ تَنْبِيهًا أَرَى عَجَبًا ۞ أَنْتَ الْبَدِيعُ الَّذِى مَا زَالَ رَحْمَانَا",
+        "translations": {
+          "it.karamati": "Ieri mi hai destato con un ammonimento in cui contemplo meraviglia: Tu sei l'Originatore (Al-Badīʿ), che non cessa d'essere il Compassionevole (Ar-Raḥmān).",
+          "en.karamati": "Yesterday You roused me with a warning in which I behold a marvel: You are the Originator (Al-Badīʿ), who never ceases to be the All-Merciful (Ar-Raḥmān).",
+          "fr.karamati": "Hier Tu m'as éveillé d'un avertissement où je contemple une merveille : Tu es Celui qui crée sans modèle (Al-Badīʿ), qui ne cesse d'être le Tout-Miséricordieux (Ar-Raḥmān)."
+        },
+        "appNumber": 12
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "يَسَّرْتَ لِى أَمْسِ هَبْ لِى الْيَوْمَ تَوْسِعَةً ۞ بِهَآ أُلَازِمُ مَاتَرْضَاهُ إِحْسَانَا",
+        "translations": {
+          "it.karamati": "Ieri mi hai reso agevole ogni cosa: donami oggi un'ampiezza con cui io perseveri, con eccellenza, in ciò che Ti è gradito.",
+          "en.karamati": "Yesterday You made all easy for me: grant me today an abundance through which I may persevere, with excellence, in what pleases You.",
+          "fr.karamati": "Hier Tu m'as tout facilité : accorde-moi aujourd'hui une largesse par laquelle je persévère, avec excellence, dans ce qui T'agrée."
+        },
+        "appNumber": 13
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "ءَاوَيْتَنِى بَعْدَ مَا ضَاقَ الْفُؤَادُ أَذًى ۞ فَسَرْمَدًا لِّىَ رُضْ جِنًّا وَإِنْسَانَا",
+        "translations": {
+          "it.karamati": "Mi hai dato rifugio dopo che il cuore si era stretto per l'offesa: piega dunque per me, in eterno, jinn e uomini.",
+          "en.karamati": "You gave me refuge after my heart had been straitened by harm: so subdue for me, forever, jinn and men.",
+          "fr.karamati": "Tu m'as donné refuge après que le cœur s'était serré sous l'offense : soumets donc pour moi, à jamais, djinns et hommes."
+        },
+        "appNumber": 14
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "أَسْلَمْتُ وَجْهِى إِلَيْكَ الْيَوَمَ ذَا خِدَمٍ ۞ لِّمَنْ غَدَوْتُ لَهُ كَعْبًا وَحَسَّانَا",
+        "translations": {
+          "it.karamati": "Ho consegnato oggi il mio volto a Te, come servitore di colui (Muḥammad) per il quale sono divenuto un Kaʿb e un Ḥassān (i poeti del Profeta).",
+          "en.karamati": "I have surrendered my face to You today, as a servant of him (Muḥammad) for whom I have become a Kaʿb and a Ḥassān (the Prophet's poets).",
+          "fr.karamati": "J'ai remis aujourd'hui mon visage à Toi, en serviteur de celui (Muḥammad) pour qui je suis devenu un Kaʿb et un Ḥassān (les poètes du Prophète)."
+        },
+        "appNumber": 15
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "دَعَا مِدَادِى قَضَآ حَاجِى لِخِدْمَةِ مَنْ ۞ تَبْشِرُهُ ضَرَرَا الْأَعْدَآءِ أَنْسَانَا",
+        "translations": {
+          "it.karamati": "Il mio inchiostro ha invocato il compimento del mio bisogno, per il servizio di colui (Muḥammad) il cui lieto annuncio ci ha fatto dimenticare il danno dei nemici:",
+          "en.karamati": "My ink has called for the fulfilment of my need, for the service of him (Muḥammad) whose glad tidings made us forget the enemies' harm:",
+          "fr.karamati": "Mon encre a appelé l'accomplissement de mon besoin, pour le service de celui (Muḥammad) dont la bonne nouvelle nous a fait oublier le mal des ennemis :"
+        },
+        "appNumber": 16
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "مُحَمَّدٍ خَيْرِ خَلْقِ اللَّهِ سَيِّدِنَا ۞ صَلَّى عَلَيْهِ الَّذِى أَدْعُوهُ تِبْيَانَا",
+        "translations": {
+          "it.karamati": "Muḥammad, il migliore delle creature di Allah, nostro signore; su di lui effonda la Sua benedizione Colui (Allah) che invoco perché mi conceda la chiarezza.",
+          "en.karamati": "Muḥammad, the best of God's creatures, our master; may He (Allah) whom I call upon for clarity send blessing upon him.",
+          "fr.karamati": "Muḥammad, le meilleur des créatures de Dieu, notre maître ; que prie sur lui Celui (Allah) que j'invoque afin qu'Il m'accorde la clarté."
+        },
+        "appNumber": 17
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "وَجِّهْ صَلَاةً بِتَسْلِيمٍ لَّهُ أَبَدًا ۞ وَلِى بَيَانًا وَعَنِّى كُفَّ عِصْيَانَا",
+        "translations": {
+          "it.karamati": "Volgi a lui (Muḥammad) per sempre una benedizione unita alla pace, a me la chiarezza dell'eloquenza, e tieni lontana da me la disobbedienza.",
+          "en.karamati": "Turn to him (Muḥammad) forever a blessing joined with peace, to me the clarity of eloquence, and hold disobedience far from me.",
+          "fr.karamati": "Tourne vers lui (Muḥammad) à jamais une prière unie à la paix, vers moi la clarté de l'éloquence, et tiens loin de moi la désobéissance."
+        },
+        "appNumber": 18
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "حَمَلْتَنِى رَبِّ بِالتَّكْرِيمِ دُونَ عَنًا ۞ فِى الْبَرِّ وَالْبَحْرِ زِدْ رِزْقًا وَتُكْلَانَا",
+        "translations": {
+          "it.karamati": "Mi hai portato, o Signore, con onore, senza pena, sulla terra e sul mare: accresci il sostentamento e la fiducia in Te.",
+          "en.karamati": "You have carried me, O Lord, with honour, without hardship, over land and sea: increase my provision and my trust in You.",
+          "fr.karamati": "Tu m'as porté, ô Seigneur, avec honneur, sans peine, sur terre et sur mer : accrois la subsistance et la confiance en Toi."
+        },
+        "appNumber": 19
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "مَلِّكْنِىَ الْعَامَ يَاوَهَّابُ فَوْقَ رَجَآ ۞ ءِى وَلْتَرُضْ لِىَ عَدَآءً وَمُسْلَانَا",
+        "translations": {
+          "it.karamati": "Concedimi in possesso, quest'anno, o Donatore (Al-Wahhāb), più di quanto io speri, e piega per me l'ostilità e ciò che consola il nemico.",
+          "en.karamati": "Grant me possession, this year, O Bestower (Al-Wahhāb), beyond my hope, and subdue for me hostility and whatever consoles the foe.",
+          "fr.karamati": "Accorde-moi en possession, cette année, ô Donateur (Al-Wahhāb), plus que je n'espère, et dompte pour moi l'hostilité et ce qui console l'ennemi."
+        },
+        "appNumber": 20
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "لِى جُدْ بِرِزْقٍ حَلَالٍ طَيِّبٍ وَقِنِى ۞ مَا لَسْتَ تَرْضَاهُ إِسْرَارًا وَإِعْلَانَا",
+        "translations": {
+          "it.karamati": "Elargiscimi un sostentamento lecito e puro, e preservami da ciò che Tu non gradisci, nel segreto e nel palese.",
+          "en.karamati": "Grant me a lawful and pure provision, and preserve me from what You do not approve, in secret and in the open.",
+          "fr.karamati": "Accorde-moi une subsistance licite et pure, et préserve-moi de ce que Tu n'agrées pas, en secret comme en public."
+        },
+        "appNumber": 21
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "نَاجَيْتُ بِرًّا رَّحِيمًا مُّغْنِيًا وَلَهُ ۞ أَمْرِى أُفَوِّضُ أَرْجُو نَصْرَهُ الَانَا",
+        "translations": {
+          "it.karamati": "Ho rivolto la mia intima preghiera al Benevolo, al Misericordioso, all'Arricchitore (Allah); a Lui affido la mia sorte e spero, fin d'ora, il Suo soccorso.",
+          "en.karamati": "I have addressed my intimate prayer to the Kind, the Most Merciful, the Enricher (Allah); to Him I entrust my affair, and I hope, even now, for His help.",
+          "fr.karamati": "J'ai adressé ma prière intime au Bienfaisant, au Très-Miséricordieux, à Celui qui enrichit (Allah) ; à Lui je remets mon sort et j'espère, dès à présent, Son secours."
+        },
+        "appNumber": 22
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "أُشْكُرْ شُكُورِىَ وَسِّعْ لِى هُنَا وَغَدًا ۞ يَاوَاسِعًا مُّغْنِيًا مَّازَالَ دَيَّانَا",
+        "translations": {
+          "it.karamati": "Gradisci il mio rendimento di grazie, allarga per me i mezzi qui e nell'avvenire, o Vasto (Al-Wāsiʿ), o Arricchitore, che non cessi d'essere il Giudice supremo (Ad-Dayyān).",
+          "en.karamati": "Accept my thanksgiving, widen my means here and hereafter, O Vast (Al-Wāsiʿ), O Enricher, who never cease to be the Supreme Judge (Ad-Dayyān).",
+          "fr.karamati": "Agrée mon action de grâce, élargis pour moi les moyens ici et dans l'avenir, ô Vaste (Al-Wāsiʿ), ô Celui qui enrichit, qui ne cesses d'être le Juge suprême (Ad-Dayyān)."
+        },
+        "appNumber": 23
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "هَبْ لِى بِكَوْبِكَ وَهَّابًا مُّنَاىَ مَعًا ۞ حَتَّى أَكُونَ بِمَآءِ الْغَيْبِ رَيَّانَا",
+        "translations": {
+          "it.karamati": "Donami, con la Tua coppa, o Donatore, tutti insieme i miei desideri, finché io sia dissetato dall'acqua del Mistero (al-ghayb).",
+          "en.karamati": "Grant me, from Your cup, O Bestower, all my wishes together, until I am quenched with the water of the Unseen (al-ghayb).",
+          "fr.karamati": "Accorde-moi, par Ta coupe, ô Donateur, tous mes vœux ensemble, jusqu'à ce que je sois désaltéré par l'eau du Mystère (al-ghayb)."
+        },
+        "appNumber": 24
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "مَكِّنْ وَّوَسِّعْ وَمُكْشِى اجْعَلْ بِتَوْسِعَةٍ ۞ كَلَيْلَتِ الْقَدْرِ أَحْيَانًا فَأَحْيَانَا",
+        "translations": {
+          "it.karamati": "Rendimi saldo e allarga per me i mezzi, e fa' che la mia permanenza (mukthī) sia nell'ampiezza, come la Notte del Destino (Laylat al-Qadr), di tempo in tempo.",
+          "en.karamati": "Make me firm and widen my means, and let my sojourn (mukthī) be in abundance, like the Night of Destiny (Laylat al-Qadr), time after time.",
+          "fr.karamati": "Affermis-moi et élargis pour moi les moyens, et fais que mon séjour (mukthī) soit dans la largesse, telle la Nuit du Destin (Laylat al-Qadr), de temps à autre."
+        },
+        "appNumber": 25
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "فِيكَ اجْعَلِ الْمُكْثَ ذَا فَنْىِ بِلَا زَلَلٍ ۞ وَكَمِّلَنْ بِىَ أَعْيَانًا فَأَعْيَآنَا",
+        "translations": {
+          "it.karamati": "In Te rendi la mia permanenza un annientamento di sé (fanāʾ) senza alcuna caduta, e per mio tramite porta a perfezione uomini eminenti, e ancora eminenti.",
+          "en.karamati": "In You make my sojourn a self-extinction (fanāʾ) without any slip, and through me bring to perfection eminent souls, and yet more eminent souls.",
+          "fr.karamati": "En Toi fais de mon séjour un anéantissement de soi (fanāʾ) sans aucune chute, et par mon entremise mène à la perfection des hommes éminents, et encore éminents."
+        },
+        "appNumber": 26
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "يَسِّرْ لِىَ الْخَيْرَ وَاعْصِمْنِى وَزِدْ رَشَدِى ۞ يَانَافِعًا لَمْ يَزَلْ بَرًا وَمَنَّانَا",
+        "translations": {
+          "it.karamati": "Rendimi agevole il bene, proteggimi e accresci la mia rettitudine, o Datore di beneficio, che non cessi d'essere Benevolo e Largitore di favori (Al-Mannān).",
+          "en.karamati": "Make good easy for me, protect me and increase my right guidance, O Bestower of benefit, who never cease to be Kind and Bestower of favours (Al-Mannān).",
+          "fr.karamati": "Facilite-moi le bien, protège-moi et accrois ma droiture, ô Dispensateur du bienfait, qui ne cesses d'être Bienfaisant et Dispensateur de faveurs (Al-Mannān)."
+        },
+        "appNumber": 27
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "إِلَيْكَ قَلْبِى وَجُثْمَانِى كَذَاكَ يَدِى ۞ يَاهَادِيًا لَّمْ يَزَلْ رَبًّا وَحَنَّانَا",
+        "translations": {
+          "it.karamati": "A Te il mio cuore e il mio corpo, e così pure la mia mano, o Guida (Al-Hādī), che non cessi d'essere Signore e Tenerissimo (Al-Ḥannān).",
+          "en.karamati": "Yours my heart and my body, and likewise my hand, O Guide (Al-Hādī), who never cease to be Lord and Most Tender (Al-Ḥannān).",
+          "fr.karamati": "À Toi mon cœur et mon corps, et de même ma main, ô Guide (Al-Hādī), qui ne cesses d'être Seigneur et Très-Tendre (Al-Ḥannān)."
+        },
+        "appNumber": 28
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "لِى جُدْ بِلُقْيَى ذَوِى الْإِيمَانِ فِى عَجَلٍ ۞ حَتَّى تُبَشِّرَ مَنْ قَدْ كَانَ حَزْنَانَا",
+        "translations": {
+          "it.karamati": "Concedimi senza indugio l'incontro con la gente della fede, affinché Tu rallegri chi era afflitto.",
+          "en.karamati": "Grant me without delay the meeting with the people of faith, that You may gladden whoever was grieving.",
+          "fr.karamati": "Accorde-moi sans tarder la rencontre des gens de foi, afin que Tu réjouisses celui qui était affligé."
+        },
+        "appNumber": 29
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "بِكَوْنِكَ الْقَاهِرَ الْجَبَّارَ رُمْتُ هُنَا ۞ أَنْ لَّا أُنَازِعَ جَبَّارًا وَسُلْطَانَا",
+        "translations": {
+          "it.karamati": "Poiché Tu sei il Dominatore (Al-Qāhir), l'Onnipotente che piega ogni cosa (Al-Jabbār), qui ho chiesto di non dovermi contendere con un tiranno né con un sovrano.",
+          "en.karamati": "Since You are the Subduer (Al-Qāhir), the Compeller (Al-Jabbār), I have asked here that I need not contend with a tyrant or a sovereign.",
+          "fr.karamati": "Puisque Tu es le Dominateur (Al-Qāhir), le Tout-Puissant qui contraint (Al-Jabbār), j'ai demandé ici de n'avoir à disputer ni avec un tyran ni avec un souverain."
+        },
+        "appNumber": 30
+      }
+    ]
+  }
+}

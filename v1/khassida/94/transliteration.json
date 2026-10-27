@@ -1,0 +1,53 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "Maramiya",
+    "transliterationName": "Maramiya",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "maraamiya hindal laahi ahwiihi sarmadan"
+      },
+      {
+        "number": 2,
+        "text": "bijaahil lazii ahlaahu ahnii muhammadaa"
+      },
+      {
+        "number": 3,
+        "text": "husuunii hanil ahdaa-i wan naari wal balaa"
+      },
+      {
+        "number": 4,
+        "text": "sanaa-i halaa man zahzahad durra ahmadaa"
+      },
+      {
+        "number": 5,
+        "text": "midaadii wa aqlaamii lirabbii wa lin nabii"
+      },
+      {
+        "number": 6,
+        "text": "ujaarii bihaa man akhlasus sah-ya hummadaa"
+      },
+      {
+        "number": 7,
+        "text": "matii maa ahud lil madhi wash shukri khaadiman"
+      },
+      {
+        "number": 8,
+        "text": "yajud bil munaa wal hawdu maa zaala ahmadaa"
+      },
+      {
+        "number": 9,
+        "text": "duhaa-is tajib bil mustafaa rabbi sarmadan"
+      },
+      {
+        "number": 10,
+        "text": "wa minnii taqabbal rabbi mas-haaya wa ahmadaa"
+      }
+    ]
+  }
+}

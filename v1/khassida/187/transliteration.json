@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 187,
+    "name": "Yaa Rakhmanu",
+    "transliterationName": "Yaa Rakhmanu",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "rabbii bimaa yashrahul azhana qad faja-aa"
+      },
+      {
+        "number": 2,
+        "text": "bijaahi afdali man lil laahi qad laja-aa"
+      },
+      {
+        "number": 3,
+        "text": "hamdii lirabbin kariimin laa shariika lahu"
+      },
+      {
+        "number": 4,
+        "text": "wa sadriyal yawma nuuran saatihan mala-aa"
+      },
+      {
+        "number": 5,
+        "text": "muhammadun salawaatul laahi fii abadin"
+      },
+      {
+        "number": 6,
+        "text": "halayhi fii hizbihi kullii bihi kala-aa"
+      },
+      {
+        "number": 7,
+        "text": "adhuu ilaahil lazii hammat mawaahibuhu"
+      },
+      {
+        "number": 8,
+        "text": "lijumlatil khalqi maa yakhtaaru man bara-aa"
+      },
+      {
+        "number": 9,
+        "text": "naajaytuhu jalla ahwaaman wa karramanii"
+      },
+      {
+        "number": 10,
+        "text": "takriima haadin wa kullii min lagh-yan bari-aa"
+      },
+      {
+        "number": 11,
+        "text": "rahmaanu hab lijamiihil khalqi rahmata man"
+      },
+      {
+        "number": 12,
+        "text": "yughnii hanish sharri man qur-aanahu qara-aa"
+      },
+      {
+        "number": 13,
+        "text": "hut ummatal mustafaa han kulli mafsadatin"
+      },
+      {
+        "number": 14,
+        "text": "waltarhamil khalqa yaa man jaddahum bada-aa"
+      },
+      {
+        "number": 15,
+        "text": "yaa maalikal mulki yaa man jalla han qawadin"
+      },
+      {
+        "number": 16,
+        "text": "irham jamiihal waraa yaa haadiyan rada-aa"
+      },
+      {
+        "number": 17,
+        "text": "mahawta maa qad nahaahul qalbu min dararin"
+      },
+      {
+        "number": 18,
+        "text": "bijaahi afdali man lil laahi qad laja-aa"
+      }
+    ]
+  }
+}

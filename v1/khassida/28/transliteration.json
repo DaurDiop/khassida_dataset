@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 28,
+    "name": "Faaqa Jamiha",
+    "transliterationName": "Faaqa Jamiha",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "faaqa jamiihal anbiyaa war rusuuli"
+      },
+      {
+        "number": 2,
+        "text": "sayyidunaa ahmadu hibbul mursili"
+      },
+      {
+        "number": 3,
+        "text": "qaddama ahmada halal kiraami"
+      },
+      {
+        "number": 4,
+        "text": "musrin bihi likulli bihtaraami"
+      },
+      {
+        "number": 5,
+        "text": "darajatul habdir rasuuli ahmadaa"
+      },
+      {
+        "number": 6,
+        "text": "sayyaratil akh-yaara ghurran hummadaa"
+      },
+      {
+        "number": 7,
+        "text": "jaadan nabii yawma alastu bijawaab"
+      },
+      {
+        "number": 8,
+        "text": "lil ghurri fal kulli ajaaba bisawaab"
+      },
+      {
+        "number": 9,
+        "text": "ahjaza kulli waalidin wa waalidah"
+      },
+      {
+        "number": 10,
+        "text": "ahmadunal lazii hulaahu khaalidah"
+      },
+      {
+        "number": 11,
+        "text": "aayaatu ahmada hawat aayaati man"
+      },
+      {
+        "number": 12,
+        "text": "madaw wa man yaatii wa faaqat zaz zaman"
+      },
+      {
+        "number": 13,
+        "text": "kitaabuhu kutuba ruslil munzili"
+      },
+      {
+        "number": 14,
+        "text": "hawaa wa jaada bil qiraa wan nuzuli"
+      },
+      {
+        "number": 15,
+        "text": "muhammadun halayhi afdalu salaam"
+      },
+      {
+        "number": 16,
+        "text": "muqaddamun bikhayri fihlin wa kalaam"
+      },
+      {
+        "number": 17,
+        "text": "bidaayaatul maahii nihaayatul khiyaar"
+      },
+      {
+        "number": 18,
+        "text": "faddalahu halal waraa zul ikhtiyaar"
+      },
+      {
+        "number": 19,
+        "text": "shahida kullu sayyidin yuhktaaru"
+      },
+      {
+        "number": 20,
+        "text": "bi-anna ahmada huwal mukhtaaru"
+      },
+      {
+        "number": 21,
+        "text": "yanqaadu lil mukhtaari maa siwaahu"
+      },
+      {
+        "number": 22,
+        "text": "farra lahu fadlan wa qad hawaahu"
+      },
+      {
+        "number": 23,
+        "text": "rasuulunaa faaqa jamiihar rusuuli"
+      },
+      {
+        "number": 24,
+        "text": "wal anbiyaa wahwa habiibul mursili"
+      }
+    ]
+  }
+}

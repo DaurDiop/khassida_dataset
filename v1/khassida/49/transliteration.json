@@ -1,0 +1,133 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 49,
+    "name": "Inni Ukhatibu",
+    "transliterationName": "Inni Ukhatibu",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "innii ukhaatibun nasaaraa turraa"
+      },
+      {
+        "number": 2,
+        "text": "fii ardihim limaalikii mudtaraa"
+      },
+      {
+        "number": 3,
+        "text": "tayaqqanuu bi-annanii lil laahi"
+      },
+      {
+        "number": 4,
+        "text": "habdun khadiimun lirasuulil laahi"
+      },
+      {
+        "number": 5,
+        "text": "wa annanii maaziltu zaa tabarru-i"
+      },
+      {
+        "number": 6,
+        "text": "min kulli man bil kufri zaa tajarru-i"
+      },
+      {
+        "number": 7,
+        "text": "walaa udaahinu zawit tanassuri"
+      },
+      {
+        "number": 8,
+        "text": "in shaa-a man yamunnu bit tabassuri"
+      },
+      {
+        "number": 9,
+        "text": "subhaanahu rabban ilayhi altajii"
+      },
+      {
+        "number": 10,
+        "text": "wa minhu tafriijal kuruubi artajii"
+      },
+      {
+        "number": 11,
+        "text": "akrim bihi rabban yaquudu maa yuriid"
+      },
+      {
+        "number": 12,
+        "text": "minal munaa liman minal khalqi yuriid"
+      },
+      {
+        "number": 13,
+        "text": "shakartuhu wa ash-hadu ashkuuruh"
+      },
+      {
+        "number": 14,
+        "text": "wa bi fu-aadii wa lisaanii azkuruh"
+      },
+      {
+        "number": 15,
+        "text": "ahbuduhu bidiinihil islaami"
+      },
+      {
+        "number": 16,
+        "text": "muwahhidan lahu mahas tislaami"
+      },
+      {
+        "number": 17,
+        "text": "waltash-haduu liya biqawliya mahaa"
+      },
+      {
+        "number": 18,
+        "text": "yawman jamiihal haalamiina jamahaa"
+      },
+      {
+        "number": 19,
+        "text": "al laahu rabbii zaahiran wa baatinaa"
+      },
+      {
+        "number": 20,
+        "text": "haysu akuunu rahilan aw qaatinaa"
+      },
+      {
+        "number": 21,
+        "text": "wal mustafaa wasiilatii ilayhi"
+      },
+      {
+        "number": 22,
+        "text": "sallaa bitasliimin halaa halayhi"
+      },
+      {
+        "number": 23,
+        "text": "yaa jumlatal khalqish haduu lii yawmaa"
+      },
+      {
+        "number": 24,
+        "text": "fiihi yahuuzul mujrimuuna lawmaa"
+      },
+      {
+        "number": 25,
+        "text": "bikawniyad daarayni habdal laahi"
+      },
+      {
+        "number": 26,
+        "text": "khadiima habdihibni habdil laahi"
+      },
+      {
+        "number": 27,
+        "text": "muhibba kulli musliimin wa muslimah"
+      },
+      {
+        "number": 28,
+        "text": "mubghida kulli mujrimin wa mujrimah"
+      },
+      {
+        "number": 29,
+        "text": "katabtuhu ahmadu zaa salaati"
+      },
+      {
+        "number": 30,
+        "text": "halaa nabiyyil laahi zis silaati"
+      }
+    ]
+  }
+}

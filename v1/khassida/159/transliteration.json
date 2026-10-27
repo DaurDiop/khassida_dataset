@@ -1,0 +1,53 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 159,
+    "name": "Sana Ilaahi",
+    "transliterationName": "Sana Ilaahi",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "saana ilaahii bil munaa jihaatii"
+      },
+      {
+        "number": 2,
+        "text": "wa abadan aghnaa yadii han haati"
+      },
+      {
+        "number": 3,
+        "text": "dalla halayyal hulamaa wal awliyaa"
+      },
+      {
+        "number": 4,
+        "text": "man laa yazaalu qu-atii wa hawliyaa"
+      },
+      {
+        "number": 5,
+        "text": "qasiidatii faaqat qasaa-idal kiraam"
+      },
+      {
+        "number": 6,
+        "text": "wa lii taquudu abadan khayral maraam"
+      },
+      {
+        "number": 7,
+        "text": "hadiyyatii mukhjilatun kulla malik"
+      },
+      {
+        "number": 8,
+        "text": "kaana munaazi han wa akhzaahul malik"
+      },
+      {
+        "number": 9,
+        "text": "mahaatawa juhan nasaral laahu"
+      },
+      {
+        "number": 10,
+        "text": "liya bilaa ilaaha illal laahu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 8,
+    "name": "Alal Mustafa Minni",
+    "transliterationName": "Alal Mustafa Minni",
+    "meter": "Rajas",
+    "verses": [
+      {
+        "number": 1,
+        "text": "عَلَى الْمُصْطَفَى مِنِّى صَلَاةٌ تَقِى الضَّيْرَا",
+        "transcription": "halal mustafaa minnii salaatun taqid dayraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 2,
+        "text": "جِهَاتِى كَمَا يُفْضِى إِلَى نَحْوِىَ الْخَيْرَا",
+        "transcription": "jihaatii kamaa yufdii ilaa nahwiyal khayraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 3,
+        "text": "عَلَى الْمُنْتَقَى مِنِّى سَلَامٌ مُّطَهِّرٌ",
+        "transcription": "halal muntaqaa minnii salaamun mutahhirun",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 4,
+        "text": "لِّكُلِّيَّتِى تَطْهِيرَ هَادٍ مَّحَا جَوْرَا",
+        "transcription": "likulliyyatii tat-hiira haadin mahaa jawraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 5,
+        "text": "صَلَاةٌ وَتَسْلِيمٌ مِّنَ اللَّهِ سَرْمَدًا",
+        "transcription": "salaatun wa tasliimun minal laahi sarmadan",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 6,
+        "text": "عَلَى مَنْ بِرَزَّقٍ يُصَفِّى لِىَ الْمَيْرَا",
+        "transcription": "halaa man birazzaqin yusaffii liyal mayraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 7,
+        "text": "عَلَى مَنْ بِهِ ى رَبُّ الْوَرَى أَنْشَأَ الْوَرَى",
+        "transcription": "halaa man bihii rabbul waraa ansa-al waraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 8,
+        "text": "صَلَاةٌ وَتَسْلِيمٌ يَدُو مَانِ لِى زَوْرَا",
+        "transcription": "salaatun wa taslimun yadduu maani lii zawraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 9,
+        "text": "مِنَ اللَّهِ رَبِّ الْعَرْشِ أَبْغِى بِهِ الْبِرَّا",
+        "transcription": "minal laahi rabbil harshi abghii bihil birraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 10,
+        "text": "بِجَاهِ رَسُولِ اللَّهِ مَنْ كَلْكَلِى سَرَّا",
+        "transcription": "bijaahi rasuulil laahi man kalkalii sarraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 11,
+        "text": "عَلَيْكَ صَلَاةُ اللَّهِ ثُمَّ سَلَامُهُ",
+        "transcription": "halayka salaatul laahi  summa salaamuhu",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 12,
+        "text": "دَوَامًا كَمَآ أَفْضَى إِلَى غَيْرِىَ الشَّرَّا",
+        "transcription": "dawaaman kamaa afdaa ilaa ghayriyash sharraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 13,
+        "text": "تَقَدُّ مَكَ الْبَادِى بَدَا لِى وَقَادَ لِى",
+        "transcription": "taqaddu makal baadii badaa lii wa qaada lii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 14,
+        "text": "نَوَلًا عَجِيبًا أَحْسَرَ الْجَهْرَ وَالسِّرَّا",
+        "transcription": "nawalan hajiiban ahsaral jahra was sirraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 15,
+        "text": "مِنَ اللَّهِ رُمْ لِى كَوْنَهُ لِى بِفَضْلِهِ",
+        "transcription": "minal laahi rum lii kawnahu lii bifadlihi",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 16,
+        "text": "خَدِيمًا لَّكُمْ يَامَنْ كَفَانِى الْعِدَى طُرَّا",
+        "transcription": "khadiiman lakum yaa man kafaanil hidaa turraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 17,
+        "text": "عَلَيْكُمْ صَلَاةٌ مَّعْ سَلَامٍ مِّنَ الْعَلِى",
+        "transcription": "halaykum salaatun mah salaamin minal halii",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 18,
+        "text": "بِئَالٍ وَأَصْحَابٍ لَّكُمْ مَّنْ حَوَوْاْ بِرَّا",
+        "transcription": "bi-aalin wa as-haabin lakum man hawaw birraa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 19,
+        "text": "عَلَيْكُمْ صَلَاةُ اللَّهِ مَا انْقَادَتِ الْمُنَى",
+        "transcription": "halaykum salaatul laahi man qaadatil munaa",
+        "translations": {
+          "fr": ""
+        }
+      },
+      {
+        "number": 20,
+        "text": "لِكُلِّى بِلَا مَكْرٍ وَمَا كَلْكَلِى سَرَّا",
+        "transcription": "likullii bilaa makrin wa maa kalkalii sarraa",
+        "translations": {
+          "fr": ""
+        }
+      }
+    ]
+  }
+}

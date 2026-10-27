@@ -1,0 +1,109 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 157,
+    "name": "Safar",
+    "transliterationName": "Safar",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "salaatul lazii fii kulli shahrin wa fii safar"
+      },
+      {
+        "number": 2,
+        "text": "hamaanii halaa maahin mahal habsa was safar"
+      },
+      {
+        "number": 3,
+        "text": "falaahi bikawnii habda rabbii khadiimahu"
+      },
+      {
+        "number": 4,
+        "text": "hajiibun bihi lii jaada mughnin hanin nafar"
+      },
+      {
+        "number": 5,
+        "text": "radiitu hanil mawlaa wa han khayri khalqihi"
+      },
+      {
+        "number": 6,
+        "text": "halayhi salaamaa man lahu ubtu biz zafar"
+      },
+      {
+        "number": 7,
+        "text": "salaatun wa tasliimun mahal bishri sarmadan"
+      },
+      {
+        "number": 8,
+        "text": "halaa man bihi muksii mahal amni wal bashar"
+      },
+      {
+        "number": 9,
+        "text": "firaariya bil mukhtaari min qablu qaada lii"
+      },
+      {
+        "number": 10,
+        "text": "mukuusan wa tabshiran ladal jinni wal bashar"
+      },
+      {
+        "number": 11,
+        "text": "rafahtu shukuuran bahda hamdin mukhalladin"
+      },
+      {
+        "number": 12,
+        "text": "libaaqin mahaa durril lazii haazahul qadar"
+      },
+      {
+        "number": 13,
+        "text": "salaatul lazii adhuuhu habdan lahu bihi"
+      },
+      {
+        "number": 14,
+        "text": "halaa man bihi lii qaada safwan bilaa kadar"
+      },
+      {
+        "number": 15,
+        "text": "fasaahatu khayril khalqi abdat qasaa-idii"
+      },
+      {
+        "number": 16,
+        "text": "wa kawnii bihaa habdan khadiiman lahu zahar"
+      },
+      {
+        "number": 17,
+        "text": "rabihtu rabaahan lam yakun qattu misluhu"
+      },
+      {
+        "number": 18,
+        "text": "bifadlil lazii kawnii habiiban lahush tahar"
+      },
+      {
+        "number": 19,
+        "text": "salaatul lazii lii qaada kawnii khaliilahu"
+      },
+      {
+        "number": 20,
+        "text": "halaa man bihi lii tayyabal badwa wal hadar"
+      },
+      {
+        "number": 21,
+        "text": "futuuhaatu rabbil harshi anqat mahaa-ibii"
+      },
+      {
+        "number": 22,
+        "text": "bijaahil lazii baahat bihi man halaw mudar"
+      },
+      {
+        "number": 23,
+        "text": "rabaahiya fii ikhdaami khayril waraa badaa"
+      },
+      {
+        "number": 24,
+        "text": "wa fii kulli shahrin zaydu ribhii wa fii safar"
+      }
+    ]
+  }
+}

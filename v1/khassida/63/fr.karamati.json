@@ -1,0 +1,363 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 63,
+    "name": "Jazbu 1",
+    "transliterationName": "Jazbu 1",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1,
+        "text": "La louange à la Vérité manifeste (Al-Ḥaqq al-Mubīn, Allah), Celui dont l'Être m'est évident, pour le Livre clair (le Coran) et pour tous Ses bienfaits."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 2,
+        "text": "Je loue mon Seigneur, l'Immense, d'une louange abondante qui jamais ne cesse, priant sur un Généreux (Muḥammad) qui a conduit les créatures vers le Dispensateur des bienfaits (Allah)."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 3,
+        "text": "Je rends grâce au Maître du Trône glorieux, d'une action de grâce que vient rencontrer le surcroît, saluant de paix l'Incomparable (Muḥammad) de toute ma poitrine et de ma parole."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 4,
+        "text": "Je Lui ai rendu grâce de m'avoir distingué par le service de Celui qui efface (Al-Māḥī, Muḥammad), le sublime ; service rendu en public, et Il a délié mes chaînes."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 5,
+        "text": "À Lui s'adresse ma parole, appelant à ce qu'Il aime, persévérant ; et Il a conduit vers moi mes desseins, provision pour la Demeure de la Générosité (le Paradis)."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 6,
+        "text": "Ô notre Seigneur, ô notre Seigneur, ô notre Seigneur, ô notre Seigneur ! Ô notre Seigneur, agrée notre effort par l'Élu (Muḥammad), le Vénéré."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 7,
+        "text": "Pour l'Élu (Muḥammad), pour qui l'on implore prière et paix, avec l'éloge de chaque année, j'ai demandé à Celui qui honore (Allah)."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 8,
+        "text": "Prie sur celui qui a été fait le Pôle de l'existence (Quṭb al-wujūd) lorsqu'il y descendit, et sur sa Famille, riche en dons, et sur ses Compagnons, et comble-les d'honneur."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 9,
+        "text": "Prie sur celui qui fut fait le meilleur des Prophètes, le privilégié, alors que notre père (Adam) gisait encore dans son argile ; et magnifie-le."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 10,
+        "text": "Et accorde la paix, ô mon Seigneur, au Sceau des Prophètes et des Messagers élus, notre vénéré Imām (Muḥammad)."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 11,
+        "text": "Et prie, ô Maître de la Grâce, sur le Messager de la Miséricorde, verrou de la porte du châtiment, cause (de la création) de toute âme."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 12,
+        "text": "Et accorde la paix, ô mon Absolu (Aṣ-Ṣamad), au Prophète Muḥammad, à sa Famille et à ceux qui louent, et sois avec celui qui suit ses traces."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 13,
+        "text": "Ô Maître de la Permanence et de l'Éternité, agrée de moi mes services, et par eux satisfais celui qui a la préséance (Muḥammad), ô Toi qui illumines le sentier."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 14,
+        "text": "Il est l'élite des Arabes, il accorde ce dont on a besoin, il est la voie de la quête, le médecin des malades."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 15,
+        "text": "Prie sur la Porte de la Guidance, à la portée lointaine, qui dispense la munificence, lion face aux ennemis, qui efface la perdition, porte des hauteurs et de la générosité."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 16,
+        "text": "Et accorde la paix au Fidèle (Al-Amīn, Muḥammad) : il est le Ferme et le Fort, il est le Protecteur et le Digne de cette louange ; et honore-le."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 17,
+        "text": "Il est l'Incomparable et le Glorieux, il est le Pieux et le Singulier, celui qui avec droiture conduit aux Jardins celui qui était aveugle (en esprit)."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 18,
+        "text": "Répands prière et paix, ô Tout-Puissant, sur Ta Lampe qui illumine (as-Sirāj al-Munīr, Muḥammad) : il est l'Annonciateur et l'Avertisseur, par les châtiments et par les bienfaits."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 19,
+        "text": "Il est le Messager de la Miséricorde, il est vaste en miséricorde, il est le maître de l'éloquence, il est le Messager de la grande bataille (al-malḥama)."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 20,
+        "text": "Répands prière et paix à jamais, ô Toi qui m'as préservé de l'affliction, sur le Radieux Aḥmad (Muḥammad), et sois avec moi par Tes faveurs."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 21,
+        "text": "Pare de beauté mon extérieur et mon intérieur par le Pur (Muḥammad), ô Toi qui, par son rang, effaces mes péchés graves et mes fautes légères."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 22,
+        "text": "Ô Toi auprès de qui est mon espérance, de ma part répands Ta prière sur l'Enveloppé dans son manteau (Al-Muzzammil, Muḥammad), avec tous les parfaits et toutes les communautés."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 23,
+        "text": "Et accorde la paix, ô Créateur sans modèle (Al-Badīʿ), à l'Obéi et à l'Obéissant : il est l'Intercesseur dont l'intercession est agréée, Ton Bien-Aimé magnifié."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 24,
+        "text": "Prie sur le Vénéré (Muḥammad), ô Toi qui as protégé de la honte ; auprès de Toi efface ma crainte, et auprès de lui magnifie-le."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 25,
+        "text": "Ô notre Seigneur, ô notre Seigneur, ô notre Ami intime, ô notre Bien-Aimé, agrée de nous nos écrits par Ton Élu (Muḥammad), l'échelle (vers Toi)."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 26,
+        "text": "Répands prière et paix sur celui (Muḥammad) qui répondit « Si ! » (Balā), le premier, au Jour du « Ne suis-Je pas (votre Seigneur) ? » (Alastu), avant tous ceux qui parlèrent."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 27,
+        "text": "Prie sur le meilleur des Messagers, ô Toi qui par son entremise accordes ce que l'on demande, avec la Famille et les Compagnons intègres, et agrée mon calame."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 28,
+        "text": "Accorde-moi que mon calame soit une bonne nouvelle de celui qui est placé en tête (Muḥammad), et par son entremise décrète ma prééminence, sans offense ni douleur."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 29,
+        "text": "Prie sur le meilleur des Prophètes, qui a conduit les créatures par le bon comportement (al-adab), ô Toi qui par son rang m'as préservé de ma mauvaise conduite ; et accorde la paix."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 30,
+        "text": "Il est celui qui, par sa guidance, a surpassé toutes les autres créatures, jusqu'à ce que son nom apparût écrit sur Ton Trône magnifié,"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 31,
+        "text": "dans les Jardins et sur les voûtes (célestes), sur les visages et dans les cavernes ; et par les lances et les épées il a déraciné toute idole."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 32,
+        "text": "Il a conduit les bien-guidés vers la félicité par le meilleur de ses Rappels, le sage (le Coran), par son Seigneur, l'Éternel, l'Ancien : gloire à Celui qui ne dort pas !"
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 33,
+        "text": "Répands prière et paix à jamais sur celui pour qui, la nuit où il naquit, furent chassés ceux qui persistent dans le péché."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 34,
+        "text": "La nuit de la naissance du Prophète (Mawlid) est la nuit où sont effacés les doutes, la nuit où sont effacées la peine et purifié celui qui a péché."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 35,
+        "text": "En elle sont le salut et la réussite, avec la joie et le succès ; en elle le gain et la vertu, avec le refoulement des châtiments."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 36,
+        "text": "Elle renferma des prodiges manifestes, attestés par les transmetteurs, tel le feu (sacré des Perses) qui fut éteint, avec la dissipation de l'humiliation ;"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 37,
+        "text": "et le lac de Sāwa, qui avait été magnifié et vénéré par les Perses avant la (vraie) religion, et fut réduit à néant ;"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 38,
+        "text": "et comme la chute des étoiles filantes, pour chasser les gens du doute (les démons) de l'écoute furtive des nouvelles du Prophète ; et ils s'en retournèrent pleins de remords."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 39,
+        "text": "En elle le Lapidé (Satan) fut chassé des cieux par les étoiles, et il s'enfuit vaincu, digne de blâme, avec sa faction, plein d'affliction et d'angoisse."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 40,
+        "text": "Elle (la lumière) resplendit lorsque naquit le meilleur des Prophètes, qui apparut (au monde) ; que prie sur lui Celui (Allah) qui a guidé son cœur par les sagesses."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 41,
+        "text": "Une lumière immense, grâce à laquelle vit les palais de César celui qui se trouvait dans la Mère des Cités, La Mecque, le meilleur des sanctuaires."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 42,
+        "text": "En elle se fendit le palais de Chosroès, qui auparavant avait été élevé, et sa voûte s'élançait vers le ciel de Celui qui honore (Allah) ;"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 43,
+        "text": "jusqu'à ce que le trône même se brisât, sous la terreur qui l'enveloppa, devant la lumière du meilleur des créatures : ô Seigneur, accorde-lui la paix,"
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 44,
+        "text": "après une prière qui ne cesse jamais, avec la Famille et les Compagnons intègres ; et par mon entremise renouvelle la Voie, sans ennemis ni douleur."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 45,
+        "text": "Répands prière et paix sur celui qui a reçu une naissance qui a repoussé vers d'autres que nous ceux qui nourrissent la haine, et agrée mes services."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 46,
+        "text": "Sa naissance (le Mawlid) est magnifiée, bénie, vénérée ; l'honorer est un devoir pour ceux qui ont la préséance (dans la foi)."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 47,
+        "text": "L'honorer selon la Sunna nous conduit au Paradis ; par elle s'accroît la grâce pour celui qui est sincère et l'honore."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 48,
+        "text": "Quiconque honore la naissance de notre Prophète, Porte de la Guidance, n'aura pas de comptes à rendre demain : respecte-la donc et honore-la."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 49,
+        "text": "Quiconque honore la naissance du meilleur des créatures, Aḥmad (Muḥammad), est comme celui qui fut présent à Badr, sans aucune illusion."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 50,
+        "text": "Quiconque a dépensé pour sa noble naissance des biens, sans gaspillage, fût-ce la valeur d'un dirham,"
+      }
+    ]
+  }
+}

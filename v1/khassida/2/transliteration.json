@@ -1,0 +1,205 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 2,
+    "name": "Ahuzu Bil Laahi Min Mayli",
+    "transliterationName": "Ahuzu Bil Laahi Min Mayli",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "ahuuzu bil laahi min maylii lighayri ridaa"
+      },
+      {
+        "number": 2,
+        "text": "wa min suduudiya hammaa sunna aw furidaa"
+      },
+      {
+        "number": 3,
+        "text": "halayya kawniya habdal laahi fii abadin"
+      },
+      {
+        "number": 4,
+        "text": "mahal kitaabil lazii man raddahu quridaa"
+      },
+      {
+        "number": 5,
+        "text": "wasiilatii habdahul mukhtaaru sayyidunaa"
+      },
+      {
+        "number": 6,
+        "text": "wahwal lazii man abaa taghdiimahu khufidaa"
+      },
+      {
+        "number": 7,
+        "text": "zaakash shafiihul lazii arjuu shafaahatahu"
+      },
+      {
+        "number": 8,
+        "text": "dunyaa wa ukhraa walaa abghii bihi hiwadaa"
+      },
+      {
+        "number": 9,
+        "text": "baayahtuhu bifu-aadii hiira lam tarahu"
+      },
+      {
+        "number": 10,
+        "text": "haynii wa akhdimuhu lil laahi muftaridaa"
+      },
+      {
+        "number": 11,
+        "text": "aslamtu wajhii lirabbii bin nabii abadan"
+      },
+      {
+        "number": 12,
+        "text": "mahal kitaabil lazii qad saaqa lil gharadaa"
+      },
+      {
+        "number": 13,
+        "text": "lil laahi kulliyyatii habdan lahu abadan"
+      },
+      {
+        "number": 14,
+        "text": "walaa utaawihu man qad jaara aw rafadaa"
+      },
+      {
+        "number": 15,
+        "text": "lil laahi qad tubtu fii zal yawmi bidahii"
+      },
+      {
+        "number": 16,
+        "text": "wa kulli hahdin li-ajlish shakki qad nuqidaa"
+      },
+      {
+        "number": 17,
+        "text": "huwal hafiizul lazii qad kaana lii wa hamaa"
+      },
+      {
+        "number": 18,
+        "text": "kulii wa azhab hannil karba wal maradaa"
+      },
+      {
+        "number": 19,
+        "text": "mahawta an yaqsidash shaytaanu fii abadin"
+      },
+      {
+        "number": 20,
+        "text": "ilaa jihaatii fahahdi laysa muntaqidaa"
+      },
+      {
+        "number": 21,
+        "text": "nahuuzu bil laahi fii sirri wa fii halanin"
+      },
+      {
+        "number": 22,
+        "text": "min sharri ibliisa haysu anghadda aw rakadaa"
+      },
+      {
+        "number": 23,
+        "text": "ijhal bihifzika lii hidan yaghii dararan"
+      },
+      {
+        "number": 24,
+        "text": "yaa khayra man kaffa waqbad hanniyal fadadaa"
+      },
+      {
+        "number": 25,
+        "text": "shakawtu haalii ilaykal yawma murtajiyan"
+      },
+      {
+        "number": 26,
+        "text": "artagh-harad dahra lii man qalbuhu maridaa"
+      },
+      {
+        "number": 27,
+        "text": "shakkii wa waswasatii han qalbiyan sarafaa"
+      },
+      {
+        "number": 28,
+        "text": "fakammilanniya waltuslih liyar rabadaa"
+      },
+      {
+        "number": 29,
+        "text": "ya-ummunii qitlunaa ibliisu zaa hiyalin"
+      },
+      {
+        "number": 30,
+        "text": "wa anta rabbii wa liyyii fakfinil haradaa"
+      },
+      {
+        "number": 31,
+        "text": "tayyib naqaa-ii bi-amnin was salaamati min"
+      },
+      {
+        "number": 32,
+        "text": "ibliisa waltakfiniihid dahra irnnahadaa"
+      },
+      {
+        "number": 33,
+        "text": "utruduhu hanniya yaa rabbii wa maa mahahu"
+      },
+      {
+        "number": 34,
+        "text": "dunyaa wa ukhraa bitakh-yiibin matii haradaa"
+      },
+      {
+        "number": 35,
+        "text": "nazzif fu-aadii minal agh-yaari zaa warahin"
+      },
+      {
+        "number": 36,
+        "text": "yaa khayra man rayza qalbii bil hudaa rahadaa"
+      },
+      {
+        "number": 37,
+        "text": "isrif jamiihal ahaadii bin nabii abadan"
+      },
+      {
+        "number": 38,
+        "text": "hannii bitaskhiirihim yaa khayra man khafadaa"
+      },
+      {
+        "number": 39,
+        "text": "lakal khazaa-inu faftah lii wazid busharii"
+      },
+      {
+        "number": 40,
+        "text": "waltakfinii kulla man yaatii liyahtaridaa"
+      },
+      {
+        "number": 41,
+        "text": "rajawtu sarfaka hannii kulla mafsadatin"
+      },
+      {
+        "number": 42,
+        "text": "haqqiw rajaa-ii wa lik shif sirra maa ghamudaa"
+      },
+      {
+        "number": 43,
+        "text": "jismii wa ahli wa awlaadii lakum abadan"
+      },
+      {
+        "number": 44,
+        "text": "wa diihatan fakfinad daarayni suu-a qadaa"
+      },
+      {
+        "number": 45,
+        "text": "yaa man lahul amru kun lii wahminii abadan"
+      },
+      {
+        "number": 46,
+        "text": "wa salli da-ban halaa man hubbuhu furidaa"
+      },
+      {
+        "number": 47,
+        "text": "muhammadin summa sallimi mah jamaahatihi"
+      },
+      {
+        "number": 48,
+        "text": "wajhal bihi kulla maa minnii yajii-u ridaa"
+      }
+    ]
+  }
+}

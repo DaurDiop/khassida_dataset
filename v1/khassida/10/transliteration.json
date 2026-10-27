@@ -1,0 +1,229 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 10,
+    "name": "Anta Rabbi",
+    "transliterationName": "Anta Rabbi",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "anta rabbii wa kunta lii biwidaadii"
+      },
+      {
+        "number": 2,
+        "text": "laka shukrii lijannati bimidaadi"
+      },
+      {
+        "number": 3,
+        "text": "laka shukrii halaa jamiihi halaalin"
+      },
+      {
+        "number": 4,
+        "text": "suqtahu lii lijannatin zaa sadaadi"
+      },
+      {
+        "number": 5,
+        "text": "laka kullii yaa zal baqaa zaa baqaa-in"
+      },
+      {
+        "number": 6,
+        "text": "ayatan minka sarmadan yaa himaadii"
+      },
+      {
+        "number": 7,
+        "text": "hab liyad dahra an aduuma suruuran"
+      },
+      {
+        "number": 8,
+        "text": "lihabiibi bihi halaykah timaadii"
+      },
+      {
+        "number": 9,
+        "text": "minka abghii lahu salaamay wa duudin"
+      },
+      {
+        "number": 10,
+        "text": "zii baqaa-in yakuunu lii bimuraadii"
+      },
+      {
+        "number": 11,
+        "text": "hutniyad dahra zaa ridan wa amaanin"
+      },
+      {
+        "number": 12,
+        "text": "hut hiyaalii hanil wabaa wal jaraadi"
+      },
+      {
+        "number": 13,
+        "text": "mudda lii minka maa ashaa fii dawaamin"
+      },
+      {
+        "number": 14,
+        "text": "wa bikhattir fahil hulaa bin firaadi"
+      },
+      {
+        "number": 15,
+        "text": "minka abghii bilan tihaa-in salaamay"
+      },
+      {
+        "number": 16,
+        "text": "waasihin lil malal kirraamil hibaadi"
+      },
+      {
+        "number": 17,
+        "text": "daa-imuktub liyar ridaa bihiyaalii"
+      },
+      {
+        "number": 18,
+        "text": "wal tubashshir khayral waraa bimidaadii"
+      },
+      {
+        "number": 19,
+        "text": "inna zal juudi wal hulaa wal jamaali"
+      },
+      {
+        "number": 20,
+        "text": "maalikal mulki zal hudaa wal kamaali"
+      },
+      {
+        "number": 21,
+        "text": "laa-iqun bish shukuuri wahwa shakuurun"
+      },
+      {
+        "number": 22,
+        "text": "wa bihi rumtu shukrahu bil halaali"
+      },
+      {
+        "number": 23,
+        "text": "lii yasuuqul halaala duuna hisaabin"
+      },
+      {
+        "number": 24,
+        "text": "wa bikhattii yuziilu kulla dalaali"
+      },
+      {
+        "number": 25,
+        "text": "hadamad durra han janaabii dawaaman"
+      },
+      {
+        "number": 26,
+        "text": "wa bikhayrin yajuudu lii zaa jamaali"
+      },
+      {
+        "number": 27,
+        "text": "madda lii fadlahu bighayrin tihaa-in"
+      },
+      {
+        "number": 28,
+        "text": "bin nabiyyil kariimi duunakh tilaali"
+      },
+      {
+        "number": 29,
+        "text": "hamdiyad dahra lillazii saaqa fadlan"
+      },
+      {
+        "number": 30,
+        "text": "bir rasuulil amiini lii zat tisaali"
+      },
+      {
+        "number": 31,
+        "text": "madda lii maalikii takarruma baaqin"
+      },
+      {
+        "number": 32,
+        "text": "zaq tiraabin minhu bighayrin fisaali"
+      },
+      {
+        "number": 33,
+        "text": "mallakatnii halan nabiyyi muraadii"
+      },
+      {
+        "number": 34,
+        "text": "qultu hazaa shukraa bighayrikh tiyaali"
+      },
+      {
+        "number": 35,
+        "text": "daa-imuktub lahu salaamay wa duudin"
+      },
+      {
+        "number": 36,
+        "text": "han janaabii wa han janaabi hiyaalii"
+      },
+      {
+        "number": 37,
+        "text": "azhabad durra maalikii han janaabii"
+      },
+      {
+        "number": 38,
+        "text": "wa janaabil hiyaali zaalal hanaabii"
+      },
+      {
+        "number": 39,
+        "text": "lillazii mulkuhu yaduumu suruurii"
+      },
+      {
+        "number": 40,
+        "text": "wa kafaa kulliyal azaa figh tiraabii"
+      },
+      {
+        "number": 41,
+        "text": "lil ilaahil kariimi hamdii wa shukri"
+      },
+      {
+        "number": 42,
+        "text": "zaa salaatin halaa nabii biqtiraabii"
+      },
+      {
+        "number": 43,
+        "text": "hadamal laahu bunyatad durri hannii"
+      },
+      {
+        "number": 44,
+        "text": "wa bikhayril waraa azaalal hanaabii"
+      },
+      {
+        "number": 45,
+        "text": "man bil hilmi wal munaa mah baqaa-in"
+      },
+      {
+        "number": 46,
+        "text": "bil lazii laysa yantamii linsilaabi"
+      },
+      {
+        "number": 47,
+        "text": "huztu min maalikii bikhayril baraayaa"
+      },
+      {
+        "number": 48,
+        "text": "khayra nasrin halal hidaa bin qilaabi"
+      },
+      {
+        "number": 49,
+        "text": "madhu rabbii wa madhu khayri musallin"
+      },
+      {
+        "number": 50,
+        "text": "qaada lii jumlatal munaa bin hilaabi"
+      },
+      {
+        "number": 51,
+        "text": "mudda khayras salaati duunan tihaa-in"
+      },
+      {
+        "number": 52,
+        "text": "mah salaamin yaa najiyyan qad khalaabi"
+      },
+      {
+        "number": 53,
+        "text": "daa-iman lillazii katabtu bihi lii"
+      },
+      {
+        "number": 54,
+        "text": "khayra ibqan laa yantamii lin silaabi"
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 65,
+    "name": "Jazbu 3",
+    "transliterationName": "Jazbu 3",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 101,
+        "text": "Les vents le secouraient comme le secouraient les lances, et il n'avait nul besoin d'armes, grâce à son Seigneur qui honore."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 102,
+        "text": "Ô Seigneur, prie à jamais sur le Prophète Aḥmad (Muḥammad), sur sa Famille, gens de la bonne guidance, et sur ses Compagnons, et accorde la paix."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 103,
+        "text": "Ô Seigneur, prie à jamais sur le Prophète qui T'a adoré, sur sa Famille, gens de la munificence, et sur ses Compagnons, et accorde la paix."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 104,
+        "text": "Ô Seigneur, prie à tout instant sur Ton Messager fidèle, sur sa Famille, gens de la certitude, et sur ses Compagnons, et accorde la paix."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 105,
+        "text": "Ô Seigneur, prie à travers les siècles sur celui qui a effacé la perdition, sur sa Famille, gens de l'allégresse, et sur ses Compagnons, et accorde la paix."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 106,
+        "text": "Ô Seigneur, prie chaque année sur le Prophète, le meilleur des hommes, et sur sa Famille, à perpétuité, et sur ses Compagnons, et accorde la paix."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 107,
+        "text": "Ô Seigneur, prie en tout temps sur l'Éloquent au silence recueilli, sur sa Famille, gens de la dévotion, et sur ses Compagnons, et accorde la paix."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 108,
+        "text": "Ô Seigneur, prie le jour sur le Prophète, fierté (de la lignée) de Nizār, sur sa Famille, gens de la gloire, et sur ses Compagnons, et accorde la paix."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 109,
+        "text": "Ô Seigneur, prie au matin sur le Prophète, riche en vertu, sur sa Famille, gens de la réussite, et sur ses Compagnons, et accorde la paix."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 110,
+        "text": "Répands prière et paix, le soir et la nuit, ô Toi qui es le Saint (Al-Quddūs), sur le chef des chefs, le meilleur des créatures, mon échelle (vers Toi)."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 111,
+        "text": "Ô Seigneur, prie avec la paix sur le Prophète, à perpétuité, et sur la Famille et les nobles Compagnons, et par lui agrée ma composition."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 112,
+        "text": "Prie sur le lion (Muḥammad) qui a guéri (les cœurs) au jour de Badr, lorsqu'il fut fidèle, avec les Compagnons de foi pure (al-ḥunafāʾ), à son pacte magnifié."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 113,
+        "text": "Accorde la paix à la Pleine Lune (Muḥammad) qui a dissipé les ténèbres des cœurs et s'est élevée, à ceux qui possèdent les stations sublimes et à sa troupe, et magnifie-les."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 114,
+        "text": "Se leva le meilleur des hommes au milieu des troupes les plus élues, face aux orgueilleux, comme la pleine lune au milieu des étoiles."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 115,
+        "text": "Un jour où la lutte devint âpre, un jour où le combat devint âpre, le jour où les hommes se reconnurent, le jour de l'agrément et de la consternation."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 116,
+        "text": "Ce jour-là fut la réussite pour le bien-guidé, et le gain ; pour celui qui s'élève, et la vertu, pour tout musulman."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 117,
+        "text": "Un jour où le Seigneur des créatures a pardonné les péchés de ceux qui prirent part à son combat, les graves comme les légers."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 118,
+        "text": "Les Compagnons, gens du bien, y rencontrèrent les compagnons (de Quraysh), gens du mal ; et les uns comme les autres étaient des lions furieux, aux hautes résolutions."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 119,
+        "text": "Ils se disputèrent ensemble la mort, et chacun d'eux fut vaillant, désirant la rencontre (avec Dieu) ou d'être terrassé, par amour de Celui qui efface les angoisses (Muḥammad)."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 120,
+        "text": "Et ils combattirent ceux dont l'Intercesseur des intercesseurs (Muḥammad) avait annoncé la mort, jusqu'à ce que la poussière s'élevât entre le lâche et le preux."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 121,
+        "text": "Puis descendirent du ciel une cavalerie et une armée immense vers le chef des nobles (Muḥammad), apportant la joie sans angoisse."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 122,
+        "text": "Le Seigneur des hommes le renforça d'une armée d'anges puissants, pour (accroître) le nombre, non pour la mêlée : ils terrassèrent les orgueilleux."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 123,
+        "text": "Et parmi eux, lorsqu'ils arrivèrent, se trouvait son ami intime glorifié, Gabriel — quel excellent soutien ! — sur un destrier puissant."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 124,
+        "text": "Et ils accoururent au combat avec les épées et les lances, par amour de la vertu et de la réussite, derrière l'Imām suprême (Muḥammad)."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 125,
+        "text": "Et parmi eux se trouvait celui qui a réalisé (la foi), notre maître, le favorisé de Dieu, le plus sincère de ceux qui ont cru en l'illustre Hāshimite (Muḥammad) :"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 126,
+        "text": "son Véridique (Aṣ-Ṣiddīq, Abū Bakr), le magnifié, détenteur de majesté, le vénéré, son patient compagnon dans la grotte, second seulement au Plus-Savant (le Prophète)."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 127,
+        "text": "Et parmi eux se trouvait celui à qui fut annoncé tout bien, ʿUmar, notre maître, l'homme du conseil, gloire de tout musulman."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 128,
+        "text": "Et parmi eux se trouvait celui qui épousa les deux filles du chef des vertueux (Muḥammad), les Deux Lumières, lorsqu'elles prospérèrent par la rémission de tout péché :"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 129,
+        "text": "notre maître, le paré de beauté, ʿUthmān, celui qu'ils tuèrent tandis qu'il récitait le Livre de Celui (Allah) qui donne avec largesse."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 130,
+        "text": "Et parmi eux se trouvait celui qui dissipa l'idolâtrie, père d'Al-Ḥusayn et d'Al-Ḥasan, porte des sciences, le gendre (du Prophète), père des astres nobles :"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 131,
+        "text": "notre maître, l'honoré, son ʿAlī magnifié, qui terrasse les ennemis, le lion intrépide, qui efface l'offense et la tristesse."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 132,
+        "text": "Par ce jour-là nous avons obtenu la sécurité contre la crainte, contre la peine et la honte, contre le tourment et le remords."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 133,
+        "text": "Par lui (le jour de Badr) nous avons été dispensés, en vue des Jardins, de l'expédition et de l'humiliation ; par lui le temps nous est devenu propice, avec l'agrément des (nos) services."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 134,
+        "text": "Louons donc Dieu pour notre salut de celui qui nous a haïs et de tout mal décrété, par l'Élu (Muḥammad), placé devant tous."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 135,
+        "text": "En vérité je m'adresse au Beau (Allah) pour lui (Muḥammad), pour la Famille intègre et pour ses Compagnons, sans qu'ils tombent dans l'oubli, par « prie » et « accorde la paix »."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 136,
+        "text": "Ô notre Seigneur, ô notre Seigneur, ô notre Ami intime, ô notre Bien-Aimé, prie sur notre maître Muḥammad et accorde la paix,"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 137,
+        "text": "ainsi qu'à sa Famille, à ses Compagnons et à quiconque lui est attaché parmi les Saints de sa troupe ; et agrée mon calame."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 138,
+        "text": "Agrée les nobles Compagnons, d'un agrément qui conduise vers moi ce que je désire ; et sois avec moi, ô Seigneur des hommes, sans ennemis ni douleur."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 139,
+        "text": "Agrée ma prière sur notre maître, Porte des hauteurs, et accueille ce poème pour Ta noble Face."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 140,
+        "text": "Ô notre Seigneur, prie sur le meilleur des Prophètes qui aient été envoyés, Muḥammad, accrois l'élévation de sa communauté, et accorde la paix."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 141,
+        "text": "Ô notre Seigneur, prie sur le meilleur des Messagers, le privilégié, Muḥammad ; rends doux comme le miel mon écrit, et accorde la paix."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 142,
+        "text": "Ô notre Seigneur, prie sur le meilleur des Prophètes, l'exalté, Muḥammad ; par lui agrée mon écriture, et accorde la paix."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 143,
+        "text": "Ô notre Seigneur, prie sur le meilleur des Messagers, le vénéré, Muḥammad ; par lui pare de beauté mon état, et accorde la paix."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 144,
+        "text": "Ô notre Seigneur, prie sur le meilleur des intercesseurs, dont l'intercession est agréée, Muḥammad ; par lui mène à son terme mon dessein, et accorde la paix."
+      }
+    ]
+  }
+}

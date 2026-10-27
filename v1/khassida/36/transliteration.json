@@ -1,0 +1,101 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 36,
+    "name": "Halayka Yaa Mukhtaru",
+    "transliterationName": "Halayka Yaa Mukhtaru",
+    "meter": "Rajas",
+    "edition": "transliteration",
+    "verses": [
+      {
+        "number": 1,
+        "text": "halayka yaa mukhtaaru bijtihaadi"
+      },
+      {
+        "number": 2,
+        "text": "fii kulli saahatin halar rashaadi"
+      },
+      {
+        "number": 3,
+        "text": "walaa zimit taqwaa wa rum tahallumaa"
+      },
+      {
+        "number": 4,
+        "text": "walaa tukashshirra lihibaa fatandamaa"
+      },
+      {
+        "number": 5,
+        "text": "wasbir halal balaa-i wat taqaddudi"
+      },
+      {
+        "number": 6,
+        "text": "wadum halas sukuunin wat tajalludi"
+      },
+      {
+        "number": 7,
+        "text": "in tajtahida fil hilmi waqta sigharik"
+      },
+      {
+        "number": 8,
+        "text": "tanal maghaasidaka waqta kibarik"
+      },
+      {
+        "number": 9,
+        "text": "wa lasta tajtawii akhil mazaayaa"
+      },
+      {
+        "number": 10,
+        "text": "maa lam tudim sabraa halar razaayaa"
+      },
+      {
+        "number": 11,
+        "text": "sabraa jamiilan laa takuun kasuulaa"
+      },
+      {
+        "number": 12,
+        "text": "innal kasuula laa yasuudul jiilaa"
+      },
+      {
+        "number": 13,
+        "text": "wa naa-i kulla maa nahal jaliilu"
+      },
+      {
+        "number": 14,
+        "text": "wasiq bimaa jaa-a bihir rasuulu"
+      },
+      {
+        "number": 15,
+        "text": "walaa tusaahib ghayra man yurshidukaa"
+      },
+      {
+        "number": 16,
+        "text": "wa naa-i kulla saahibin yuhlikukaa"
+      },
+      {
+        "number": 17,
+        "text": "izrubba ghumrin qad ghadaa nabiilaa"
+      },
+      {
+        "number": 18,
+        "text": "bisuhbatis saalihi laa tamiilaa"
+      },
+      {
+        "number": 19,
+        "text": "wa rubba saalihin ghadaa zaliilaa"
+      },
+      {
+        "number": 20,
+        "text": "bisuhbatil ahmaqi zarjahuulaa"
+      },
+      {
+        "number": 21,
+        "text": "kun mutawakkilan halar rahmaani"
+      },
+      {
+        "number": 22,
+        "text": "fii kulli waqtin yaa fatad daymaani"
+      }
+    ]
+  }
+}
