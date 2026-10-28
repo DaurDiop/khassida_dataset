@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 190,
+    "name": "Yarabbi",
+    "transliterationName": "Yarabbi",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Ô Seigneur, par l'Élu, le Choisi de Muḍar, intercesseur de sa communauté dans le désert et la cité,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "bénis-le avec le salut de paix sans nombre, dans la Famille et les Compagnons, et préserve-nous du dommage."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Éloigne la communauté de l'Élu de ce qui lui entraîne autre chose que les adorations, et préserve-les des étincelles (du mal)."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Et détourne vers d'autres qu'eux Satan à jamais, et épargne-leur quiconque assaille parmi les hommes."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Et détourne la maladie des malades de tous, par lui, et détourne vers eux ce qui rend nécessaires la sécurité et les bonnes nouvelles."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Et mets les cœurs des dotés d'Islām dans la sécurité, et épargne-leur tout ce qui mène au péril."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Et bénis toujours avec le salut de paix, sur lui, avec ceux qui se sont affiliés à lui ; et octroie la limpidité et les perles."
+      }
+    ]
+  }
+}

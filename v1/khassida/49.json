@@ -247,6 +247,173 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "إِنِّى أُخَاطِبُ النَّصَارَى طُرَّا ۞ فِى أَزْضِهِمْ لِمَالِكِى مُضْطَرَا",
+        "translations": {
+          "it.karamati": "In verità io mi rivolgo a tutti i Cristiani, nella loro terra, bisognoso (soltanto) del mio Padrone:",
+          "en.karamati": "Truly I address all the Christians, in their land, in need (only) of my Master:",
+          "fr.karamati": "En vérité je m'adresse à tous les Chrétiens, sur leur terre, nécessiteux (seulement) de mon Maître :"
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "تَيَقَّنُواْ بِأَنَّنِى لِلَّهِ ۞ عَبْدٌ خَدِيمٌ لِّرَسُولِ اللَّهِ",
+        "translations": {
+          "it.karamati": "siate certi che io sono, per Allah, un servo, e servitore dell'Inviato di Allah,",
+          "en.karamati": "be certain that I am, for Allah, a slave, and a servant of the Messenger of Allah,",
+          "fr.karamati": "soyez certains que je suis, pour Allah, un serviteur, et serviteur de l'Envoyé d'Allah,"
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "وَأَنَّنِى مَازِلْتُ ذَا تَبَرُّإِ ۞ مِنْ كُلِّ مَنْ بِالْكُفْرِ ذَا تَجَرُّإِ",
+        "translations": {
+          "it.karamati": "e che non ho cessato di dissociarmi da chiunque osi (perseverare) nella miscredenza,",
+          "en.karamati": "and that I have never ceased to dissociate myself from whoever dares (persist) in disbelief,",
+          "fr.karamati": "et que je n'ai cessé de me désolidariser de quiconque ose (persévérer) dans la mécréance,"
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَلَآ أُدَاهِنُ ذَوِى التَّنَصُّرِ ۞ إِنْ شَآءَ مَنْ يَّمُنُّ بِالتَّبَصُّرِ",
+        "translations": {
+          "it.karamati": "e non adulo coloro che si sono fatti cristiani, se Colui che dona il discernimento lo vuole.",
+          "en.karamati": "and I do not flatter those who have become Christians, if He Who bestows discernment so wills.",
+          "fr.karamati": "et je ne flatte pas ceux qui se sont faits chrétiens, si Celui qui accorde le discernement le veut."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "سُبْحَانَهُ رَبًّا إِلَيْهِ أَلْتَجِى ۞ وَمِنْهُ تَفْرِيجَ الْكُرُوبِ أَرْتَجِى",
+        "translations": {
+          "it.karamati": "Gloria a Lui, Signore presso cui mi rifugio, e da cui spero il sollievo delle angosce.",
+          "en.karamati": "Glory be to Him, the Lord in Whom I take refuge, and from Whom I hope for relief from distress.",
+          "fr.karamati": "Gloire à Lui, Seigneur auprès de Qui je me réfugie, et de Qui j'espère le soulagement des angoisses."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "أَكْرِمْ بِهِ رَبًّا يَقُودُ مّا يُرِيدْ ۞ مِنْ الْمُنَى لِمَنْ مِّنَ الْخَلْقِ يُرِيدْ",
+        "translations": {
+          "it.karamati": "Quanto è generoso come Signore! Conduce ciò che vuole dei desideri a chi vuole tra le creature.",
+          "en.karamati": "How generous a Lord He is! He leads what He wills of wishes to whom He wills among creatures.",
+          "fr.karamati": "Qu'Il est généreux comme Seigneur ! Il mène ce qu'Il veut des souhaits à qui Il veut parmi les créatures."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "شَكَرْتُهُ وَأَشْهَدُ أَشْكُورُهْ ۞ وَبِفُؤَادِى وَلِسَانِى أَذْكُرُهْ",
+        "translations": {
+          "it.karamati": "L'ho ringraziato e attesto che Lo ringrazio, e con il mio cuore e la mia lingua Lo ricordo.",
+          "en.karamati": "I have thanked Him and I bear witness that I thank Him, and with my heart and my tongue I remember Him.",
+          "fr.karamati": "Je L'ai remercié et j'atteste que je Le remercie, et par mon cœur et ma langue je L'invoque."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "أَعْبُدُهُ بِدِينِهِ الْإِسْلَامِ ۞ مُوَحِّدًا لَّهُ مّعَ اسْتِسْلَامِ",
+        "translations": {
+          "it.karamati": "Lo adoro con la Sua religione, l'Islam, professando la Sua unicità, con sottomissione.",
+          "en.karamati": "I worship Him through His religion, Islam, affirming His oneness, with surrender.",
+          "fr.karamati": "Je L'adore par Sa religion, l'Islam, en professant Son unicité, avec soumission."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "وَلْتَشْهَدُواْ لِىَ بِقَوْلِىَ مَعَا ۞ يَوْمًا جَمِيعَ الْعَالَمِينَ جَمَعَا",
+        "translations": {
+          "it.karamati": "E siate tutti testimoni per me della mia parola, in un Giorno che riunirà tutti i mondi.",
+          "en.karamati": "And bear witness for me, all of you, to my word, on a Day that shall gather all the worlds.",
+          "fr.karamati": "Et soyez tous témoins pour moi de ma parole, en un Jour qui rassemblera tous les mondes."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "اللَّهُ رَبِّى ظَاهِرًا وَبَاطِنَا ۞ حَيْثُ أَكُونُ رَحِلًا أَوْقَاطِنَا",
+        "translations": {
+          "it.karamati": "Allah è il mio Signore, apertamente e interiormente, ovunque io sia, in viaggio o residente,",
+          "en.karamati": "Allah is my Lord, outwardly and inwardly, wherever I may be, travelling or settled,",
+          "fr.karamati": "Allah est mon Seigneur, ouvertement et intérieurement, où que je sois, en voyage ou résidant,"
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "وَالْمُصْطَفَى وَسِيلَتِى إِلَيْهِ ۞ صَلَّى بِتَسْلِيمٍ عَلَا عَلَيْهِ",
+        "translations": {
+          "it.karamati": "e l'Eletto è il mio mezzo d'accesso a Lui: lo benedica, con un saluto di pace, l'Eccelso.",
+          "en.karamati": "and the Chosen One is my means of approach to Him: may the Exalted bless him, with peace.",
+          "fr.karamati": "et l'Élu est mon moyen d'accès à Lui : que le bénisse, avec un salut de paix, l'Éminent."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "يَاجُمْلَةَ الْخَلْقِ اشْهَدُواْ لِى يَوْمَا ۞ فِيهِ يَحُوزُ الْمُجْرِمُونَ لَوْمَا",
+        "translations": {
+          "it.karamati": "O insieme delle creature, testimoniate per me nel Giorno in cui i colpevoli riceveranno biasimo,",
+          "en.karamati": "O whole of creation, bear witness for me on the Day when the guilty shall receive blame,",
+          "fr.karamati": "Ô ensemble des créatures, témoignez pour moi au Jour où les coupables recevront le blâme,"
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "بِكَوْنِىَ الدَّارَيْنِ عَبْدَ اللَّهِ ۞ خَدِيمَ عَبْدِهِ ابْنِ عَبْدِ اللَّهِ",
+        "translations": {
+          "it.karamati": "che io sono, nelle due Dimore, servo di Allah, servitore del Suo servo, il figlio di ʿAbd Allāh,",
+          "en.karamati": "that I am, in the two Abodes, the slave of Allah, the servant of His slave, the son of ʿAbd Allāh,",
+          "fr.karamati": "que je suis, dans les deux Demeures, serviteur d'Allah, serviteur de Son serviteur, le fils de ʿAbd Allāh,"
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "مُحِبَّ كُلِّ مُسْلِيمٍ وَمُسْلِمَهْ ۞ مُبْغِضَ كُلِّ مُجْرِمٍ وَمُجْرِمَهْ",
+        "translations": {
+          "it.karamati": "che amo ogni musulmano e musulmana, e detesto ogni peccatore e peccatrice.",
+          "en.karamati": "that I love every Muslim man and woman, and loathe every sinful man and woman.",
+          "fr.karamati": "que j'aime tout musulman et toute musulmane, et que je déteste tout criminel et toute criminelle."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "كَتَبْتُهُ أَحْمَدُ ذَا صَلَاةِ ۞ عَلَى نَبِىِّ اللَّهِ ذِى الصِّلَاتِ",
+        "translations": {
+          "it.karamati": "L'ho scritto io, Aḥmad, recando benedizione sul Profeta di Allah, dispensatore di doni.",
+          "en.karamati": "I, Aḥmad, have written it, bearing blessing upon the Prophet of Allah, the bestower of gifts.",
+          "fr.karamati": "Je l'ai écrit, moi Aḥmad, porteur de bénédiction sur le Prophète d'Allah, dispensateur de dons."
+        }
+      }
     ]
   }
 }

@@ -119,6 +119,85 @@
           "fr": "faites abondant la pureté et les perles."
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "يَارَبِّ بِالْمُصْطَفَى الْمُخْتَارِ مِنْ مُّضَرِ ۞ شَفِيعِ أُمَّتِهِ فِى الْبَدْوِ وَالْحَضَرِ",
+        "translations": {
+          "it.karamati": "O Signore, per il Prescelto, l'Eletto di Muḍar, intercessore della sua comunità nel deserto e nella città,",
+          "en.karamati": "O Lord, by the Chosen, the Elect of Muḍar, intercessor of his community in desert and town,",
+          "fr.karamati": "Ô Seigneur, par l'Élu, le Choisi de Muḍar, intercesseur de sa communauté dans le désert et la cité,"
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "عَلَيْهِ صَلِّ بِتَسْلِيمٍ بِلَا عَدَدٍ ۞ فِى الْئَالِ وَالصَّحْبِ وَاعْصِمْنَا مِنَ الضَّرَرِ",
+        "translations": {
+          "it.karamati": "benedicilo con il saluto di pace senza numero, nella Famiglia e nei Compagni, e preservaci dal danno.",
+          "en.karamati": "bless him with peace without number, in the Family and the Companions, and protect us from harm.",
+          "fr.karamati": "bénis-le avec le salut de paix sans nombre, dans la Famille et les Compagnons, et préserve-nous du dommage."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "حُطْ أُمَّةَ الْمُصْظَفَى عَمَا يَجُرُّ لَهُمْ ۞ سِوَى الْعِبَادَاتِ وَاعْصِمْهُمْ مِنَ الشَّرَرِ",
+        "translations": {
+          "it.karamati": "Allontana la comunità del Prescelto da ciò che le trascina altro che le adorazioni, e preservali dalle scintille (del male).",
+          "en.karamati": "Keep the community of the Chosen from what draws to them other than worship, and protect them from the sparks (of evil).",
+          "fr.karamati": "Éloigne la communauté de l'Élu de ce qui lui entraîne autre chose que les adorations, et préserve-les des étincelles (du mal)."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَاصْرِفْ لِغَيْرِهِمُ الشَّيْطَانَ فِى أَبَدٍ ۞ وَلْتَكْفِهِمْ كُلَّ مَنْ يَّسْطُو مِنَ الْبَشَرِ",
+        "translations": {
+          "it.karamati": "E distogli verso altri che loro Satana per sempre, e risparmia loro chiunque assalga tra gli uomini.",
+          "en.karamati": "And turn Satan toward others than them forever, and spare them whoever assaults among men.",
+          "fr.karamati": "Et détourne vers d'autres qu'eux Satan à jamais, et épargne-leur quiconque assaille parmi les hommes."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "وَلْتَصْرِفِ الدَّاءَ عَنْ مَّرْضَى الْجَمِيعِ بِهِ ۞ وَاصْرِفْ لَهُمْ مُّجِبَاتِ الْأَمْنِ وَالْبُشَرِ",
+        "translations": {
+          "it.karamati": "E distogli la malattia dai malati di tutti, per mezzo di lui, e distogli verso di loro ciò che rende necessarie la sicurezza e le buone novelle.",
+          "en.karamati": "And turn sickness away from the sick of all, through him, and turn toward them what brings safety and glad tidings.",
+          "fr.karamati": "Et détourne la maladie des malades de tous, par lui, et détourne vers eux ce qui rend nécessaires la sécurité et les bonnes nouvelles."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَاجْعَلْ قُلُوبَ ذَوِى الْإِسْلَامِ فِى أَمَنٍ ۞ وَلْتَكْفِهِمْ كُلَّمَا يُفْضِى إِلَى الْغَرَرِ",
+        "translations": {
+          "it.karamati": "E poni i cuori dei dotati di Islām nella sicurezza, e risparmia loro tutto ciò che conduce al pericolo.",
+          "en.karamati": "And place the hearts of the people of Islām in safety, and spare them all that leads to peril.",
+          "fr.karamati": "Et mets les cœurs des dotés d'Islām dans la sécurité, et épargne-leur tout ce qui mène au péril."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "وَصَلِّ دَأْبًا بِتَسْلِيمٍ عَلَيْهِ بِمَنْ ۞ لَّهُ انْتَمَوْاْ وَلْتَجُدْ بِالصَّفْوِ وَالدُّرَرِ",
+        "translations": {
+          "it.karamati": "E benedici sempre con il saluto di pace, su di lui, con coloro che a lui si sono affiliati; ed elargisci la limpidezza e le perle.",
+          "en.karamati": "And bless always with peace, upon him, with those affiliated to him; and bestow clarity and pearls.",
+          "fr.karamati": "Et bénis toujours avec le salut de paix, sur lui, avec ceux qui se sont affiliés à lui ; et octroie la limpidité et les perles."
+        }
+      }
     ]
   }
 }

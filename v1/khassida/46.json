@@ -487,6 +487,368 @@
           "fr": "et mon médecin contre les choses complexes et humiliantes."
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "إِنَّنِى عُذْتُ بِالْإِلَاهِ الْمُعِينِ ۞ مِنْ جَمِيعِ الْأَذَى وَكُلِّ لَعِينِ",
+        "translations": {
+          "it.karamati": "In verità mi sono rifugiato presso Dio, l'Aiutante (Al-Muʿīn), da ogni danno e da ogni maledetto,",
+          "en.karamati": "Truly I have taken refuge with God, the Helper (Al-Muʿīn), from all harm and from every accursed one,",
+          "fr.karamati": "En vérité je me suis réfugié auprès de Dieu, le Secourable (Al-Muʿīn), contre tout mal et contre tout maudit,"
+        },
+        "appNumber": 1
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "صَارِفًا هِمَّتِى لِرَبِّى تَعَالَى ۞ رَاجِيًا سَقْيَهُ بِمَآءٍ مَّعِينِ",
+        "translations": {
+          "it.karamati": "volgendo la mia aspirazione al mio Signore, l'Altissimo, sperando che Egli mi abbeveri di un'acqua sorgiva,",
+          "en.karamati": "turning my aspiration to my Lord, the Most High, hoping that He will give me to drink of a flowing spring,",
+          "fr.karamati": "tournant mon aspiration vers mon Seigneur, le Très-Haut, espérant qu'Il m'abreuve d'une eau de source,"
+        },
+        "appNumber": 2
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "مَاسِكًا بِالْكِتَابِ مَسْكَ ضَرِيرٍ ۞ بِيَدِ الْقَآئِدِ الْبَصِيرِ الْمُعِينِ",
+        "translations": {
+          "it.karamati": "aggrappato al Libro come un cieco si aggrappa alla mano della guida veggente che lo aiuta.",
+          "en.karamati": "holding fast to the Book as a blind man holds the hand of the clear-sighted guide who helps him.",
+          "fr.karamati": "agrippé au Livre comme un aveugle s'agrippe à la main du guide clairvoyant qui l'aide."
+        },
+        "appNumber": 3
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَهْوَ عِزِّى وَرِفْعَتِى وَكُنُوزِى ۞ وَبِهِ أَرْتَجِى انْقِيَادَ الْحَرُونِ",
+        "translations": {
+          "it.karamati": "Esso è la mia potenza, la mia elevazione e i miei tesori, e per mezzo di esso spero la sottomissione del ricalcitrante.",
+          "en.karamati": "It is my might, my elevation and my treasures, and through it I hope for the submission of the refractory.",
+          "fr.karamati": "Il est ma puissance, mon élévation et mes trésors, et par lui j'espère la soumission du rétif."
+        },
+        "appNumber": 4
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "مَنْ بِهِ رَامَ رَوْضَ صَعْبٍ عَنِيدٍ ۞ قَادَهُ طَآئِعًا لَّهُ عَنْ مُّرُونِ",
+        "translations": {
+          "it.karamati": "Chi per mezzo di esso cerca di domare un (ostacolo) difficile e ostinato, esso glielo conduce obbediente, con docilità.",
+          "en.karamati": "Whoever through it seeks to tame something hard and stubborn, it leads it to him obedient, with docility.",
+          "fr.karamati": "Qui par lui cherche à dompter un (obstacle) difficile et obstiné, il le lui amène obéissant, avec docilité."
+        },
+        "appNumber": 5
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَهْوَ فَخْرِى وَعُرْوَتِى وَجَلِيسِى ۞ بِأَحَادِيثِ ذِى الْمَزَيَا الْمَكِينِ",
+        "translations": {
+          "it.karamati": "Esso è il mio vanto, il mio saldo appiglio e il mio compagno, insieme ai ḥadīth di colui che possiede i privilegi, il saldamente stabilito (Muḥammad):",
+          "en.karamati": "It is my pride, my firm handhold and my companion, together with the ḥadīth of the possessor of distinctions, the firmly established (Muḥammad):",
+          "fr.karamati": "Il est ma fierté, mon anse solide et mon compagnon, avec les ḥadīth de celui qui possède les privilèges, le fermement établi (Muḥammad) :"
+        },
+        "appNumber": 6
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "أَحْمَدِ الْحَامِدِينَ أَحْمَدَ غَوْثِى ۞ وَلِرَبِّى بِذَا وَتِلْكَ رُكُونِ",
+        "translations": {
+          "it.karamati": "Aḥmad, il più lodatore dei lodatori, Aḥmad, mio soccorso: e verso il mio Signore, per mezzo di questo e di quelli, è la mia fiducia.",
+          "en.karamati": "Aḥmad, the greatest praiser among praisers, Aḥmad, my succour: and toward my Lord, through this and those, is my reliance.",
+          "fr.karamati": "Aḥmad, le plus louangeur des louangeurs, Aḥmad, mon secours : et vers mon Seigneur, par ceci et par ceux-là, va ma confiance."
+        },
+        "appNumber": 7
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "يَآ إِلَاهِى عَلَيْهِ صَلِّ وَسَلِّمْ ۞ مَعَ ءَالٍ لَّهُ وَأَهْلِ الْيَقِينِ",
+        "translations": {
+          "it.karamati": "O mio Dio, su di lui effondi benedizione e pace, insieme alla sua Famiglia e alla gente della certezza,",
+          "en.karamati": "O my God, pour upon him blessing and peace, together with his Family and the people of certainty,",
+          "fr.karamati": "Ô mon Dieu, répands sur lui bénédiction et paix, avec sa Famille et les gens de la certitude,"
+        },
+        "appNumber": 8
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "مِنْ صَحَابٍ تَبَتَّلُواْ لِوَكِيلٍ ۞ قَدْ هَدَاهُمْ بِنُورِ حَقِّ الْيَقِينِ",
+        "translations": {
+          "it.karamati": "tra i Compagni, che si consacrarono interamente a un Garante (Al-Wakīl) che li ha guidati con la luce della verità della certezza.",
+          "en.karamati": "among the Companions, who devoted themselves wholly to a Guardian (Al-Wakīl) Who guided them with the light of the truth of certainty.",
+          "fr.karamati": "parmi les Compagnons, qui se consacrèrent entièrement à un Garant (Al-Wakīl) qui les a guidés par la lumière de la vérité de la certitude."
+        },
+        "appNumber": 9
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "رَبِّ هَبْ لِى اسْتِقَامَةً وَانْطِلَاقًا ۞ بِالْمَرَاضِى وَلْتَمْحُ عَنِّى دَفِينِ",
+        "translations": {
+          "it.karamati": "Signore, donami rettitudine e slancio in ciò che Ti è gradito, e cancella da me ciò che (in me) è sepolto.",
+          "en.karamati": "Lord, grant me uprightness and zeal in what pleases You, and erase from me what lies buried (within me).",
+          "fr.karamati": "Seigneur, accorde-moi la rectitude et l'élan dans ce qui T'agrée, et efface de moi ce qui (en moi) est enfoui."
+        },
+        "appNumber": 10
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "يَآ إِلَاهِى يَامَنْ عَلَيْهِ اتِّكَالِى ۞ فُكَّ كَبْلِى بِرَوْضِ أَهْلِ السَّفِينِ",
+        "translations": {
+          "it.karamati": "O mio Dio, o Tu nel Quale è la mia fiducia, sciogli il mio vincolo domando la gente delle navi.",
+          "en.karamati": "O my God, O You in Whom is my trust, loosen my fetter by taming the people of the ships.",
+          "fr.karamati": "Ô mon Dieu, ô Toi en Qui est ma confiance, défais mon entrave en domptant les gens des navires."
+        },
+        "appNumber": 11
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "عَجِّلِ الْفَتْحَ وَلْتَجُدْ بِفُيُوضٍ ۞ مُخْجِلَاتٍ سَكْبَ انْسِكَابِ الدُّجُونِ",
+        "translations": {
+          "it.karamati": "Affretta l'apertura (spirituale) ed elargisci effusioni che facciano arrossire il versarsi a rovesci delle nubi cariche.",
+          "en.karamati": "Hasten the (spiritual) opening and bestow outpourings that put to shame the downpour of laden clouds.",
+          "fr.karamati": "Hâte l'ouverture (spirituelle) et prodigue des effusions qui fassent rougir le déversement à verse des nuées chargées."
+        },
+        "appNumber": 12
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "رَبِّ وَافْكُكْ أَسْرِى وَرَهْنِى فَإِنِّى ۞ بِذُنُوبِى مُكَبَّلٌ فِى سُجُونِ",
+        "translations": {
+          "it.karamati": "Signore, sciogli la mia prigionia e il mio pegno, poiché io, per i miei peccati, sono incatenato in prigioni.",
+          "en.karamati": "Lord, undo my captivity and my pledge, for by my sins I am shackled in prisons.",
+          "fr.karamati": "Seigneur, défais ma captivité et mon gage, car je suis, par mes péchés, enchaîné dans des prisons."
+        },
+        "appNumber": 13
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "رَبِّ إِنِّى عَبْدٌ كَثِيرُ الْمَعَاصِى ۞ فَالْمَعَاصِى حَآءِ وَبَآءِ وَسِينِ",
+        "translations": {
+          "it.karamati": "Signore, io sono un servo dalle molte disobbedienze, e le disobbedienze sono ḥāʾ, bāʾ e sīn (ḥabs, la prigione).",
+          "en.karamati": "Lord, I am a servant of many disobediences, and disobediences are ḥāʾ, bāʾ and sīn (ḥabs, prison).",
+          "fr.karamati": "Seigneur, je suis un serviteur aux nombreuses désobéissances, et les désobéissances sont ḥāʾ, bāʾ et sīn (ḥabs, la prison)."
+        },
+        "appNumber": 14
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "رَبِّنِى رَبِّ رَقِّنِى رُمَّ شَأْنِى ۞ زَكِّ لِى النُّونَ قَبْلَ فَآءٍ وَسِينِ",
+        "translations": {
+          "it.karamati": "Educami, Signore, elevami, riassetta la mia condizione; purifica per me la nūn prima di fāʾ e sīn (nafs, l'anima).",
+          "en.karamati": "Train me, Lord, raise me, set my state aright; purify for me the nūn before fāʾ and sīn (nafs, the soul).",
+          "fr.karamati": "Éduque-moi, Seigneur, élève-moi, remets en ordre mon état ; purifie pour moi le nūn avant fāʾ et sīn (nafs, l'âme)."
+        },
+        "appNumber": 15
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "خَلِّنِى رَبِّ خَلِّنِى بِالْمَزَايَا ۞ مِثْلَ شِينٍ مِّنْ قَبْلِ مِيمٍ وَسِينِ",
+        "translations": {
+          "it.karamati": "Adornami, Signore, adornami di privilegi, come shīn prima di mīm e sīn (shams, il sole).",
+          "en.karamati": "Adorn me, Lord, adorn me with distinctions, like shīn before mīm and sīn (shams, the sun).",
+          "fr.karamati": "Pare-moi, Seigneur, pare-moi de privilèges, comme shīn avant mīm et sīn (shams, le soleil)."
+        },
+        "appNumber": 16
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "لِى اسْتَجِبْ دَعْوَتِى بِمَا فَاقَ ظَنِّى ۞ وَبِمَا فَاقَ رَبِّ كُلَّ ظُنُونِ",
+        "translations": {
+          "it.karamati": "Esaudisci per me la mia invocazione con ciò che supera la mia attesa, e con ciò che supera, Signore, ogni congettura.",
+          "en.karamati": "Answer my supplication for me with what surpasses my expectation, and with what surpasses, Lord, every conjecture.",
+          "fr.karamati": "Exauce pour moi mon invocation par ce qui dépasse mon attente, et par ce qui dépasse, Seigneur, toute conjecture."
+        },
+        "appNumber": 17
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "هَبْ لِىَ الْكَشْفَ ذَا عُلُومٍ وَسَعْىٍ ۞ وَامْحُ عَنِّى مَاكَانَ مِثْلَ جُنُونِ",
+        "translations": {
+          "it.karamati": "Donami il disvelamento, (rendendomi) dotato di scienze e di opere, e cancella da me ciò che era come una follia.",
+          "en.karamati": "Grant me unveiling, (making me) endowed with sciences and deeds, and erase from me what was like madness.",
+          "fr.karamati": "Accorde-moi le dévoilement, (me rendant) doté de sciences et d'œuvres, et efface de moi ce qui était comme une folie."
+        },
+        "appNumber": 18
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "هَبْ لِىَ الْيَوْمَ يَآ إِلَاهِى رُسُوخًا ۞ صَفِّ لِى كَلْكَلِى بِغَيْرِ رُيُونِ",
+        "translations": {
+          "it.karamati": "Donami oggi, o mio Dio, saldezza; purifica per me il mio petto, senza ruggini (del cuore).",
+          "en.karamati": "Grant me today, O my God, firmness; purify my breast for me, without the rusts (of the heart).",
+          "fr.karamati": "Accorde-moi aujourd'hui, ô mon Dieu, la fermeté ; purifie pour moi ma poitrine, sans rouilles (du cœur)."
+        },
+        "appNumber": 19
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "وَاعْفُ عَنِّى وَعَنِّىَ احْمِلْ حُقُوقًا ۞ لِلْبَرَايَا وَلْتَقْضِ عَنِّى دُيُونِ",
+        "translations": {
+          "it.karamati": "Perdonami, porta al posto mio i diritti (che devo) alle creature, e salda per me i miei debiti.",
+          "en.karamati": "Pardon me, bear in my place the rights (I owe) to creatures, and settle my debts for me.",
+          "fr.karamati": "Pardonne-moi, porte à ma place les droits (que je dois) aux créatures, et acquitte pour moi mes dettes."
+        },
+        "appNumber": 20
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "وَلْتَجُدْ لِى بِأَنْ أَكُونَ خَدِيمًا ۞ لِلْكِتَابِ الْعَزِيزِ فِى كُلِّ حِينِ",
+        "translations": {
+          "it.karamati": "E concedimi di essere servitore del Libro possente in ogni tempo.",
+          "en.karamati": "And grant me to be a servant of the Mighty Book at every time.",
+          "fr.karamati": "Et accorde-moi d'être serviteur du Livre puissant en tout temps."
+        },
+        "appNumber": 21
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "هَبْ لِىَ الْيَوْمَ أَخْذَدِينِىَ مِنْهُ ۞ قَآئِمًا تَالِيًا بِغَيْرِ لُحُونِ",
+        "translations": {
+          "it.karamati": "Donami oggi di trarre da esso la mia religione, ritto (in preghiera), recitando senza errori di pronuncia.",
+          "en.karamati": "Grant me today to take my religion from it, standing (in prayer), reciting without faults of pronunciation.",
+          "fr.karamati": "Accorde-moi aujourd'hui de tirer de lui ma religion, debout (en prière), récitant sans fautes de prononciation."
+        },
+        "appNumber": 22
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "لِى اكْشِفِ اسْرَارَهُ وَلِى هَبْ هُدَاهُ ۞ وَهُدَى سُنَّةِ الْأَمِينِ الْمَكِينِ",
+        "translations": {
+          "it.karamati": "Disvelami i suoi segreti e donami la sua guida, e la guida della Sunna del Fedele, il saldamente stabilito (Muḥammad).",
+          "en.karamati": "Unveil its secrets to me and grant me its guidance, and the guidance of the Sunna of the Trustworthy, the firmly established (Muḥammad).",
+          "fr.karamati": "Dévoile-moi ses secrets et accorde-moi sa guidance, et la guidance de la Sunna du Fidèle, le fermement établi (Muḥammad)."
+        },
+        "appNumber": 23
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "صَلِّ دَأْبًا عَلَيْهِ رَبِّ وَسَلِّمْ ۞ وَلْتُدِيمْ لِى بِهِ إِلَيْكَ سُكُونِ",
+        "translations": {
+          "it.karamati": "Benedicilo incessantemente, Signore, e dagli pace, e per mezzo di lui rendi perpetua la mia quiete in Te.",
+          "en.karamati": "Bless him unceasingly, Lord, and grant him peace, and through him make my repose in You endure.",
+          "fr.karamati": "Bénis-le sans cesse, Seigneur, et accorde-lui la paix, et par lui rends perpétuelle ma quiétude en Toi."
+        },
+        "appNumber": 24
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "وَلْتُدِيمْ لِى تِلَاوَةً وَقِيَامًا ۞ فِى اللَّيَالِى وَارْفَعْ دَوَامًا شُئُونِ",
+        "translations": {
+          "it.karamati": "E rendi perpetua per me la recitazione e la veglia di preghiera nelle notti, e innalza sempre la mia condizione.",
+          "en.karamati": "And make recitation and night prayer endure for me in the nights, and ever raise my state.",
+          "fr.karamati": "Et rends perpétuelles pour moi la récitation et la veille de prière dans les nuits, et élève toujours mon état."
+        },
+        "appNumber": 25
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "بِإِمَامِى وَمَلْجَإِى وَرَئِيسِى ۞ وَبِهِ سَرْمَدًا تَوَلَّ مُئُونِ",
+        "translations": {
+          "it.karamati": "Per il mio imām, mio rifugio e mio capo, e per mezzo di lui prenditi cura per sempre del mio sostentamento.",
+          "en.karamati": "By my imām, my refuge and my chief, and through him take charge for ever of my provision.",
+          "fr.karamati": "Par mon imām, mon refuge et mon chef, et par lui prends soin pour toujours de ma subsistance."
+        },
+        "appNumber": 26
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "وَلْتَهَبْ لِى اقْتِفَآءَهُ بِاعْتِقَادٍ ۞ وَمَقَالٍ كَالْفِعْلِ وَقْتَ قُطُونِ",
+        "translations": {
+          "it.karamati": "E concedimi di seguirne le orme nel credo, e nella parola come nell'azione, per tutto il tempo della mia dimora (quaggiù).",
+          "en.karamati": "And grant me to follow in his footsteps in belief, and in word as in deed, throughout the time of my sojourn (here below).",
+          "fr.karamati": "Et accorde-moi de suivre ses traces dans la croyance, et dans la parole comme dans l'acte, tout le temps de mon séjour (ici-bas)."
+        },
+        "appNumber": 27
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "وَبِهِ زَحْزِحِ الْأَعَادِىَ عَنِّى ۞ وَلْتَصُ لِّى عَنْهُمْ دَوَامًا بُطُونِ",
+        "translations": {
+          "it.karamati": "E per mezzo di lui allontana da me i nemici, e preserva sempre da loro il mio intimo.",
+          "en.karamati": "And through him drive the enemies away from me, and ever guard my inner self from them.",
+          "fr.karamati": "Et par lui écarte de moi les ennemis, et préserve toujours d'eux mon intérieur."
+        },
+        "appNumber": 28
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "يَامُغِيثًا يُعِينُ كُلَّ فَقِيرٍ ۞ فُكَّ كَبْلَ الَذِى غَدَا كَالرَّهِينِ",
+        "translations": {
+          "it.karamati": "O Soccorritore che aiuti ogni povero, sciogli il vincolo di colui che è divenuto come un ostaggio.",
+          "en.karamati": "O Rescuer Who helps every poor one, loosen the fetter of him who has become like a hostage.",
+          "fr.karamati": "Ô Secoureur qui aides tout pauvre, défais l'entrave de celui qui est devenu comme un otage."
+        },
+        "appNumber": 29
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "رَبِّ بِالْمُصْطَفَى الْمُقَفَّى حَبِيبِى ۞ وَطَبِيبِى مِنَ الْعُضَالِ الْمُهِينِ",
+        "translations": {
+          "it.karamati": "Signore, per l'Eletto, l'Ultimo venuto, mio diletto e mio medico contro il male incurabile che umilia,",
+          "en.karamati": "Lord, by the Chosen One, the Last to Come, my beloved and my physician against the incurable, humiliating disease,",
+          "fr.karamati": "Seigneur, par l'Élu, le Dernier venu, mon bien-aimé et mon médecin contre le mal incurable qui humilie,"
+        },
+        "appNumber": 30
+      }
     ]
   }
 }

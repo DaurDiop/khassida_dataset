@@ -1,0 +1,163 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 1,
+    "name": "Ahazanil Baaqi",
+    "transliterationName": "Ahazanil Baaqi",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "The Everlasting (Al-Bāqī, Allah) has shielded me from Satan during my passage (along the road of exile) and in the homelands."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "My worship I began in the name of God, and He has sufficed me against those given over to idle pastimes."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "I have turned all praise and all thanksgiving to the King (Al-Mālik), the All-Merciful (Ar-Raḥmān), the Appreciative (Ash-Shakūr)."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "The Most Merciful (Ar-Raḥīm) has slain my stoned (demon) through the Prophet (Muḥammad), his Family and his Companions, the stars."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "By (the grace of) God I parted from the Nazarenes (the Christian colonisers) at Djéwol (Jéwol), and from all that is other than Him, decisively, taking nothing (from them)."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "To the Prophet (Muḥammad) I once turned, at Ndar (Saint-Louis), that which sufficed me against the enemies, like dregs."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "To the Chosen One (Muḥammad) I turned, at Ndakaaru (Dakar), a remembrance (of praise) by which the deceiver was flung headlong."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "To the Elect (Al-Mujtabā, Muḥammad) I once turned, aboard the ship, a praise that will abide forever in Medina."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "I made my service pure, at Conakry, for the Chosen One (Muḥammad), the Effacer (Al-Māḥī), without any blameworthy deed."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Once, at Grand-Bassam (Karambasā), my challenger fled from me, and was held back far off, towards others than me."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "The King (Al-Mālik) gave me possession, at Dāwum (Dahomey), of what sufficed me against the haggling enemies."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "The Bestower of benefit (An-Nāfiʿ) has benefited me at Libreville with that for which every Saint holds me in holy envy."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "To the Prophet (Muḥammad) I once turned, at Bāfali (in Gabon), that by which my gathering was illumined."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "To the Chosen One (Muḥammad) I turned, at Kablabisā (Cap Lopez), that which sufficed me against an enemy, who was held back (far off)."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "At Kalwā (in Gabon) it weighed upon Satan that I am the Servant (Khadīm) of him (Muḥammad) who sufficed me against trial."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "God drives every harm forever towards others than me: there is no god but God."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "The sacred circling (aṭ-ṭawāf) of whoever has denied me will never be accepted with the Divinity (Allah) and the Prophet (Muḥammad)."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "Towards others than me (be driven) whoever does not love me, and away from God, the Most High, the Bringer into being."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "The Everlasting (Allah), who has granted me the privileges of the great, has driven towards others than me whoever grew proud."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "Towards others than me and towards others than the Chosen One (Muḥammad) (let him go) who does not love me, and let him meet what he did not guard against."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "Towards other than my Lord and other than the Elect (Al-Muntajab, Muḥammad) is driven whoever has turned away from me and kept aloof."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "I have repelled the enemies of the Divinity (Allah) and of the Prophet (Muḥammad), and whoever hates me never ceases to be a sinner."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "Through my Guide (the Prophet) (my way) was fulfilled and my sale (of the soul to God) was profitable; and towards others than me (turned) every dog that barked."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "He who opposed me will regret it in the two abodes (this world and the Hereafter), by the justice of the Everlasting (Allah), whose grace has guided me."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "From what is not gladness and from Satan I have been shielded by Him (Allah) who generously granted me the homelands (the return)."
+      }
+    ]
+  }
+}

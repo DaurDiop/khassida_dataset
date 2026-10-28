@@ -1,0 +1,363 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 128,
+    "name": "Nuuru Daarayni 18",
+    "transliterationName": "Nuuru Daarayni 18",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 925,
+        "text": "E donami oggi, nelle mie consuetudini, e dopo di esso, i doni dei maestri."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 926,
+        "text": "E scrivi per me oggi e dopo di esso il compiacimento nell'insieme degli intenti; ringrazia per me lo scopo."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 927,
+        "text": "Fa' dimorare i miei credi nella professione dell'Unicità, e fa' rivivere per mezzo di me la via dell'Unico (Profeta)."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 928,
+        "text": "E rendi retta la parola e illumina il cuore, o Tu che fai discendere, che mi hai elargito le sure."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 929,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 930,
+        "text": "Mi hai donato, il giorno della mia scrittura di questo (poema), perle e rubini che hanno perpetuato frammenti (preziosi)."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 931,
+        "text": "Accetta da me la gratitudine per il Tuo nobile Volto, o Tu i cui benefici presso di me non si allontaneranno,"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 932,
+        "text": "con il Tuo benedire e il Tuo salutare con pace, da parte mia, colui per mezzo del quale mi vanto dei dotti."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 933,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 934,
+        "text": "E rendi per mezzo di lui la mia scrittura, o Riconoscente, o Tu verso il Quale da me si è diretta la gratitudine,"
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 935,
+        "text": "gratitudine, retta guida, prossimità (a Dio) e compiacimento, o Tu che mi hai preservato dai nemici e dalla malattia,"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 936,
+        "text": "in ogni mese; e rendi i mesi per me atti di adorazione che abbiano racchiuso doti (nuziali)."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 937,
+        "text": "E rendi i miei scritti presso di Te, o Bello (Al-Jamīl), il più alto Tuo compiacimento, che da Te non devii."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 938,
+        "text": "Al Tuo nobile Volto si è già rivolta la mia scrittura, o Tu presso il Quale essa è stata celebrata."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 939,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 940,
+        "text": "Mi hai fatto procedere con la Verità, dotato di certezza; (da) tutto ciò che non hai gradito per me, preservami."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 941,
+        "text": "Testimonia per me la mia venerazione del Tuo nobile Volto, insieme al Libro e al Tuo nobile Profeta."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 942,
+        "text": "E benedici da parte mia per sempre, con un saluto di pace, colui che mi ha fatto ereditare la migliore parola."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 943,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 944,
+        "text": "E donami la veridicità con la fedeltà, e preservami dalla rottura (dei patti) con la durezza."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 945,
+        "text": "Ti sei volto a me con perdono: perpetua dunque per me la rettitudine, la perseveranza e il più giovevole successo."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 946,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 947,
+        "text": "Hai portato a termine per mezzo del Prescelto il mio cammino verso di Te, e mi hai condotto la Tua grazia fino ai Giardini."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 948,
+        "text": "E hai custodito per me il mio segreto nelle due Dimore, come mi hai preservato dalle due vergogne."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 949,
+        "text": "Benedici con il saluto di pace, senza fine, il figlio di ʿAbd Allāh, dotato di splendore."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 950,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 951,
+        "text": "E custodisci per mezzo di me il Ricordo, e restituiscimi tutto ciò che hai scelto per me, con il Tuo compiacimento, o Audiente."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 952,
+        "text": "E custodisci il mio cuore, la mia lingua e la mia mano fino ai Giardini, Permanente, con il più giovevole."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 953,
+        "text": "E mostrami le realtà delle cose, o Tu che regali dimore e ombre."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 954,
+        "text": "E rendi il mio edificio puro per il Tuo Volto, o Unico, del Quale non vi è somiglianza."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 955,
+        "text": "Mi hai fatto giungere oggi, prima di oggi e dopo di esso, un segreto che ha protetto dal biasimo."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 956,
+        "text": "Ho rinnovato l'abbandono del ritorno (al peccato) per la venerazione, e sei stato per me con la prosa e il verso."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 957,
+        "text": "Realizza per me la speranza nel mio lasciare e nel mio prendere, senza rottura e senza ciò che spaventa."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 958,
+        "text": "Realizza per me la speranza in ogni rifugio, e rendi la mia vita, da parte Tua, il migliore dei benefici."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 959,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 960,
+        "text": "Ringrazia, insegna, benedici, esaudisci, e giova con ciò che dura, la più alta meraviglia."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 961,
+        "text": "E benedici da parte mia per sempre e dona pace sul mio mezzo d'accesso, l'intercessore, la scala."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 962,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 963,
+        "text": "E innalza, per il diritto del Tuo nobile Volto, la mia scrittura verso di Te con onore."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 964,
+        "text": "E presso di Te rendila il più eccelso bene, senza fine, e rendi eterne le mie provviste."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 965,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 966,
+        "text": "Hai generato per me ciò che non è visto per altri che me, in Te e nel Corano, ricettacolo del bene,"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 967,
+        "text": "e nel Tuo Profeta e Tuo servo, l'Inviato, colui per mezzo del quale mi fai giungere da parte Tua la migliore richiesta."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 968,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 969,
+        "text": "E scaccia per mezzo di lui Iblīs con una cacciata che non si allontani (da lui), verso altro che la mia persona, o Custode (Al-Ḥafīẓ), o Generoso."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 970,
+        "text": "E presso di Te rendimi dotato di rettitudine, senza contesa, con il successo."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 971,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 972,
+        "text": "Mi hai preservato oggi e dopo oggi dai satana e da ogni biasimo."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 973,
+        "text": "Benedici con il saluto di pace, senza fine, da parte mia, colui che mi ha condotto la conoscenza."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 974,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 105,
+    "name": "Midadi",
+    "transliterationName": "Midadi",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "My ink and my pens are for the One Who drove back the sea, as He drove back Satan, ignorance and grief."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Allah has effaced (the lot) that I should meet the harm that has struck His creatures at large; my refuge is in the Everlasting (Al-Bāqī), Who has made my service firm."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "From the Fire and from Satan I have taken refuge, joined through my Lord to the servants of him with Whom is the loftiest rank."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "I have intended, by my praise of him whose gift has reached me — and truly I, by what was chosen for me, am certainly of his household —"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "devotion to an Enricher whose like is utterly not to be found, and whose beauty has come to meet me in this world and the Next."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "I have cast away falsehoods for Allah — exalted is His Majesty — in my praise of him whose praises have driven sorrow away."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Allah tames time for me by the standing of the Chosen; upon him the two peaces of the Everlasting, wherever he appears."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "My certainty protects me from doubt in secret and in public; and my Lord has led to me, through the Prophet, joy and safety."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Upon my right hand lies the debt of a writing that shows the traditions of the Intercessor, who spared me, without harm, from the oppressors."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "I rejoice that I am made shrewd by his awakening, and that I am quenched by the clearest of his waters."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "My God has folded up for me the distance of my journey by his standing, and the best of strivings became clear to me after its obscurity."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "I have folded up the path of the (Sufi) folk in the time of his praise, and He has fulfilled my needs with discipline and expansion."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "Upon me lies a fair service to the Radiant, beautified one, for the Countenance of my God, Lord of creation, the Beautifier."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "I have forgiven for the Countenance of Allah, with purity of breast, and I have spoken (these verses) to please the Last in the line (of Prophets), the hoped-for:"
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "upon the Chosen the two most lasting peaces of the Perfecter, with the Family and the Companions, whose benefit is my benefit."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "O my God, toward the Chosen (al-Mukhtār) turn what he has chosen, and bless him with peace and ennoble him."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "To the Chosen convey joy and give him precedence; and from me accept my service and magnify it."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "I say: O my God, bless on my behalf and grant peace upon the Chosen, with (his) party, whose love is my hidden treasure."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "Lead to him a gift surpassing his gift, and increase him in a radiant beauty within his beauty."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "For him write, through him, that my being be gladness to his Family and his Companions, joy to him together with his men."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "For him write a blessing with peace, with his Family and his Companions, O One, exalted above any like."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "My gain is praise of him whose praise is booty; and I, until the Gardens, am lavished with favours by glad tidings."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "I have raised my affair to Allah — and all of me is believing with him, submitting — serving him who is a ladder."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "A noble Messenger, unrivalled in glory, honoured, bearer of glad tidings and warner from Him, with benefit and harm."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "He Who illumined the intellect has given me to drink from the cup of the (Sufi) folk, by my being servant of him who long ago relieved distress."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "I have been kept safe from all enemies, taking refuge with my Lord; and the gate of Allah has not been shut."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "Peace upon al-Māḥī, who drove back the darkness, Muḥammad, sent with sincere counsel and might."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "My Lord has guarded me from enemies through him — and he is a lion — and through him the criminal has turned forever toward others than me."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "And through him the lover and the submitter come toward me; Muḥammad, the Chosen, abases (the rebel) and honours (the pious)."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "Eminent with the Master — He is the Most High —, foremost: his are gentleness with firmness and cheer with vigour."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "To my Lord, Who has led to me what I willed, without restriction, goes my gratitude for al-Māḥī, through whom I have triumphed by ascent."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "Toward others than me every wretched one has turned, by the Chosen; and through him the blessed and the God-fearing come toward me."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "His are primacy, precedence, nearness and the meeting (with Allah); and he forever abases whoever comes against me without goodness."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "I am free of enemies, and Allah has illumined my heart and expiated from me evil and harm."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "My God has ransomed me with him who showed hatred, and through the Chosen He has purified all of me from defect."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "My success, by the grace of Allah, has run in His Tablet, without effacement, without guile or fear."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "Upon my pens lies the debt of serving him who is my blessing, and serving him has cleansed my error and my stain."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "I have overcome, through my Lord, those whom He repelled with retribution; and I have said — and the best of creation is my all and my mercy —:"
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "my needs have already turned to Allah through my service to the best of creation, who led to me the most excellent emancipation."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "I called upon my God — and He enriches whoever asks — and He drove toward others than me, through the Prophet, every aggressor."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "My supplication Allah has answered, as joy for the rightly guided; and I make manifest for the Countenance of Allah the truth for whoever follows the example."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "What called me to praise the Last in the line (of Prophets), Muḥammad, is obedience to a Lord Who through me brings the rightly directed to the goal."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "The Everlasting has granted me the loftiest of merits, and whoever calls to vice turns forever toward others than me."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "I say — and toward the Chosen tends my fair work — (becoming) a lamp for my people with sublime sciences."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "I obey my God, serving the Means of approach (al-Wasīla), Muḥammad, who wards off calamities by repelling them."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "I began to call upon the Chosen with good manners, and he drove back the enemies, folk to be shunned."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "You asked for me, O Messenger of Allah, beyond my request, from Allah, my Lord; and the hope was not disappointed."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "The tyrants of creation you have driven, by Allah, O Prophet, toward others than me, without my meeting them, acknowledging my due."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "To the One, the Subduer (Al-Qahhār), Who bestowed right guidance, I humbly prayed before the year (of trial), a servant among the enemies."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "The Master, through you, has answered my prayer, making my tongue upright as He purified my heart, (making it) affirm the Oneness."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "text": "The Master has softened for me, through you, forever, the enviers, and they went back toward others than me, repentant of (their) hatred."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "text": "Upon the Chosen, who repels the enemies in his fighting, the two peaces of a Generous One Who counted me among his men."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "text": "I have forgiven, and truly I am well-pleasing among his household, happy, obeyed, triumphant through union with him."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "text": "Upon him a blessing with peace, with his Family and his Companions, lions against the enemies, constant in repelling them."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "text": "You have removed trial, ignorance, poverty and toil, and led to me, O Chosen, what is good of wealth."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "text": "To Allah (goes) my praise together with you, O you to whom eulogy belongs; I say it, and my aim is gratitude in the abodes, for long ages."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "text": "O my God, by the standing of the Chosen You have led the wishes to me: so grant me a lasting gratitude, with healing."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "text": "To You be thanks and praise, O best of sovereigns, for him who has Companions who rose above every wayfarer."
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "text": "To You forever, O Singular, exalted above any partner, my gratitude for him who bestowed on me the rites."
+      },
+      {
+        "number": 60,
+        "verseFrom": 119,
+        "verseTo": 120,
+        "text": "Veil my faults for me and guide every devotee through me; and on my behalf bless the best of creation perpetually."
+      },
+      {
+        "number": 61,
+        "verseFrom": 121,
+        "verseTo": 122,
+        "text": "To You forever, O Everlasting, without (other) craving, all of me; and I am not, toward the Master, a dull servant and a burden (cf. Qurʾān 16:76)."
+      },
+      {
+        "number": 62,
+        "verseFrom": 123,
+        "verseTo": 124,
+        "text": "Spread for me, until the Gardens, good with union, and grant me lasting joy and command, O Possessor of grace."
+      },
+      {
+        "number": 63,
+        "verseFrom": 125,
+        "verseTo": 126,
+        "text": "To You forever my soul: purify it, and guide my people through me; and bless with peace the most excellent of the Messengers."
+      },
+      {
+        "number": 64,
+        "verseFrom": 127,
+        "verseTo": 128,
+        "text": "The gifts of my praise of the Chosen, here they are, for (Your) Countenance, O my God; and grant me the best knowledge and increase my alertness."
+      },
+      {
+        "number": 65,
+        "verseFrom": 129,
+        "verseTo": 130,
+        "text": "Your gifts to me have exhausted my gratitude in (their) essence; Yours is the praise, O Singular: You are exalted above all likeness."
+      },
+      {
+        "number": 66,
+        "verseFrom": 131,
+        "verseTo": 132,
+        "text": "You have guided, through my creed, Sufism and jurisprudence (fiqh), my household, by my remembrance, my prayer and the praise."
+      }
+    ]
+  }
+}

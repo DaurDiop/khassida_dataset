@@ -1,0 +1,377 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 146,
+    "name": "Nuuru Daarayni 7",
+    "transliterationName": "Nuuru Daarayni 7",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 326,
+        "text": "così come lo hai reso la letizia dei virtuosi, e la sua luce li conduce in ogni momento."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 327,
+        "text": "O Allah, o Ultimo (Al-Ākhir), Tu sei il Primo (Al-Awwal), o Tu per mezzo del Quale si fa limpido Rabīʿ al-Awwal,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 328,
+        "text": "benedici di una benedizione che non cessi d'essere limpida, che giunga al Profeta con la salute,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 329,
+        "text": "con un saluto di pace che nessun torbido intorbidi, o Tu per mezzo del Quale scorre, per il Suo permesso, il Decreto,"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 330,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 331,
+        "text": "così come lo hai reso colui che illumina i signori, gli eletti, i timorati, le guide."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 332,
+        "text": "E benedici perpetuamente lui con saluto di pace, con l'insieme della nobile schiera, o Pace."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 333,
+        "text": "O Tu che mi conduci il Ricordo come le Mathānī (Corano 15:87), o Tu per mezzo del Quale è stato buono Rabīʿ ath-Thānī,"
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 334,
+        "text": "benedici di una benedizione che non cessi di vigilare su ogni nemico che miri ai Giardini,"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 335,
+        "text": "con un saluto di pace che scacci ogni invidioso, come scacciavano i Compagni dotati della luce, i leoni."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 336,
+        "text": "sul Profeta di Allah, la spada di Allah, nostro signore, la Luce, l'Inviato di Allah,"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 337,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 338,
+        "text": "così come lo hai reso il patrono dei timorati, nel segreto e nel palese, il nemico degli sventurati."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 339,
+        "text": "E per mezzo di lui mi hai reso amato dai musulmani, così come verso altri che me hai distolto i criminali."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 340,
+        "text": "O Tu che mi hai donato una guida che indica (la via), o Tu per mezzo del Quale è stata buona Jumādā al-Ūlā,"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 341,
+        "text": "benedici di una benedizione che non cessi d'ascendere, crescente, gradita e permanente,"
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 342,
+        "text": "con un saluto di pace che faccia entrare il meglio del bene nel cuore del signore delle creature, ed esso entri,"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 343,
+        "text": "su colui che ho amato, o mio Signore, così come per mezzo di esso lo hai reso per me arbitro."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 344,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 345,
+        "text": "E cancella per sempre il dirigersi del danno verso di me, per il suo prestigio, o Tu che per mezzo di lui sei stato adorato."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 346,
+        "text": "E rendi il mio rango presso di Te il più bello, e presso di Te rendimi il più splendido servitore."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 347,
+        "text": "E cancella il dirigersi del danno verso il mio corpo, e non rivolgere verso le mie direzioni i miei invidiosi."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 348,
+        "text": "O Tu che mi hai protetto dalla pena del (mondo) effimero, e per me rendi buona Jumādā ath-Thāniya,"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 349,
+        "text": "benedici di una benedizione che renda perenni per me le buone novelle, buona novella per il Prescelto, il migliore degli uomini,"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 350,
+        "text": "con un saluto di pace che sospinga ciò che non conviene verso altro che colui che è degno del mio elogio."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 351,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 352,
+        "text": "E rendi le mie lodi per lui e le benedizioni al di sopra delle adorazioni insieme e delle invocazioni."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 353,
+        "text": "E rendimi indipendente, per mezzo di esse, dal procacciarmi i mezzi, o Tu che mi hai protetto da nemici e rovina."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 354,
+        "text": "E attesta per me, per sempre, che io sono credente, musulmano e virtuoso, e (vi) persevero."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 355,
+        "text": "O Tu che mi conduci, dal capo dei mesi sacri — il nostro intimo, il nostro amato Muḥarram —"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 356,
+        "text": "ciò che rallegra il mio cuore, giovevole e perpetuo, o Tu al Quale (va) da me la lode di Aḥmad,"
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 357,
+        "text": "benedici di una benedizione con saluto di pace senza fine colui che mi ha condotto ciò che è desiderato,"
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 358,
+        "text": "nel presente e nell'esito finale — ed egli è il sostegno —, colui che ha respinto verso altri che me coloro che (mi) hanno accusato di farneticare."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 359,
+        "text": "O Tu che mi conduci, senza guadagno né viaggio, ciò che confonde guadagno e armi, in Ṣafar,"
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 360,
+        "text": "benedici di una benedizione accompagnata da saluto di pace e da benedizioni crescenti, elevate,"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 361,
+        "text": "sul Profeta di Allah, la gioia degli uomini e l'ornamento delle donne, colui che ha cancellato il campo (dei nemici)."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 362,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 363,
+        "text": "O Tu che mi conduci ciò che ha cancellato la falsa attribuzione, e mi hai condotto da Te Rabīʿ al-Awwal,"
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 364,
+        "text": "benedici di una benedizione con saluto di pace compiuta, e di benedizioni ascendenti, perfette,"
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 365,
+        "text": "sul figlio di ʿAbd Allāh, servo di Allah, conduttore delle creature di Allah verso Dio."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 366,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 367,
+        "text": "O Tu che mi conduci il Ricordo e le Mathānī, e mi hai condotto da Te Rabīʿ ath-Thānī,"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 368,
+        "text": "benedici di una benedizione che nessuna benedizione eguagli sul Profeta di Allah, leone contro gli odiatori,"
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 369,
+        "text": "con un saluto di pace che nessun saluto di pace eguagli; e annuncia di me la buona novella a colui che è dotato delle parole comprensive."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 370,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 371,
+        "text": "O Tu che mi conduci, per generosità, una magnificazione, e mi hai condotto da Te Jumādā al-Ūlā,"
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 372,
+        "text": "benedici di una benedizione che scacci i nemici verso una direzione diversa dalla mia e cancelli il male,"
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 373,
+        "text": "con un saluto di pace che mi sveli per sempre i segreti e faccia andare i malvagi"
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 374,
+        "text": "verso altri che me e altri che la mia famiglia, e faccia andare i governanti come i principi"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 375,
+        "text": "verso altri che me, (lontano) dalla mia direzione, senza incontro e senza blandizie verso gli sventurati,"
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 376,
+        "text": "sul Profeta e Inviato, il vessillo, colui che mi conduce la scienza di ciò che non sapevamo."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 377,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      }
+    ]
+  }
+}

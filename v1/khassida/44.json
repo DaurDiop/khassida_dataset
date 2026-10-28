@@ -391,6 +391,272 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "إِلَى غَيْرِنَا قَدْ وَجَّهَ الْكَيْدَ وَالسَّعْيَا ۞ ظَلُومٌ وَشَيْطَانٌ بِمَنْ قَادَ لِى الرَّعْيَا",
+        "translations": {
+          "it.karamati": "Verso altri che noi hanno rivolto l'insidia e lo sforzo un iniquo e un Satana, per (la grazia di) Colui che ha condotto a me la tutela.",
+          "en.karamati": "Toward others than us an oppressor and a Satan have turned their plot and striving, by (the grace of) Him Who led protection to me.",
+          "fr.karamati": "C'est vers d'autres que nous qu'un injuste et un Satan ont tourné la ruse et l'effort, par (la grâce de) Celui qui m'a amené la protection."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "عَنِ اللَّهِ وَالْمُخْتَارِ قَدْ صِرْتُ رَاضِيَا ۞ وَقَدْ كَبْكَبَ الشَّيْطَانَ قَدْ بَآءَ مَخْفِيَّا",
+        "translations": {
+          "it.karamati": "Di Allah e dell'Eletto sono divenuto compiaciuto, e (Allah) ha precipitato Satana, che se n'è tornato nascosto (nella vergogna).",
+          "en.karamati": "With Allah and the Chosen One I have become well pleased, and (Allah) has hurled Satan down, who has gone back hidden (in shame).",
+          "fr.karamati": "D'Allah et de l'Élu je suis devenu satisfait, et (Allah) a précipité Satan, qui s'en est retourné caché (dans la honte)."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "وُجُوهُ صِحَابِ الْمُنْتَقَى وَاجَهُواْ الْعِدَى ۞ بِطَرْدٍ وَإِرْدَآءٍ كَمَآ أَدْمَنُواْ النَّفْيَا",
+        "translations": {
+          "it.karamati": "I volti dei Compagni del Prescelto hanno fronteggiato i nemici con la cacciata e l'abbattimento, così come hanno perseverato nel respingerli.",
+          "en.karamati": "The faces of the Companions of the Select One confronted the enemies with expulsion and overthrow, as they persisted in repelling them.",
+          "fr.karamati": "Les visages des Compagnons du Préféré ont affronté les ennemis par l'expulsion et l'abattement, de même qu'ils ont persévéré à les repousser."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "ذَبَبْتُ الْعِدَى بِاللَّهِ وَالْمُنْتَقَى النَّبِى ۞ فُرَادِى وَمُثْنِى أَدْبَرُواْ لَا زَمُواْ الْحَرْبَا",
+        "translations": {
+          "it.karamati": "Ho respinto i nemici per mezzo di Allah e del Prescelto, il Profeta: a uno a uno e a due a due voltarono le spalle, attenendosi alla fuga.",
+          "en.karamati": "I repelled the enemies through Allah and the Select One, the Prophet: one by one and two by two they turned their backs, keeping to flight.",
+          "fr.karamati": "J'ai repoussé les ennemis par Allah et par le Préféré, le Prophète : un à un et deux à deux ils tournèrent le dos, s'en tenant à la fuite."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "بِرِأْتُ لِوَجْهِ اللَّهِ مِنْ كُلِّ مُشْرِكٍ ۞ خَلِيلًا حَبِيبًا لِلَّذِى طَيَّبَ الْمَحْيَا",
+        "translations": {
+          "it.karamati": "Mi sono dissociato, per il Volto di Allah, da ogni associatore, (divenendo) amico intimo e diletto di colui che ha reso buona la vita.",
+          "en.karamati": "I have dissociated myself, for the Face of Allah, from every idolater, (becoming) intimate friend and beloved of him who made life good.",
+          "fr.karamati": "Je me suis désolidarisé, pour la Face d'Allah, de tout associateur, (devenant) ami intime et bien-aimé de celui qui a rendu la vie bonne."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "أَجَابَنِىَ الْبَاقِى الَّذِى لَا يَرُدُّ لِى ۞ كَحِ الْمُشْتَرَاةَ الدَّهْرَ مُذْ قَادَ لِى طَيَّا",
+        "translations": {
+          "it.karamati": "Mi ha esaudito il Permanente (Al-Bāqī), che mai rivolge contro di me ogni avversario invidioso prezzolato, da quando ha condotto a me il ripiegamento (delle distanze).",
+          "en.karamati": "The Everlasting (Al-Bāqī) has answered me, Who never turns any hired envious adversary against me, since He led to me the folding (of distances).",
+          "fr.karamati": "M'a exaucé le Permanent (Al-Bāqī), qui ne retourne jamais contre moi tout adversaire envieux soudoyé, depuis qu'Il m'a amené le repliement (des distances)."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "لِمَنْ زَحْزَحَ الْأَعْدَآءِ بِالْخِزْىِ سَرْمَدَا ۞ إِلَى غَيْرِىَ الْحَمْدُ الَّذِى قَادَ لِى الْبُغْيَى",
+        "translations": {
+          "it.karamati": "A Colui che ha allontanato per sempre i nemici, con l'ignominia, verso altri che me, la lode: (Colui) che ha condotto a me l'oggetto del mio desiderio.",
+          "en.karamati": "To Him Who has driven the enemies for ever, in disgrace, toward others than me, be praise: (He) Who led to me the object of my desire.",
+          "fr.karamati": "À Celui qui a écarté pour toujours les ennemis, par l'ignominie, vers d'autres que moi, la louange : (Celui) qui m'a amené l'objet de mon désir."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لِرَبِّى الَّذِى لَا يُصِلُ الدَّهْرَ لِى أَذًى ۞ شُكُورِى وَحَمْدِى تَارِكًا مَّاحَوَى نَهْيَا",
+        "translations": {
+          "it.karamati": "Al mio Signore, che mai fa giungere a me alcun danno, la mia gratitudine e la mia lode, abbandonando ciò che racchiude un divieto.",
+          "en.karamati": "To my Lord, Who never lets any harm reach me, my gratitude and my praise, forsaking whatever holds a prohibition.",
+          "fr.karamati": "À mon Seigneur, qui jamais ne fait parvenir jusqu'à moi aucun mal, ma gratitude et ma louange, en délaissant ce qui renferme un interdit."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "هُوَ اللَّهُ وَالرَّحْمَانُ وَهْوَ الرَّحِيمُ مَنْ ۞ إِلَيْهِ انْتَحَى بِالْمُنْتَقَى دَامَ مَرْضِيَّا",
+        "translations": {
+          "it.karamati": "Egli è Allah, il Compassionevole (Ar-Raḥmān), ed Egli è il Misericordioso (Ar-Raḥīm): chi si dirige a Lui per mezzo del Prescelto resta per sempre gradito.",
+          "en.karamati": "He is Allah, the All-Merciful (Ar-Raḥmān), and He is the Most Merciful (Ar-Raḥīm): whoever turns to Him through the Select One remains for ever well-pleasing.",
+          "fr.karamati": "Il est Allah, le Tout-Miséricordieux (Ar-Raḥmān), et Il est le Très-Miséricordieux (Ar-Raḥīm) : qui se dirige vers Lui par le Préféré demeure pour toujours agréé."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "مُحَمَّدٌ الْمُخْتَارُ قَدْ بَانَ كَوْنُهُ ۞ رَئِيسَ الْوَرَى مَنْ رَّدَّهُ لَازَمَ الْغَيَّا",
+        "translations": {
+          "it.karamati": "Muḥammad, l'Eletto: è divenuto chiaro che egli è il capo delle creature; chi lo respinge si attiene al traviamento.",
+          "en.karamati": "Muḥammad, the Chosen One: it has become clear that he is the chief of creation; whoever rejects him clings to error.",
+          "fr.karamati": "Muḥammad, l'Élu : il est devenu clair qu'il est le chef des créatures ; qui le rejette s'attache à l'égarement."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "نَبِىٌّ رَّسُولٌ وَالْمَزَايَا جَلِيَّةٌ ۞ وَوَجَّهَهُ لِلْخَلْقِ مَنْ لَّمْ يَزَلْ حَيَّا",
+        "translations": {
+          "it.karamati": "Profeta, Inviato – e i suoi privilegi sono evidenti –: lo ha inviato alle creature Colui che non cessa di essere Vivente (Al-Ḥayy).",
+          "en.karamati": "Prophet, Messenger – and his distinctions are manifest –: He Who never ceases to be Living (Al-Ḥayy) sent him to creation.",
+          "fr.karamati": "Prophète, Envoyé – et ses privilèges sont évidents – : l'a envoyé aux créatures Celui qui ne cesse d'être Vivant (Al-Ḥayy)."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "أَزَالَ بِهِ الرَّحْمَانُ مَا قَدْ نَحَا الْعِدَى ۞ عَلَيْهِ صَلَاةُ اللَّهِ مَا جَادَ وَاسْتَحْيَى",
+        "translations": {
+          "it.karamati": "Per mezzo di lui il Compassionevole (Ar-Raḥmān) ha rimosso ciò a cui miravano i nemici: su di lui la benedizione di Allah, per quanto egli fu generoso e pudico.",
+          "en.karamati": "Through him the All-Merciful (Ar-Raḥmān) removed what the enemies aimed at: upon him the blessing of Allah, as much as he was generous and modest.",
+          "fr.karamati": "Par lui le Tout-Miséricordieux (Ar-Raḥmān) a ôté ce que visaient les ennemis : sur lui la bénédiction d'Allah, autant qu'il fut généreux et pudique."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "لَهُ مَا نَفَى الشَّيْطَانَ وَالضُّرَّ وَالْبَلَآ ۞ إِلَى غَيْرِنَا وَانْقَادَ لِى الصَّفْوُ وَالْبُغْيَى",
+        "translations": {
+          "it.karamati": "A Lui (la lode) per aver respinto Satana, il danno e la prova verso altri che noi, e perché si sono sottomessi a me la serenità e l'oggetto del desiderio.",
+          "en.karamati": "To Him (be praise) for repelling Satan, harm and trial toward others than us, and because serenity and the object of desire have yielded to me.",
+          "fr.karamati": "À Lui (la louange) pour avoir repoussé Satan, le mal et l'épreuve vers d'autres que nous, et parce que se sont soumis à moi la sérénité et l'objet du désir."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "شَكَرْتُ الَّذِى أَرْدَى عَدُوِّ مُوَجِّهًا ۞ إِلَى غَيْرِىَ الشَّيْطَانَ بِالْيَأْسِ مَنْفِيَّا",
+        "translations": {
+          "it.karamati": "Ho ringraziato Colui che ha abbattuto il mio nemico, rivolgendo verso altri che me Satana, respinto nella disperazione.",
+          "en.karamati": "I have thanked Him Who struck down my enemy, turning Satan toward others than me, repelled in despair.",
+          "fr.karamati": "J'ai remercié Celui qui a abattu mon ennemi, tournant vers d'autres que moi Satan, repoussé dans le désespoir."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "يَسُوقُ لِغَيْرِى مَنْ هَدَانِى بِذِكْرِهِ ۞ لَعِينًا وَمَنْ لَّا يَطْلُبُ الْفَهْمَ وَالدِّرْيَا",
+        "translations": {
+          "it.karamati": "Colui che mi ha guidato con il Suo ricordo spinge verso altri che me il Maledetto (Satana) e chi non cerca la comprensione e il sapere.",
+          "en.karamati": "He Who guided me with His remembrance drives toward others than me the Accursed (Satan) and whoever seeks not understanding and knowledge.",
+          "fr.karamati": "Celui qui m'a guidé par Son rappel pousse vers d'autres que moi le Maudit (Satan) et quiconque ne recherche ni la compréhension ni le savoir."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "طَوَافُ الْعِدَى طُرًّ لِغَيْرِى فَمَنْ أَبَى ۞ مَسَالَمَتِى بِالتَّوْبِ لَا يَحْتَوِى هَدْيَا",
+        "translations": {
+          "it.karamati": "L'aggirarsi di tutti i nemici è verso altri che me: chi rifiuta la pace con me, mediante il pentimento, non otterrà la retta guida.",
+          "en.karamati": "The prowling of all the enemies is toward others than me: whoever refuses peace with me, through repentance, shall not attain right guidance.",
+          "fr.karamati": "Le rôdement de tous les ennemis va vers d'autres que moi : qui refuse la paix avec moi, par le repentir, n'obtiendra pas la droite guidance."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "أَجَابَنِىَ الْبَاقِى الَّذِى قَادَ كَحْ مَعَا ۞ لِغَيْرِى وَلِى قَادَ الْمُنَى لَآ أُرَى بَغْيَا",
+        "translations": {
+          "it.karamati": "Mi ha esaudito il Permanente (Al-Bāqī), che ha condotto ogni avversario invidioso, tutti insieme, verso altri che me, e a me ha condotto i desideri: non mi si vede (commettere) prevaricazione.",
+          "en.karamati": "The Everlasting (Al-Bāqī) has answered me, Who led every envious adversary, all together, toward others than me, and led my wishes to me: I am not seen (committing) transgression.",
+          "fr.karamati": "M'a exaucé le Permanent (Al-Bāqī), qui a mené tout adversaire envieux, tous ensemble, vers d'autres que moi, et vers moi a mené les souhaits : on ne me voit (commettre) nulle transgression."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "نَفَى كَحْ لِغَيْرِى سَرْمَدًا خَيْرُ شَافِعٍ ۞ يُوَجِّهُ لِى الْبَاقِى بِهِ الشِّبْعَِ وَالرِّيَّا",
+        "translations": {
+          "it.karamati": "Il migliore degli intercessori ha respinto per sempre ogni avversario invidioso verso altri che me; per mezzo di lui il Permanente rivolge a me la sazietà e l'abbeveramento.",
+          "en.karamati": "The best of intercessors has repelled every envious adversary for ever toward others than me; through him the Everlasting turns satiety and quenching toward me.",
+          "fr.karamati": "Le meilleur des intercesseurs a repoussé pour toujours tout adversaire envieux vers d'autres que moi ; par lui le Permanent tourne vers moi la satiété et l'abreuvement."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "إِلَى غَيْرِ حِبِّ اللَّهِ حِبِّ رَسُولِهِ ۞ يَمِيلُ الَّذِى لَمْ يَقْبَلِ الْبِرَّ وَالْوَحْيَا",
+        "translations": {
+          "it.karamati": "Verso altri che l'amato di Allah, l'amato del Suo Inviato, piega colui che non ha accolto la pietà e la Rivelazione.",
+          "en.karamati": "Toward others than the beloved of Allah, the beloved of His Messenger, inclines whoever has not accepted piety and Revelation.",
+          "fr.karamati": "Vers d'autres que le bien-aimé d'Allah, le bien-aimé de Son Envoyé, penche celui qui n'a pas accueilli la piété et la Révélation."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "لَقَدْ بَانَ لِى أَنَّ الْمُقَفَّى رَسُولُ مَنْ ۞ يُّخَلِّدُ لِى سِرًّا يُوَلِى الْعِدَى خِزْيَا",
+        "translations": {
+          "it.karamati": "Mi è divenuto chiaro che l'Ultimo venuto (Muḥammad) è l'Inviato di Colui che rende eterno per me un segreto e infligge ai nemici l'ignominia.",
+          "en.karamati": "It has become clear to me that the Last to Come (Muḥammad) is the Messenger of Him Who makes a secret everlasting for me and visits disgrace upon the enemies.",
+          "fr.karamati": "Il m'est devenu clair que le Dernier venu (Muḥammad) est l'Envoyé de Celui qui rend éternel pour moi un secret et inflige aux ennemis l'ignominie."
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "رَفَعْتُ ثَنَآءِ لِلْمُقَفَّى وَحِزْبِهِ ۞ كَمَا قَصْدَ كَحْ نَحْوِى مَحَا رَبُّهُ مَحْيَا",
+        "translations": {
+          "it.karamati": "Ho innalzato la mia lode all'Ultimo venuto (Muḥammad) e al suo partito, così come il suo Signore ha cancellato del tutto l'intento di ogni avversario invidioso contro di me.",
+          "en.karamati": "I have raised my praise to the Last to Come (Muḥammad) and his party, just as his Lord wholly erased the design of every envious adversary against me.",
+          "fr.karamati": "J'ai élevé ma louange au Dernier venu (Muḥammad) et à son parti, de même que son Seigneur a entièrement effacé le dessein de tout adversaire envieux contre moi."
+        }
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "جَزَآءُ الَّذِى لِى فِيدَ فِى عَامِ دَكْسَشٍ ۞ جَزَاءُ مِّنَ الْمَاحِى الْعَنَآ مُذْ مَحَا الْخَشْيَا",
+        "translations": {
+          "it.karamati": "La ricompensa di ciò che mi è stato concesso nell'anno Daksash (1324 H / 1906-07) è una ricompensa da parte di colui che cancella la pena (Al-Māḥī, Muḥammad), da quando ha cancellato il timore.",
+          "en.karamati": "The reward for what was granted me in the year Daksash (1324 AH / 1906-07) is a reward from the Effacer of hardship (Al-Māḥī, Muḥammad), since he erased fear.",
+          "fr.karamati": "La récompense de ce qui m'a été accordé en l'année Daksash (1324 H / 1906-07) est une récompense de la part de celui qui efface la peine (Al-Māḥī, Muḥammad), depuis qu'il a effacé la crainte."
+        }
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "يَسُوقُ لِغَيْرِ اللَّهُ كُلَّ مُفَنِّدٍ ۞ طَرِيدًا إِلَى غَيْرِى دَوَامًا بِلَا لُقْيَى",
+        "translations": {
+          "it.karamati": "Allah spinge verso altri ogni calunniatore, scacciato verso altri che me, per sempre, senza incontro.",
+          "en.karamati": "Allah drives every slanderer toward others, banished toward others than me, for ever, with no meeting.",
+          "fr.karamati": "Allah pousse vers d'autres tout calomniateur, chassé vers d'autres que moi, pour toujours, sans rencontre."
+        }
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "مَحَا قَصْدَ كَحْ لِى مَنْ هَدَانِى بِرَبِّهِ ۞ عَلَيْهِ سَلَامَا مَنْ بِهِ قَادَ لِى الرَّعْيَا",
+        "translations": {
+          "it.karamati": "Ha cancellato l'intento di ogni avversario invidioso contro di me colui che mi ha guidato al suo Signore (Muḥammad): su di lui il saluto di Colui che, per mezzo di lui, ha condotto a me la tutela.",
+          "en.karamati": "He who guided me to his Lord (Muḥammad) has erased the design of every envious adversary against me: upon him the peace of Him Who, through him, led protection to me.",
+          "fr.karamati": "A effacé le dessein de tout adversaire envieux contre moi celui qui m'a guidé vers son Seigneur (Muḥammad) : sur lui le salut de Celui qui, par lui, m'a amené la protection."
+        }
+      }
     ]
   }
 }

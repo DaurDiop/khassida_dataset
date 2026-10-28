@@ -167,6 +167,118 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "عَلَى الْمُصْطَفَى مِنِّى صَلَاةٌ تَقِى الضَّيْرَا ۞ جِهَاتِى كَمَا يُفْضِى إِلَى نَحْوِىَ الْخَيْرَا",
+        "translations": {
+          "it.karamati": "Sull'Eletto (Muḥammad), da parte mia, una benedizione che preservi dal danno ogni mio lato, così come egli fa giungere verso di me il bene.",
+          "en.karamati": "Upon the Chosen One (Muḥammad), from me, a blessing that guards every side of me from harm, just as he makes good reach toward me.",
+          "fr.karamati": "Sur l'Élu (Muḥammad), de ma part, une bénédiction qui préserve du mal chacun de mes côtés, de même qu'il fait parvenir vers moi le bien."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "عَلَى الْمُنْتَقَى مِنِّى سَلَامٌ مُّطَهِّرٌ ۞ لِّكُلِّيَّتِى تَطْهِيرَ هَادٍ مَّحَا جَوْرَا",
+        "translations": {
+          "it.karamati": "Sul Prescelto (Muḥammad), da parte mia, un saluto che purifichi tutto il mio essere, della purificazione di una guida che ha cancellato l'ingiustizia.",
+          "en.karamati": "Upon the Elect (Muḥammad), from me, a greeting of peace that purifies my whole being, with the purification of a guide who has erased injustice.",
+          "fr.karamati": "Sur le Préféré (Muḥammad), de ma part, un salut qui purifie tout mon être, de la purification d'un guide qui a effacé l'injustice."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "صَلَاةٌ وَتَسْلِيمٌ مِّنَ اللَّهِ سَرْمَدًا ۞ عَلَى مَنْ بِرَزَّقٍ يُصَفِّى لِىَ الْمَيْرَا",
+        "translations": {
+          "it.karamati": "Benedizione e saluto da Allah, in eterno, su colui che, per mezzo di un Provveditore (Allah), rende puro per me il vettovagliamento.",
+          "en.karamati": "Blessing and peace from Allah, forever, upon him who, through a Provider (Allah), makes my provisions pure for me.",
+          "fr.karamati": "Bénédiction et salut d'Allah, éternellement, sur celui qui, par un Pourvoyeur (Allah), rend pures pour moi les provisions."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "عَلَى مَنْ بِهِ ى رَبُّ الْوَرَى أَنْشَأَ الْوَرَى ۞ صَلَاةٌ وَتَسْلِيمٌ يَدُو مَانِ لِى زَوْرَا",
+        "translations": {
+          "it.karamati": "Su colui per mezzo del quale il Signore delle creature ha creato le creature, benedizione e saluto che perdurino, per me, come visita.",
+          "en.karamati": "Upon him through whom the Lord of creatures created the creatures, blessing and peace that endure, for me, as a visit.",
+          "fr.karamati": "Sur celui par qui le Seigneur des créatures a créé les créatures, bénédiction et salut qui durent, pour moi, comme une visite."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "مِنَ اللَّهِ رَبِّ الْعَرْشِ أَبْغِى بِهِ الْبِرَّا ۞ بِجَاهِ رَسُولِ اللَّهِ مَنْ كَلْكَلِى سَرَّا",
+        "translations": {
+          "it.karamati": "Da Allah, Signore del Trono, desidero per mezzo di lui la bontà, per il rango dell'Inviato di Allah, colui che ha rallegrato il mio petto.",
+          "en.karamati": "From Allah, Lord of the Throne, I seek through him goodness, by the rank of the Messenger of Allah, he who has gladdened my breast.",
+          "fr.karamati": "D'Allah, Seigneur du Trône, je désire par lui la bonté, par le rang de l'Envoyé d'Allah, celui qui a réjoui ma poitrine."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "عَلَيْكَ صَلَاةُ اللَّهِ ثُمَّ سَلَامُهُ ۞ دَوَامًا كَمَآ أَفْضَى إِلَى غَيْرِىَ الشَّرَّا",
+        "translations": {
+          "it.karamati": "Su di te la benedizione di Allah, poi il Suo saluto, perennemente, così come (Egli) ha fatto giungere ad altri che me il male.",
+          "en.karamati": "Upon you be the blessing of Allah, then His peace, perpetually, just as (He) has made evil reach others than me.",
+          "fr.karamati": "Sur toi la bénédiction d'Allah, puis Son salut, perpétuellement, de même qu'(Il) a fait parvenir à d'autres que moi le mal."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "تَقَدُّ مَكَ الْبَادِى بَدَا لِى وَقَادَ لِى ۞ نَوَلًا عَجِيبًا أَحْسَرَ الْجَهْرَ وَالسِّرَّا",
+        "translations": {
+          "it.karamati": "La tua precedenza manifesta mi è apparsa e mi ha condotto un dono mirabile, che ha superato ogni misura del palese e del segreto.",
+          "en.karamati": "Your manifest precedence has appeared to me and led to me a wondrous gift, which has surpassed every measure of the open and the secret.",
+          "fr.karamati": "Ta préséance manifeste m'est apparue et m'a conduit un don merveilleux, qui a dépassé toute mesure de l'apparent et du secret."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "مِنَ اللَّهِ رُمْ لِى كَوْنَهُ لِى بِفَضْلِهِ ۞ خَدِيمًا لَّكُمْ يَامَنْ كَفَانِى الْعِدَى طُرَّا",
+        "translations": {
+          "it.karamati": "Da Allah chiedi per me che Egli, per Sua grazia, faccia di me un servitore per voi, o tu che mi hai preservato dai nemici, tutti quanti.",
+          "en.karamati": "From Allah seek for me that He, by His grace, make me a servant for you, O you who have spared me from the enemies, every one of them.",
+          "fr.karamati": "D'Allah demande pour moi qu'Il fasse de moi, par Sa grâce, un serviteur pour vous, ô toi qui m'as préservé des ennemis, tous sans exception."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "عَلَيْكُمْ صَلَاةٌ مَّعْ سَلَامٍ مِّنَ الْعَلِى ۞ بِئَالٍ وَأَصْحَابٍ لَّكُمْ مَّنْ حَوَوْاْ بِرَّا",
+        "translations": {
+          "it.karamati": "Su di voi una benedizione con un saluto dall'Altissimo (Al-ʿAlī), con la vostra Famiglia e i vostri Compagni, coloro che hanno racchiuso la bontà.",
+          "en.karamati": "Upon you a blessing with peace from the Most High (Al-ʿAlī), with your Family and your Companions, those who have gathered goodness.",
+          "fr.karamati": "Sur vous une bénédiction avec un salut du Très-Haut (Al-ʿAlī), avec votre Famille et vos Compagnons, ceux qui ont renfermé la bonté."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "عَلَيْكُمْ صَلَاةُ اللَّهِ مَا انْقَادَتِ الْمُنَى ۞ لِكُلِّى بِلَا مَكْرٍ وَمَا كَلْكَلِى سَرَّا",
+        "translations": {
+          "it.karamati": "Su di voi la benedizione di Allah, finché le aspirazioni si sottomettano a tutto il mio essere senza inganno, e finché (Egli) rallegri il mio petto.",
+          "en.karamati": "Upon you be the blessing of Allah, as long as aspirations yield to my whole being without guile, and as long as (He) gladdens my breast.",
+          "fr.karamati": "Sur vous la bénédiction d'Allah, tant que les aspirations se soumettent à tout mon être sans ruse, et tant qu'(Il) réjouit ma poitrine."
+        }
+      }
     ]
   }
 }

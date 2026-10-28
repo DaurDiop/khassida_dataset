@@ -311,6 +311,217 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "حَمِدْتُّ مَنْ يَّعِصِمُنِى مِنَ الضَّرَرْ ۞ مِنْ كُلِّ شَيْطَانٍ وَجِنٍ وَبَشَرْ",
+        "translations": {
+          "it.karamati": "Ho lodato Colui che mi preserva dal danno di ogni demonio, jinn e uomo.",
+          "en.karamati": "I have praised Him Who guards me from the harm of every devil, jinn and human.",
+          "fr.karamati": "J'ai loué Celui qui me préserve du mal de tout démon, djinn et homme."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "سُبْحَانهُ رَبًّا حَفِيظًا أَحْتَمِى ۞ بِحِفْظِهِ مِنَ الْبَلَا والنِّقَمِ",
+        "translations": {
+          "it.karamati": "Gloria a Lui, Signore e Custode: mi riparo nella Sua custodia dalla sventura e dai castighi.",
+          "en.karamati": "Glory be to Him, Lord and Preserver: I shelter in His keeping from affliction and punishments.",
+          "fr.karamati": "Gloire à Lui, Seigneur et Gardien : je m'abrite dans Sa garde contre le malheur et les châtiments."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "بِهِ أَعُوذُ مِنْ هَوَاىَ وَاللَّعِينْ ۞ وَمِنْ جَمِيعِ الْمُوذِيَاتِ كُلَّ عِينْ",
+        "translations": {
+          "it.karamati": "In Lui mi rifugio dalla mia passione e dal Maledetto, e da tutte le (creature) nocive, da ogni malocchio.",
+          "en.karamati": "In Him I take refuge from my passion and from the Accursed, and from all harmful (creatures), from every evil eye.",
+          "fr.karamati": "En Lui je me réfugie de ma passion et du Maudit, et de toutes les (créatures) nuisibles, de tout mauvais œil."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "نَوَيْتُ أَنْ أَدْعُوَهُ مُسْتَشْفِعَا ۞ بِجَاهِ حِبِّهِ شَفِيعِ الشُّفَعَآ",
+        "translations": {
+          "it.karamati": "Ho inteso invocarLo chiedendo intercessione per il rango del Suo amato, intercessore degli intercessori,",
+          "en.karamati": "I have intended to call upon Him seeking intercession by the rank of His beloved, the intercessor of intercessors,",
+          "fr.karamati": "J'ai eu l'intention de L'invoquer en demandant l'intercession par le rang de Son bien-aimé, intercesseur des intercesseurs,"
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "أَحْمَدُ سَيِّدَ الْوَرَى مُصَلِّيَا ۞ عَلَيْهِ ذَا تَوَسُولٍ لِّرَبِّيَا",
+        "translations": {
+          "it.karamati": "Aḥmad, signore delle creature, benedicendolo, (io) che cerco per mezzo suo l'accesso al mio Signore.",
+          "en.karamati": "Aḥmad, master of creatures, blessing him, (I) who seek through him access to my Lord.",
+          "fr.karamati": "Aḥmad, seigneur des créatures, en le bénissant, (moi) qui cherche par lui l'accès à mon Seigneur."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "أَسْأَلُ رَبِّىَ بِجَاهِهِ النَّجَاةْ ۞ مِنَ الرَّزَايَا وَتَنَازُعِ الْبُغَاةْ",
+        "translations": {
+          "it.karamati": "Chiedo al mio Signore, per il suo rango, la salvezza dalle sventure e dalla contesa degli oppressori.",
+          "en.karamati": "I ask my Lord, by his rank, for deliverance from misfortunes and from the strife of oppressors.",
+          "fr.karamati": "Je demande à mon Seigneur, par son rang, le salut contre les malheurs et la querelle des oppresseurs."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "لَكَ الْوَرَى يَارَبِّ هَبْ لِى عِصْمَهْ ۞ مِنْهُمْ وَمِنْ كُلِّ بَلًا وَنِقْمَهْ",
+        "translations": {
+          "it.karamati": "A Te (appartengono) le creature, o Signore: donami una preservazione da esse e da ogni sventura e castigo.",
+          "en.karamati": "To You (belong) the creatures, O Lord: grant me protection from them and from every affliction and punishment.",
+          "fr.karamati": "À Toi (appartiennent) les créatures, ô Seigneur : donne-moi une préservation contre elles et contre tout malheur et châtiment."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لَكَ جَعَلْتُ يَاحَفِيظُ نَفْسِى ۞ وَدِيعَةً فَأَنْتَ دَأْبًا أُنْسِى",
+        "translations": {
+          "it.karamati": "A Te, o Custode (Al-Ḥafīẓ), ho affidato la mia anima in deposito: Tu sei sempre la mia intimità.",
+          "en.karamati": "To You, O Preserver (Al-Ḥafīẓ), I have entrusted my soul as a deposit: You are ever my intimacy.",
+          "fr.karamati": "À Toi, ô Gardien (Al-Ḥafīẓ), j'ai confié mon âme en dépôt : Tu es toujours mon intimité."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "هَبْ لِىَ مَآ أُحِبُّ فِى الدَّارَيْنِ ۞ وَفِيهِمَا اعْصِمْنِى مِنَ الْعَارَيْنِ",
+        "translations": {
+          "it.karamati": "Donami ciò che amo nelle due Dimore, e in esse preservami dalle due onte.",
+          "en.karamati": "Grant me what I love in the two Abodes, and in them guard me from the two disgraces.",
+          "fr.karamati": "Donne-moi ce que j'aime dans les deux Demeures, et en elles préserve-moi des deux opprobres."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "وَجَّهْتُ وَاجْهِىَ إِلَيْكَ رَبِّ ۞ مَعَ وَسِيلَتِى وَذَاكَ حَسْبِى",
+        "translations": {
+          "it.karamati": "Ho rivolto il mio volto a Te, Signore, insieme al mio mezzo d'accesso (il Profeta), e ciò mi basta.",
+          "en.karamati": "I have turned my face to You, Lord, together with my means of access (the Prophet), and that suffices me.",
+          "fr.karamati": "J'ai tourné mon visage vers Toi, Seigneur, avec mon moyen d'accès (le Prophète), et cela me suffit."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "نَجِّ جَنَابِى مِنْ جَمِيعَ مَا يَسُو ۞ وَعَنِّىَ اكْفِ كُلَّ مَا يُوَسْوِسُ",
+        "translations": {
+          "it.karamati": "Salva la mia persona da tutto ciò che affligge, e tieni lontano da me tutto ciò che insinua.",
+          "en.karamati": "Save my person from all that grieves, and keep from me all that whispers.",
+          "fr.karamati": "Sauve ma personne de tout ce qui afflige, et éloigne de moi tout ce qui insinue."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "عَنِّى اصْرِفِ الْأَعْدَآءَ طُرًّا بِالنَّبِى ۞ وَأَهْلِ بَدْرٍ الْكِرَامِ النُّجُبِ",
+        "translations": {
+          "it.karamati": "Allontana da me i nemici, tutti, per mezzo del Profeta e della gente di Badr, i nobili, gli eletti.",
+          "en.karamati": "Turn the enemies away from me, all of them, through the Prophet and the people of Badr, the noble, the elect.",
+          "fr.karamati": "Éloigne de moi les ennemis, tous, par le Prophète et les gens de Badr, les nobles, les élus."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "مُنَّ عَلَىَّ بِالدُّخُولِ سَاكِنَا ۞ فِى حِصْنِكَ الْحَصِيرِ مِنْهُمْ ءَامِنَا",
+        "translations": {
+          "it.karamati": "Concedimi di entrare, dimorando tranquillo, nella Tua fortezza inespugnabile, al sicuro da loro.",
+          "en.karamati": "Grant me to enter, dwelling at peace, into Your impregnable fortress, safe from them.",
+          "fr.karamati": "Accorde-moi d'entrer, demeurant tranquille, dans Ta forteresse imprenable, en sécurité contre eux."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "أَنْتَ الَّذِى تَعْصِمُ مَنْ بِكَ اعْتَصَمْ ۞ مِنْ كُلِّ مَا يَؤُمُّهُ مِنَ النِّقَمْ",
+        "translations": {
+          "it.karamati": "Tu sei Colui che preservi chi in Te si stringe da ogni castigo che lo prende di mira.",
+          "en.karamati": "You are He Who guards whoever holds fast to You from every punishment that aims at him.",
+          "fr.karamati": "Tu es Celui qui préserves celui qui s'attache à Toi de tout châtiment qui le vise."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "لَكَ أُمُورِى أَبَدًا أُفَوِّضُ ۞ وَكُلُّ مَنْ لَّكَ الْتَجَا لَا يُرْفَضُ",
+        "translations": {
+          "it.karamati": "A Te affido per sempre le mie faccende, e chiunque si rifugi in Te non è respinto.",
+          "en.karamati": "To You I entrust my affairs forever, and whoever takes refuge in You is not turned away.",
+          "fr.karamati": "À Toi je remets pour toujours mes affaires, et quiconque se réfugie en Toi n'est pas repoussé."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "وَقَيْتَنِى يَابَرُّ كُفْرًا فَقِنِى ۞ ضَرَرَ أَهْلِهِ وَكُلَّ فِتَنِ",
+        "translations": {
+          "it.karamati": "Mi hai preservato, o Benefico (Al-Barr), dalla miscredenza: preservami dunque dal danno dei suoi seguaci e da ogni tentazione.",
+          "en.karamati": "You have guarded me, O Beneficent (Al-Barr), from disbelief: so guard me from the harm of its people and from every trial.",
+          "fr.karamati": "Tu m'as préservé, ô Bienfaisant (Al-Barr), de la mécréance : préserve-moi donc du mal de ses partisans et de toute tentation."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "كُفَّ أَكُفَّ الْمُشْرِكِينَ عَنِّى ۞ بِأَهْلِ بَدْرٍ وَاجْعَلَنْهُمْ حِصْنِى",
+        "translations": {
+          "it.karamati": "Trattieni da me le mani degli associatori, per mezzo della gente di Badr, e fa' di loro la mia fortezza.",
+          "en.karamati": "Hold back from me the hands of the associators, through the people of Badr, and make them my fortress.",
+          "fr.karamati": "Retiens loin de moi les mains des associateurs, par les gens de Badr, et fais d'eux ma forteresse."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "يَابَرُّ كُنْ لِّىَ وَلَا تُخْجِلْنِى ۞ دُنْيَا وَأُخْرَى وَتَجَوَزْ عَنِّى",
+        "translations": {
+          "it.karamati": "O Benefico, sii per me e non coprirmi di vergogna, in questo mondo e nell'altro, e passa oltre (le mie colpe).",
+          "en.karamati": "O Beneficent, be for me and do not put me to shame, in this world and the next, and pass over (my faults).",
+          "fr.karamati": "Ô Bienfaisant, sois pour moi et ne me couvre pas de honte, en ce monde et dans l'autre, et passe outre (mes fautes)."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "لِلْمُصْطَفَى اكْتُبِ الصَّلَاةً وَالسَّلَامْ ۞ بِئَالِهِ وَصَحْبِهِ عَلَى دَوَامْ",
+        "translations": {
+          "it.karamati": "Per l'Eletto scrivi la benedizione e il saluto, con la sua Famiglia e i suoi Compagni, in perpetuo.",
+          "en.karamati": "For the Chosen One write blessing and peace, with his Family and his Companions, in perpetuity.",
+          "fr.karamati": "Pour l'Élu écris la bénédiction et le salut, avec sa Famille et ses Compagnons, à perpétuité."
+        }
+      }
     ]
   }
 }

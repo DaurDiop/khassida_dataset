@@ -199,6 +199,140 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "مَدْحُ النَّبِىِّ الْمُنَتَقَى ذَادٌ إِلَى ۞ بَيْتِ إِلَاهِ النَّاسِ وَاهِبِ الْإِلَى",
+        "translations": {
+          "it.karamati": "La lode del Profeta, il Prescelto, è una provvista verso la Casa del Dio degli uomini, Donatore dei benefici.",
+          "en.karamati": "Praise of the Prophet, the Select One, is a provision toward the House of the God of mankind, Giver of favours.",
+          "fr.karamati": "La louange du Prophète, le Préféré, est un viatique vers la Maison du Dieu des hommes, Donateur des bienfaits."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "حُبُّ النَّبِىِّ لِإِلَاهِ صَوَّرَهْ ۞ ذَادٌ إِلَى الْمَدِينَةِ الْمُنَوَّرَهْ",
+        "translations": {
+          "it.karamati": "L'amore per il Profeta, per il Dio che lo ha plasmato, è una provvista verso Medina la Luminosa.",
+          "en.karamati": "Love of the Prophet, for the God Who fashioned him, is a provision toward Medina the Radiant.",
+          "fr.karamati": "L'amour du Prophète, pour le Dieu qui l'a façonné, est un viatique vers Médine la Lumineuse."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "مُحَمَّدٌ صَلَّى عَلَيْهِ اللَّهُ ۞ مُسَلِّمًا بَدَتْ لَنَا عُلَاهُ",
+        "translations": {
+          "it.karamati": "Muḥammad – lo benedica Allah dandogli pace –: si è manifestata a noi la sua altezza.",
+          "en.karamati": "Muḥammad – may Allah bless him, granting him peace –: his loftiness has appeared to us.",
+          "fr.karamati": "Muḥammad – qu'Allah le bénisse en lui accordant la paix – : sa hauteur nous est apparue."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "مُحَمَّدٌ فَرْدٌ يَفُوقُ تَثْنِيَهْ ۞ وَفَاقَ جَمْعًا وَالْهَدَايَا مُغْنِيَهْ",
+        "translations": {
+          "it.karamati": "Muḥammad è un singolare che supera il duale, e ha superato il plurale; e i (suoi) doni arricchiscono.",
+          "en.karamati": "Muḥammad is a singular that surpasses the dual, and has surpassed the plural; and (his) gifts enrich.",
+          "fr.karamati": "Muḥammad est un singulier qui surpasse le duel, et a surpassé le pluriel ; et (ses) dons enrichissent."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "دَرَجَةُ الْمُخْتَارِ حِبِّ الْمُرْسِلِ ۞ بِهَا اعْتِلَآءُ دَرَجَاتِ الرُّسُلِ",
+        "translations": {
+          "it.karamati": "Il grado dell'Eletto, diletto di Colui che invia: per esso è l'elevazione sopra i gradi degli inviati.",
+          "en.karamati": "The degree of the Chosen One, beloved of the Sender: by it is the rising above the degrees of the messengers.",
+          "fr.karamati": "Le degré de l'Élu, bien-aimé de Celui qui envoie : par lui est l'élévation au-dessus des degrés des envoyés."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "كُلُّ نَبِىٍّ وَرَسُولٍ يَتْبَعُ ۞ خَلْقَ وَسِيلَتِى هُوَالْمُتَّبَعُ",
+        "translations": {
+          "it.karamati": "Ogni profeta e inviato segue (nel tempo) la creazione del mio mezzo d'accesso: egli è colui che è seguito.",
+          "en.karamati": "Every prophet and messenger follows (in time) the creation of my means of approach: he is the one followed.",
+          "fr.karamati": "Tout prophète et envoyé suit (dans le temps) la création de mon moyen d'accès : il est celui qui est suivi."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "أَحْمَدُنَا الْمَاحِى مَحَا مَاسَآءَا ۞ وَلِسِوَانَا سَاقَ مَنْ أَسَآءَا",
+        "translations": {
+          "it.karamati": "Il nostro Aḥmad, il Māḥī (Colui che cancella), ha cancellato ciò che affliggeva, e verso altri che noi ha spinto chi faceva il male.",
+          "en.karamati": "Our Aḥmad, the Māḥī (the Effacer), erased what afflicted, and drove the evildoer toward others than us.",
+          "fr.karamati": "Notre Aḥmad, le Māḥī (Celui qui efface), a effacé ce qui affligeait, et vers d'autres que nous a poussé qui faisait le mal."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لِأَحْمَدَ الْمُخْتَارِ مَالَمْ يَكُنِ ۞ وَلَا يَكُونُ أَبَدًا لِمُمْكِنِ",
+        "translations": {
+          "it.karamati": "Ad Aḥmad, l'Eletto, (appartiene) ciò che non è stato e mai sarà per alcun essere contingente.",
+          "en.karamati": "To Aḥmad, the Chosen One, (belongs) what has not been and never shall be for any contingent being.",
+          "fr.karamati": "À Aḥmad, l'Élu, (appartient) ce qui n'a jamais été et ne sera jamais pour nul être contingent."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "جَمَالُهُ يَسْبِى فُؤَادَ الرَّآءِ ۞ وَنَهْجُهُ يُغْنِى عَنِ افْتِرَآءِ",
+        "translations": {
+          "it.karamati": "La sua bellezza rapisce il cuore di chi lo vede, e la sua via rende indipendenti dalla menzogna.",
+          "en.karamati": "His beauty captivates the heart of whoever sees him, and his way frees from falsehood.",
+          "fr.karamati": "Sa beauté ravit le cœur de qui le voit, et sa voie dispense du mensonge."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "مَدَّ لَنَا الْإِيمَانَ وَالْإِسْلَامَا ۞ وَأَحْسَنَ الْإِحْسَانِ لَنْ نُّلَامَا",
+        "translations": {
+          "it.karamati": "Ci ha esteso la fede e l'Islam, e il più bello dell'eccellenza (iḥsān): non saremo biasimati.",
+          "en.karamati": "He extended to us faith and Islam, and the finest of excellence (iḥsān): we shall not be blamed.",
+          "fr.karamati": "Il nous a étendu la foi et l'Islam, et le plus beau de l'excellence (iḥsān) : nous ne serons pas blâmés."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "يَسُرُّهُ خَطِّىَ فِى كُلِّ سَنَهْ ۞ وَغَيْرُهُ مِنْ خِدْمَةٍ مُّسْتَحْسَنَهْ",
+        "translations": {
+          "it.karamati": "Lo rallegra la mia scrittura in ogni anno, e altri servizi graditi.",
+          "en.karamati": "My writing gladdens him every year, and other commendable services.",
+          "fr.karamati": "Ma écriture le réjouit chaque année, ainsi que d'autres services agréés."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "لَمْ يَخْفَ كَوْنُ الْمَدْحِ وَالْحُبِّ إِلَى ۞ رَوْضَتِهٍ وَالْبَيْتِ ذَادٌ وَإِلَى",
+        "translations": {
+          "it.karamati": "Non è nascosto che la lode e l'amore sono una provvista verso il suo Giardino (la Rawḍa) e verso la Casa, e un beneficio.",
+          "en.karamati": "It is not hidden that praise and love are a provision toward his Garden (the Rawḍa) and toward the House, and a favour.",
+          "fr.karamati": "Il n'est pas caché que la louange et l'amour sont un viatique vers son Jardin (la Rawḍa) et vers la Maison, et un bienfait."
+        }
+      }
     ]
   }
 }

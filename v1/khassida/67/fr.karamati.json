@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "Kafaaka Rabbuka",
+    "transliterationName": "Kafaaka Rabbuka",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Ton Seigneur te suffit : Il vous suffira contre un (malheur) débordant, dont le débordement est comme une embûche cachée venue d'un roi."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Ton Seigneur te suffit, Garant et refuge de tout grand, contre une étoile qui imitait l'étoile de la sphère céleste,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "(un malheur) qui revient, assaut après assaut, comme l'assaut qui revient au fond du foie ; il vous raille en semant le doute : (Il vous suffit) contre la poitrine menaçante de toute force adverse, contre tout."
+      }
+    ]
+  }
+}

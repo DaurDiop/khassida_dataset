@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "Maramiya",
+    "transliterationName": "Maramiya",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Mon désir auprès d'Allah, je le possède perpétuellement, par le prestige de celui qu'Il a élevé : je veux dire Muḥammad."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Mes forteresses contre les ennemis, le Feu et l'épreuve sont ma louange de celui qui a écarté le mal, Aḥmad."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Mon encre et mes plumes sont pour mon Seigneur et pour le Prophète : par elles je rivalise avec ceux qui ont rendu sincère l'effort, louangeurs."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Chaque fois que je reviens, en serviteur, à la louange et à la gratitude, Il octroie les souhaits ; et le retour ne cesse d'être plus louable."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Mon invocation, exauce-la, Seigneur, par l'Élu, perpétuellement ; et de moi accepte, Seigneur, mon effort, (le rendant) plus louable."
+      }
+    ]
+  }
+}

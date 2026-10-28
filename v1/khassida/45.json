@@ -215,6 +215,151 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "إِلَى نَبِىٍّ رَّسُولٍ جَآءَنَا بِهُدَى ۞ مُذِ اهْتَدَى بِكِتَابٍ جَآبِهِ فَهَدَى",
+        "translations": {
+          "it.karamati": "A un Profeta, Inviato, che ci è venuto con la guida, da quando fu guidato da un Libro che egli recò, e (ci) guidò,",
+          "en.karamati": "To a Prophet, a Messenger, who came to us with guidance, since he was guided by a Book he brought, and guided (us),",
+          "fr.karamati": "À un Prophète, Envoyé, qui nous est venu avec la guidance, depuis qu'il fut guidé par un Livre qu'il apporta, et (nous) guida,"
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "أَبْقَى تَحَايَا بِلَا غِشٍ وَلَا كَدَرٍ ۞ مِنَ الْخَدِيمِ الَّذِى يَنْحُوهُ مُلْتَحَدَا",
+        "translations": {
+          "it.karamati": "i saluti più durevoli, senza inganno né torbidezza, dal Servitore (al-Khadīm) che si dirige a lui come a un rifugio.",
+          "en.karamati": "the most lasting greetings, without deceit or turbidity, from the Servant (al-Khadīm) who turns to him as to a refuge.",
+          "fr.karamati": "les salutations les plus durables, sans tromperie ni trouble, de la part du Serviteur (al-Khadīm) qui se dirige vers lui comme vers un refuge."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "لِئَالِهِ الْغُرِّ وَالْأَصْحَابِ قَاطِبَةً ۞ مِّنِّى سَلَامٌ يُدِيمُ الْأَمْنَ وَالرَّغَدَا",
+        "translations": {
+          "it.karamati": "Alla sua Famiglia illustre e a tutti i Compagni, da parte mia, un saluto che perpetua la sicurezza e l'agiatezza.",
+          "en.karamati": "To his illustrious Family and to all the Companions, from me, a greeting that makes security and ease endure.",
+          "fr.karamati": "À sa Famille illustre et à tous les Compagnons, de ma part, un salut qui perpétue la sécurité et l'aisance."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "يَاسَيِّدِى يَارَسُولَ اللَّهِ يَآ أَمَلِى ۞ صَلَّى عَلَيْكَ الَّذِى قَصَّى الَّذِى مَرَدَا",
+        "translations": {
+          "it.karamati": "O mio signore, o Inviato di Allah, o mia speranza, ti benedica Colui che ha allontanato chi si è ribellato.",
+          "en.karamati": "O my master, O Messenger of Allah, O my hope, may He bless you Who has driven away whoever rebelled.",
+          "fr.karamati": "Ô mon maître, ô Envoyé d'Allah, ô mon espérance, que te bénisse Celui qui a écarté celui qui s'est rebellé."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "يَامُنْتَقَى يَآ إِمَامَ الْمُرْسَلِينَ مَعًا ۞ عَلَيْكَ تَسْلِيمُ مَنْ صَفَّى بِكَ الْخَلَدَا",
+        "translations": {
+          "it.karamati": "O Prescelto, o guida di tutti gli inviati insieme, su di te il saluto di Colui che per mezzo tuo ha purificato l'animo.",
+          "en.karamati": "O Select One, O leader of all the messengers together, upon you the greeting of Him Who through you has purified the heart.",
+          "fr.karamati": "Ô Préféré, ô guide de tous les envoyés ensemble, sur toi le salut de Celui qui par toi a purifié l'âme."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "صَلَّى عَلَيْكَ بِتَسْلِيمٍ بِلَا عَدَدٍ ۞ مَنْ لَّمْ يَكُنْ قَطُّ مَوْلُودًا وَلَمْ يَلِدَا",
+        "translations": {
+          "it.karamati": "Ti benedica, con un saluto senza numero, Colui che non è mai stato generato e non ha generato (Corano 112:3).",
+          "en.karamati": "May He bless you, with a greeting beyond number, Who was never begotten and has not begotten (Qurʾān 112:3).",
+          "fr.karamati": "Que te bénisse, avec un salut sans nombre, Celui qui n'a jamais été engendré et n'a pas engendré (Coran 112:3)."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "صَلَّى وَسَلَّمَ بَاقٍ لَّاشَرِيكَ لَهُ ۞ عَلَيْكَ بِالْئَالِ يَامَنْ زَحْزَحَ الْفَنَدَا",
+        "translations": {
+          "it.karamati": "Ti benedica e ti dia pace un Permanente (Al-Bāqī) che non ha associati, insieme alla Famiglia, o tu che hai allontanato la menzogna.",
+          "en.karamati": "May an Everlasting One (Al-Bāqī) Who has no partner bless you and grant you peace, together with the Family, O you who drove falsehood away.",
+          "fr.karamati": "Que te bénisse et t'accorde la paix un Permanent (Al-Bāqī) qui n'a point d'associé, ainsi que la Famille, ô toi qui as écarté le mensonge."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "صَلَّى وَسَلَّمَ بَاقٍ لَّانَفَادَ لَهُ ۞ عَلَيْكَ بِالصَّحْبِ يَامَنْ قَرَّبَ الرَّشَدَا",
+        "translations": {
+          "it.karamati": "Ti benedica e ti dia pace un Permanente che non ha esaurimento, insieme ai Compagni, o tu che hai avvicinato la rettitudine.",
+          "en.karamati": "May an Everlasting One Who knows no exhaustion bless you and grant you peace, together with the Companions, O you who brought right conduct near.",
+          "fr.karamati": "Que te bénisse et t'accorde la paix un Permanent qui ne s'épuise point, ainsi que les Compagnons, ô toi qui as rapproché la rectitude."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "أَهْلُ الْمَدِينَةِ مِنِّى سَرْمَدًا لَّكُمُ ۞ أَبْقَى سَلَامٍ يُطِيبُ الْقَلْبَ وَالْجَسَدَا",
+        "translations": {
+          "it.karamati": "O gente di Medina, da parte mia, per sempre, a voi il saluto più durevole, che rende buoni il cuore e il corpo.",
+          "en.karamati": "O people of Medina, from me, for ever, to you the most lasting greeting, which makes heart and body wholesome.",
+          "fr.karamati": "Ô gens de Médine, de ma part, pour toujours, à vous le salut le plus durable, qui rend bons le cœur et le corps."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "لَازِلْتُمُ الدَّهْرَ فِى صَفْوٍ وَتَوْسِعَةٍ ۞ يَكْفِيكُمُ اللَّهُ لِلْجَنَّاتِ مَنْ عَنَدَا",
+        "translations": {
+          "it.karamati": "Possiate restare sempre nella serenità e nell'abbondanza; Allah vi preservi, fino ai Giardini, da chi si ostina (nella ribellione).",
+          "en.karamati": "May you ever remain in serenity and abundance; may Allah shield you, until the Gardens, from whoever persists (in rebellion).",
+          "fr.karamati": "Puissiez-vous demeurer toujours dans la sérénité et l'abondance ; qu'Allah vous préserve, jusqu'aux Jardins, de quiconque s'obstine (dans la rébellion)."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "فُزْتُمْ بِكَوْنِ ابْنِ عَبْدِ اللَّهِ جَارَكُمُ ۞ وَكَوْنَكُمْ حَوْلَهُ فَلْتَحْمَدُواْ الصَّمَدَا",
+        "translations": {
+          "it.karamati": "Avete ottenuto che il figlio di ʿAbd Allāh sia vostro vicino, e che voi siate intorno a lui: lodate dunque l'Assoluto (Aṣ-Ṣamad).",
+          "en.karamati": "You have won that the son of ʿAbd Allāh is your neighbour, and that you are around him: so praise the Self-Sufficient (Aṣ-Ṣamad).",
+          "fr.karamati": "Vous avez obtenu que le fils de ʿAbd Allāh soit votre voisin, et que vous soyez autour de lui : louez donc l'Absolu (Aṣ-Ṣamad)."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "صَلَّى عَلَيْهِ الَّذِى يَنْفِى الْعِدَى أَبَدًا ۞ إِلَى سِوَى مَنْ نَّحَاهُ الدَّهْرَ مُلْتَحَدَا",
+        "translations": {
+          "it.karamati": "Lo benedica Colui che respinge sempre i nemici verso altri che chi si dirige a lui, per sempre, come a un rifugio.",
+          "en.karamati": "May He bless him Who ever repels the enemies toward others than whoever turns to him, for ever, as to a refuge.",
+          "fr.karamati": "Que le bénisse Celui qui repousse toujours les ennemis vers d'autres que celui qui se dirige vers lui, pour toujours, comme vers un refuge."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "تَسُرُّهُ مِنْ حَيَاتِى خِدْمَةٌ قُبِلَتْ ۞ مِنِّى بِفَضْلِ الَّذِى أَهْدَى بِهِ فَهَدَى",
+        "translations": {
+          "it.karamati": "Lo rallegri, della mia vita, un servizio da me accolto per la grazia di Colui che per mezzo di lui ha fatto dono (della guida) e ha guidato.",
+          "en.karamati": "May a service of my life, accepted from me, gladden him, by the grace of Him Who through him bestowed (guidance) and guided.",
+          "fr.karamati": "Que le réjouisse, de ma vie, un service de moi agréé par la grâce de Celui qui par lui a fait don (de la guidance) et a guidé."
+        }
+      }
     ]
   }
 }

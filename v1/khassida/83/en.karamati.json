@@ -1,0 +1,503 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 83,
+    "name": "Mafatihul Bishri 4",
+    "transliterationName": "Mafatihul Bishri 4",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 164,
+        "text": "O Allah, O Self-Sufficient (Aṣ-Ṣamad), bless for ever the Arab Prophet, Aḥmad,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 165,
+        "text": "his Family and his Companions; and cut off my doing of what You are not pleased with for me, that it may be cut off"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 166,
+        "text": "through You, without blight or turbidity, O Lord of creatures, of decree and of destiny."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 167,
+        "text": "And bless, O Gentle, for ever him who did all that You commanded,"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 168,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 169,
+        "text": "And erase through him all that has come from me that is not good pleasure, and lead the joy of destiny to me."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 170,
+        "text": "And bless, O Gentle, and grant peace upon him through whom You dispelled the darknesses,"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 171,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 172,
+        "text": "And free me from all that You have not chosen for me; and make me aware of it and veil it."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 173,
+        "text": "And bless, O Loving, and grant peace upon him to whom I turned my pen,"
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 174,
+        "text": "through You, for years, worshipping You through him; and through him You led to me the wishes of the wakeful."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 175,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 176,
+        "text": "And accept with thanks, by his immense rank, my life, and with Your good pleasure, Lord, make all of me flourish."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 177,
+        "text": "And bless, O Benefactor, and grant peace upon the Hashimite Prophet, the banner,"
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 178,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 179,
+        "text": "And make through him all my being, without harm, a benefit, and be for me with fair things and pearls."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 180,
+        "text": "And bless, O All-Knowing (Al-ʿAlīm), and grant peace upon him through whom I lead the learned,"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 181,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 182,
+        "text": "And grant me sound knowledge with \"Be!\", O You Who bring into being wishes that were not."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 183,
+        "text": "And bless, O Gentle, and grant peace upon the Prophet, my means of approach and my ladder,"
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 184,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 185,
+        "text": "And grant me through him a kindness and a covering that are beautiful, and a triumph and a security that are complete."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 186,
+        "text": "And bless, O One, and grant peace upon him through whom I was spared pain,"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 187,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 188,
+        "text": "And spare me illness before it heads (for me), and be for me, through him, in every aim."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 189,
+        "text": "And bless, O Benefactor, and grant peace upon him whom whoever knew has loved,"
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 190,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 191,
+        "text": "And accept from me through him, and raise my striving toward You, that it may rise with good pleasure."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 192,
+        "text": "And turn all (my) evil deeds into good deeds (Qurʾān 25:70), and through him make my creeds commendable."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 193,
+        "text": "And bless, O Everlasting, with a blessing and peace, him to whom my pens have yielded,"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 194,
+        "text": "through You, for love of Your noble Essence and of his, O You Who make his honour everlasting."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 195,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 196,
+        "text": "And choose for me what is finest in every land, and through him make my life the best of favours."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 197,
+        "text": "And grant me paper and ink, and grant me pens and affection."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 198,
+        "text": "And bless, O You Who make the hard easy, with Your peace, without hardship,"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 199,
+        "text": "the Prophet, the Select, the Preferred, the Family and the Companions; and favour all of me."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 200,
+        "text": "O Sender, Who gave the Prophet a Remembrance, bless and grant peace, and accept (my) gratitude,"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 201,
+        "text": "upon him who has no rival, the best of creation, possessed of distinctions, my protector,"
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 202,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 203,
+        "text": "And grant me today the soundness of my outward and inward, (making me) the best servant, pure."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 204,
+        "text": "And grant me today the recovery of all the good I have missed, O All-Hearing (As-Samīʿ),"
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 205,
+        "text": "without affectation or toil, O best of those addressed intimately with praise."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 206,
+        "text": "You are the Appreciative (Ash-Shakūr), truly You are the All-Knowing, and truly You are the Everlasting: Yours is the teaching."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 207,
+        "text": "O Allah, You are the Most Generous, the Guide, the One; O Benefactor, to Whom none is equal (Qurʾān 112:4),"
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 208,
+        "text": "bless with a peace without end the Prophet of Allah, bestower of gifts,"
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 209,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 210,
+        "text": "And grant me gratitude and grant me knowledge, and never direct injustice toward me."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 211,
+        "text": "And grant me from You a clear permanence, and make my speech beneficial and healing."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 212,
+        "text": "And grant me recitation and all You have chosen for me with it, (making me) trustworthy, a ladder (for others)."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 213,
+        "text": "And spare me, until the Gardens, all that You are not pleased with for me, and through me benefit the learned."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 214,
+        "text": "O You Who make the hard easy, bless and grant peace upon the Prophet who prays,"
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 215,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 216,
+        "text": "And efface the turning of faults toward me, O best of those who remove harm by effacement."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 217,
+        "text": "And make me free of need through You and through the accepted Intercessor, until the Gardens; and raise my station."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 218,
+        "text": "And do not remove from me the good things and the Book, and do not turn reproach toward my person."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 219,
+        "text": "And make everlasting for me safety and success, and love and purity, Lord, and righteousness."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 220,
+        "text": "And write for me today, without deprivation, the most lasting of permanences, that frees from all asking."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 221,
+        "text": "And make my permanence Your good pleasure and the good pleasure of the best of creation, and through him make my life good pleasure."
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "appNumber": 222,
+        "text": "And bless, O Most Generous, and grant peace upon him whom You sent as a teacher,"
+      },
+      {
+        "number": 60,
+        "verseFrom": 119,
+        "verseTo": 120,
+        "appNumber": 223,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 61,
+        "verseFrom": 121,
+        "verseTo": 122,
+        "appNumber": 224,
+        "text": "And grant me the rewards and the wonders, and gain in the two Abodes, and the stations."
+      },
+      {
+        "number": 62,
+        "verseFrom": 123,
+        "verseTo": 124,
+        "appNumber": 225,
+        "text": "And bless, O One, and grant peace upon him who helps whoever has learned,"
+      },
+      {
+        "number": 63,
+        "verseFrom": 125,
+        "verseTo": 126,
+        "appNumber": 226,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 64,
+        "verseFrom": 127,
+        "verseTo": 128,
+        "appNumber": 227,
+        "text": "And through him make all my being one that proclaims the Oneness, submitting (Muslim), excellent in virtue and a guide."
+      },
+      {
+        "number": 65,
+        "verseFrom": 129,
+        "verseTo": 130,
+        "appNumber": 228,
+        "text": "And bless, O You Who veil faults with generosity and know the hidden things,"
+      },
+      {
+        "number": 66,
+        "verseFrom": 131,
+        "verseTo": 132,
+        "appNumber": 229,
+        "text": "upon him who surpassed all creatures entirely, with a peace that makes piety grow for me,"
+      },
+      {
+        "number": 67,
+        "verseFrom": 133,
+        "verseTo": 134,
+        "appNumber": 230,
+        "text": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome."
+      },
+      {
+        "number": 68,
+        "verseFrom": 135,
+        "verseTo": 136,
+        "appNumber": 231,
+        "text": "And efface all (my) faults, and suffice me against what is not Your good pleasure, freeing me from (having to say) \"Heal me\"."
+      },
+      {
+        "number": 69,
+        "verseFrom": 137,
+        "verseTo": 138,
+        "appNumber": 232,
+        "text": "And bless, O You Who forgive sins with a generosity that fills the buckets,"
+      },
+      {
+        "number": 70,
+        "verseFrom": 139,
+        "verseTo": 140,
+        "appNumber": 233,
+        "text": "with Your peace without end, upon the son of ʿAbd Allāh, possessed of splendour,"
+      }
+    ]
+  }
+}

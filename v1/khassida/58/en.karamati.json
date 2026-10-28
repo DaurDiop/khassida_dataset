@@ -1,0 +1,433 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 58,
+    "name": "Jalibatul Maraghibi 6",
+    "transliterationName": "Jalibatul Maraghibi 6",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 234,
+        "text": "Bless and grant peace, O You Who grant mercy, upon him who is named Prophet of mercy,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 235,
+        "text": "his Family and his emigrant Companions (Muhājirūn); and grant me to be the joy of the grateful."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 236,
+        "text": "Bless a man of worth whose bosom You have illumined, granting him peace: he is the Prophet of repentance,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 237,
+        "text": "the Family and the Companions, again and again, O Giver of success and secrets."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 238,
+        "text": "Bless him whose name is Ḥarīṣ (Solicitous), before \"for you\" (Qurʾān 9:128): its reverse is the greedy one."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 239,
+        "text": "granting him peace, and his Family and the Companions; and through me guide to the middle of the clear road."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 240,
+        "text": "Pour a blessing accompanied by peace upon him whose name is Maʿlūm (the Known),"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 241,
+        "text": "his Family and his Companions; and convey my composition to him, pure, that it may reach him."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 242,
+        "text": "O You to Whom belong the days and the months, bless him whose name is Shahīr (the Renowned),"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 243,
+        "text": "and grant him peace with the noble Family and his Companions, O You Whose goods are sought."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 244,
+        "text": "O Everlasting, Whose being for me I behold, bless a man of worth whose name is Shāhid (the Witness),"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 245,
+        "text": "his Family and his illustrious Companions, with the most beneficial honour and peace."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 246,
+        "text": "O You to Whom belong the spreading (of the earth) and the levelling, bless him whose name is Shahīd (the Witness),"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 247,
+        "text": "the Family and the Companions of harmony; and grant peace and make my horizons secure."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 248,
+        "text": "O You Whose angels are witnesses, bless him whose name is Mashhūd (the Witnessed),"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 249,
+        "text": "his Family and his Companions, and grant peace; and by my writing expand the breast of whoever learns."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 250,
+        "text": "To You I have turned in sincere repentance (Qurʾān 66:8): make my tongue eloquent in good pleasure."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 251,
+        "text": "O You to Whom belong beauty and the giving of glad tidings, bless him whose name is Bashīr (Bearer of good news),"
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 252,
+        "text": "his Family and his Companions, and grant peace; and by his rank make my pen (the instrument of) Your good pleasure."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 253,
+        "text": "O You from Whom glad tidings come to me, bless him whose name is Mubashshar (the Recipient of glad tidings),"
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 254,
+        "text": "his Family and his Companions, with peace; and through him make my speech the best of speech."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 255,
+        "text": "O You to Whom I have made vows, bless him whose name is Nadhīr (the Warner),"
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 256,
+        "text": "his Family and his Companions, and grant peace; and make my works the joy of the learned."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 257,
+        "text": "O Protector, Who through me warns Your enemies, bless the Effacer, whose name is Mundhir (the Admonisher),"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 258,
+        "text": "his Family and his Companions, and grant peace, O You Who protected me, removing (any chance) that I be wronged."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 259,
+        "text": "O You through Whom my heart is illumined, bless a full moon whose name is Nūr (Light),"
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 260,
+        "text": "the Family and the Companions, and grant peace for ever, O You Who turn grief toward others than me."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 261,
+        "text": "O You Who guard all of me from gradual luring into ruin, bless with peace the Lamp (Sirāj),"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 262,
+        "text": "his Family and his Companions; and gladden with this composition the best of mankind."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 263,
+        "text": "O You from Whom gain reaches me fulfilled, bless him whose name is Miṣbāḥ (the Lantern),"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 264,
+        "text": "the Family and the Companions, and grant peace; and grant me to be the joy of every glorious one."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 265,
+        "text": "O You Whose Book is guidance for the God-fearing (Qurʾān 2:2), bless a guide whose name is Hudā (Guidance),"
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 266,
+        "text": "the Family and the Companions, and grant peace for ever; and through me gladden whoever has devoted himself to worship."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 267,
+        "text": "Bless with Your peace, O Strong (Al-Qawiyy), him whose name is Mahdiyy (the Rightly Guided),"
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 268,
+        "text": "his Family with the chosen Companions; and gladden through me the Ten who were given glad tidings (of Paradise)."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 269,
+        "text": "O You through Whom my whole being is illumined, bless him whose name is Munīr (the Illuminating),"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 270,
+        "text": "his Family and his Companions, and grant peace; and by my works expand the breasts of the learned."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 271,
+        "text": "Bless and grant peace, O Answerer of the caller, upon him whom You named Dāʿī (the Caller),"
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 272,
+        "text": "his Family with the perfect Companions; and accept with thanks my creed and accept my deeds."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 273,
+        "text": "O You through Whom no enemy has headed toward me, bless him whose name is Madʿuww (the Called),"
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 274,
+        "text": "the Family and the Companions, people of election, with peace and a chosen security."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 275,
+        "text": "O You through Whom the wondrous comes to me, bless him whose name is Mujīb (the Responder),"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 276,
+        "text": "his Family and his Companions, and grant peace; and by my works dispel the doubts of the learned."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 277,
+        "text": "O You through Whom the noble have yielded to me, bless him whose name is Mujāb (the Answered),"
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 278,
+        "text": "his Family and his Companions, with peace; and by my works erase hardship and blame."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 279,
+        "text": "And bless and grant peace, O Living (Al-Ḥayy), upon a noble one whose name is Ḥafiyy (the Solicitous),"
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 280,
+        "text": "the Family and the Companions of generosity; and make my ease everlasting together with plenty."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 281,
+        "text": "O You through Whom no enemy has headed toward me, bless him whose name is ʿAfuww (the Pardoning),"
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 282,
+        "text": "the Family and the Companions, objects of care, O You through Whom no crime has headed toward me."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 283,
+        "text": "And grant him peace, accept my gratitude and protect me from what draws cunning."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 284,
+        "text": "O You through Whom what is pleasing yields to me, bless him whose name is Waliyy (the Friend of God),"
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 285,
+        "text": "granting him peace with the noble Family and the Companions, and guard my joys from being cut off."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 286,
+        "text": "And bless and grant peace, O Strong (Al-Qawiyy), upon him whose name is Ḥaqq (Truth), Qawiyy (Strong),"
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 287,
+        "text": "the Family and the Companions of valour in battle, O You Who guard all of me from foes."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 288,
+        "text": "O You through Whom security heads toward me, bless him whose name is Amīn (the Trustworthy),"
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 289,
+        "text": "and grant him peace with (his) party, and make my books an unveiling that shows hidden things without reproach."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 290,
+        "text": "O You through Whom conjecture has left me, bless him whose name is Maʾmūn (the Trusted),"
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 291,
+        "text": "the Family and the Companions, and grant peace; and through him make my pen an opening of hidden things."
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "appNumber": 292,
+        "text": "Bless and grant peace, O Merciful One, upon him whose name is Karīm (the Noble),"
+      },
+      {
+        "number": 60,
+        "verseFrom": 119,
+        "verseTo": 120,
+        "appNumber": 293,
+        "text": "the Family and the Companions, people of patience, O You Who free from pain and (harsh) endurance."
+      }
+    ]
+  }
+}

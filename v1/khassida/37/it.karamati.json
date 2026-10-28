@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 37,
+    "name": "Hamdi Wa Shukri",
+    "transliterationName": "Hamdi Wa Shukri",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "La mia lode e la mia gratitudine (vanno) a Colui per mezzo del quale tutto il mio essere è divenuto, per Lui, compiacimento senza sdegno, a Ṣarṣāra (in Mauritania)."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "A Lui la mia lode e il mio compiacimento senza sdegno, da quando mi ha condotto sostenitori tra i Banū Daymān."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Ad Allah (appartiene) tutto il mio essere, presso i pozzi della nobiltà, da cui siamo partiti, e nei quali sono stati numerosi coloro che (mi) hanno visitato."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "In verità coloro che si sono diretti a Ṣarṣāra per visitarmi si sono separati, nelle due Dimore, dai peccati."
+      }
+    ]
+  }
+}

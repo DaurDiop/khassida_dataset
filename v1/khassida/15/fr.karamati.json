@@ -1,0 +1,253 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 15,
+    "name": "Asma Ul Husna",
+    "transliterationName": "Asma Ul Husna",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Ô Allah, ô Celui en dehors de qui il n'est point de dieu, ô Celui dont le bien me parvient perpétuellement."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Bénis et salue éternellement, ô Tout-Miséricordieux (Ar-Raḥmān), celui par qui les temps deviennent bons,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "notre maître Muḥammad, et la Famille ; et exauce pour moi, par son rang, ma demande."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Tu es le Très-Miséricordieux (Ar-Raḥīm), le Roi (Al-Malik), le Très-Saint (Al-Quddūs) : à Toi je dois la gratitude et la sanctification."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Tu es la Paix (As-Salām), le Garant de la foi (Al-Muʾmin), le Vigilant (Al-Muhaymin) : je T'invoque par eux, et je dis « Āmīn »."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Tu es le Puissant (Al-ʿAzīz), le Seigneur, le Contraignant (Al-Jabbār) : à Toi je dois la louange et la magnification."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Ô Superbe (Al-Mutakabbir), à qui appartient la grandeur ; ô Créateur (Al-Khāliq), ô Producteur (Al-Bāriʾ), ô Façonneur (Al-Muṣawwir)."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Ô Pardonneur (Al-Ghaffār), ô Dominateur (Al-Qahhār), ô Donateur (Al-Wahhāb), ô Celui à qui appartiennent l'annonce de la bonne nouvelle et l'intimidation."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Ô Pourvoyeur (Ar-Razzāq), ô Celui qui ouvre (Al-Fattāḥ), ô Omniscient (Al-ʿAlīm), ô Meilleur de ceux auprès de qui l'opprimé trouve refuge."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Ô Celui qui resserre (Al-Qābiḍ), ô Celui qui étend (Al-Bāsiṭ), ô Celui qui abaisse (Al-Khāfiḍ), ô Celui qui élève (Ar-Rāfiʿ), ô meilleur de ceux qui illuminent avec éclat."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Ô Celui qui honore (Al-Muʿizz), ô Celui qui humilie (Al-Mudhill), ô Audient (As-Samīʿ), ô Clairvoyant (Al-Baṣīr), ô meilleur de ceux qui exaucent quand ils sont invoqués."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Ô Juge (Al-Ḥakam), ô Juste (Al-ʿAdl), Subtil (Al-Laṭīf), ô Parfaitement Informé (Al-Khabīr), Longanime (Al-Ḥalīm), ô Immense (Al-ʿAẓīm) : en vérité Tu es le Très-Pardonnant (Al-Ghafūr)."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "Ô Reconnaissant (Ash-Shakūr), ô Très-Haut (Al-ʿAlī), ô Grand (Al-Kabīr) : à Toi je dois la gratitude et la proclamation de (Ta) grandeur."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "Ô Gardien (Al-Ḥafīẓ), ô Nourricier (Al-Muqīt), ô Celui qui tient le compte (Al-Ḥasīb), Majestueux (Al-Jalīl), ô Généreux (Al-Karīm), ô Observateur (Ar-Raqīb)."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "Ô Celui qui exauce (Al-Mujīb), ô Vaste (Al-Wāsiʿ), ô Sage (Al-Ḥakīm), ô Celui à qui appartiennent le commandement et le jugement."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "Tu es le Très-Aimant (Al-Wadūd), le Glorieux (Al-Majīd), Celui qui ressuscite (Al-Bāʿith) : vers Ta louange m'ont poussé (Tes) impulsions."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "Tu es le Témoin (Ash-Shahīd), la Vérité (Al-Ḥaqq), le Garant (Al-Wakīl) : de moi à Toi (va) pour toujours la remise confiante."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "Tu es le Fort (Al-Qawī), l'Inébranlable (Al-Matīn), le Protecteur (Al-Walī), ô Celui vers qui (va) éternellement mon retour."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "Tu es le Digne de louange (Al-Ḥamīd), Seigneur ; Tu es Celui qui dénombre (Al-Muḥṣī) ; Tu es Celui dont je ne puis dénombrer la louange."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "Ô Initiateur (Al-Mubdiʾ), ô Restaurateur (Al-Muʿīd), Donateur de vie (Al-Muḥyī), ô Donateur de mort (Al-Mumīt) : Tu es Celui qui fait vivre les créatures et (les) fait mourir."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "Ô Vivant (Al-Ḥayy), ô Subsistant (Al-Qayyūm), ô Celui qui trouve (Al-Wājid), ô Noble (Al-Mājid), ô Recherché d'un serviteur qui a été guidé."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "Ô Unique (Al-Wāḥid), ô Absolu (Aṣ-Ṣamad), ô Puissant (Al-Qādir), ô Celui dont l'être Seigneur des créatures est connu."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "Tu es Celui que nous invoquons comme le Tout-Puissant (Al-Muqtadir), Celui qui fait avancer (Al-Muqaddim) et Celui qui fait reculer (Al-Muʾakhkhir)."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "Ô Premier (Al-Awwal), ô Dernier (Al-Ākhir), Tu es l'Apparent (Aẓ-Ẓāhir), le Caché (Al-Bāṭin), Celui à qui appartiennent les manifestations."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "Et en vérité Tu es le Gouverneur (Al-Wālī), qui assistes avec faveur, le Très-Élevé (Al-Mutaʿālī), Celui qui redresse les états."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "Ô Bienfaisant (Al-Barr), ô Celui qui accueille le repentir (At-Tawwāb), ô Vengeur (Al-Muntaqim) : que Tu sois pour moi me suffit, aussi je ne me venge pas."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "Et en vérité Tu es Celui qui efface les fautes (Al-ʿAfuww), le Très-Compatissant (Ar-Raʾūf), ô Meilleur de ceux auprès de qui se réfugie l'effrayé."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "Ô Roi de la Royauté (Mālik al-Mulk), auprès de Qui (est) mon aspiration, ô Détenteur de la Majesté et de la Générosité (Dhū l-Jalāl wa l-Ikrām)."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "Ô Équitable (Al-Muqsiṭ), ô Celui qui rassemble (Al-Jāmiʿ), ô Riche (Al-Ghanī), ô Celui de qui j'espère l'acceptation de mon effort."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "Tu es Celui qui, sans (besoin de) cause, enrichis qui Tu veux parmi les créatures, ô Celui qui enrichit (Al-Mughnī)."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "Ô Celui dont mon cœur est perpétuellement content, et qui m'a protégé du mal, ô Préservateur (Al-Māniʿ)."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "Ô Celui qui me préserve du malheur et de la nuisance, et de tout ce qui afflige mon cœur, ô Celui qui nuit (Aḍ-Ḍārr)."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "Ô Celui de qui me parviennent ici-bas les bienfaits, et demain, par Sa grâce, ô Bienfaiteur (An-Nāfiʿ)."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "Ô Celui par qui mon cœur resplendit pour toujours, parce qu'Il est pour moi, pour toujours, ô Lumière (An-Nūr)."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "Ô Celui vers qui je me suis tourné avec ardeur, et j'espère (ce qui est) au-dessus des aspirations, ô Guide (Al-Hādī)."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "Ô Celui à qui je dois la gratitude, par (un chant) merveilleux, pour Ses immenses bienfaits, ô Créateur merveilleux (Al-Badīʿ)."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "Ô Celui qui me joint aux devanciers, pour la bonne opinion que j'ai de Lui, ô Éternel (Al-Bāqī)."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "Ô Celui auprès de qui est le gain de tout cultivateur : que Tu sois pour moi est mon trésor, ô Héritier (Al-Wārith)."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "Et de Toi vient à mon cœur la droite direction universelle et la pureté, ô Guide de la rectitude (Ar-Rashīd)."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "Ton Livre écrit me redresse, par Ta grâce immense, ô Patient (Aṣ-Ṣabūr)."
+      }
+    ]
+  }
+}

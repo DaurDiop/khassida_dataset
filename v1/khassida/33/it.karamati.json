@@ -1,0 +1,211 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 33,
+    "name": "Hajat Qasa Idi",
+    "transliterationName": "Hajat Qasa Idi",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "I miei poemi hanno commosso i cuori dei portatori del Trono, ed essi sono buone novelle per i perfetti."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Quando scrivo, vibra il Trono del Re, e vibra di glorificazione ogni angelo."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Questa è la grazia di Allah (Corano 62:4) — che eccellente è Allah, il mio Signore! — e non vi è dio se non Allah."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "In verità la mia scrittura, presso Allah, copre di vergogna la gente della miscredenza e dei divertimenti frivoli."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Il Migliore degli uomini ha esteso al mio petto ciò che ha preservato la mia vita dal vaniloquio del Sussurratore (Corano 114:4)."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Ha bandito i demoni e ciò che è loro alleato verso altro che il mio danno: io adoro Dio."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Il Generosissimo mi ha onorato con il Corano, e mi ha elargito l'abbeveratoio dell'assetato."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Non si è diretta verso di me insinuazione, né follia, né torbido, né calamità, né oppressione."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Non si dirige verso la mia assemblea alcun demonio, e mi sono divenuti gradevoli il passaggio (dell'esilio) e le patrie."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Mi ha onorato con il Suo segreto nascosto Colui che ha condotto la mia scrittura fino al Seggio (Al-Kursī)."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "I doni del Signore del Trono e del Seggio hanno purificato la mia vita con ciò che è santo."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Quando recito, le ricompense si sottomettono alla mia vita, e io non commetto ingiustizia."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "La mia lingua si è riparata, come il mio cuore e il corpo, dalle cose superflue, e la mia merce venduta (a Dio) non è rimasta invenduta."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "Verso di me il mio Re ha condotto i miei prezzi; per me è divenuta buona la vita, come i tempi."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "La mia scrittura ha fatto le veci delle armi e delle scorribande, per la gente della rettitudine."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "Mi è apparso il mio essere servo di Allah, e per mezzo di essa servitore dell'Inviato di Allah."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "Mi ha esteso il segreto custodito Colui che ha reso la mia scrittura la Sua più grande soddisfazione, e così è stato."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "Mi ha onorato il Generosissimo, Colui che onora, e verso altri che me è fuggito l'esercito sterminato."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "Al mio Re ho condotto, presso le navi erette (Corano 55:24), ciò che spazza via la rovina."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "Ho condotto, presso l'armata e le schiere, ciò che allontana le navi e le onde."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "Ha distolto il mio danno verso colui che prima aveva tramato Colui che, presso le Sue schiere, ha gradito il mio combattimento (spirituale)."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "Mi conduce la ricompensa senza bilancia Colui le cui schiere sono state rallegrate dai miei ornamenti."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "Il mio grado, senza inganno, si innalza, e io traggo profitto dalla ricompensa del mio Signore."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "I doni di Colui che è al di sopra di ogni somiglianza si sottomettono a me, (doni) che sono rimasti nascosti ai (miei) pari."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "Si sottomettono a me, per il Giardino di Allah, le ricompense, e non mi dirigo se non verso il bene: non commetto ingiustizia."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "Allah mi ha guidato nel mio esilio, e mi ha condotto, nella scrittura, il migliore dei mezzi di avvicinamento."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "Mi ha onorato per il fatto che la mia scrittura è, presso di Lui, tra ciò di cui si vanta con le Sue schiere nei Giardini."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "La mia scrittura ha respinto il Maledetto verso altri che me, e verso altro che la mia vita lo ha respinto il Soccorritore (Al-Muʿīn)."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "I miei poemi hanno commosso i cuori dei profeti, insieme agli angeli, presso il mio Signore."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "I miei poemi sono tra i miracoli del Prescelto: lo benedica Colui che lo ha guidato e prescelto."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "Il Santissimo (Al-Quddūs) mi ha purificato dalle impurità, e al-Māḥī (Muḥammad) mi ha condotto (seguaci) da (tutte) le razze."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "La mia scienza mi ha condotto alla gratitudine e alla rettitudine, e si è sottomesso a me, senza inganno, il successo."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "Allah mi ha onorato per il fatto che ho come amati i portatori del Suo Trono e i perfetti."
+      }
+    ]
+  }
+}

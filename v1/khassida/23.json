@@ -327,6 +327,228 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "بَرَكَتُ الَّذِى الْوُجُودُ وَالْقِدَمْ ۞ قَدْ وَجَبَا لَهُ لَنَا تُنْمِى الْخِدَمْ",
+        "translations": {
+          "it.karamati": "La benedizione di Colui al quale l'Esistenza e l'Eternità senza inizio sono necessariamente dovute fa crescere per noi i servizi.",
+          "en.karamati": "The blessing of Him to Whom Existence and beginningless Eternity are necessarily due makes our services grow.",
+          "fr.karamati": "La bénédiction de Celui à qui l'Existence et l'Éternité sans commencement sont nécessairement dues fait croître pour nous les services."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "سُبْحَانَ ذِى الْبَقَاءِ وَالْمُخَالَفَهْ ۞ مَنْ قَادَ لِى أَمْنًا بِلَا مُخَالَفَهْ",
+        "translations": {
+          "it.karamati": "Gloria al Possessore della Permanenza e della Dissomiglianza (da ogni creatura), Colui che mi ha condotto sicurezza senza opposizione.",
+          "en.karamati": "Glory be to the Possessor of Permanence and of Dissimilarity (from all creatures), He Who has led security to me without opposition.",
+          "fr.karamati": "Gloire au Détenteur de la Permanence et de la Dissemblance (d'avec toute créature), Celui qui m'a conduit la sécurité sans opposition."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "مُلْكُ الَّذِى الْقِيَامُ بِالنَّفْسِ وَجَبْ ۞ لَهُ إِلَى كُلِّيَّتِى قَادَ الْعَجَبْ",
+        "translations": {
+          "it.karamati": "Il regno di Colui al quale è necessaria la Sussistenza per Sé ha condotto meraviglie a tutto il mio essere.",
+          "en.karamati": "The kingdom of Him to Whom Self-Subsistence is necessary has led wonders to my whole being.",
+          "fr.karamati": "La royauté de Celui à qui est nécessaire la Subsistance par Soi a conduit des merveilles à tout mon être."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "الْحَمْدُ لِلَّهِ تَعَالَى وَحْدَهْ ۞ كَمَا لَهُ الْخَمْسُ تِهِ وَالْوَحْدَهْ",
+        "translations": {
+          "it.karamati": "La lode è di Allah — sia esaltato — Lui solo, così come a Lui (appartengono) queste cinque (qualità) e l'Unicità.",
+          "en.karamati": "Praise belongs to Allah — exalted be He — alone, just as to Him (belong) these five (qualities) and Oneness.",
+          "fr.karamati": "La louange est à Allah — qu'Il soit exalté — Lui seul, de même qu'à Lui (appartiennent) ces cinq (qualités) et l'Unicité."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "لِمَنْ لَّهُ الْقُدْرَةُ وَالْإِرَادَهْ ۞ وَالْعِلْمُ مَعْ حَيَاتِ الْعِبَادَهْ",
+        "translations": {
+          "it.karamati": "(La lode è) di Colui al quale appartengono la Potenza e la Volontà, la Scienza, insieme alla Vita: (a Lui) l'adorazione.",
+          "en.karamati": "(Praise belongs) to Him to Whom belong Power and Will, Knowledge, together with Life: (His is) the worship.",
+          "fr.karamati": "(La louange est) à Celui à qui appartiennent la Puissance et la Volonté, la Science, avec la Vie : (à Lui) l'adoration."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "لِمَنْ لَّهُ السَّمْعُ كَمَا لَهُ الْبَصَرْ ۞ مَعَ الْكَلَامِ كُلِّ شَىْءٍ وَنَصَرْ",
+        "translations": {
+          "it.karamati": "Di Colui al quale appartiene l'Udito, come a Lui la Vista, insieme alla Parola, (Signore) di ogni cosa, ed Egli ha soccorso.",
+          "en.karamati": "To Him to Whom belongs Hearing, as to Him Sight, together with Speech, (Lord) of everything, and He has given help.",
+          "fr.karamati": "À Celui à qui appartient l'Ouïe, comme à Lui la Vue, avec la Parole, (Seigneur) de toute chose, et Il a secouru."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "هُوَ تَعَالَى قَادِرٌ مُّرِيدُ ۞ وَعَالِمٌ حَىٌّ هُوَ الْفَرِيدُ",
+        "translations": {
+          "it.karamati": "Egli — sia esaltato — è Potente, Volente, Sapiente, Vivente: Egli è l'Unico.",
+          "en.karamati": "He — exalted be He — is Powerful, Willing, Knowing, Living: He is the Unique.",
+          "fr.karamati": "Il — qu'Il soit exalté — est Puissant, Voulant, Savant, Vivant : Il est l'Unique."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "اللَّهُ رَبُّنَا سَمِيعٌ وَبَصِيرْ ۞ وَمُتَكَلِّمٌ وَجَادَ بِقُصُرْ",
+        "translations": {
+          "it.karamati": "Allah, il nostro Signore, è Audiente e Veggente, e Parlante; e ha elargito palazzi.",
+          "en.karamati": "Allah, our Lord, is Hearing and Seeing, and Speaking; and He has bestowed palaces.",
+          "fr.karamati": "Allah, notre Seigneur, est Audient et Clairvoyant, et Parlant ; et Il a gratifié de palais."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "لَمْ يَنْحُ قَطُّ عَدَمٌ وَلَا حُدُوثْ ۞ وَلَا فَنَاءٌ لِّلَّذِى مِنْهُ الْحَدِيثْ",
+        "translations": {
+          "it.karamati": "Non si sono mai diretti né la non-esistenza, né la contingenza, né l'annientamento verso Colui dal quale (proviene) il Discorso (il Corano).",
+          "en.karamati": "Never have non-existence, contingency or annihilation come near Him from Whom (comes) the Discourse (the Qurʾān).",
+          "fr.karamati": "Ne se sont jamais dirigés ni la non-existence, ni la contingence, ni l'anéantissement vers Celui de qui (provient) le Discours (le Coran)."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "رَبُّ الْوَرَى لَيْسَ لَهُ تَمَاثُلُ ۞ وَلَا افْتِقَارُ بَلْ لَّهُ مَنْ مَّاثَلُوا",
+        "translations": {
+          "it.karamati": "Il Signore delle creature non ha somiglianza (con esse), né bisogno; anzi, a Lui appartengono coloro che si somigliano (tra loro).",
+          "en.karamati": "The Lord of creatures has no likeness (to them), nor need; rather, to Him belong those who resemble (one another).",
+          "fr.karamati": "Le Seigneur des créatures n'a ni ressemblance (avec elles), ni besoin ; au contraire, à Lui appartiennent ceux qui se ressemblent (entre eux)."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "حَمْدِى لِبَاقٍ جَلَّ عَنْ تَعَدُّدِ ۞ وَعَنْ تَوَالُدٍ وَأَصْلٍ وَدَدِ",
+        "translations": {
+          "it.karamati": "La mia lode (va) a un Eterno che è al di sopra della molteplicità, della generazione, dell'origine e del gioco frivolo.",
+          "en.karamati": "My praise (goes) to an Everlasting One exalted above multiplicity, begetting, origin and idle play.",
+          "fr.karamati": "Ma louange (va) à un Éternel qui est au-dessus de la multiplicité, de l'engendrement, de l'origine et du jeu frivole."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "مَلِكُنَا لَمْ يَنْحُ عَجْزٌ أَوْكَرَا ۞ هَةٌ لَّهُ وَلَيْسَ يَنْحُوهُ كَرَى",
+        "translations": {
+          "it.karamati": "Il nostro Re: non si sono diretti verso di Lui né impotenza né costrizione, e non Lo raggiunge sonno.",
+          "en.karamati": "Our King: neither incapacity nor constraint has come near Him, and no slumber overtakes Him.",
+          "fr.karamati": "Notre Roi : ne se sont dirigées vers Lui ni impuissance ni contrainte, et le sommeil ne L'atteint pas."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "أَحْمَدُ مَنْ جَهْلٌ وَمَوْتٌ وَصَمَمْ ۞ لَمْ تَنْحُ وَقَدْ كَفَانِىَ الْغُمَمْ",
+        "translations": {
+          "it.karamati": "Lodo Colui verso il quale ignoranza, morte e sordità non si sono dirette, ed Egli mi ha già preservato dalle angosce.",
+          "en.karamati": "I praise Him toward Whom ignorance, death and deafness have not come, and He has already spared me anguish.",
+          "fr.karamati": "Je loue Celui vers qui ignorance, mort et surdité ne se sont pas dirigées, et Il m'a déjà préservé des angoisses."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "نَفَعَنِى الَّذِى عَمًى وَبَكَمُ ۞ لَمْ يَنْحَيَا لَهُ وَنِعْمَ الْحَكَمُ",
+        "translations": {
+          "it.karamati": "Mi ha giovato Colui verso il quale cecità e mutismo non si sono diretti: e quale eccellente Giudice!",
+          "en.karamati": "He has benefited me toward Whom blindness and muteness have not come: and what an excellent Judge!",
+          "fr.karamati": "M'a été utile Celui vers qui cécité et mutisme ne se sont pas dirigés : et quel excellent Juge !"
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "إِيْجَادَ كُلِّ مُمْكِنٍ وَالتَّرْكَا ۞ أَجِزْ لِمَنْ كَفَاكَ فَضْلًا شِرْكَا",
+        "translations": {
+          "it.karamati": "Il far esistere ogni (cosa) possibile e il lasciarla (nel nulla), ammettilo per Colui che, per grazia, ti ha preservato dall'associazione.",
+          "en.karamati": "The bringing into existence of every possible (thing) and the leaving of it (in non-being), admit it for Him Who, by grace, has spared you associationism.",
+          "fr.karamati": "Le fait de faire exister toute (chose) possible et de la laisser (dans le néant), admets-le pour Celui qui, par grâce, t'a préservé de l'associationnisme."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "لَارَبَّ غَيْرُهُ وَعَنْ سِوَاهُ ۞ غَنِى لَهُ افْتَقَرَ مَنْ عَدَاهُ",
+        "translations": {
+          "it.karamati": "Non vi è signore all'infuori di Lui; da ogni altro Egli è indipendente, e di Lui ha bisogno chiunque sia altro da Lui.",
+          "en.karamati": "There is no lord but Him; He is free of need of all else, and everything other than Him has need of Him.",
+          "fr.karamati": "Il n'est de seigneur que Lui ; de tout autre Il est indépendant, et de Lui a besoin quiconque est autre que Lui."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "رَسُولُنَا نَبِيُّنَا مُحَمَّدُ ۞ عَبْدٌ رَّسُولٌ اقْتَمَاهُ الصَّمَدُ",
+        "translations": {
+          "it.karamati": "Il nostro Inviato, il nostro Profeta, Muḥammad, è un servo e un inviato che l'Assoluto (Aṣ-Ṣamad) ha prescelto.",
+          "en.karamati": "Our Messenger, our Prophet, Muḥammad, is a servant and a messenger whom the Self-Sufficient (Aṣ-Ṣamad) has chosen.",
+          "fr.karamati": "Notre Envoyé, notre Prophète, Muḥammad, est un serviteur et un envoyé que l'Absolu (Aṣ-Ṣamad) a élu."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "حَمَاهُ صِدْقُ بِأَمَانَةٍ جُذِبْ ۞ لَهُ بِتَبْلِيغٍ إِلَيْنَا عَنْ كَذِبْ",
+        "translations": {
+          "it.karamati": "Lo ha protetto dalla menzogna la Veracità, attratta a lui insieme alla Lealtà e alla Trasmissione (del messaggio) verso di noi.",
+          "en.karamati": "Truthfulness, drawn to him together with Trustworthiness and the Conveying (of the message) to us, has protected him from lying.",
+          "fr.karamati": "L'a protégé du mensonge la Véracité, attirée vers lui avec la Loyauté et la Transmission (du message) vers nous."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "يَقُودُ مَنْ خِيَانَةً وَكَتْمَا ۞ حَرَّمَ خِدْمَتِى لِحَاوٍ خَتْمَا",
+        "translations": {
+          "it.karamati": "Conduce il mio servizio a colui che racchiude il Sigillo (della profezia) Colui che gli ha reso illecito il tradimento e l'occultamento.",
+          "en.karamati": "He Who made treachery and concealment unlawful for him leads my service to the one who holds the Seal (of prophethood).",
+          "fr.karamati": "Conduit mon service à celui qui renferme le Sceau (de la prophétie) Celui qui lui a interdit la trahison et la dissimulation."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "مُحَمَّدٌ بَشَرُ مَنْ لَّهُ الْقِدَمْ ۞ كَرُسْلِهِ مُقَدَّمًا كُنْ ذَا خِدَمْ",
+        "translations": {
+          "it.karamati": "Muḥammad è un uomo (creato) da Colui al quale appartiene l'Eternità senza inizio, come i Suoi inviati, (ma) preposto: sii (tu) dedito al servizio!",
+          "en.karamati": "Muḥammad is a human (created) by Him to Whom beginningless Eternity belongs, like His messengers, (yet) set foremost: be (you) devoted to service!",
+          "fr.karamati": "Muḥammad est un homme (créé) par Celui à qui appartient l'Éternité sans commencement, comme Ses envoyés, (mais) placé en tête : sois (toi) voué au service !"
+        }
+      }
     ]
   }
 }

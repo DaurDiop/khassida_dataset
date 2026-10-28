@@ -1,0 +1,468 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 40,
+    "name": "Hammat Sulaymaa 2",
+    "transliterationName": "Hammat Sulaymaa 2",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 51,
+        "text": "Muḥammad: his remembrance is my intimacy and my joy, the light of my heart, of my limbs and of my repose."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 52,
+        "text": "He is my hope in the two Abodes: he is present with me at my death-throes, in my grave and at the Resurrections."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 53,
+        "text": "He is the Intercessor by whose rank the Forgiver (Al-Ghaffār) forgives me every disobedience and slip."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 54,
+        "text": "He is the sincere counsellor by whose rank the All-Merciful (Ar-Raḥmān) is gentle with me and guards me from delusions."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 55,
+        "text": "He is the one who joins, by whose rank my Lord brings me (to Him) and guards me from veils."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 56,
+        "text": "He is the generous one by whose rank the Maker (Al-Bāriʾ) honours me and guards me from humiliations."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 57,
+        "text": "He is the guarantor by whose rank the Bountiful (Al-Mannān) makes me happy and guards me from miseries."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 58,
+        "text": "He is the lofty one by whose rank the Most Tender (Al-Ḥannān) raises me and entrusts me with acts of worship."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 59,
+        "text": "He is the strong one by whose rank the Most High supports me and guards me from snares."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 60,
+        "text": "He is the bringer of glad tidings by whose rank the Guide (Al-Hādī) gives me glad tidings and guards me from every grief."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 61,
+        "text": "He is the one by whose rank the Benign (Al-Barr) protects me, guards me and shields me from harms."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 62,
+        "text": "He is the bountiful one by whose rank the Provider (Ar-Razzāq) provides for me and shields me from disgraces."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 63,
+        "text": "He is the intimate confidant by whose rank the Patron (Al-Wālī) teaches me, from Himself, hidden secrets."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 64,
+        "text": "He is the educator who without doubt turns me away from all obstacles and from vices."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 65,
+        "text": "He is the one who raises up, who without doubt casts upon me, for ever, a glance of purification from calamities."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 66,
+        "text": "He is the generous one whose gifts have been sublime with me, and he has led my reins at every hour."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 67,
+        "text": "For this reason I have bound myself to him, every year, to the debt of praise in rare verses."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 68,
+        "text": "I have indeed bound myself to him, every year, as long as my reason remains with me, to the debt of gifts."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 69,
+        "text": "And how could I leave off for a year the thanks owed to an intermediary, the loftiest of all intermediaries and means of approach?"
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 70,
+        "text": "Every year his gifts reach me; nay, at every moment he consoles me with favours."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 71,
+        "text": "Light is his tomb, an ocean is his genius; his sincere counsel has embraced all creatures."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 72,
+        "text": "He is the refuge in which the noble have taken refuge, when they understood that he is the one who relieves complaints."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 73,
+        "text": "And there has been no chief who attained a rank, but that he sought access (to Allah) through him, at some moment among moments."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 74,
+        "text": "His excellent forefathers sought access (to Allah) through him, and through him obtained from Allah the triumph of answered prayers."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 75,
+        "text": "They all obtained through him, before (his) birth, whatever they sought through him of weighty affairs and needs."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 76,
+        "text": "By his rank Adam won forgiveness, after the descent from rivers and gardens."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 77,
+        "text": "Through him Allah saved Noah (Nūḥ) in his ark, and his rank warded off misfortunes from Jacob (Yaʿqūb)."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 78,
+        "text": "Through the Chosen One (Muḥammad) the Bountiful (Al-Mannān) brought Joseph (Yūsuf) out of a strong prison and out of those depths (of the well)."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 79,
+        "text": "And the Companion of the Fish (Jonah, Yūnus) took refuge with the Lord and was saved through the Select One (Muḥammad), and drew far from every anguish."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 80,
+        "text": "Through him the fire of Abraham (Ibrāhīm) became coolness and safety (Qurʾān 21:69): and this is a wonder breaking the customary order."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 81,
+        "text": "Like the cleaving of Sinimmār's (palace) at his appearing; and the lizard one day addressed him with words."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 82,
+        "text": "And the (palm) trunk moaned out of longing and out of sorrow, with the moan of a bereaved mother grieved by the loss of her dead."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 83,
+        "text": "Among the wonders: the hastening march of the trees (toward him); and the wolf one day spoke to him with its voice."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 84,
+        "text": "Among them, by my life, is the Night Journey (Isrāʾ) on which God took him, in spirit and in body, by night, to the heavens."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 85,
+        "text": "He spent the night journeying, and Gabriel (Jibrīl) journeyed with him, upon al-Burāq, to the farthest of limits."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 86,
+        "text": "And the prophets and all the messengers together learned from him the proprieties of worship."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 87,
+        "text": "He attained what he attained of a secret reserved for him alone, and he drew near and came down nearer still (Qurʾān 53:8) in intimate converse."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 88,
+        "text": "And (Allah) singled him out with that which no one has ever been granted, nor shall be granted to any of the past or of the future."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 89,
+        "text": "He returned in the night, before dawn, to make known what in the Law is negation or affirmation."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 90,
+        "text": "Those wonders never ceased to support him, for his intimate Friend (Gabriel) never ceased to bring signs."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 91,
+        "text": "Until he brought a Book that left the eloquent powerless, and the masters of fluency fell short of producing its like."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 92,
+        "text": "How noble a Book it is! It has healed ailments and rescued all the Companions from dullness."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 93,
+        "text": "It is the Book in which there is no doubt (Qurʾān 2:2), a guidance for whoever guards himself against the Fire through acts of obedience."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 94,
+        "text": "It is the guidance and the straight path for us: whoever has spurned it has met with miseries."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 95,
+        "text": "It is the cure for all who suffer from a malady; it saves those endowed with reason from error and calamities."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 96,
+        "text": "And whoever seeks a bond with Allah while turning away from it, the rope of union has already escaped him."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 97,
+        "text": "It is the path in which there is no crookedness, for whoever journeys toward the Giver of desired goods (Allah)."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 98,
+        "text": "Command and prohibition, promise and threat together have been set down in it, as guidance toward good deeds."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 99,
+        "text": "Whoever perseveres in its service, seeking the Face of Allah, shall surely be favoured with gifts."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 100,
+        "text": "And whoever at all times holds fast to it, that one is among the people of sainthood."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 101,
+        "text": "For it is the firmest handhold (Qurʾān 2:256): whoever grasps it shall tomorrow win Gardens with the Lord."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 102,
+        "text": "And to whoever clings to it in his worldly life, it shall grant on the Day of Resurrection glad tidings and blessedness."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 103,
+        "text": "And whoever clings to it, ever reciting its text with reflection, shall attain sublime things."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 104,
+        "text": "And whoever turns aside from it in his hours, keeping apart, it is the multitude of vices that has turned him away."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 105,
+        "text": "There have turned him from it things that number up to seven vices, insidious calamities:"
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 106,
+        "text": "sin, pride, persistence in (frivolous) play, love of the world, reliance upon creatures;"
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 107,
+        "text": "likewise weakness of certainty, which is the sixth; and they have made them seven with the multiplying of innovations."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 108,
+        "text": "How excellent is he who brought it to us from the Possessor of Majesty (Dhū l-Jalāl), and led us from delusion to the virtues!"
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "appNumber": 109,
+        "text": "He is our refuge in this world and the Hereafter, in every calamity, here or in the morrow to come."
+      },
+      {
+        "number": 60,
+        "verseFrom": 119,
+        "verseTo": 120,
+        "appNumber": 110,
+        "text": "Saviour, protector, intercessor, helper and bulwark: he wards off from us trials and misfortunes."
+      },
+      {
+        "number": 61,
+        "verseFrom": 121,
+        "verseTo": 122,
+        "appNumber": 111,
+        "text": "So I entrust my affair, here and tomorrow, to none but him, after my Lord, Lord of creatures."
+      },
+      {
+        "number": 62,
+        "verseFrom": 123,
+        "verseTo": 124,
+        "appNumber": 112,
+        "text": "O noblest of creation, I am your servant, as long as I live, through praise and through defence by means of poems."
+      },
+      {
+        "number": 63,
+        "verseFrom": 125,
+        "verseTo": 126,
+        "appNumber": 113,
+        "text": "And I have not sought the flower of the world which the hands of Zuhayr (ibn Abī Sulmā) plucked for the verses of praise he composed."
+      },
+      {
+        "number": 64,
+        "verseFrom": 127,
+        "verseTo": 128,
+        "appNumber": 114,
+        "text": "Rather I have praised you, O my master, seeking from you good pleasure, after you have erased my sins."
+      },
+      {
+        "number": 65,
+        "verseFrom": 129,
+        "verseTo": 130,
+        "appNumber": 115,
+        "text": "Upon you, the Family and the Companions be the best blessing with peace, through which I attain distinctions."
+      }
+    ]
+  }
+}

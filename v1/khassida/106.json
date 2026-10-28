@@ -247,6 +247,173 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "الْحَمْدُ لِلَّهِ الْمُجِيبِ ذِى الْقَدَرْ ۞ مَنْ خَصَّنَا فَضْلًا بِلَيْلَةِ الْقَدَرْ",
+        "translations": {
+          "it.karamati": "La lode ad Allah, Colui che esaudisce (Al-Mujīb), Dotato del Decreto, che ci ha distinti, per grazia, con la Notte del Destino (Laylat al-Qadr),",
+          "en.karamati": "Praise be to Allah, the Answerer (Al-Mujīb), Possessor of the Decree, Who has singled us out, by grace, with the Night of Power (Laylat al-Qadr),",
+          "fr.karamati": "Louange à Allah, Celui qui exauce (Al-Mujīb), Détenteur du Décret, qui nous a distingués, par grâce, par la Nuit du Destin (Laylat al-Qadr),"
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "مُعَظِّمًا لِّشَأْنِهَا فِى الدَّهْرِ ۞ حَتَّى غَدَتْ خَيْرًا مِّنَ الْفِ شَهْرِ",
+        "translations": {
+          "it.karamati": "magnificandone la dignità nel tempo, finché è divenuta migliore di mille mesi (Corano 97:3).",
+          "en.karamati": "magnifying its rank in time, until it became better than a thousand months (Qurʾān 97:3).",
+          "fr.karamati": "en magnifiant sa dignité dans le temps, jusqu'à ce qu'elle soit devenue meilleure que mille mois (Coran 97:3)."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "ثُمَّ صَّلَاةُ وَالسَّلَامُ أَبَدَا ۞ عَلَى الَّذِى خَيْرَ الْبَرِيَّةِ بَدَا",
+        "translations": {
+          "it.karamati": "Poi la benedizione e il saluto di pace, per sempre, su colui che è apparso come il migliore delle creature,",
+          "en.karamati": "Then blessing and peace, forever, upon him who appeared as the best of creation,",
+          "fr.karamati": "Puis la bénédiction et le salut de paix, à jamais, sur celui qui est apparu comme le meilleur des créatures,"
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "مُحَمَّدٍ وَالْئَالِ وَالصَّحْبِ الْكِرَامْ ۞ مَا ظَفِرَ الدَّاعِى بِأَفْضَلِ مَرَامْ",
+        "translations": {
+          "it.karamati": "Muḥammad, la Famiglia e i nobili Compagni, finché chi invoca ottiene il più eccellente desiderio.",
+          "en.karamati": "Muḥammad, the Family and the noble Companions, as long as the supplicant attains the most excellent aim.",
+          "fr.karamati": "Muḥammad, la Famille et les nobles Compagnons, tant que celui qui invoque obtient le plus excellent désir."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "هَاذَا وَإِنِّى الْيَوْمَ ذُو اسْتِمْطَارِ ۞ مِنَ الْكَرِيمِ كُلَّ مَآ أَوْطَارِ",
+        "translations": {
+          "it.karamati": "Ciò detto: in verità io oggi chiedo la pioggia (dei favori) al Generoso, per tutti i miei desideri.",
+          "en.karamati": "That said: truly today I seek the rain (of favours) from the Generous, for all my wishes.",
+          "fr.karamati": "Cela dit : en vérité moi aujourd'hui je demande la pluie (des faveurs) au Généreux, pour tous mes désirs."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "يَارَبَّنَا بِفَضْلِ هَاذِى اللَّيْلَةِ ۞ فَاسْتُرْ مَعَائِبِىَ وَاسْمَعْ قَوْلَتِى",
+        "translations": {
+          "it.karamati": "O nostro Signore, per il merito di questa notte, copri i miei difetti e ascolta la mia parola.",
+          "en.karamati": "O our Lord, by the merit of this night, veil my faults and hear my words.",
+          "fr.karamati": "Ô notre Seigneur, par le mérite de cette nuit, couvre mes défauts et écoute ma parole."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "يَارَبِّنَا بِفَضْلِ هَاذَا الْيَوْمِ ۞ أَصْلِحْ أُمُورِى وَأُمُورَ قَوْمِى",
+        "translations": {
+          "it.karamati": "O nostro Signore, per il merito di questo giorno, rendi rette le mie faccende e le faccende del mio popolo.",
+          "en.karamati": "O our Lord, by the merit of this day, set right my affairs and the affairs of my people.",
+          "fr.karamati": "Ô notre Seigneur, par le mérite de ce jour, amende mes affaires et les affaires de mon peuple."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "يَارَبَّنَا بِفَضْلِهَا اكْفِ كُلَّ مَا ۞ يَضُرُّنِى وَلِى الْهُدَى اجْعَلْ سُلَّمَا",
+        "translations": {
+          "it.karamati": "O nostro Signore, per il suo merito preservami da tutto ciò che mi nuoce, e rendi per me la retta guida una scala.",
+          "en.karamati": "O our Lord, by its merit spare me all that harms me, and make right guidance a ladder for me.",
+          "fr.karamati": "Ô notre Seigneur, par son mérite préserve-moi de tout ce qui me nuit, et fais pour moi de la droite guidance une échelle."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "يَارَبَّنَا بِيُمْنِهَا الْجِنَانَا ۞ هَبْ لِى وَطَهِّرَنْ لِىَ الْجَنَانَا",
+        "translations": {
+          "it.karamati": "O nostro Signore, per la sua benedizione donami i Giardini (al-jinān) e purificami il cuore (al-janān).",
+          "en.karamati": "O our Lord, by its blessing grant me the Gardens (al-jinān) and purify my heart (al-janān).",
+          "fr.karamati": "Ô notre Seigneur, par sa bénédiction accorde-moi les Jardins (al-jinān) et purifie-moi le cœur (al-janān)."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "يَارَبَّنَا بِجَاهِهَا النُّورَيْنِ ۞ هَبْ لِى وَلِلْأُمَّةِ فِى الدَّارَيْنِ",
+        "translations": {
+          "it.karamati": "O nostro Signore, per il suo prestigio dona le due luci a me e alla comunità, nelle due Dimore.",
+          "en.karamati": "O our Lord, by its standing grant the two lights to me and to the community, in the two Abodes.",
+          "fr.karamati": "Ô notre Seigneur, par son prestige accorde les deux lumières à moi et à la communauté, dans les deux Demeures."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "وَاسْلُكْ بِنَا نَهْجَ نَجَاحٍ وَفَلَاحْ ۞ وَاجْذُبْ قُلُوبَنَا لِزُهْدٍ وَصَلَاحْ",
+        "translations": {
+          "it.karamati": "E facci percorrere la via della riuscita e del successo, e attira i nostri cuori alla rinuncia e alla rettitudine.",
+          "en.karamati": "And lead us along the way of achievement and success, and draw our hearts to renunciation and righteousness.",
+          "fr.karamati": "Et fais-nous parcourir la voie de la réussite et du succès, et attire nos cœurs au renoncement et à la droiture."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "وَأَوْلِنَا سَعَادَةً تَدُومُ ۞ وَالْفَضْلَ يَامَنْ مُّلْكُهُ يَدُومُ",
+        "translations": {
+          "it.karamati": "E concedici una felicità che duri, e la grazia, o Tu il cui regno dura.",
+          "en.karamati": "And bestow on us a felicity that lasts, and grace, O You Whose kingdom lasts.",
+          "fr.karamati": "Et accorde-nous un bonheur qui dure, et la grâce, ô Toi dont le royaume dure."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "وَصَلِّيَنْ خَيْرَ صَلَاةٍ وَسَلَامْ ۞ عَلَى الَّذِى مِنْ دُورِهِ دَارُ السَّلَامْ",
+        "translations": {
+          "it.karamati": "E benedici della migliore benedizione e saluto di pace colui tra le cui dimore è la Dimora della Pace,",
+          "en.karamati": "And bless with the best blessing and peace him among whose abodes is the Abode of Peace,",
+          "fr.karamati": "Et bénis de la meilleure bénédiction et salut de paix celui parmi les demeures de qui est la Demeure de la Paix,"
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "مُحَمَّدٍ بَابِ الْهُدَى نَافِى الرَّدَى ۞ نَآءِى الْمَدَى جَالِى الدُجَى مُذْ وَرَدَا",
+        "translations": {
+          "it.karamati": "Muḥammad, la porta della retta guida, che respinge la perdizione, dalla portata lontana, che dissipa le tenebre da quando è giunto,",
+          "en.karamati": "Muḥammad, the gate of guidance, repeller of ruin, far-reaching, dispeller of darkness since he came,",
+          "fr.karamati": "Muḥammad, la porte de la droite guidance, qui repousse la perdition, à la portée lointaine, qui dissipe les ténèbres depuis qu'il est venu,"
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "وَالْئَالِ وَالصَّحْبِ وَمَنْ لَّكَ دَعَا ۞ مَآ ءَابَ بِالْفَوْزِ الْعَظِيمِ مَنْ دَعَا",
+        "translations": {
+          "it.karamati": "e la Famiglia, i Compagni e chi Ti ha invocato, finché ritorna con il successo immenso chi ha invocato.",
+          "en.karamati": "and the Family, the Companions and whoever has called on You, as long as the caller returns with the mighty triumph.",
+          "fr.karamati": "et la Famille, les Compagnons et qui T'a invoqué, tant que revient avec le succès immense qui a invoqué."
+        }
+      }
     ]
   }
 }

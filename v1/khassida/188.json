@@ -199,6 +199,140 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "يَاذَا الْوُجُودِ وَالْبَقَآءِ وَالْقِدَمْ ۞ يَاذَا الْمُخَالَفَةِ خُذْمِنِّى الْخِدَمْ",
+        "translations": {
+          "it.karamati": "O Dotato dell'Esistenza, della Permanenza e dell'Eternità senza inizio, o Dotato della Dissomiglianza (dalle creature), accetta da me i servizi.",
+          "en.karamati": "O Possessor of Existence, Permanence and Beginninglessness, O Possessor of Dissimilarity (to creatures), accept the services from me.",
+          "fr.karamati": "Ô Détenteur de l'Existence, de la Permanence et de l'Éternité sans commencement, ô Détenteur de la Dissemblance (d'avec les créatures), accepte de moi les services."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "يَاذَا الْقِيَامِ أَبَدًا وَالْوَحْدَهْ ۞ يَامَنْ خِطَابِىَ إِلَيْهِ وَحْدَهْ",
+        "translations": {
+          "it.karamati": "O Dotato del Sussistere (per Sé) per sempre e dell'Unicità, o Tu verso il Quale è il mio discorso, soltanto.",
+          "en.karamati": "O Possessor of Self-Subsistence forever and of Oneness, O You to Whom alone is my address.",
+          "fr.karamati": "Ô Détenteur de la Subsistance (par Soi) à jamais et de l'Unicité, ô Toi vers Qui est mon discours, seulement."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "إِنَّكَ ذُو الْقُدْرَةِ وَالْإِرَادَهْ ۞ وَالْعِلْمِ وَالْحَيَاتِ وَالْإِفَادَهْ",
+        "translations": {
+          "it.karamati": "Tu sei Dotato della Potenza e della Volontà, della Scienza, della Vita e del giovamento,",
+          "en.karamati": "You are Possessor of Power and Will, of Knowledge, Life and benefit,",
+          "fr.karamati": "Tu es Doté de la Puissance et de la Volonté, de la Science, de la Vie et du profit,"
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَالصَّمْعِ والْبَصَرِ وَالْكَلَامِ ۞ يَامَاحِيًا بِالْمُنْتَقَى ءَالَامِى",
+        "translations": {
+          "it.karamati": "dell'Udito, della Vista e della Parola, o Tu che per mezzo del Prescelto cancelli i miei dolori.",
+          "en.karamati": "of Hearing, Sight and Speech, O You Who through the Chosen efface my pains.",
+          "fr.karamati": "de l'Ouïe, de la Vue et de la Parole, ô Toi qui par l'Élu effaces mes douleurs."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "إِنَّكَ قَادِرٌ مُّرِيدٌ عَالِمْ ۞ حَىٌّ سِمِيعٌ زَحْزَحَ الْمَظَالِمْ",
+        "translations": {
+          "it.karamati": "Tu sei Potente, Volente, Sapiente, Vivente, Audiente: hai rimosso le ingiustizie.",
+          "en.karamati": "You are Powerful, Willing, Knowing, Living, Hearing: You have removed the wrongs.",
+          "fr.karamati": "Tu es Puissant, Voulant, Savant, Vivant, Audient : Tu as écarté les injustices."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "أَنْتَ بَصِيرٌ مُّتَكَلِّمٌ جَذَبْ ۞ لِىَ كِتَابَهُ الْمَجِيدَ فَانْجَذَبْ",
+        "translations": {
+          "it.karamati": "Tu sei Veggente, Parlante: hai attirato per me il Suo Libro glorioso, ed esso è stato attirato.",
+          "en.karamati": "You are Seeing, Speaking: You drew His glorious Book to me, and it was drawn.",
+          "fr.karamati": "Tu es Voyant, Parlant : Tu as attiré pour moi Son Livre glorieux, et il a été attiré."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "لَكَ بِلَا افْتِرَآءٍ النَّفْسِيَّهْ ۞ يَامَنْ كَفَانِى الظُّلَمَ النَّفْسِيَّهْ",
+        "translations": {
+          "it.karamati": "A Te (appartiene), senza menzogna, l'(attributo) essenziale (nafsiyya), o Tu che mi hai risparmiato le tenebre dell'anima.",
+          "en.karamati": "To You (belongs), without falsehood, the essential (attribute, nafsiyya), O You Who spared me the darknesses of the soul.",
+          "fr.karamati": "À Toi (appartient), sans mensonge, l'(attribut) essentiel (nafsiyya), ô Toi qui m'as épargné les ténèbres de l'âme."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لَكَ بِلَا مِرَآءٍ السَّلْبِيَّهْ ۞ يَامَنْ كَفَانِى الظُّلَمَ الْقَلْبِيَّهْ",
+        "translations": {
+          "it.karamati": "A Te, senza contesa, gli (attributi) negativi (salbiyya), o Tu che mi hai risparmiato le tenebre del cuore.",
+          "en.karamati": "To You, without dispute, the negative (attributes, salbiyya), O You Who spared me the darknesses of the heart.",
+          "fr.karamati": "À Toi, sans contestation, les (attributs) négatifs (salbiyya), ô Toi qui m'as épargné les ténèbres du cœur."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "لَكَ بِلَا شَرِيكٍ الْمَعَانِى ۞ وَالْمَعْنَوِيَّاتُ بِلَا مُعَانِ",
+        "translations": {
+          "it.karamati": "A Te, senza associato, gli (attributi) entitativi (maʿānī) e gli (attributi) derivati (maʿnawiyya), senza aiutante.",
+          "en.karamati": "To You, without partner, the entitative (attributes, maʿānī) and the derived (attributes, maʿnawiyya), without helper.",
+          "fr.karamati": "À Toi, sans associé, les (attributs) entitatifs (maʿānī) et les (attributs) dérivés (maʿnawiyya), sans auxiliaire."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "يَافَاعِلًا بِإِذْنِهِ يَجْرِى الْقَدَرْ ۞ لِغَيْرِ أَحْمَدِكَ ذَا سُقْتَ الْكَدَرْ",
+        "translations": {
+          "it.karamati": "O Tu che agisci, per il Cui permesso scorre il decreto, verso altri che il Tuo Aḥmad hai sospinto questa torbidezza.",
+          "en.karamati": "O Doer, by Whose leave the decree flows, toward others than Your Aḥmad You drove this turbidity.",
+          "fr.karamati": "Ô Toi qui agis, par la permission de Qui s'écoule le décret, vers d'autres que Ton Aḥmad Tu as poussé ce trouble."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "بِجَاهِ أَحْمَدَ الْكَرِيمِ الْعَلَمِ ۞ يَامَنْ بِهِ عَلَّمْتَ مَالَمْ يَعْلَمِ",
+        "translations": {
+          "it.karamati": "Per il prestigio di Aḥmad, il nobile, il vessillo, o Tu che per mezzo di lui hai insegnato ciò che (l'uomo) non sapeva (Corano 96:5).",
+          "en.karamati": "By the standing of Aḥmad, the noble, the banner, O You Who through him taught what (man) did not know (Qurʾān 96:5).",
+          "fr.karamati": "Par le prestige d'Aḥmad, le noble, l'étendard, ô Toi qui par lui as enseigné ce que (l'homme) ne savait pas (Coran 96:5)."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "يَاذَا وُجُودٍ وَبَقَآءٍ وَقِدَمْ ۞ لِلْعَرْشِ وَالْكُرْسِىِّ خُذْتَهِ الْخِدَمْ",
+        "translations": {
+          "it.karamati": "O Dotato di Esistenza, Permanenza ed Eternità senza inizio, per il Trono e lo Sgabello accetta questi servizi.",
+          "en.karamati": "O Possessor of Existence, Permanence and Beginninglessness, for the Throne and the Footstool accept these services.",
+          "fr.karamati": "Ô Détenteur d'Existence, de Permanence et d'Éternité sans commencement, pour le Trône et le Marchepied accepte ces services."
+        }
+      }
     ]
   }
 }

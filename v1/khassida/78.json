@@ -391,6 +391,272 @@
           "fr": "sans complot aux familles."
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "مَدَّ الْخَبِيرُ لِى وَالْكَبِيرُ ۞ مَالَا يَبُورُ مِنَ اللُّهَآءِ",
+        "translations": {
+          "it.karamati": "Mi hanno esteso il Ben Informato (Al-Khabīr) e il Grande (Al-Kabīr) doni che non periscono.",
+          "en.karamati": "The All-Aware (Al-Khabīr) and the Great (Al-Kabīr) have extended to me gifts that never perish.",
+          "fr.karamati": "Le Bien-Informé (Al-Khabīr) et le Grand (Al-Kabīr) m'ont étendu des dons qui ne périssent pas."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "حِبَآءُ رَبِّى خِلِّى وَحِبِى ۞ مَعَ الْمُحَبِّ صَفَّى اشْتِهَآءِ",
+        "translations": {
+          "it.karamati": "Il diletto del mio Signore è il mio amico intimo e il mio amato: con l'amato si è purificato il mio desiderio.",
+          "en.karamati": "The beloved of my Lord is my intimate friend and my love: with the beloved my desire has been purified.",
+          "fr.karamati": "Le bien-aimé de mon Seigneur est mon ami intime et mon aimé : avec l'aimé mon désir s'est purifié."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "مَحَا اعْتِلَالِى مَاحِى ضَلَالِى ۞ مُنْمِى حَلَالِى بِلَا انْتِهَآءِ",
+        "translations": {
+          "it.karamati": "Ha cancellato la mia infermità Colui che cancella il mio traviamento, che fa crescere il mio lecito senza fine.",
+          "en.karamati": "He erased my infirmity, the Effacer of my straying, Who makes my lawful gain grow without end.",
+          "fr.karamati": "A effacé mon infirmité Celui qui efface mon égarement, qui fait croître mon licite sans fin."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "مَدْحُ الْمُقَفَّى عُمْرِىَ صَفَّى ۞ وَقَادَ صَفَّا لِى بِاعْتِنَآءِ",
+        "translations": {
+          "it.karamati": "La lode dell'Ultimo venuto ha purificato la mia vita, e mi ha condotto una schiera, con sollecitudine.",
+          "en.karamati": "The praise of the Last to Come has purified my life, and led a rank to me, with solicitude.",
+          "fr.karamati": "La louange du Dernier venu a purifié ma vie, et m'a amené une cohorte, avec sollicitude."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "دَامَ اقْتِرَابِى عِنْدَ تُرَابِى ۞ بِلَا اغْتِرَابِ وَلَاعَنَآءِ",
+        "translations": {
+          "it.karamati": "È perenne la mia vicinanza presso la mia terra, senza esilio e senza pena.",
+          "en.karamati": "My nearness endures at my own soil, without exile and without toil.",
+          "fr.karamati": "Ma proximité demeure auprès de ma terre, sans exil et sans peine."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "يَنْحُو شُكُورِ إِلَى الشَّكُورِ ۞ عَلَى الشَّكُورِ ظَرْفِ ثَنَآءِ",
+        "translations": {
+          "it.karamati": "La mia gratitudine si dirige verso il Riconoscente (Ash-Shakūr), per il riconoscente (il Profeta), ricettacolo della mia lode.",
+          "en.karamati": "My gratitude heads toward the Appreciative (Ash-Shakūr), for the grateful one (the Prophet), vessel of my praise.",
+          "fr.karamati": "Ma gratitude se dirige vers le Reconnaissant (Ash-Shakūr), pour le reconnaissant (le Prophète), réceptacle de ma louange."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "إِلَى التَّقِىِّ لَيْثِ الشَّقِىِّ ۞ بَابِ الرُّقِىِّ يَنْحُو نِدَآءِ",
+        "translations": {
+          "it.karamati": "Verso il timorato, leone contro il malvagio, porta dell'ascesa, si dirige il mio appello.",
+          "en.karamati": "Toward the God-fearing one, lion against the wretched, gate of ascent, my call is directed.",
+          "fr.karamati": "Vers le pieux, lion contre le méchant, porte de l'ascension, se dirige mon appel."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لَمْ يَنْحُ قَلْبِى دَاعٍ لِّخَلْبِ ۞ أَوْدَاعِى سَلْبِ أَوْدَاعِى دَآءِ",
+        "translations": {
+          "it.karamati": "Non si è diretto al mio cuore chi chiama all'inganno, né chi chiama alla spoliazione, né chi chiama alla malattia.",
+          "en.karamati": "There has not come to my heart a caller to deceit, nor a caller to despoiling, nor a caller to disease.",
+          "fr.karamati": "Ne s'est pas dirigé vers mon cœur qui appelle à la tromperie, ni qui appelle à la spoliation, ni qui appelle à la maladie."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "خَيْرَ الْعِبَادِ سَبْقُكَ بَادِى ۞ مِنَ الْمَبَادِ لِذِى اقْتِدَآءِ",
+        "translations": {
+          "it.karamati": "O migliore dei servi, la tua precedenza è manifesta fin dai principi, per chi segue l'esempio.",
+          "en.karamati": "O best of servants, your precedence is manifest from the beginnings, for whoever follows the example.",
+          "fr.karamati": "Ô meilleur des serviteurs, ta préséance est manifeste dès les commencements, pour qui suit l'exemple."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "لَكَ الظُّهُورُ مِنْكَ الْمُهُورُ ۞ لَكَ الظُّهُورُ يَوْمَ الْخَفَآءِ",
+        "translations": {
+          "it.karamati": "A te la manifestazione, da te (vengono) le doti; a te i sostegni nel giorno del nascondimento.",
+          "en.karamati": "Yours is manifestation, from you come the dowries; yours are the supports on the day of concealment.",
+          "fr.karamati": "À toi la manifestation, de toi (viennent) les dots ; à toi les appuis au jour de l'occultation."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "يَاذَا الْكَتَآئِبْ لِغَيْرِ تَآئِبْ ۞ لِخَيْرِ تَآئِبْ مِنْكَ شِفَآءِ",
+        "translations": {
+          "it.karamati": "O signore degli squadroni (contro) chi non si pente: per il migliore dei penitenti, da te è la guarigione.",
+          "en.karamati": "O lord of the squadrons (against) the unrepentant: for the best of the penitent, from you is healing.",
+          "fr.karamati": "Ô maître des escadrons (contre) qui ne se repent pas : pour le meilleur des repentants, de toi vient la guérison."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "لَكَ حُرُوفِى مِنْكَ ظُرُوفِ ۞ مَعَ الْوُرُوفِ يَاذَا اللُّهَآءِ",
+        "translations": {
+          "it.karamati": "A te le mie lettere, da te le mie circostanze, insieme all'ombra che si stende, o signore dei doni.",
+          "en.karamati": "Yours are my letters, from you my circumstances, with the spreading shade, O lord of gifts.",
+          "fr.karamati": "À toi mes lettres, de toi mes circonstances, avec l'ombre qui s'étend, ô maître des dons."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "لِسَانُ شُكْرِى مِنْ بَعْدِ ذِكْرِى ۞ بِغَيْرِى مَكْرِ لِذِى الْئَالَآءِ",
+        "translations": {
+          "it.karamati": "La lingua della mia gratitudine, dopo il mio ricordo, senza inganno, (va) al Signore dei benefici.",
+          "en.karamati": "The tongue of my gratitude, after my remembrance, without guile, (goes) to the Lord of benefits.",
+          "fr.karamati": "La langue de ma gratitude, après mon rappel, sans ruse, (va) au Maître des bienfaits."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "إِلَى السَّلَامِ أُفْضِى كَلَامِى ۞ بِلَا مَلَامِ وَلَا قِلَآءِ",
+        "translations": {
+          "it.karamati": "Alla Pace (As-Salām) faccio giungere la mia parola, senza biasimo e senza avversione.",
+          "en.karamati": "To Peace (As-Salām) I convey my speech, without blame and without aversion.",
+          "fr.karamati": "À la Paix (As-Salām) je fais parvenir ma parole, sans blâme et sans aversion."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "أُفْضِى لِسَانِى مَعَ الْحِسَانِ ۞ لِمَنْ كَسَانِى ثَوْبَ اعْتِلَآءِ",
+        "translations": {
+          "it.karamati": "Rivolgo la mia lingua, con le cose belle, a Colui che mi ha rivestito della veste dell'elevazione.",
+          "en.karamati": "I direct my tongue, with fair things, to Him Who clothed me in the garment of exaltation.",
+          "fr.karamati": "J'adresse ma langue, avec les belles choses, à Celui qui m'a revêtu du vêtement de l'élévation."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "لَقَدْ بَدَالِى كَوْنُ الْهُدَى لِى ۞ بِلَا جِدَالِ ذَوِى ارْعِوَآءِ",
+        "translations": {
+          "it.karamati": "Mi è apparso che la guida è mia, senza la disputa di chi si ravvede.",
+          "en.karamati": "It has appeared to me that guidance is mine, without the dispute of those who come to their senses.",
+          "fr.karamati": "Il m'est apparu que la guidance est mienne, sans la dispute de qui revient à la raison."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "اللَّهُ رَبِّى قَدْ زَادَ حُبِّى ۞ لَهُ وَعَبِّى مَعَ ارْتِوَآئِى",
+        "translations": {
+          "it.karamati": "Allah, mio Signore, ha accresciuto il mio amore per Lui e il mio bere a grandi sorsi, insieme al mio dissetarmi.",
+          "en.karamati": "Allah, my Lord, has increased my love for Him and my deep drinking, together with my quenching.",
+          "fr.karamati": "Allah, mon Seigneur, a accru mon amour pour Lui et mon boire à longs traits, avec mon désaltèrement."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "هُوَ الْكَرِيمُ بِهِ أَرُومُ ۞ مَالَا يَرِيمُ بَعْدَ احْتِوَآءِ",
+        "translations": {
+          "it.karamati": "Egli è il Generoso, per mezzo del Quale cerco ciò che non si allontana dopo essere stato ottenuto.",
+          "en.karamati": "He is the Generous, through Whom I seek what does not depart once attained.",
+          "fr.karamati": "Il est le Généreux, par Qui je cherche ce qui ne s'éloigne pas après avoir été obtenu."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "أَشْكَى اشْتِكَآئِى بَعْدَ اتِّكَآئِى ۞ بِلَا بُكَآءِ وَلَا دَوَآءِ",
+        "translations": {
+          "it.karamati": "Egli ha tolto la causa del mio lamento, dopo che mi sono appoggiato (a Lui), senza pianto e senza rimedio.",
+          "en.karamati": "He removed the cause of my complaint, after I leaned (on Him), without weeping and without remedy.",
+          "fr.karamati": "Il a ôté la cause de ma plainte, après que je me suis appuyé (sur Lui), sans pleur et sans remède."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "لَهُ ثَنَائِى عِنْدَ عَنَآئِى ۞ بِلَا انْثِنَآءِ إِلَى مِرَآءِ",
+        "translations": {
+          "it.karamati": "A Lui la mia lode, nella mia pena, senza piegarmi alla disputa.",
+          "en.karamati": "To Him my praise, in my hardship, without bending toward dispute.",
+          "fr.karamati": "À Lui ma louange, dans ma peine, sans me plier à la dispute."
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "لَهُ نَحَوْتُ وَمَا هَفَوْتُ ۞ وَمَا صَبَوْتُ إِلَى مُرَآءِى",
+        "translations": {
+          "it.karamati": "A Lui mi sono diretto, e non ho sbagliato, né ho inclinato verso un ipocrita.",
+          "en.karamati": "To Him I have headed, and I have not erred, nor inclined toward a hypocrite.",
+          "fr.karamati": "Vers Lui je me suis dirigé, et je n'ai pas failli, ni n'ai penché vers un hypocrite."
+        }
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "أَفْنَى فُتُونِى مُعْطِى الْمُتُونِ ۞ مَعَ الْمُتُونِ بِلَا جِرَآءِ",
+        "translations": {
+          "it.karamati": "Ha annientato le mie seduzioni Colui che dona i testi (sacri), insieme alla fermezza, senza temerarietà.",
+          "en.karamati": "He annihilated my temptations, the Giver of the (sacred) texts, together with firmness, without rashness.",
+          "fr.karamati": "A anéanti mes séductions Celui qui donne les textes (sacrés), avec la fermeté, sans témérité."
+        }
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "هَدَى الْمُرِيدَا نَفَى الْمَرِيدَا ۞ نِعْمَ فَرِيدَا يُنْمِى ثَرَآئِى",
+        "translations": {
+          "it.karamati": "Ha guidato il discepolo, ha respinto il ribelle: quale eccellente Unico, che fa crescere la mia ricchezza!",
+          "en.karamati": "He guided the disciple, repelled the rebel: what an excellent Unique One, Who makes my wealth grow!",
+          "fr.karamati": "Il a guidé le disciple, a repoussé le rebelle : quel excellent Unique, qui fait croître ma richesse !"
+        }
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "وَجَّحْتُ شُكْرِى لِمُعْطِى الذِّكْرِ ۞ مِنْ غَيْرِ مَكْرِ عَلَى الْئَالَآءِ",
+        "translations": {
+          "it.karamati": "Ho rivolto la mia gratitudine a Colui che dona il Ricordo, senza inganno, per i benefici.",
+          "en.karamati": "I have directed my gratitude to the Giver of the Remembrance, without guile, for the benefits.",
+          "fr.karamati": "J'ai adressé ma gratitude à Celui qui donne le Rappel, sans ruse, pour les bienfaits."
+        }
+      }
     ]
   }
 }

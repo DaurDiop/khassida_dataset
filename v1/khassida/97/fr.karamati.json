@@ -1,0 +1,454 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "Matlabul Fawzayni 3",
+    "transliterationName": "Matlabul Fawzayni 3",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 117,
+        "text": "et par la sacralité de (ses) fils et de (ses) filles, et par la sacralité de la Famille avec les épouses,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 118,
+        "text": "et par la sacralité des Envoyés et des Prophètes, des savants avec les saints,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 119,
+        "text": "et par la sacralité des anges resplendissants et nobles, et par la sacralité de la Kaʿba, Ta Maison sacrée,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 120,
+        "text": "et par la sacralité de la Maison sainte, immense (Jérusalem), et par la ville de Ton noble Envoyé (Médine),"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 121,
+        "text": "et par Ta Maison fréquentée (Coran 52:4), ô Seigneur, et les anges qui la visitent au-dessus du ciel,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 122,
+        "text": "et par le prestige de tout détenteur de guidance, qu'il soit vertueux, ou guide spirituel, ou adorateur, ou conseiller sincère,"
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 123,
+        "text": "et par le prestige de quiconque se rattache à Toi : accorde-moi tout ce que je Te demande."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 124,
+        "text": "Et préserve-moi rapidement de l'ensemble de ce dont je cherche refuge en Toi, ô Donneur de refuge."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 125,
+        "text": "Et réunis, ici, moi et ce qui me pousse vers Toi, où que cela soit connu ;"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 126,
+        "text": "et tout ce qui détourne de Toi, ô Créateur sans modèle (Al-Badīʿ), sépare-le rapidement de moi."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 127,
+        "text": "Je suis celui qui a soumis ici sa face à Toi, résolu à bien faire ;"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 128,
+        "text": "je suis celui qui n'incline jamais vers d'autres que Toi, ici et puis demain."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 129,
+        "text": "Et pourquoi non, alors que Tu es mon Seigneur, le Garant, et que Tu me suffis, si bien que je n'incline pas (ailleurs) ?"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 130,
+        "text": "Ô Bienfaisant, Tu es mon Seigneur, le Donateur, et de Tes ouvertures (spirituelles) je ne doute pas."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 131,
+        "text": "Ô Bienfaisant, Tu es mon Seigneur, Celui qui suffit (Al-Ḥasīb), et Tu me suffis, si bien que je ne suis pas déçu."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 132,
+        "text": "Ô Juste, Tu es mon Seigneur, le Défenseur, et Tu me suffis, si bien que je ne me défends pas (moi-même)."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 133,
+        "text": "Ô Vivant, Tu es le Détenteur de la Majesté, l'Immense (Al-Wāsiʿ), et Tu me suffis, si bien que je ne conteste pas."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 134,
+        "text": "Ô Seigneur, Tu es le Détenteur de la puissance (Coran 13:13), l'Unique, et Tu me suffis, si bien que je ne pâtis pas."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 135,
+        "text": "Ô Singulier, Tu es le Détenteur des dons, ô Glorieux (Al-Mājid), et Tu me suffis, si bien que je n'envie pas."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 136,
+        "text": "Mon Maître, Tu es le Détenteur de la guidance, ô Celui qui est utile (An-Nāfiʿ), et Tu me suffis, si bien que je ne romps pas (les liens)."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 137,
+        "text": "Tu es Celui qui accorde à ceux qui T'aiment Ta guidance, et Tu me suffis, si bien que je ne cherche nul autre que Toi."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 138,
+        "text": "Protège donc mon enceinte ; sois pour moi une forteresse imprenable contre tout être doté de crocs et de griffes, à tout moment."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 139,
+        "text": "Et préserve-moi, ô Détenteur de la Permanence et de l'Éternité, du mal de celui qui a marché vers moi à pied,"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 140,
+        "text": "et du mal de qui chevauche armé, et du mal de ce qui vole doté d'ailes,"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 141,
+        "text": "et du mal de qui s'assied (pour comploter) par les paroles, et du mal de qui est couché et de qui est debout,"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 142,
+        "text": "et du mal de qui souffle dans les nœuds (Coran 113:4), et du mal de l'envieux et de qui renie."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 143,
+        "text": "Par Toi, ô mon Dieu, j'ai lié (rendu inoffensifs) le lion, le serpent, le scorpion et la vipère noire,"
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 144,
+        "text": "qui noue, qui souffle, le voleur, qui jette le mauvais œil, le sorcier et qui vient de nuit,"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 145,
+        "text": "et les hommes et les djinns ensemble, (les écartant) de moi et de tous ceux qui se sont soumis (à l'Islām) en ce qui est manifeste,"
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 146,
+        "text": "par mille et mille prononciations de « Point de force ni de puissance si ce n'est en Dieu, détenteur de l'Élévation »."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 147,
+        "text": "Et sauve-moi du mal des habitants de la terre, et du mal de tout géniteur et de ce qu'il a engendré (Coran 90:3)."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 148,
+        "text": "Et préserve-moi du mal de la bouche et de l'œil, et de quiconque m'a visé pour ma perte."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 149,
+        "text": "Et sauve-moi de l'iniquité de tout inique, et du mal de tout ignorant et savant,"
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 150,
+        "text": "de tout silencieux et de tout parlant, de tout apostat et de tout visiteur nocturne,"
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 151,
+        "text": "de tout très vil et de tout excellent, de tout dominateur et de tout agresseur,"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 152,
+        "text": "de tout volatile et de tout marcheur, de tout obscur et de tout renommé,"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 153,
+        "text": "de tout envieux et de tout haineux, de tout tyran et de tout coupable."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 154,
+        "text": "Et sauve-moi, ô Toi qui es exalté, ô Glorieux (Al-Majīd), du mal des djinns avec Satan le rebelle,"
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 155,
+        "text": "du mal de qui est proche et du mal du lointain, de la chaleur et du froid, et du mal de l'eau."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 156,
+        "text": "Et rends-moi maître et soutiens-moi à jamais, et purifie le cœur et rends sain le corps."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 157,
+        "text": "Et accorde-moi la veille (de prière) dans les nuits et le jeûne dans le jour, avec plénitude."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 158,
+        "text": "Et dépouille-moi des vices, et sois Celui qui m'embellit par les vertus."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 159,
+        "text": "Et rends vif mon intellect, et ouvre pour moi, Seigneur, une ouverture éclatante (Coran 48:1), telle qu'on n'en voit pas pour mon pareil."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 160,
+        "text": "Et accorde-moi habileté et lumière, et sur le Pont (aṣ-Ṣirāṭ) rends facile le passage."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 161,
+        "text": "Et accorde-moi le rappel (de Toi) avec gratitude à tout moment, et compte-moi parmi l'ensemble des Rapprochés."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 162,
+        "text": "Et ne cesse pas, ô mon Souverain, d'être mon guide ; et éduque-moi et sois mon ami intime."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 163,
+        "text": "Et enseigne-moi une science venant de Toi (Coran 18:65), jusqu'à ce que je devienne ferme, (vaste comme) un océan."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 164,
+        "text": "Et sois mon aide contre Satan, l'âme et les créatures, pour toute la durée des temps."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 165,
+        "text": "Et sois pour moi, dans les deux Demeures, un refuge, et en elles ne cesse d'être pour moi un abri."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 166,
+        "text": "Et purifie-moi dans la forme et dans le cœur, et accorde-moi élévation et amour."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 167,
+        "text": "Et sois mon Allié dans la vie et à ma mort, dans la tombe et lors du Rassemblement (de la Résurrection), demain."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 168,
+        "text": "Et ne cesse pas, ô Gardien (Al-Ḥafīẓ), d'être pour moi protecteur, gardien, écran et satisfait (de moi),"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 169,
+        "text": "Celui qui attire (à Toi), guide, maître, conducteur vers la droite voie, Celui qui honore,"
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 170,
+        "text": "guide, défenseur, et Celui qui fait don de tout ce qui m'est utile, doté de bienveillance."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 171,
+        "text": "Et fais-moi parcourir les sentiers du salut, et préserve-moi de l'ensemble des péchés."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 172,
+        "text": "Et fais-moi parcourir, Seigneur, la voie des saints, nobles, sincères, élus."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 173,
+        "text": "Et accorde-moi un bonheur après lequel je ne voie ni malheur ni mal."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 174,
+        "text": "Et affermis Ton amour dans mon cœur, et l'amour du meilleur des créatures, avec persévérance,"
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "appNumber": 175,
+        "text": "et l'amour de sa Famille et de tous ses Compagnons, puis l'amour de tout musulman obéissant."
+      },
+      {
+        "number": 60,
+        "verseFrom": 119,
+        "verseTo": 120,
+        "appNumber": 176,
+        "text": "Ô notre Seigneur, ô Détenteur des dons, exauce mon recours au Préféré, l'élu ;"
+      },
+      {
+        "number": 61,
+        "verseFrom": 121,
+        "verseTo": 122,
+        "appNumber": 177,
+        "text": "puis bénis-le de la meilleure bénédiction, qui me conduise à la rencontre des guides."
+      },
+      {
+        "number": 62,
+        "verseFrom": 123,
+        "verseTo": 124,
+        "appNumber": 178,
+        "text": "Et rends-moi avide de l'amour de tout musulman, et sauve-moi du mal de tout criminel."
+      },
+      {
+        "number": 63,
+        "verseFrom": 125,
+        "verseTo": 126,
+        "appNumber": 179,
+        "text": "Et rends-moi avide des obéissances, et préserve-moi des péchés et de toutes les séditions."
+      }
+    ]
+  }
+}

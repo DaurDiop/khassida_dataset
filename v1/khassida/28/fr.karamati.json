@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 28,
+    "name": "Faaqa Jamiha",
+    "transliterationName": "Faaqa Jamiha",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "A surpassé tous les prophètes et les envoyés notre maître Aḥmad, le bien-aimé de Celui qui envoie."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "A placé Aḥmad devant les nobles Celui qui l'a fait voyager de nuit (Coran 17:1), avec le respect de tous."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Le degré du serviteur, l'Envoyé Aḥmad, a rendu les élus radieux et louables."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Le Prophète, au jour de « Ne suis-Je pas (votre Seigneur) ? » (Coran 7:172), a gratifié les radieux de la réponse, et tous ont répondu avec justesse."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "A rendu impuissant (à en engendrer un pareil) tout père et toute mère notre Aḥmad, dont la hauteur est éternelle."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Les signes d'Aḥmad ont renfermé les signes de ceux qui sont passés et de qui viendra, et ont surpassé ce temps."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Son Livre a renfermé les Livres des envoyés de Celui qui fait descendre (la Révélation), et a gratifié de l'hospitalité et du festin."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Muḥammad — sur lui le plus excellent salut — est placé en tête par la meilleure action et parole."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Le commencement d'al-Māḥī (Muḥammad) est le terme (où parviennent) les élus : l'a préféré aux créatures le Seigneur du choix."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Tout seigneur qui est choisi a témoigné qu'Aḥmad est l'Élu."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Se soumet à l'Élu ce qui est autre que lui ; (tout bien) s'est réfugié vers lui par grâce, et il l'a renfermé."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Notre Envoyé a surpassé tous les envoyés et les prophètes, et il est le bien-aimé de Celui qui envoie."
+      }
+    ]
+  }
+}

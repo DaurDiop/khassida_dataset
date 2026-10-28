@@ -199,6 +199,140 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "صَلَاةُ الَّذِى فِى كُلِّ شَهْرٍ وَفِى صَفَرْ ۞ حَمَانِى عَلَى مَاحٍ مَّحَا الْحَبْسَ وَالسَّفَرْ",
+        "translations": {
+          "it.karamati": "La benedizione di Colui che in ogni mese, e in Ṣafar, mi ha protetto, (sia) sul Cancellatore che ha cancellato la prigionia e il viaggio (forzato).",
+          "en.karamati": "The blessing of Him Who in every month, and in Ṣafar, protected me, (be) upon the Effacer who effaced captivity and the (forced) journey.",
+          "fr.karamati": "La bénédiction de Celui qui en chaque mois, et en Ṣafar, m'a protégé, (soit) sur l'Effaceur qui a effacé la captivité et le voyage (forcé)."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "فَلَاحِ بِكَوْنِى عَبْدَ رَبِّى خَدِيمَهُ ۞ عَجِيبٌ بِهِ لِى جَادَ مُغْنٍ عَنِ النَّفَرْ",
+        "translations": {
+          "it.karamati": "Il successo (è) nel mio essere servo del mio Signore, suo servitore: una meraviglia per mezzo di lui mi ha elargito Colui che rende indipendenti dalla schiera (degli uomini).",
+          "en.karamati": "Success (lies) in my being the slave of my Lord, his servant: a marvel through him the One Who frees from the throng (of men) has bestowed on me.",
+          "fr.karamati": "Le succès (est) dans mon être serviteur de mon Seigneur, son servant : une merveille par lui m'a octroyé Celui qui rend indépendant de la troupe (des hommes)."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "رَضِيتُ عَنِ الْمَوْلَى وَعَنْ خَيْرِ خَلْقِهِ ۞ عَلَيْهِ سَلَامَا مَنْ لَّهُ أُبْتُ بِالظَّفَرْ",
+        "translations": {
+          "it.karamati": "Sono compiaciuto del Signore e del migliore delle Sue creature — su di lui un saluto di pace — colui per mezzo del quale sono tornato con il trionfo.",
+          "en.karamati": "I am well pleased with the Master and with the best of His creatures — upon him peace — through whom I returned with triumph.",
+          "fr.karamati": "Je suis satisfait du Maître et du meilleur de Ses créatures — sur lui un salut de paix — celui par qui je suis revenu avec le triomphe."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "صَلَاةٌ وَتَسْلِيمٌ مَّعَ الْبِشْرِ سَرْمَدًا ۞ عَلَى مَنْ بِهِ مُكْثِى مَعَ الْأَمْنِ وَالْبَشَرْ",
+        "translations": {
+          "it.karamati": "Benedizione e saluto di pace, con la letizia, per sempre, su colui per mezzo del quale (è) il mio dimorare con la sicurezza e la gioia.",
+          "en.karamati": "Blessing and peace, with gladness, forever, upon him through whom (is) my abiding with safety and joy.",
+          "fr.karamati": "Bénédiction et salut de paix, avec la joie, à jamais, sur celui par qui (est) mon séjour avec la sécurité et la joie."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "فِرَارِىَ بِالْمُخْتَارِ مِنْ قَبْلُ قَادَ لِى ۞ مُكُوثًا وَتَبْشِيرًا لَّدَى الْجِنِّ وَالْبَشَرْ",
+        "translations": {
+          "it.karamati": "La mia fuga (verso Dio), per mezzo del Prescelto, già prima mi ha condotto il dimorare e la buona novella presso i jinn e gli uomini.",
+          "en.karamati": "My flight (to God), through the Chosen, already before led to me abiding and glad tidings among jinn and men.",
+          "fr.karamati": "Ma fuite (vers Dieu), par l'Élu, déjà auparavant m'a amené le séjour et la bonne nouvelle auprès des djinns et des hommes."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "رَفَعْتُ شُكُورًا بَعْدَ حَمْدٍ مُّخَلَّدٍ ۞ لِّبَاقٍ مَحَا ضُرِّى الَّذِى حَازَهُ الْقَدَرْ",
+        "translations": {
+          "it.karamati": "Ho innalzato una gratitudine, dopo una lode resa eterna, a un Permanente che ha cancellato il mio danno, quello che il decreto aveva racchiuso.",
+          "en.karamati": "I have raised gratitude, after an eternalised praise, to an Everlasting One Who effaced my harm, that which the decree had held.",
+          "fr.karamati": "J'ai élevé une gratitude, après une louange rendue éternelle, à un Permanent qui a effacé mon dommage, celui que le décret avait renfermé."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "صَلَاةُ الَّذِى أَدْعُوهُ عَبْدًا لَّهُ بِهِ ۞ عَلَى مَنْ بِهِ لِى قَادَ صَفْوًا بِلَا كَدَرْ",
+        "translations": {
+          "it.karamati": "La benedizione di Colui che invoco, servo Suo per mezzo di lui, (sia) su colui per mezzo del quale mi ha condotto limpidezza senza torbidezza.",
+          "en.karamati": "The blessing of Him Whom I invoke, His slave through him, (be) upon him through whom He led to me clarity without turbidity.",
+          "fr.karamati": "La bénédiction de Celui que j'invoque, Son serviteur par lui, (soit) sur celui par qui Il m'a amené limpidité sans trouble."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "فَصَاحَةُ خَيْرِ الْخَلْقِ أَبْدَتْ قَصَآءِدِى ۞ وَكَوْنِى بِهَا عَبْدًا خَدِيمًا لَّهُ ظَهَرْ",
+        "translations": {
+          "it.karamati": "L'eloquenza del migliore del creato ha fatto apparire le mie qaṣīde, e il mio essere per mezzo di esse suo servo e servitore è divenuto manifesto.",
+          "en.karamati": "The eloquence of the best of creation brought forth my qaṣīdas, and my being through them his slave and servant has become manifest.",
+          "fr.karamati": "L'éloquence du meilleur de la création a fait apparaître mes qaṣīdas, et mon être par elles son serviteur et servant est devenu manifeste."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "رَبِحْتُ رَبَاحًا لَّمْ يَكُنْ قَطُّ مِثْلُهُ ۞ بِفَضْلِ الَّذِى كَوْنِى حَبِيبًا لَّهُ اشْتَهَرْ",
+        "translations": {
+          "it.karamati": "Ho guadagnato un guadagno il cui pari non fu mai, per la grazia di Colui presso il Quale il mio essere Suo amato è divenuto noto.",
+          "en.karamati": "I have gained a gain whose like never was, by the grace of Him with Whom my being His beloved has become renowned.",
+          "fr.karamati": "J'ai gagné un gain dont le pareil ne fut jamais, par la grâce de Celui auprès de Qui mon être Son bien-aimé est devenu notoire."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "صَلَاةُ الَّذِى لِى قَادَ كَوْنِى خَلِيلَهُ ۞ عَلَى مَنْ بِهِ لِى طَيَّبَ الْبَدْوَ وَالْحَضَرْ",
+        "translations": {
+          "it.karamati": "La benedizione di Colui che mi ha condotto il mio essere Suo intimo (sia) su colui per mezzo del quale mi ha reso buoni il deserto e la città.",
+          "en.karamati": "The blessing of Him Who led to me my being His intimate (be) upon him through whom He made the desert and the town good for me.",
+          "fr.karamati": "La bénédiction de Celui qui m'a amené mon être Son intime (soit) sur celui par qui Il m'a rendu bons le désert et la cité."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "فُتُوحَاتُ رَبِّ الْعَرْشِ أَنْقَتْ مَعَائِبِى ۞ بِجَاهِ الَّذِى بَاهَتْ بِهِ مَنْ عَلَوْ مُضَرْ",
+        "translations": {
+          "it.karamati": "Le aperture del Signore del Trono hanno purificato i miei difetti, per il prestigio di colui per mezzo del quale si sono gloriati coloro che sono saliti di Muḍar.",
+          "en.karamati": "The openings of the Lord of the Throne have purified my faults, by the standing of him through whom those of Muḍar who rose took pride.",
+          "fr.karamati": "Les ouvertures du Seigneur du Trône ont purifié mes défauts, par le prestige de celui par qui se sont glorifiés ceux qui se sont élevés de Muḍar."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "رَبَاحِىَ فِى إِخْدَامِ خَيْرِ الْوَرَى بَدَا ۞ وَفِى كُلِّ شَهْرٍ زَيْدُ رِبْحِى وَفِى صَفَرْ",
+        "translations": {
+          "it.karamati": "Il mio guadagno nel servizio del migliore del creato è apparso, e in ogni mese (vi è) l'accrescimento del mio guadagno, e in Ṣafar.",
+          "en.karamati": "My gain in the service of the best of creation has appeared, and in every month (there is) the increase of my gain, and in Ṣafar.",
+          "fr.karamati": "Mon gain dans le service du meilleur de la création est apparu, et en chaque mois (il y a) l'accroissement de mon gain, et en Ṣafar."
+        }
+      }
     ]
   }
 }

@@ -455,6 +455,344 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "وَلْتَكْفِنَا بِأَلِفِ التَّعَوُّذِ ۞ مَا يُسْتَعَاذُ مِنْهُ يَامُعَاوِّذِى",
+        "translations": {
+          "it.karamati": "E preservaci, per l'alif della formula di rifugio, da ciò da cui si cerca rifugio, o mio Rifugio.",
+          "en.karamati": "And spare us, by the alif of the formula of refuge, from that against which refuge is sought, O my Refuge.",
+          "fr.karamati": "Et préserve-nous, par l'alif de la formule de refuge, de ce contre quoi l'on cherche refuge, ô mon Refuge."
+        },
+        "appNumber": 53
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "وَلْتَكْفِنَا بِعَيْنِهِ كُلَّ لَعِينْ ۞ وَكُلَّ مَالَمْ تَرْضَهُ لِى يَامُعِينْ",
+        "translations": {
+          "it.karamati": "Preservaci, per la sua ʿayn, da ogni maledetto e da tutto ciò che non gradisci per me, o Aiutante.",
+          "en.karamati": "Spare us, by its ʿayn, from every accursed one and from all that You are not pleased with for me, O Helper.",
+          "fr.karamati": "Préserve-nous, par son ʿayn, de tout maudit et de tout ce que Tu n'agrées pas pour moi, ô Secourable."
+        },
+        "appNumber": 54
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "وَلْتَكْفِنَا بِوَاوِهِ كُلَّ أَوَدْ ۞ وَلْتُغْنِنَا عَنْ جَالِبَاتٍ لِّقَوَدْ",
+        "translations": {
+          "it.karamati": "Preservaci, per la sua wāw, da ogni tortuosità, e rendici liberi da ciò che attira la rappresaglia.",
+          "en.karamati": "Spare us, by its wāw, from every crookedness, and free us from what brings on retaliation.",
+          "fr.karamati": "Préserve-nous, par son wāw, de toute tortuosité, et affranchis-nous de ce qui attire la représaille."
+        },
+        "appNumber": 55
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَلْتَكْفِنَا بِالذَّالِ كُلَّ ذُلِّ ۞ وَعَنْ حَرَامٍ أَغْنِنَا بِحِلِّ",
+        "translations": {
+          "it.karamati": "Preservaci, per la dhāl, da ogni umiliazione, e rendici indipendenti dall'illecito con il lecito.",
+          "en.karamati": "Spare us, by the dhāl, from every humiliation, and free us from the unlawful through the lawful.",
+          "fr.karamati": "Préserve-nous, par le dhāl, de toute humiliation, et dispense-nous de l'illicite par le licite."
+        },
+        "appNumber": 56
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "وَلْتُغْنِنَا بِاللَّهِ عَنْ سِوَاهُ ۞ مَعْ كُلِّ مَالِوَجْهِهِ نَهْوَاهُ",
+        "translations": {
+          "it.karamati": "E arricchiscici di Allah rispetto a ogni altro, con tutto ciò che, per il Suo Volto, amiamo.",
+          "en.karamati": "And enrich us with Allah above all else, with all that we love for His Face.",
+          "fr.karamati": "Et enrichis-nous d'Allah à l'égard de tout autre, avec tout ce que, pour Sa Face, nous aimons."
+        },
+        "appNumber": 57
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَبِبَقِيَّةِ الْحُرُوفِ هَبْ لَنَا ۞ فَضْلًا بِهِ يَغْبِطُنَا مَنْ قَبْلَنَا",
+        "translations": {
+          "it.karamati": "E per le restanti lettere donaci una grazia per la quale ci invidino (santamente) coloro che furono prima di noi.",
+          "en.karamati": "And by the remaining letters grant us a grace for which those before us will (holily) envy us.",
+          "fr.karamati": "Et par les lettres restantes accorde-nous une grâce pour laquelle nous envient (saintement) ceux qui furent avant nous."
+        },
+        "appNumber": 58
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "وَهَبْ لَنَا بِحَقِّ بَآءِ الْبَسْمَلَهْ ۞ وَالسِّينِ وَالْمِيمِ سُرُورَ الْكَمَلَهْ",
+        "translations": {
+          "it.karamati": "E donaci, per il diritto della bāʾ della basmala, della sīn e della mīm, la gioia degli uomini perfetti.",
+          "en.karamati": "And grant us, by the right of the bāʾ of the basmala, the sīn and the mīm, the joy of the perfect.",
+          "fr.karamati": "Et accorde-nous, par le droit du bāʾ de la basmala, du sīn et du mīm, la joie des hommes parfaits."
+        },
+        "appNumber": 59
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "وَهَبْ لَنَا بِالْبَآءِ فِى الدَّارَيْنِ ۞ مَا يَدْفَعُ الْعَارَيْنِ وَالنَّارَيْنِ",
+        "translations": {
+          "it.karamati": "E donaci, per la bāʾ, nelle due Dimore, ciò che respinge le due vergogne e i due fuochi.",
+          "en.karamati": "And grant us, by the bāʾ, in the two Abodes, what wards off the two shames and the two fires.",
+          "fr.karamati": "Et accorde-nous, par le bāʾ, dans les deux Demeures, ce qui repousse les deux hontes et les deux feux."
+        },
+        "appNumber": 60
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "وَهَبْ لَنَا بِسِينِهِ سَعَادَهْ ۞ فِى الْحَالِ وَالْئَاةِ وَخَرْقَ الْعَادَهْ",
+        "translations": {
+          "it.karamati": "E donaci, per la sua sīn, la felicità, nel presente e nel futuro, e il prodigio che rompe le consuetudini.",
+          "en.karamati": "And grant us, by its sīn, felicity, in the present and in what is to come, and the wonder that breaks custom.",
+          "fr.karamati": "Et accorde-nous, par son sīn, la félicité, dans le présent et dans l'avenir, et le prodige qui rompt les coutumes."
+        },
+        "appNumber": 61
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "وَهَبْ لَنَا بِمِيمِهِ مِلْكً يَسُرّْ ۞ وَبِيَسِيرٍ أَغْنِنَا عَمَّا عَسُرْ",
+        "translations": {
+          "it.karamati": "Donaci, per la sua mīm, un regno che rallegri, e con ciò che è facile rendici liberi da ciò che è difficile.",
+          "en.karamati": "Grant us, by its mīm, a dominion that gladdens, and through what is easy free us from what is hard.",
+          "fr.karamati": "Accorde-nous, par son mīm, un royaume qui réjouisse, et par ce qui est facile affranchis-nous de ce qui est difficile."
+        },
+        "appNumber": 62
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "وَهَبْ لَنَا إِلَانَةً بِالْأَلِفِ ۞ بِغَيْرِ عِصْيَانٍ وَنَوِّرْ مَأْلِفِى",
+        "translations": {
+          "it.karamati": "E donaci, per l'alif, docilità senza disobbedienza, e illumina il luogo della mia familiarità.",
+          "en.karamati": "And grant us, by the alif, pliancy without disobedience, and illumine the place of my intimacy.",
+          "fr.karamati": "Et accorde-nous, par l'alif, la docilité sans désobéissance, et illumine le lieu de ma familiarité."
+        },
+        "appNumber": 63
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "وَهَبْ لَنَا بِاللَّامِ لُطْفًا عَاجِلَا ۞ مَعَ الْبُشَارَاتِ وَلُطْفًا أَجِلَا",
+        "translations": {
+          "it.karamati": "Donaci, per la lām, una benevolenza immediata, con le buone novelle, e una benevolenza futura.",
+          "en.karamati": "Grant us, by the lām, an immediate kindness, with glad tidings, and a kindness to come.",
+          "fr.karamati": "Accorde-nous, par le lām, une bienveillance immédiate, avec les bonnes nouvelles, et une bienveillance future."
+        },
+        "appNumber": 64
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "قَدْ قُدْتَّ لِى بِالْأَلِفِ الْمَخْفِىِّ ۞ نَيْلَ الْمَقَامَاتِ الْعُلَى بِالطَّىِّ",
+        "translations": {
+          "it.karamati": "Mi hai già condotto, per l'alif nascosto, al conseguimento delle stazioni eccelse con il ripiegamento (delle distanze).",
+          "en.karamati": "You have already led me, by the hidden alif, to the attainment of the lofty stations through the folding (of distances).",
+          "fr.karamati": "Tu m'as déjà conduit, par l'alif caché, à l'obtention des stations éminentes par le repliement (des distances)."
+        },
+        "appNumber": 65
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "فَصَلِّ سَرْمَدًا بِتَسْلِيمٍ بِلَا ۞ نِهَايَةٍ عَلَى نَبِىٍّ قُبِلَا",
+        "translations": {
+          "it.karamati": "Benedici dunque per sempre, con un saluto di pace senza fine, un Profeta che è stato accolto,",
+          "en.karamati": "So bless for ever, with a peace without end, a Prophet who has been accepted,",
+          "fr.karamati": "Bénis donc pour toujours, avec un salut de paix sans fin, un Prophète qui a été agréé,"
+        },
+        "appNumber": 66
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَالْئَالِ ۞ وَالصَّحْبِ عَنِّى وَاسْتَجِبْ سُؤَالِى",
+        "translations": {
+          "it.karamati": "nostro signore Muḥammad, la Famiglia e i Compagni, a nome mio, ed esaudisci la mia richiesta.",
+          "en.karamati": "our master Muḥammad, the Family and the Companions, on my behalf, and answer my request.",
+          "fr.karamati": "notre maître Muḥammad, la Famille et les Compagnons, en mon nom, et exauce ma demande."
+        },
+        "appNumber": 67
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "بِحُرْمَةِ الْعَذْبَلَةِ الْمَنِيعَهْ ۞ صَلِّ عَلَى مَنْ جَآءَ بِالشَّرِيعَهْ",
+        "translations": {
+          "it.karamati": "Per la sacralità dell'inespugnabile formula di rifugio, benedici colui che ha recato la Legge (Sharīʿa),",
+          "en.karamati": "By the sanctity of the impregnable formula of refuge, bless him who brought the Law (Sharīʿa),",
+          "fr.karamati": "Par la sacralité de l'inexpugnable formule de refuge, bénis celui qui a apporté la Loi (Sharīʿa),"
+        },
+        "appNumber": 68
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَسَلِّمِ ۞ وَالْأَالِ وَالصَّحْبِ وَكُلِّ مُسْلِمِ",
+        "translations": {
+          "it.karamati": "nostro signore Muḥammad, e dagli pace, e alla Famiglia, ai Compagni e a ogni musulmano.",
+          "en.karamati": "our master Muḥammad, and grant him peace, and the Family, the Companions and every Muslim.",
+          "fr.karamati": "notre maître Muḥammad, et accorde-lui la paix, ainsi qu'à la Famille, aux Compagnons et à tout musulman."
+        },
+        "appNumber": 69
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "وَلْتُغْنِنِى عَنِ التَّعَوُّذَاتِ ۞ يَاوَاحِدًا فِى وَصْفِهِ وَالذَّاتِ",
+        "translations": {
+          "it.karamati": "E rendimi indipendente dalle (altre) formule di protezione, o Unico nel Suo attributo e nell'Essenza",
+          "en.karamati": "And free me from need of (other) formulas of protection, O One in His attribute and in Essence",
+          "fr.karamati": "Et dispense-moi des (autres) formules de protection, ô Unique dans Son attribut et dans l'Essence"
+        },
+        "appNumber": 70
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "وَفِى فِعَالِهِ وَجُدْ بِعِصْمَهْ ۞ لِىَ مِنَ الضُّرِّ وَكُلِّ وَصْمَهْ",
+        "translations": {
+          "it.karamati": "e nelle Sue opere; e concedimi la preservazione dal danno e da ogni macchia.",
+          "en.karamati": "and in His works; and grant me protection from harm and from every stain.",
+          "fr.karamati": "et dans Ses œuvres ; et accorde-moi la préservation contre le mal et contre toute souillure."
+        },
+        "appNumber": 71
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "بِحُرْمَةِ الْبَسْمَلَةِ الْمُبَارَكَهْ ۞ يَامَنْ لَّهُ الْخَلْقُ بِلَا مُشَارَكَهْ",
+        "translations": {
+          "it.karamati": "Per la sacralità della basmala benedetta, o Tu al Quale appartiene la creazione senza partecipazione (di altri),",
+          "en.karamati": "By the sanctity of the blessed basmala, O You to Whom creation belongs without partnership,",
+          "fr.karamati": "Par la sacralité de la basmala bénie, ô Toi à Qui appartient la création sans participation (d'autrui),"
+        },
+        "appNumber": 72
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "صَلِّ وَسَلِّمْ سَرْمَدًا يَاللَّهُ ۞ عَلَى نَبِيِّنَا وَمَنْ وَّالَاهُ",
+        "translations": {
+          "it.karamati": "benedici e dona pace per sempre, o Allah, sul nostro Profeta e su chi lo ha preso per amico,",
+          "en.karamati": "bless and grant peace for ever, O Allah, upon our Prophet and whoever has taken him as friend,",
+          "fr.karamati": "bénis et accorde la paix pour toujours, ô Allah, sur notre Prophète et sur quiconque l'a pris pour ami,"
+        },
+        "appNumber": 73
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَالْئَالِ ۞ وَصَحْبِهِ يَامَنْ لَّهُ مَئَالِى",
+        "translations": {
+          "it.karamati": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, o Tu verso il Quale è il mio ritorno.",
+          "en.karamati": "our master Muḥammad, the Family and his Companions, O You to Whom is my return.",
+          "fr.karamati": "notre maître Muḥammad, la Famille et ses Compagnons, ô Toi vers Qui est mon retour."
+        },
+        "appNumber": 74
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "وَلِىَ هَبْ فِيكَ دَوَامَ الْبَرَكَهْ ۞ بِغَيْرِ مُشْرِكٍ وَغَيْرِ مُشْرِكَهْ",
+        "translations": {
+          "it.karamati": "E donami in Te la perpetuità della benedizione, senza alcun associatore né associatrice.",
+          "en.karamati": "And grant me in You the perpetuity of blessing, without any man or woman who associates partners.",
+          "fr.karamati": "Et accorde-moi en Toi la perpétuité de la bénédiction, sans aucun associateur ni associatrice."
+        },
+        "appNumber": 75
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "وَلْتُغْنِنِى بِهَا كَذَا عَنْ هَاتِ ۞ وَلْتَكْفِ غَيْرَ بُشَرٍ جِهَاتِى",
+        "translations": {
+          "it.karamati": "E per mezzo di essa rendimi così indipendente dal (dover dire) «dammi», e preserva le mie direzioni da ciò che non è buona novella.",
+          "en.karamati": "And by it free me thus from (having to say) \"give me\", and spare my every direction what is not glad tidings.",
+          "fr.karamati": "Et par elle dispense-moi ainsi de (devoir dire) « donne-moi », et préserve mes directions de ce qui n'est pas bonne nouvelle."
+        },
+        "appNumber": 76
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "وَلِىَ بَارِكْ فِى جَمِيعِ الْحَرَكَاتْ ۞ وَالسَّكَنَاتِ وَاجْعَلَنْهَا بَرَكَاتْ",
+        "translations": {
+          "it.karamati": "E benedici per me tutti i movimenti e le quiete, e rendili benedizioni.",
+          "en.karamati": "And bless for me all movements and stillnesses, and make them blessings.",
+          "fr.karamati": "Et bénis pour moi tous les mouvements et les repos, et fais-en des bénédictions."
+        },
+        "appNumber": 77
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "يَامَنْ بِهِ اسْتَعَذْتُّ مِنْ إِبْلِيسَا ۞ وَكُلِّ شَىْءٍ قَدْ حَوَى تَفْلِيسَا",
+        "translations": {
+          "it.karamati": "O Tu presso il Quale ho cercato rifugio da Iblīs e da ogni cosa che porta in sé la rovina,",
+          "en.karamati": "O You with Whom I have sought refuge from Iblīs and from everything that holds ruin,",
+          "fr.karamati": "Ô Toi auprès de Qui j'ai cherché refuge contre Iblīs et contre toute chose qui renferme la ruine,"
+        },
+        "appNumber": 78
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "لَكَ شُكُورِى بَعْدَ حَمْدٍ خَالِدِ ۞ يَاعَالِيًا عَنْ وَّلَدٍ وَوَالِدِ",
+        "translations": {
+          "it.karamati": "a Te la mia gratitudine, dopo una lode eterna, o Eccelso al di sopra di figlio e di padre.",
+          "en.karamati": "to You my gratitude, after an everlasting praise, O Exalted above son and father.",
+          "fr.karamati": "à Toi ma gratitude, après une louange éternelle, ô Éminent au-dessus de fils et de père."
+        },
+        "appNumber": 79
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "أَذْهِبْ لِغَيْرِ جِهَتِى شَيْطَانَا ۞ وَلِىَ رُضْ فِى وَطَنِى أَوْطَانَا",
+        "translations": {
+          "it.karamati": "Manda Satana verso un'altra direzione che la mia, e doma per me, nella mia patria, (altre) patrie.",
+          "en.karamati": "Send Satan toward a direction other than mine, and tame for me, in my homeland, (other) homelands.",
+          "fr.karamati": "Envoie Satan vers une autre direction que la mienne, et dompte pour moi, dans ma patrie, (d'autres) patries."
+        },
+        "appNumber": 80
+      }
     ]
   }
 }

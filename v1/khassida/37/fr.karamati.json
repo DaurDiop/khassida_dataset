@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 37,
+    "name": "Hamdi Wa Shukri",
+    "transliterationName": "Hamdi Wa Shukri",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Ma louange et ma gratitude (vont) à Celui par qui tout mon être est devenu, pour Lui, agrément sans courroux, à Ṣarṣāra (en Mauritanie)."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "À Lui ma louange et mon agrément sans courroux, depuis qu'Il m'a conduit des partisans parmi les Banū Daymān."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "À Allah (appartient) tout mon être, auprès des puits de la noblesse, d'où nous sommes partis, et où nombreux furent ceux qui (m')ont visité."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "En vérité ceux qui se sont dirigés vers Ṣarṣāra pour me visiter se sont séparés, dans les deux Demeures, des péchés."
+      }
+    ]
+  }
+}

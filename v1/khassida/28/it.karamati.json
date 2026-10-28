@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 28,
+    "name": "Faaqa Jamiha",
+    "transliterationName": "Faaqa Jamiha",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Ha superato tutti i profeti e gli inviati il nostro signore Aḥmad, l'amato di Colui che invia."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Ha anteposto Aḥmad ai nobili Colui che lo ha fatto viaggiare di notte (Corano 17:1), con rispetto da parte di tutti."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Il grado del servo, l'Inviato Aḥmad, ha reso gli eletti radiosi e lodevoli."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Il Profeta, nel giorno di «Non sono Io (il vostro Signore)?» (Corano 7:172), ha elargito la risposta ai radiosi, e tutti hanno risposto rettamente."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Ha reso impotente (a generarne uno simile) ogni padre e ogni madre il nostro Aḥmad, la cui altezza è eterna."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "I segni di Aḥmad hanno racchiuso i segni di coloro che sono passati e di chi verrà, e hanno superato questo tempo."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Il suo Libro ha racchiuso i Libri degli inviati di Colui che fa scendere (la Rivelazione), e ha elargito l'ospitalità e il banchetto."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Muḥammad — su di lui il più eccellente saluto — è preposto per la migliore azione e parola."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "L'inizio di al-Māḥī (Muḥammad) è il termine (cui giungono) gli eletti: lo ha preferito alle creature il Signore della scelta."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Ha testimoniato ogni signore che viene scelto che Aḥmad è il Prescelto."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Si sottomette al Prescelto ciò che è altro da lui; (ogni bene) si è rifugiato verso di lui per grazia, ed egli lo ha racchiuso."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Il nostro Inviato ha superato tutti gli inviati e i profeti, ed egli è l'amato di Colui che invia."
+      }
+    ]
+  }
+}

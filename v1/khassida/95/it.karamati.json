@@ -1,0 +1,419 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 95,
+    "name": "Matlabul Fawzayni 1",
+    "transliterationName": "Matlabul Fawzayni 1",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1,
+        "text": "La lode ad Allah, il Generoso, Dotato dei favori, per il mio dedicarmi agli obblighi e alle tradizioni (sunan)."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 2,
+        "text": "L'ho ringraziato perché mi ha sospinto verso una dimora nella quale ha allontanato ciò che mi ostacolava,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 3,
+        "text": "e mi ha condotto a Lui con l'adornarmi (di virtù), dopo avermi purificato con lo spogliarmi (dei vizi),"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 4,
+        "text": "e mi ha attirato in essa verso le scienze, il successo e l'opera secondo ciò che si conosce."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 5,
+        "text": "Poi una benedizione con saluto di pace, che (vi) segue, su colui che è mio intento seguire,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 6,
+        "text": "su colui per cui chi segue l'esempio della sua volontà, nel segreto e nel palese, diviene esempio (per altri)."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 7,
+        "text": "Egli è colui che è emigrato a Medina per ordine del suo Signore, e ha così preservato la sua religione:"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 8,
+        "text": "il mio mezzo d'accesso al mio Sovrano, l'Eccelso, Muḥammad, il migliore delle creature, l'Intercessore,"
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 9,
+        "text": "e (sulla) sua Famiglia e (sui) suoi Compagni, le stelle, che hanno vinto le anime e il lapidato (Satana)."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 10,
+        "text": "Ciò detto: in verità io oggi, o Donatore (Al-Wahhāb), altri che Te nelle due Dimore non temo."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 11,
+        "text": "E in verità io, o Benefico (Al-Barr), o Generoso, sono uno che invoca, e dalla gratitudine giammai mi allontano,"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 12,
+        "text": "da quando mi hai attirato a Te, o Ausiliatore, per una sollecitudine da parte Tua verso di me, per aiutar(mi)."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 13,
+        "text": "E mi sono levato, attratto verso di Te da Te, per mezzo di Te, (affidandomi) a Te, e mi sono compiaciuto di Te,"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 14,
+        "text": "rimettendo e consegnando a Te la mia sorte, emigrando verso ciò che è presso di Te."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 15,
+        "text": "Poi verso di Te, non verso altri che Te, ho camminato, poiché non ho trovato il Tuo simile."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 16,
+        "text": "E Tu mi hai elargito oggi i migliori favori, e mi hai condotto a seguire le tradizioni (del Profeta),"
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 17,
+        "text": "dopo che la lode della gente stava quasi per farmi entrare nella trappola del Sussurratore (Corano 114:4),"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 18,
+        "text": "e per le lodi e gli encomi stavo quasi per disinteressarmi della composizione e dell'insegnamento della recitazione,"
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 19,
+        "text": "dell'apprendere e dell'insegnare, e del dedicarmi alla guida del sapere."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 20,
+        "text": "Ho detto dunque, con gratitudine e con ricorso intercessorio al Prescelto, l'Intercessore, l'essenza degli Inviati,"
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 21,
+        "text": "e ai suoi figli e alle sue figlie insieme, perché intercedano per me rapidamente, tutti quanti:"
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 22,
+        "text": "«O Benefico, o Perdonatore, o Indulgente (Al-Ḥalīm), io sono un inesperto, pentito, degno di biasimo."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 23,
+        "text": "O Benefico, o Compassionevole (Ar-Raḥmān), o Garante (Al-Wakīl), io sono pigro, dormiglione, gran mangiatore."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 24,
+        "text": "O mio Sovrano, o Creatore delle genti, fa' morire la mia passione, riduci il mio sonno."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 25,
+        "text": "O mio Creatore, o Perfetto negli attributi, a Te mi sono lamentato della moltitudine delle (mie) calamità."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 26,
+        "text": "E Tu sei il Dotato di Maestà e di Generosità (Corano 55:27): salvami e concedimi il mio desiderio."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 27,
+        "text": "Da Te bramo oggi di essere tra coloro che hanno rifiutato di appoggiarsi ad altri che Te,"
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 28,
+        "text": "e di obbedirTi secondo la via del Prescelto, la sua Tradizione candida, o Tu che (lo) hai prescelto."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 29,
+        "text": "O Perdonatore dei peccati, o Vicino (Al-Qarīb), io sono un umile servitore, qui straniero."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 30,
+        "text": "Dona a me, per mezzo di quello (del Profeta), e a tutti i miei fratelli, la felicità delle due Dimore, veramente, o Colui che ascolta (As-Samīʿ)."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 31,
+        "text": "Donami in questa invocazione l'esaudimento, per mezzo del Prescelto, della Famiglia e dei Compagni."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 32,
+        "text": "Donami la parte migliore nelle spartizioni, e (dalla) a coloro che hanno religione, per il prestigio di al-Qāsim."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 33,
+        "text": "E dissipa per me la notte fonda della passione, per la sacralità dell'amato Ibrāhīm."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 34,
+        "text": "E sospingi verso di me il migliore lecito puro e i migliori vicini, per il diritto di aṭ-Ṭayyib."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 35,
+        "text": "E purificami nell'interiore e nell'esteriore, e per mezzo mio abbi misericordia delle creature, per il diritto di aṭ-Ṭāhir."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 36,
+        "text": "E innalzami di un innalzamento nascosto, per sua figlia Ruqayya, la pura."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 37,
+        "text": "E preserva dal mio danno il vicino e l'estraneo, il musulmano e il miscredente, per Zaynab."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 38,
+        "text": "E volgiti verso di me con il bene e l'incolumità, per Umm Kulthūm, fino alla Resurrezione."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 39,
+        "text": "Ed elargiscimi, Signore, una buona fine, qui e nel mio domani, per il prestigio di Fāṭima."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 40,
+        "text": "Benedici il loro padre, la Famiglia e i suoi Compagni, ed esaudisci per me la mia richiesta."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 41,
+        "text": "E sii il mio compagno intimo, e proteggimi dal danno, e salvami dall'illusione e dal pericolo."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 42,
+        "text": "E salva, Signore, me e la gente della mia casa, qui e domani, dai torbidi."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 43,
+        "text": "E salva me e i musulmani dalla prova, e preserva il mio corpo nella mia tomba dalla decomposizione."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 44,
+        "text": "O nostro Signore, o nostro Signore, o nostro Signore, o nostro Signore, o nostro Signore, o nostro Amato!"
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 45,
+        "text": "Donami, per il prestigio di colui che è il Prescelto (al-Mukhtār), nella vita terrena e nell'Altra, il meglio di ciò che scelgo."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 46,
+        "text": "E poni un velo tra noi e ogni danno, e allontana da noi la rovina."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 47,
+        "text": "O Allah, o Soccorritore (An-Naṣīr), o Maestoso (Al-Jalīl), io sono misero, indigente, umile."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 48,
+        "text": "Rendimi dunque indipendente per mezzo di Te, e donami l'oggetto del (mio) bisogno, per mezzo di colui che ha sovrastato l'insieme dei non-Arabi e degli Arabi:"
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 49,
+        "text": "nostro signore Muḥammad, la porta del successo, il mio mezzo d'accesso a Te nel conseguimento della rettitudine."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 50,
+        "text": "E benedici e dona pace su di lui e su chiunque si sia ricollegato a lui."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 51,
+        "text": "E perdona i miei peccati e accetta la mia opera, e donami il migliore dei desideri e delle speranze."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 52,
+        "text": "O Tu che sei al di sopra del luogo e dell'accidente, io dimoro qui e in me è una malattia:"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 53,
+        "text": "sii dunque il mio compagno intimo e guariscimi dalla malattia, finché io percorra la via migliore."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 54,
+        "text": "O Giusto (Al-ʿAdl), o Colui che umilia (Al-Mudhill), o Tu che dai sicurezza: Tu sei il mio protettore qui, o Datore di sicurezza (Al-Muʾmin)."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 55,
+        "text": "E per sempre sii il mio rassicuratore, o Dotato di Maestà, da ogni male, castigo e smarrimento."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 56,
+        "text": "O Tu che sei al di sopra di (avere) una sposa e un figlio, custodiscimi e custodisci tutti gli abitanti di questa terra."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 57,
+        "text": "E rendi, o mio Dio, la mia dimora Ṭūbā (Touba) per sempre pari al suo nome (l'albero del Paradiso), per il prestigio del migliore di chi ha adorato."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 58,
+        "text": "E benedici lui della più eccellente benedizione, e la sua Famiglia e i suoi Compagni, dotati dei (giusti) legami."
+      }
+    ]
+  }
+}

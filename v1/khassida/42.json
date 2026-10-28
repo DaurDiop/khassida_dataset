@@ -663,6 +663,500 @@
           "fr": "l'agrément du Maître de la Terre et des Cieux."
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "يَغِيبُ عَنْ كُلِّ كَوْنٍ لِّلْمُكَوِّنِ ذَا ۞ نُورٍ عَظِيمٍ وَسِرٍّ مِّنْ غُيُوبَاتِ",
+        "translations": {
+          "it.karamati": "Si assenta da ogni essere creato per il Creatore, dotato di una luce immensa e di un segreto tratto dai misteri.",
+          "en.karamati": "He is absent from every created being for the Creator, possessed of an immense light and a secret drawn from the mysteries.",
+          "fr.karamati": "Il s'absente de tout être créé pour le Créateur, doué d'une lumière immense et d'un secret tiré des mystères."
+        },
+        "appNumber": 38
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "يَمْحُو عَنِ الْقَلْبِ رَيْنًا قَدْ يُدَنِّسُهُ ۞ مَحْوَ الْمُغَسِّلِ عَنْ ثَوْبِ النَّجَاسَاتِ",
+        "translations": {
+          "it.karamati": "Cancella dal cuore la ruggine che talvolta lo insozza, come il lavandaio cancella dalla veste le impurità.",
+          "en.karamati": "He erases from the heart the rust that at times defiles it, as the washer erases impurities from a garment.",
+          "fr.karamati": "Il efface du cœur la rouille qui parfois le souille, comme le blanchisseur efface du vêtement les impuretés."
+        },
+        "appNumber": 39
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "أُوْلَئِكَ الْقَوْمُ لَا يَشْقَى جَلِيسُهُمُ ۞ إِذْ يَكْسِبُونَ الْمُرِيدِينَ السَّعَادَاتِ",
+        "translations": {
+          "it.karamati": "Quella è gente il cui compagno di seduta non è mai infelice, poiché essi procurano ai discepoli le felicità.",
+          "en.karamati": "Those are people whose companion in assembly is never wretched, for they bring the disciples felicities.",
+          "fr.karamati": "Ce sont des gens dont le compagnon d'assemblée n'est jamais malheureux, car ils procurent aux disciples les félicités."
+        },
+        "appNumber": 40
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "طُوبَى لِعَبْدٍ مُّرِيدٍ صَادِقٍ لَّهُمُ ۞ بِخِدْمَةٍ أَوْبِحُبٍّ أَوْهَدِيَّاتِ",
+        "translations": {
+          "it.karamati": "Beato il servitore, discepolo sincero verso di loro, con il servizio, con l'amore o con doni!",
+          "en.karamati": "Blessed is the servant, a sincere disciple toward them, through service, through love or through gifts!",
+          "fr.karamati": "Bienheureux le serviteur, disciple sincère envers eux, par le service, par l'amour ou par des présents !"
+        },
+        "appNumber": 41
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "نَالُواْ بِغَفْوِ الرَّسُولُ الْمُصْطَفَى رُتَبًا ۞ صَلَّى عَلَيْهِ الَّذِى يُعْطِى الْمَزِيَّاتِ",
+        "translations": {
+          "it.karamati": "Hanno ottenuto dei ranghi seguendo le orme dell'Inviato, l'Eletto (Muḥammad): lo benedica Colui che concede i privilegi.",
+          "en.karamati": "They attained ranks by following in the footsteps of the Messenger, the Chosen One (Muḥammad): may He bless him Who grants distinctions.",
+          "fr.karamati": "Ils ont obtenu des rangs en suivant les traces de l'Envoyé, l'Élu (Muḥammad) : que le bénisse Celui qui accorde les privilèges."
+        },
+        "appNumber": 42
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "نَالُواْ بِغَفْوِ الَّذِى جَآءَ الْأَمِينُ بِهِ ۞ عَلَيْهِ مِنْهُ صَلَاتِى كُلَّ سَاعَاتِ",
+        "translations": {
+          "it.karamati": "Hanno ottenuto, seguendo ciò che recò il Fedele (Muḥammad) – su di lui, da parte mia, la mia benedizione in ogni ora –",
+          "en.karamati": "They attained, by following what the Trustworthy One (Muḥammad) brought – upon him, from me, my blessing at every hour –",
+          "fr.karamati": "Ils ont obtenu, en suivant ce qu'apporta le Fidèle (Muḥammad) – sur lui, de ma part, ma bénédiction à toute heure –"
+        },
+        "appNumber": 43
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "مِنَ الْمَنَاقِبِ مَالَا يَحْتَوِى قَلَمٌ ۞ وَلَا لِسَانُ بِخَطٍّ أَوْحِكَايَاتِ",
+        "translations": {
+          "it.karamati": "meriti che né la penna né la lingua possono racchiudere, con la scrittura o con i racconti.",
+          "en.karamati": "merits which neither pen nor tongue can contain, in writing or in narratives.",
+          "fr.karamati": "des mérites que ni la plume ni la langue ne peuvent renfermer, par l'écriture ou par les récits."
+        },
+        "appNumber": 44
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "مِنْهَا التَّبَحُّرُ فِى عِلْمِ الشَّرِيعَةِ مَعْ ۞ عِلْمِ الْحَقِيقَةِ مِنْ قَبْلِ الرِّيَاضَاتِ",
+        "translations": {
+          "it.karamati": "Tra essi la profonda erudizione nella scienza della Sharīʿa, con la scienza della Ḥaqīqa, prima delle discipline ascetiche,",
+          "en.karamati": "Among them deep learning in the science of the Sharīʿa, with the science of the Ḥaqīqa, before ascetic disciplines,",
+          "fr.karamati": "Parmi eux l'érudition profonde dans la science de la Sharīʿa, avec la science de la Ḥaqīqa, avant les disciplines ascétiques,"
+        },
+        "appNumber": 45
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "إِذِ ارْتِيَاضٌ مَعَ الْإِرْشَادِ قَبْلَهُمَا ۞ مِنْ جَالِبَاتِ غُرُورٍ مَّعْ شَقَاوَاتِ",
+        "translations": {
+          "it.karamati": "poiché l'esercizio ascetico e la direzione spirituale, prima di queste due (scienze), sono tra ciò che attira l'inganno insieme alle miserie.",
+          "en.karamati": "for ascetic exercise and spiritual direction, before these two (sciences), are among what draws delusion together with miseries.",
+          "fr.karamati": "car l'exercice ascétique et la direction spirituelle, avant ces deux (sciences), sont parmi ce qui attire l'illusion avec les misères."
+        },
+        "appNumber": 46
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "مِنْهَا التَّوَقُّفُ عَنْ قَوْلٍ وَعَنْ عَمَلٍ ۞ حَتَّى يَرَوْهُ صَحِيحًا بِالشَّهَادَاتِ",
+        "translations": {
+          "it.karamati": "Tra essi l'astenersi dalla parola e dall'azione finché non la vedano corretta mediante le testimonianze.",
+          "en.karamati": "Among them refraining from speech and from action until they see it sound through the testimonies.",
+          "fr.karamati": "Parmi eux l'abstention de la parole et de l'acte jusqu'à ce qu'ils la voient correcte par les témoignages."
+        },
+        "appNumber": 47
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "مِنْهَا تَلَازُمُ خَوْفِ اللَّهِ مَالِكِهِمْ ۞ حَالَ الْبِدَايَاتِ مَعْ حَالِ النِّهَايَاتِ",
+        "translations": {
+          "it.karamati": "Tra essi il perseverare nel timore di Allah, loro Padrone, nella condizione degli inizi come nella condizione dei compimenti,",
+          "en.karamati": "Among them persistence in the fear of Allah, their Master, in the state of beginnings as in the state of endings,",
+          "fr.karamati": "Parmi eux la persévérance dans la crainte d'Allah, leur Maître, dans l'état des commencements comme dans l'état des accomplissements,"
+        },
+        "appNumber": 48
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "إِذْ فِى الْبِدَايَاتِ خَوْفُ الذّنْبِ يَزْجُرُهُمْ ۞ وَفِى النِّهَايَاتِ إِجْلَالُ الْجَلَالَاتِ",
+        "translations": {
+          "it.karamati": "poiché negli inizi il timore del peccato li trattiene, e nei compimenti la venerazione delle Maestà.",
+          "en.karamati": "for in the beginnings fear of sin restrains them, and in the endings the reverence of the Majesties.",
+          "fr.karamati": "car dans les commencements la crainte du péché les retient, et dans les accomplissements la vénération des Majestés."
+        },
+        "appNumber": 49
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "مِنْهَا تَلَازُمُ هَضْمِ النَّفْسِ دُونَ رِيًا ۞ مِنْ كَوْنِهَا ذَاتَ مَكْرٍ وَالْخِيَانَاتِ",
+        "translations": {
+          "it.karamati": "Tra essi il perseverare nell'umiliare l'anima, senza ostentazione, perché essa è dotata di astuzia e di tradimenti.",
+          "en.karamati": "Among them persistence in humbling the soul, without ostentation, since it is possessed of cunning and treacheries.",
+          "fr.karamati": "Parmi eux la persévérance à humilier l'âme, sans ostentation, car elle est pleine de ruse et de trahisons."
+        },
+        "appNumber": 50
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "يَرَوْنَ أَنْفُسَهُمْ دُونَ الْوَرَى أَبَدًا ۞ وَأَنَّهُمْ لَمْ يَلِيقُواْ بِالْكَرَامَاتِ",
+        "translations": {
+          "it.karamati": "Si considerano sempre al di sotto delle creature, e (ritengono) di non essere degni dei carismi,",
+          "en.karamati": "They always regard themselves as beneath all creatures, and (hold) that they are not worthy of charisms,",
+          "fr.karamati": "Ils se considèrent toujours au-dessous des créatures, et (estiment) ne pas être dignes des charismes,"
+        },
+        "appNumber": 51
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "وَأَنَّهُمْ أَفْسَقُ الْفُسَّاقِ كُلِّهِمُ ۞ وَأَنَّهُمْ لَمْ يَلِيقُواْ بِالْإِجَابَاتِ",
+        "translations": {
+          "it.karamati": "e di essere i più empi di tutti gli empi, e di non essere degni degli esaudimenti.",
+          "en.karamati": "and that they are the most sinful of all sinners, and are not worthy of answered prayers.",
+          "fr.karamati": "et être les plus pervers de tous les pervers, et ne pas être dignes des exaucements."
+        },
+        "appNumber": 52
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "مِنْهَا تَلَازُمُ صَبْرٍ لِّلْإِلَاهِ عَلَى ۞ جَوْرِ الْعُصَاةِ جَمِيعًا وَالْمُصِيبَاتِ",
+        "translations": {
+          "it.karamati": "Tra essi il perseverare nella pazienza, per Dio, di fronte all'ingiustizia di tutti i ribelli e alle sventure.",
+          "en.karamati": "Among them persistence in patience, for God's sake, before the injustice of all the disobedient and before misfortunes.",
+          "fr.karamati": "Parmi eux la persévérance dans la patience, pour Dieu, face à l'injustice de tous les rebelles et aux malheurs."
+        },
+        "appNumber": 53
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "كَانُواْ إِذَا نَابَهُمْ مِّنْ نَحْوِهِمْ ضَرَرٌ ۞ تَابُواْ إِلَى اللَّهِ مِنْ كُثْرِ الْخَطِيَئَاتِ",
+        "translations": {
+          "it.karamati": "Quando un danno li colpiva da parte dei loro simili, si pentivano davanti ad Allah della moltitudine dei peccati.",
+          "en.karamati": "Whenever harm befell them from those around them, they turned in repentance to Allah for the multitude of sins.",
+          "fr.karamati": "Quand un dommage les frappait de la part de leurs semblables, ils se repentaient devant Allah de la multitude des péchés."
+        },
+        "appNumber": 54
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "وَمِنْ مَّنَاقِبِهِمْ رِضْوَانُ رَبِّهِمُ ۞ عَلَيْهِمُ الدَّهْرَ حُزْنٌ كُلَّ سَاعَاتِ",
+        "translations": {
+          "it.karamati": "E tra i loro meriti – il compiacimento del loro Signore sia su di loro per sempre – è la tristezza in ogni ora.",
+          "en.karamati": "And among their merits – may the good pleasure of their Lord be upon them for ever – is sorrow at every hour.",
+          "fr.karamati": "Et parmi leurs mérites – que l'agrément de leur Seigneur soit sur eux pour toujours – il y a la tristesse à toute heure."
+        },
+        "appNumber": 55
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "وَمِنْ سَجَايَاهُمُ خَوْفُ النِّفَاقِ بَدَا ۞ خَوْفُ الْفُضُوحَاتِ فِى هَوْلِ الْقِيَامَاتِ",
+        "translations": {
+          "it.karamati": "E tra le loro indoli è manifesto il timore dell'ipocrisia, il timore delle ignominie nel terrore della Resurrezione.",
+          "en.karamati": "And among their natures is manifest the fear of hypocrisy, the fear of disgrace in the terror of the Resurrection.",
+          "fr.karamati": "Et parmi leurs natures se manifeste la crainte de l'hypocrisie, la crainte des ignominies dans la terreur de la Résurrection."
+        },
+        "appNumber": 56
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "مِنْهَا التَّوَاضُعُ لِلْقَهَّارِ مَالِكِهِمْ ۞ وَالصِّدْقُ وَالزُّهْدُ مَعْ تَطْهِيرِ ءَافَاتِ",
+        "translations": {
+          "it.karamati": "Tra esse l'umiltà davanti al Dominatore (Al-Qahhār), loro Padrone, la sincerità e la rinuncia, con la purificazione dalle calamità (dell'anima).",
+          "en.karamati": "Among them humility before the Subduer (Al-Qahhār), their Master, truthfulness and renunciation, with purification from the (soul's) blights.",
+          "fr.karamati": "Parmi elles l'humilité devant le Dominateur (Al-Qahhār), leur Maître, la sincérité et le renoncement, avec la purification des calamités (de l'âme)."
+        },
+        "appNumber": 57
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "مِنْهَا الْتِجَآءُ إِلَى الرَّحْمَانِ فِى أَبِدٍ ۞ جَلْبًا وَدَفْعًا بِإِنْهَآءِ الشِّكَايَاتِ",
+        "translations": {
+          "it.karamati": "Tra esse il rifugiarsi presso il Compassionevole (Ar-Raḥmān) per sempre, per attirare (il bene) e respingere (il male), presentando a Lui le lagnanze.",
+          "en.karamati": "Among them taking refuge with the All-Merciful (Ar-Raḥmān) for ever, to draw (good) and repel (evil), laying their complaints before Him.",
+          "fr.karamati": "Parmi elles le recours au Tout-Miséricordieux (Ar-Raḥmān) pour toujours, pour attirer (le bien) et repousser (le mal), en Lui portant les plaintes."
+        },
+        "appNumber": 58
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "الْعِلْمُ سِيمَتُهُمْ وَالْحِلْمُ دَيْدَنُهُمْ ۞ دُونَ الدَّعَاوِى وَإِنْكَارِ الْمَقَامَاتِ",
+        "translations": {
+          "it.karamati": "La scienza è il loro segno distintivo, la mitezza la loro consuetudine, senza pretese e senza negazione delle stazioni (spirituali).",
+          "en.karamati": "Knowledge is their hallmark, forbearance their custom, without pretensions and without denial of the (spiritual) stations.",
+          "fr.karamati": "La science est leur marque distinctive, la mansuétude leur coutume, sans prétentions et sans négation des stations (spirituelles)."
+        },
+        "appNumber": 59
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "ءَاهٍ عَلَى فَقْدِ سَادَاتٍ طَرِيقَتُهُمْ ۞ طَرِيقَةُ الْمُصْطَفَى خَيْرِ الْبَرِيَّاتِ",
+        "translations": {
+          "it.karamati": "Ahimè per la perdita di signori la cui via è la via dell'Eletto (Muḥammad), il migliore delle creature!",
+          "en.karamati": "Alas for the loss of masters whose way is the way of the Chosen One (Muḥammad), the best of creatures!",
+          "fr.karamati": "Hélas pour la perte de maîtres dont la voie est la voie de l'Élu (Muḥammad), le meilleur des créatures !"
+        },
+        "appNumber": 60
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "صَلَّى عَلَيْهِ مَعَ التَّسْلِيمِ مُزِسِلُهُ ۞ بِالْئَالِ وَالصَّحْبِ مَنْ فَازُواْ بِجَنَّاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica, con il saluto di pace, Colui che lo ha inviato, insieme alla Famiglia e ai Compagni, coloro che hanno ottenuto i Giardini.",
+          "en.karamati": "May He bless him, with the greeting of peace, Who sent him, together with the Family and the Companions, those who have won the Gardens.",
+          "fr.karamati": "Que le bénisse, avec le salut de paix, Celui qui l'a envoyé, ainsi que la Famille et les Compagnons, ceux qui ont obtenu les Jardins."
+        },
+        "appNumber": 61
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "صَلَّى عَلَيْهِ مَعَ التَّسْلِيمِ بَاعِثُهُ ۞ أَزْكَى صَلَاةٍ بِهَا نُكْفَى الْغُرُورَاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica, con il saluto di pace, Colui che lo ha suscitato, con la più pura benedizione, per mezzo della quale siamo preservati dalle illusioni.",
+          "en.karamati": "May He bless him, with the greeting of peace, Who raised him up, with the purest blessing, through which we are shielded from delusions.",
+          "fr.karamati": "Que le bénisse, avec le salut de paix, Celui qui l'a suscité, de la plus pure bénédiction, par laquelle nous sommes préservés des illusions."
+        },
+        "appNumber": 62
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "صَلَّى عَلَيْهِ مَعَ التَّسْلِيمِ خَالِقُهُ ۞ بِالْئَالِ وَالصَّحْبِ مَنْ حَازُواْ الْعَطِيَّاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica, con il saluto di pace, il suo Creatore, insieme alla Famiglia e ai Compagni, coloro che hanno conseguito i doni.",
+          "en.karamati": "May his Creator bless him, with the greeting of peace, together with the Family and the Companions, those who have gained the gifts.",
+          "fr.karamati": "Que le bénisse, avec le salut de paix, son Créateur, ainsi que la Famille et les Compagnons, ceux qui ont obtenu les dons."
+        },
+        "appNumber": 63
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "صَلَّى عَلَيْهِ مَعَ التَّسْلِيمِ مَالِكُهُ ۞ أَزْكَى صَلَاةٍ بِهَا نَحْوِى الْفُتُوحَاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica, con il saluto di pace, il suo Padrone, con la più pura benedizione, per mezzo della quale conseguiamo le aperture (spirituali).",
+          "en.karamati": "May his Master bless him, with the greeting of peace, with the purest blessing, through which we gain (spiritual) openings.",
+          "fr.karamati": "Que le bénisse, avec le salut de paix, son Maître, de la plus pure bénédiction, par laquelle nous obtenons les ouvertures (spirituelles)."
+        },
+        "appNumber": 64
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "صَلَّى عَلَيْهِ مَعَ التَّسْلِيمِ رَازِقُهُ ۞ بِالْئَالِ وَالصَّحْبِ مَنْ دَانُواْ بِطَاعَاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica, con il saluto di pace, il suo Provveditore, insieme alla Famiglia e ai Compagni, coloro che si sono sottomessi con atti di obbedienza.",
+          "en.karamati": "May his Provider bless him, with the greeting of peace, together with the Family and the Companions, those who submitted through acts of obedience.",
+          "fr.karamati": "Que le bénisse, avec le salut de paix, son Pourvoyeur, ainsi que la Famille et les Compagnons, ceux qui se sont soumis par des actes d'obéissance."
+        },
+        "appNumber": 65
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "صَلَّى عَلَيْهِ مَعَ التَّسْلِيمِ مُكْرِمُهُ ۞ أَزْكَى صَلَاةٍ بِهَا نَحْوِى الْكَرَامَاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica, con il saluto di pace, Colui che lo onora, con la più pura benedizione, per mezzo della quale conseguiamo i carismi.",
+          "en.karamati": "May He Who honours him bless him, with the greeting of peace, with the purest blessing, through which we gain charisms.",
+          "fr.karamati": "Que le bénisse, avec le salut de paix, Celui qui l'honore, de la plus pure bénédiction, par laquelle nous obtenons les charismes."
+        },
+        "appNumber": 66
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "صَلَّى عَلَيْهِ بِتَسْلِيمٍ مُّسَوِّدُهُ ۞ بِالْئَالِ وَالصَّحْبِ مَنْ نَّالُواْ الْعِنَايَاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica, con il saluto di pace, Colui che lo ha reso signore, insieme alla Famiglia e ai Compagni, coloro che hanno ottenuto le sollecitudini (divine).",
+          "en.karamati": "May He Who made him master bless him, with the greeting of peace, together with the Family and the Companions, those who have received (divine) care.",
+          "fr.karamati": "Que le bénisse, avec le salut de paix, Celui qui l'a fait maître, ainsi que la Famille et les Compagnons, ceux qui ont obtenu les sollicitudes (divines)."
+        },
+        "appNumber": 67
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "صَلَّى عَلَيْهِ بِتَسْلِيمٍ مُّشَرِّفُهُ ۞ أَزْكَى صَلَاةٍ بِهَا نَحْوِى الْكُشُوفَاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica, con il saluto di pace, Colui che lo ha nobilitato, con la più pura benedizione, per mezzo della quale conseguiamo i disvelamenti.",
+          "en.karamati": "May He Who ennobled him bless him, with the greeting of peace, with the purest blessing, through which we gain unveilings.",
+          "fr.karamati": "Que le bénisse, avec le salut de paix, Celui qui l'a ennobli, de la plus pure bénédiction, par laquelle nous obtenons les dévoilements."
+        },
+        "appNumber": 68
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "صَلَّى وَسَلَّمَ مَنْ فِى الْجَهْرِ قَدَّمَهُ ۞ عَلَيْهِ بِالْئَالِ تَعْدَادَ الْخَلِيقَاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica e gli dia pace Colui che apertamente lo ha posto innanzi (a tutti), insieme alla Famiglia, quanto il numero delle creature.",
+          "en.karamati": "May He bless him and grant him peace Who openly set him before (all), together with the Family, as many times as the number of creatures.",
+          "fr.karamati": "Que le bénisse et lui accorde la paix Celui qui ouvertement l'a placé en avant (de tous), ainsi que la Famille, autant que le nombre des créatures."
+        },
+        "appNumber": 69
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "صَلَّى عَلَيْهِ مَعَ التَّسْلِيمِ رَافِعُهُ ۞ أَزْكَى صَلَاةٍ بِهَا نَحْوِى ارْتِفَاعَاتِ",
+        "translations": {
+          "it.karamati": "Lo benedica, con il saluto di pace, Colui che lo ha innalzato, con la più pura benedizione, per mezzo della quale conseguiamo elevazioni.",
+          "en.karamati": "May He Who exalted him bless him, with the greeting of peace, with the purest blessing, through which we gain elevations.",
+          "fr.karamati": "Que le bénisse, avec le salut de paix, Celui qui l'a élevé, de la plus pure bénédiction, par laquelle nous obtenons des élévations."
+        },
+        "appNumber": 70
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "ءَاهٍ عَلَى فَقْذِ سَادَاتِى الَّذِينَ مَضَوْاْ ۞ بِمَا مَضَوْاْ مِنْ ذَجِيرَاتٍ عَجِيبَاتِ",
+        "translations": {
+          "it.karamati": "Ahimè per la perdita dei miei signori che sono passati, con ciò che hanno portato con sé di tesori mirabili!",
+          "en.karamati": "Alas for the loss of my masters who have passed on, with what they took with them of wondrous treasures!",
+          "fr.karamati": "Hélas pour la perte de mes maîtres qui s'en sont allés, avec ce qu'ils ont emporté de trésors merveilleux !"
+        },
+        "appNumber": 71
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "عَلَى الْمُقَدَّمِ فِى الدَّارَيْنِ قُدْ وَتِهِمْ ۞ صَلَاةُ رَاضٍ دَعَاهُمْ لِلْمُلَاقَاتِ",
+        "translations": {
+          "it.karamati": "Su colui che è posto innanzi nelle due Dimore, il loro modello, la benedizione del Compiaciuto che li ha chiamati agli incontri.",
+          "en.karamati": "Upon him who is set foremost in the two Abodes, their model, the blessing of the Well-Pleased Who called them to the meetings.",
+          "fr.karamati": "Sur celui qui est placé en avant dans les deux Demeures, leur modèle, la bénédiction de Celui qui agrée et qui les a appelés aux rencontres."
+        },
+        "appNumber": 72
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "عَلَى الْحَبِيبِ ابْنِ عَبْدِ اللَّهِ سَيِّدِنَا ۞ صَلَاةُ كَافٍ كَفَاهُمْ كُلَّ غُمَّاتِ",
+        "translations": {
+          "it.karamati": "Sul Diletto, figlio di ʿAbd Allāh, nostro signore, la benedizione del Sufficiente (Al-Kāfī) che li ha preservati da ogni angoscia.",
+          "en.karamati": "Upon the Beloved, son of ʿAbd Allāh, our master, the blessing of the All-Sufficient (Al-Kāfī) Who has spared them every anguish.",
+          "fr.karamati": "Sur le Bien-Aimé, fils de ʿAbd Allāh, notre maître, la bénédiction de Celui qui suffit (Al-Kāfī) et qui les a préservés de toute angoisse."
+        },
+        "appNumber": 73
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "عَلَى الْمُشَفَّعِ يَوْمَ الْحَشْرِ فِى الْكُرَمَآ ۞ صَلَاةُ شَافٍ شَفَاهُمْ مِّنْ دَسِيسَاتِ",
+        "translations": {
+          "it.karamati": "Su colui la cui intercessione sarà accolta nel Giorno del Raduno a favore dei nobili, la benedizione del Guaritore (Ash-Shāfī) che li ha guariti dalle insidie.",
+          "en.karamati": "Upon him whose intercession shall be accepted on the Day of Gathering for the noble, the blessing of the Healer (Ash-Shāfī) Who healed them of snares.",
+          "fr.karamati": "Sur celui dont l'intercession sera agréée au Jour du Rassemblement en faveur des nobles, la bénédiction du Guérisseur (Ash-Shāfī) qui les a guéris des embûches."
+        },
+        "appNumber": 74
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "عَلَى الَّذِى فَضْلُهُ لَا يَنْتَهِى أَبَدًا ۞ صَلَاةُ هَادٍ هَدَاهُمْ لِاسْتِقَامَاتِ",
+        "translations": {
+          "it.karamati": "Su colui la cui eccellenza non ha mai fine, la benedizione della Guida (Al-Hādī) che li ha guidati alla rettitudine.",
+          "en.karamati": "Upon him whose excellence never ends, the blessing of the Guide (Al-Hādī) Who guided them to uprightness.",
+          "fr.karamati": "Sur celui dont l'excellence ne prend jamais fin, la bénédiction du Guide (Al-Hādī) qui les a guidés vers la rectitude."
+        },
+        "appNumber": 75
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "عَلَى الْمُكَرَّمِ خَيْرِ الْخَلْقِ كُلِّهِمُ ۞ صَلَاةُ مُغْنٍ جَزَاهُمْ خَيْرَ خَيْرَاتِ",
+        "translations": {
+          "it.karamati": "Sull'Onorato, il migliore di tutte le creature, la benedizione dell'Arricchitore (Al-Mughnī) che li ha ricompensati con il migliore dei beni.",
+          "en.karamati": "Upon the Honoured One, the best of all creation, the blessing of the Enricher (Al-Mughnī) Who rewarded them with the best of goods.",
+          "fr.karamati": "Sur l'Honoré, le meilleur de toutes les créatures, la bénédiction de Celui qui enrichit (Al-Mughnī) et qui les a récompensés du meilleur des biens."
+        },
+        "appNumber": 76
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "عَلَيْهِ أَبْقَى صَلَاةٍ بِالسَّلَامِ مَعًا ۞ فِى ءَالِهِ الْغُرِّ طُرًّا كُلَّ أَوْقَاتِ",
+        "translations": {
+          "it.karamati": "Su di lui la più durevole benedizione insieme al saluto di pace, e su tutta la sua Famiglia illustre, in ogni tempo.",
+          "en.karamati": "Upon him be the most lasting blessing together with peace, and upon all his illustrious Family, at all times.",
+          "fr.karamati": "Sur lui la plus durable bénédiction avec le salut de paix, et sur toute sa Famille illustre, en tout temps."
+        },
+        "appNumber": 77
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "عَلَى الصَّحَابَةِ وَالسَّادَاتِ كُلِّهِمُ ۞ رِضْوَانُ رَبِّ الْأَرَاضِى وَالسَّمَاوَاتِ",
+        "translations": {
+          "it.karamati": "Sui Compagni e su tutti i signori, il compiacimento del Signore delle terre e dei cieli.",
+          "en.karamati": "Upon the Companions and all the masters, the good pleasure of the Lord of the earths and the heavens.",
+          "fr.karamati": "Sur les Compagnons et sur tous les maîtres, l'agrément du Seigneur des terres et des cieux."
+        },
+        "appNumber": 78
+      }
     ]
   }
 }

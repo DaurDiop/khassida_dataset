@@ -759,6 +759,572 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "أَنْتَ الْقَوِىُّ الَّذِى قَوَّيْتَنِى بِرِضًى ۞ فِى السِّرِّ وَالْجَهْرِ يَاذَا الْأَمْرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei il Forte (Al-Qawī), che mi hai rafforzato con compiacimento, nel segreto e nel palese, o Signore del Comando, o Allah.",
+          "en.karamati": "You are the Strong (Al-Qawī), Who have strengthened me with good pleasure, in secret and in the open, O Lord of the Command, O Allah.",
+          "fr.karamati": "Tu es le Fort (Al-Qawī), qui m'as fortifié avec agrément, dans le secret et le manifeste, ô Seigneur du Commandement, ô Allah."
+        },
+        "appNumber": 55
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "أَنْتَ الْمَتِينُ الَّذِى قَدْ كُنْتَ لِى بِمُنًى ۞ وَلَا تُوَجِّهُ لِى الْمَكْرُوهَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei il Saldo (Al-Matīn), che sei stato per me con le aspirazioni, e non rivolgi verso di me ciò che è detestabile, o Allah.",
+          "en.karamati": "You are the Firm (Al-Matīn), Who have been for me with aspirations, and You do not turn toward me what is hateful, O Allah.",
+          "fr.karamati": "Tu es l'Inébranlable (Al-Matīn), qui as été pour moi avec les aspirations, et Tu ne diriges pas vers moi ce qui est détestable, ô Allah."
+        },
+        "appNumber": 56
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "أَنْتَ الْوَلِىُّ الَّذِى لَآ أَبْتَغِى بَدَلًا ۞ بِهِ وَلِى كُنْتَ بِالتَّامِينِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei il Protettore (Al-Walī), in cambio del quale non desidero un sostituto, e per me sei stato con la sicurezza, o Allah.",
+          "en.karamati": "You are the Protector (Al-Walī), in exchange for Whom I seek no substitute, and You have been for me with safety, O Allah.",
+          "fr.karamati": "Tu es le Protecteur (Al-Walī), en échange de qui je ne désire aucun substitut, et pour moi Tu as été avec la sécurité, ô Allah."
+        },
+        "appNumber": 57
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "أَنْتَ الْحَمِيدُ الَّذِى وَجَّهْتَ لِى نِعَمًا ۞ بِلَا غُرُورٍ وَغَيْرِ الْمَكْرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei il Degno di lode (Al-Ḥamīd), che hai rivolto verso di me grazie, senza illusione e senza inganno, o Allah.",
+          "en.karamati": "You are the Praiseworthy (Al-Ḥamīd), Who have turned graces toward me, without delusion and without guile, O Allah.",
+          "fr.karamati": "Tu es le Digne de louange (Al-Ḥamīd), qui as tourné vers moi des grâces, sans illusion et sans ruse, ô Allah."
+        },
+        "appNumber": 58
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "يَامُحْصِىَ الْخَلْقِ وَالْأَشْيَآءِ جُمْلَتِهَا ۞ كَفَيْتَنِى ضُرَّ مَآ أَحْصَيْتَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Colui che enumera (Al-Muḥṣī) la creazione e le cose tutte quante, mi hai preservato dal danno di ciò che hai enumerato, o Allah.",
+          "en.karamati": "O Reckoner (Al-Muḥṣī) of creation and of all things together, You have spared me the harm of what You have numbered, O Allah.",
+          "fr.karamati": "Ô Celui qui dénombre (Al-Muḥṣī) la création et les choses toutes ensemble, Tu m'as préservé du mal de ce que Tu as dénombré, ô Allah."
+        },
+        "appNumber": 59
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "يَامُبْدِىءَ الْخَلْقِ يَامَنْ لَّاتُوَجِّهُ لِى ۞ مَالَآ أُحِبُّ رَضِيتُ عَنْكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Iniziatore (Al-Mubdiʾ) della creazione, o Colui che non rivolgi verso di me ciò che non amo: mi sono compiaciuto di Te, o Allah.",
+          "en.karamati": "O Originator (Al-Mubdiʾ) of creation, O You Who do not turn toward me what I do not love: I am well pleased with You, O Allah.",
+          "fr.karamati": "Ô Initiateur (Al-Mubdiʾ) de la création, ô Celui qui ne diriges pas vers moi ce que je n'aime pas : je me suis satisfait de Toi, ô Allah."
+        },
+        "appNumber": 60
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "مُعِيدُ أَحْمَدَ عَوْدٍ قُدْتَّ لِى كَرَمًا ۞ فِى كُلِّ شَهْرٍ وَيَوْمٍ فِيكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Restauratore (Al-Muʿīd), mi hai condotto per generosità il più lodevole dei ritorni, in ogni mese e in ogni giorno, in Te, o Allah.",
+          "en.karamati": "O Restorer (Al-Muʿīd), You have led to me out of generosity the most praiseworthy of returns, in every month and day, in You, O Allah.",
+          "fr.karamati": "Ô Restaurateur (Al-Muʿīd), Tu m'as conduit par générosité le plus louable des retours, en chaque mois et chaque jour, en Toi, ô Allah."
+        },
+        "appNumber": 61
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "مُحْيِى بِخَيْرِ حَيَاةٍ جُدْتَّ لِى أَبَدًا ۞ فَلَكَ شُكْرِى بِصَفْوِ الْعُمْرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Datore di vita (Al-Muḥyī), di una vita eccellente mi sei stato prodigo per sempre: a Te dunque la mia gratitudine, con la purezza della vita, o Allah.",
+          "en.karamati": "O Giver of life (Al-Muḥyī), with the best of lives You have been lavish to me forever: so to You is my gratitude, with purity of life, O Allah.",
+          "fr.karamati": "Ô Donateur de vie (Al-Muḥyī), d'une vie excellente Tu m'as été prodigue pour toujours : à Toi donc ma gratitude, avec la pureté de la vie, ô Allah."
+        },
+        "appNumber": 62
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "مُمِيتُ قَدْ سُقْتَ مَوْتِى لِلْعِدَى وَلَهُمْ ۞ مَّكَارِهِى سُقْتَ فِى الدَّارَيْنِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Datore di morte (Al-Mumīt), hai sospinto la mia morte verso i nemici, e verso di loro hai sospinto le mie avversità, nelle due Dimore, o Allah.",
+          "en.karamati": "O Giver of death (Al-Mumīt), You have driven my death toward the enemies, and toward them You have driven my adversities, in the two Abodes, O Allah.",
+          "fr.karamati": "Ô Donateur de mort (Al-Mumīt), Tu as poussé ma mort vers les ennemis, et vers eux Tu as poussé mes adversités, dans les deux Demeures, ô Allah."
+        },
+        "appNumber": 63
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "يَاحَىُّ حَمْدِى وَشُكْرِى مَعْ رِضَاىَ مَعًا ۞ مِّنِّىَ خُذْدُونَ سُخْطٍ مِّنْكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Vivente (Al-Ḥayy), la mia lode e la mia gratitudine, insieme al mio compiacimento, accoglile da me senza sdegno da parte Tua, o Allah.",
+          "en.karamati": "O Living (Al-Ḥayy), my praise and my gratitude, together with my contentment, accept them from me without displeasure on Your part, O Allah.",
+          "fr.karamati": "Ô Vivant (Al-Ḥayy), ma louange et ma gratitude, avec mon agrément, accueille-les de moi sans courroux de Ta part, ô Allah."
+        },
+        "appNumber": 64
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "قَيُّومُ قَدْ قُدْتَّ لِى مَاكُنْتُ أَطْلُبُهُ ۞ بِغَيْرِ كَسْبٍ إِلَى الْجَنَّاتِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Sussistente (Al-Qayyūm), mi hai condotto ciò che cercavo, senza mio acquisto, fino ai Giardini, o Allah.",
+          "en.karamati": "O Self-Subsisting (Al-Qayyūm), You have led to me what I sought, without my earning, until the Gardens, O Allah.",
+          "fr.karamati": "Ô Subsistant (Al-Qayyūm), Tu m'as conduit ce que je recherchais, sans acquisition de ma part, jusqu'aux Jardins, ô Allah."
+        },
+        "appNumber": 65
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "أَوْ صَلْتَ لِى وَاجِدُ الْأَثْمَانَ دُونَ عَنَآ ۞ لَّكَ الْوُجُودُ الَّذِى لِى بَانَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Mi hai fatto giungere, o Colui che trova (Al-Wājid), i prezzi senza fatica: a Te (appartiene) l'Esistenza che mi si è manifestata, o Allah.",
+          "en.karamati": "You have brought to me, O Finder (Al-Wājid), the prices without toil: Yours is the Existence that has become manifest to me, O Allah.",
+          "fr.karamati": "Tu m'as fait parvenir, ô Celui qui trouve (Al-Wājid), les prix sans peine : à Toi (appartient) l'Existence qui m'est apparue, ô Allah."
+        },
+        "appNumber": 66
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "يَامَاجِدُ اجْعَلْنِىَ الدَّارَيْنِ مُعْتَلِيًا ۞ بِغَيْرِ كِبْرٍ وَعُجْبٍ رَبِّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Nobile (Al-Mājid), rendimi elevato nelle due Dimore, senza superbia né vanità, Signore, o Allah.",
+          "en.karamati": "O Noble (Al-Mājid), make me exalted in the two Abodes, without pride or vanity, Lord, O Allah.",
+          "fr.karamati": "Ô Noble (Al-Mājid), rends-moi élevé dans les deux Demeures, sans orgueil ni vanité, Seigneur, ô Allah."
+        },
+        "appNumber": 67
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "يَاوَاحِدُ اجْعَلْنِىَ الدَّارَيْنِ مُنْفَرِدًا ۞ مَعَ الْمُنَى بِعَزِيزِ مِّنْكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Unico (Al-Wāḥid), rendimi singolare nelle due Dimore, con le aspirazioni, per un dono prezioso da parte Tua, o Allah.",
+          "en.karamati": "O One (Al-Wāḥid), make me singular in the two Abodes, with aspirations, through a precious gift from You, O Allah.",
+          "fr.karamati": "Ô Unique (Al-Wāḥid), rends-moi singulier dans les deux Demeures, avec les aspirations, par un don précieux de Ta part, ô Allah."
+        },
+        "appNumber": 68
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "لَكَ الْتِجَآءِى بِمَا لِى اخْتِيرَ يَاصَمَدِى ۞ بِشْرًا لِّجُمْلَةِ مَنْ أَحْبَبْتَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "A Te (va) il mio rifugio, in ciò che è stato scelto per me, o mio Assoluto (Aṣ-Ṣamad), come letizia per tutti coloro che hai amato, o Allah.",
+          "en.karamati": "To You (goes) my refuge, in what has been chosen for me, O my Self-Sufficient (Aṣ-Ṣamad), as gladness for all those You have loved, O Allah.",
+          "fr.karamati": "À Toi (va) mon refuge, en ce qui a été choisi pour moi, ô mon Absolu (Aṣ-Ṣamad), comme allégresse pour tous ceux que Tu as aimés, ô Allah."
+        },
+        "appNumber": 69
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "أَرْدَيْتَ يَاقَادِرُ الْمَخْذُولَ مُنْدَفِعًا ۞ إِلَى سِوَانَا لَكَ التَّحْمِيدُ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Hai fatto precipitare, o Potente (Al-Qādir), l'abbandonato (da Dio), respinto verso altri che noi: a Te la lode, o Allah.",
+          "en.karamati": "You have cast down, O Able (Al-Qādir), the forsaken one, driven off toward others than us: to You be praise, O Allah.",
+          "fr.karamati": "Tu as fait choir, ô Puissant (Al-Qādir), le délaissé (de Dieu), repoussé vers d'autres que nous : à Toi la louange, ô Allah."
+        },
+        "appNumber": 70
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "رَزَقْتَنِى الْحَجِّ طَيًا أَنْتَ مُخْتَدِرٌ ۞ مَّعَ الْجِوَارِ وَزَوْرٍ فِيكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Mi hai concesso il Pellegrinaggio per ripiegamento (della terra) — Tu sei l'Onnipotente — con la vicinanza (al Profeta) e la visita in Te, o Allah.",
+          "en.karamati": "You have granted me the Pilgrimage by folding (of the earth) — You are the All-Powerful — with nearness (to the Prophet) and the visit in You, O Allah.",
+          "fr.karamati": "Tu m'as accordé le Pèlerinage par repliement (de la terre) — Tu es le Tout-Puissant — avec le voisinage (du Prophète) et la visite en Toi, ô Allah."
+        },
+        "appNumber": 71
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "أَنْتَ الْمُقَدِّمُ قَدِّمْنِى هُنَا وَغَدًا ۞ عَلَى كَشِيرٍ مِّنَ الْأَخْيَارِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei Colui che fa avanzare (Al-Muqaddim): fammi avanzare quaggiù e domani su molti degli eletti, o Allah.",
+          "en.karamati": "You are the Expediter (Al-Muqaddim): bring me forward here and tomorrow before many of the elect, O Allah.",
+          "fr.karamati": "Tu es Celui qui fait avancer (Al-Muqaddim) : fais-moi avancer ici-bas et demain devant beaucoup des élus, ô Allah."
+        },
+        "appNumber": 72
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "أَنْتَ الْمُوَاخِّرُ أَذْهَبْتَ الْعِدَى وَمَضَوْاْ ۞ إِلَى سِوَانَا مَعَ الْخِزْيَانِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei Colui che fa indietreggiare (Al-Muʾakhkhir): hai tolto via i nemici, ed essi sono andati verso altri che noi, con l'ignominia, o Allah.",
+          "en.karamati": "You are the Delayer (Al-Muʾakhkhir): You have removed the enemies, and they went off toward others than us, with disgrace, O Allah.",
+          "fr.karamati": "Tu es Celui qui fait reculer (Al-Muʾakhkhir) : Tu as ôté les ennemis, et ils sont partis vers d'autres que nous, avec l'ignominie, ô Allah."
+        },
+        "appNumber": 73
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "وَإِنَّكَ الْأَوَّلُ اجْعَلْنِى هُنَا وَغَدًا ۞ فِى السَّابِقِينَ بِفَضْلٍ مِّنْكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E in verità Tu sei il Primo (Al-Awwal): ponimi quaggiù e domani tra i precursori, per grazia da parte Tua, o Allah.",
+          "en.karamati": "And truly You are the First (Al-Awwal): place me here and tomorrow among the forerunners, by grace from You, O Allah.",
+          "fr.karamati": "Et en vérité Tu es le Premier (Al-Awwal) : place-moi ici-bas et demain parmi les devanciers, par grâce de Ta part, ô Allah."
+        },
+        "appNumber": 74
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "يَاءَاخِرُ اجْعَلْنِىَ الدَّارَيْنِ ذَا رُتَبٍ ۞ وَصَقِّ عُمْرِى إِلَى الْجَنَّاتِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Ultimo (Al-Ākhir), rendimi dotato di ranghi nelle due Dimore, e purifica la mia vita fino ai Giardini, o Allah.",
+          "en.karamati": "O Last (Al-Ākhir), make me possessed of ranks in the two Abodes, and purify my life until the Gardens, O Allah.",
+          "fr.karamati": "Ô Dernier (Al-Ākhir), rends-moi doté de rangs dans les deux Demeures, et purifie ma vie jusqu'aux Jardins, ô Allah."
+        },
+        "appNumber": 75
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "يَاظَاهِرُ ارْزُقْنِىَ الْمَامُولَ مُرْتَضِيًا ۞ عَنِّى وَأَظْهِرْنِىَ الْقُرْءَانَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Manifesto (Aẓ-Ẓāhir), concedimi ciò che spero, compiaciuto di me, e fammi rendere manifesto il Corano, o Allah.",
+          "en.karamati": "O Manifest (Aẓ-Ẓāhir), grant me what I hope for, well pleased with me, and make me manifest the Qurʾān, O Allah.",
+          "fr.karamati": "Ô Apparent (Aẓ-Ẓāhir), accorde-moi ce que j'espère, satisfait de moi, et fais-moi manifester le Coran, ô Allah."
+        },
+        "appNumber": 76
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "يَابَاطِنُ ارْزُقْنِىَ الْأَسْرَارَ ذَا مِنَنٍ ۞ وَاجْعَلْ فُؤَادِىَ ظَرْفَ الذِّكْرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Nascosto (Al-Bāṭin), concedimi i segreti, o Possessore di favori, e rendi il mio cuore vaso del ricordo, o Allah.",
+          "en.karamati": "O Hidden (Al-Bāṭin), grant me the secrets, O Possessor of favours, and make my heart the vessel of remembrance, O Allah.",
+          "fr.karamati": "Ô Caché (Al-Bāṭin), accorde-moi les secrets, ô Détenteur des faveurs, et fais de mon cœur le vase du rappel, ô Allah."
+        },
+        "appNumber": 77
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "هَبْ لِى بِفَضْلِكَ يَاوَالِى مُوَاصَلَتِى ۞ خَيْرَ الْبَرَايَا وَمَنْ وَّالَيْتَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Concedimi, per Tua grazia, o Reggente (Al-Wālī), la mia unione con il Migliore delle creature e con coloro che hai preso come amici, o Allah.",
+          "en.karamati": "Grant me, by Your grace, O Governor (Al-Wālī), my union with the Best of creatures and with those You have befriended, O Allah.",
+          "fr.karamati": "Accorde-moi, par Ta grâce, ô Gouverneur (Al-Wālī), mon union avec le Meilleur des créatures et avec ceux que Tu as pris pour amis, ô Allah."
+        },
+        "appNumber": 78
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "وَإِنَّكَ الْمُتَعَالِى سُقْ عِدَاكَ مَعًا ۞ إِلَى سِوَى قَصْدِ ضُرِّى الدَّهْرَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "E in verità Tu sei l'Altissimo (Al-Mutaʿālī): sospingi i Tuoi nemici, tutti insieme, verso altro che l'intento di nuocermi, per sempre, o Allah.",
+          "en.karamati": "And truly You are the Supremely Exalted (Al-Mutaʿālī): drive Your enemies, all together, toward other than the aim of harming me, forever, O Allah.",
+          "fr.karamati": "Et en vérité Tu es le Très-Élevé (Al-Mutaʿālī) : pousse Tes ennemis, tous ensemble, vers autre chose que le dessein de me nuire, pour toujours, ô Allah."
+        },
+        "appNumber": 79
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "وَسِّعْ وَمَلِّكْ وَأَعْتِقْ دُونَ مَقْسَدَةٍ ۞ وَلِى اسْتَجِبْ دَعْوَتِى يَابَرُّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Allarga, rendi padrone e affranca, senza corruzione, ed esaudisci per me la mia invocazione, o Benefico (Al-Barr), o Allah.",
+          "en.karamati": "Expand, make master and set free, without corruption, and answer for me my supplication, O Beneficent (Al-Barr), O Allah.",
+          "fr.karamati": "Élargis, rends maître et affranchis, sans corruption, et exauce pour moi mon invocation, ô Bienfaisant (Al-Barr), ô Allah."
+        },
+        "appNumber": 80
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "عَلَىَّ تُبْتَ مَحَوْتَ الذَّنْبَ جُمْلَتَهُ ۞ طَهَّرْتَ كُلِّىَ يَاتَوَّابُ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Ti sei volto a me (perdonando), hai cancellato il peccato tutto intero, hai purificato tutto il mio essere, o Colui che accoglie il pentimento (At-Tawwāb), o Allah.",
+          "en.karamati": "You have turned to me (in forgiveness), effaced the sin entirely, purified my whole being, O Accepter of repentance (At-Tawwāb), O Allah.",
+          "fr.karamati": "Tu es revenu vers moi (en pardonnant), Tu as effacé le péché tout entier, Tu as purifié tout mon être, ô Celui qui accueille le repentir (At-Tawwāb), ô Allah."
+        },
+        "appNumber": 81
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "أَنْتَ الَّذِى مِنْ عِدَى الْإِسْلَامِ مُنْتَقِمٌ ۞ وَلِى انْتَقَمْتَ بِمَا لِى اخْتَرتَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei Colui che dei nemici dell'Islam è il Vendicatore (Al-Muntaqim), e per me Ti sei vendicato con ciò che per me hai scelto, o Allah.",
+          "en.karamati": "You are the One Who takes vengeance (Al-Muntaqim) on the enemies of Islam, and for me You have avenged with what You chose for me, O Allah.",
+          "fr.karamati": "Tu es Celui qui, des ennemis de l'Islam, est le Vengeur (Al-Muntaqim), et pour moi Tu T'es vengé par ce que Tu as choisi pour moi, ô Allah."
+        },
+        "appNumber": 82
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "أَنْتَ الْعَفُوُّ الَّذِى عَنِّى عَفَوْتَ بِلَآ ۞ إِبْقَآءِ عَيْبٍ هَدَيْتَ الْكُلَّ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei Colui che cancella le colpe (Al-ʿAfuww), che mi hai perdonato senza lasciare (alcun) difetto: hai guidato tutto (il mio essere), o Allah.",
+          "en.karamati": "You are the Pardoner (Al-ʿAfuww), Who have pardoned me without leaving (any) fault: You have guided (my) whole (being), O Allah.",
+          "fr.karamati": "Tu es Celui qui efface les fautes (Al-ʿAfuww), qui m'as pardonné sans laisser (aucun) défaut : Tu as guidé tout (mon être), ô Allah."
+        },
+        "appNumber": 83
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "أَنْتَ الرَّءُوفُ الَّذِى عَايَنْتُ رَأْفَتَهُ ۞ وَلَاتُوَجِّهُ لِى الْأَعْدَآءَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei il Pietosissimo (Ar-Raʾūf), la cui pietà ho visto con i miei occhi, e non rivolgi contro di me i nemici, o Allah.",
+          "en.karamati": "You are the Most Kind (Ar-Raʾūf), Whose kindness I have seen with my eyes, and You do not turn the enemies toward me, O Allah.",
+          "fr.karamati": "Tu es le Très-Compatissant (Ar-Raʾūf), dont j'ai vu de mes yeux la compassion, et Tu ne diriges pas vers moi les ennemis, ô Allah."
+        },
+        "appNumber": 84
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "يَامَالِكَ الْمُلْكِ لِى وَسَّعْتَ دُونَ جَوًى ۞ فِى الْمُلْكِ وَالْمَلَكُوتِ الدَّهْرَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Re del Regno (Mālik al-Mulk), per me hai allargato, senza struggimento, nel Regno e nel Regno celeste, per sempre, o Allah.",
+          "en.karamati": "O King of Sovereignty (Mālik al-Mulk), for me You have widened, without anguish, in the Kingdom and the heavenly Dominion, forever, O Allah.",
+          "fr.karamati": "Ô Roi de la Royauté (Mālik al-Mulk), pour moi Tu as élargi, sans tourment, dans la Royauté et le Royaume céleste, pour toujours, ô Allah."
+        },
+        "appNumber": 85
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "يَاذَا الْجَلَالِ وَذَا الْإِكْرَامِ هَبْ لِىَ مَا ۞ لِى اخْتَرْتَ دُنْيَا وَأُخْرَى مِنْكَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Possessore della Maestà e Possessore della Generosità, donami ciò che hai scelto per me, in questo mondo e nell'altro, da parte Tua, o Allah.",
+          "en.karamati": "O Possessor of Majesty and Possessor of Generosity, grant me what You have chosen for me, in this world and the next, from You, O Allah.",
+          "fr.karamati": "Ô Détenteur de la Majesté et Détenteur de la Générosité, donne-moi ce que Tu as choisi pour moi, en ce monde et dans l'autre, de Ta part, ô Allah."
+        },
+        "appNumber": 86
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "قُدْ لِىَ يَامُقْسِطُ الْمَطْلوبَ حَيْثُ أُرَى ۞ خِلًّا وَحِبًّا مَّعَ الرِّضْوَانِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Conducimi, o Equo (Al-Muqsiṭ), ciò che è richiesto, in modo che io sia visto (come Tuo) amico intimo e amato, con il compiacimento, o Allah.",
+          "en.karamati": "Lead to me, O Equitable (Al-Muqsiṭ), what is sought, so that I be seen (as Your) intimate friend and beloved, with good pleasure, O Allah.",
+          "fr.karamati": "Conduis-moi, ô Équitable (Al-Muqsiṭ), ce qui est recherché, de sorte que je sois vu (comme Ton) ami intime et bien-aimé, avec l'agrément, ô Allah."
+        },
+        "appNumber": 87
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "يَاجَامِعُ اجْمَعْ لِىَ الْأَغْرَاضَ مُرْتَضِيًا ۞ عَنِّى بِكَوْبِكَ لِى فِى الْجَمْعِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "O Colui che riunisce (Al-Jāmiʿ), riunisci per me gli scopi, compiaciuto di me, con il Tuo essere per me nella riunione, o Allah.",
+          "en.karamati": "O Gatherer (Al-Jāmiʿ), gather my aims for me, well pleased with me, through Your being for me in the gathering, O Allah.",
+          "fr.karamati": "Ô Celui qui rassemble (Al-Jāmiʿ), rassemble pour moi les desseins, satisfait de moi, par le fait que Tu sois pour moi dans le rassemblement, ô Allah."
+        },
+        "appNumber": 88
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "أَنْتَ الْغَنِىُّ الَّذِى لَايَنْتَمِى غَرَضٌ ۞ إِلَيْكَ هَبْ لِىَ مَآ أَحْتَاجُ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei il Ricco (Al-Ghanī), al quale nessuno scopo è riferibile: donami ciò di cui ho bisogno, o Allah.",
+          "en.karamati": "You are the Rich (Al-Ghanī), to Whom no aim pertains: grant me what I need, O Allah.",
+          "fr.karamati": "Tu es le Riche (Al-Ghanī), à qui nul dessein ne se rapporte : donne-moi ce dont j'ai besoin, ô Allah."
+        },
+        "appNumber": 89
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "أَغْنَيْتَنِى إِنَّكَ الْمُغْنِى بِلَا سَبَبٍ ۞ فَسَرْمَدًا لِّىَ كُنْ بِالْفَضْلِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Mi hai arricchito — Tu sei l'Arricchente (Al-Mughnī) — senza causa: in eterno dunque sii per me con la grazia, o Allah.",
+          "en.karamati": "You have enriched me — You are the Enricher (Al-Mughnī) — without cause: so forever be for me with grace, O Allah.",
+          "fr.karamati": "Tu m'as enrichi — Tu es Celui qui enrichit (Al-Mughnī) — sans cause : éternellement donc sois pour moi avec la grâce, ô Allah."
+        },
+        "appNumber": 90
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "أَعْطَيْتَنِى إِنَّكَ الْمُعْطِى مُنَى الْكُرَمَآ ۞ كَفَيْتَنِى جُمْلَةَ الْأَعْدَآءِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Mi hai dato — Tu sei il Donatore (Al-Muʿṭī) — le aspirazioni dei nobili; mi hai preservato da tutti i nemici, o Allah.",
+          "en.karamati": "You have given me — You are the Giver (Al-Muʿṭī) — the aspirations of the noble; You have spared me all the enemies, O Allah.",
+          "fr.karamati": "Tu m'as donné — Tu es Celui qui donne (Al-Muʿṭī) — les aspirations des nobles ; Tu m'as préservé de tous les ennemis, ô Allah."
+        },
+        "appNumber": 91
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "مَنَعْتَ يَامَانِعُ الْأَسْوَاءَ مِنْ قِبَلِى ۞ وَلَاتُوَجِّهُ لِى مَاسَآءَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Hai impedito, o Preservatore (Al-Māniʿ), i mali dal mio lato, e non rivolgi verso di me ciò che affligge, o Allah.",
+          "en.karamati": "You have prevented, O Preventer (Al-Māniʿ), the evils from my side, and You do not turn toward me what grieves, O Allah.",
+          "fr.karamati": "Tu as empêché, ô Préservateur (Al-Māniʿ), les maux de mon côté, et Tu ne diriges pas vers moi ce qui afflige, ô Allah."
+        },
+        "appNumber": 92
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "مَنَعْتَ يَاضَارُ مِنِّى الضُّرَّ فِى أَبَدٍ ۞ وَلَاتُوَجِّهُ لِى الْإِضْرَارَ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Hai impedito, o Colui che nuoce (Aḍ-Ḍārr), il danno da me per sempre, e non rivolgi verso di me il nuocere, o Allah.",
+          "en.karamati": "You have prevented, O Distresser (Aḍ-Ḍārr), harm from me forever, and You do not turn harming toward me, O Allah.",
+          "fr.karamati": "Tu as empêché, ô Celui qui nuit (Aḍ-Ḍārr), le mal de moi pour toujours, et Tu ne diriges pas vers moi la nuisance, ô Allah."
+        },
+        "appNumber": 93
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "لِى قُدْتَّ فِى كُلِّ شَىْءٍ نَّفْعَ ذِى كَرَمٍ ۞ يَانَافِعًا لِّذَوِى الْإِيمَانِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Mi hai condotto in ogni cosa il beneficio di un Generoso, o Benefattore (An-Nāfiʿ) di coloro che hanno fede, o Allah.",
+          "en.karamati": "You have led to me in everything the benefit of a Generous One, O Benefactor (An-Nāfiʿ) of those who have faith, O Allah.",
+          "fr.karamati": "Tu m'as conduit en toute chose le bienfait d'un Généreux, ô Bienfaiteur (An-Nāfiʿ) de ceux qui ont la foi, ô Allah."
+        },
+        "appNumber": 94
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "نَوَّرْتَ يَانُورُ كُلِّى صَافِيًا أَبَدًا ۞ كَفَيْتَنِى ظُلَمَ الْأَشْيَآءِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Hai illuminato, o Luce (An-Nūr), tutto il mio essere, puro, per sempre; mi hai preservato dalle tenebre delle cose, o Allah.",
+          "en.karamati": "You have illumined, O Light (An-Nūr), my whole being, pure, forever; You have spared me the darkness of things, O Allah.",
+          "fr.karamati": "Tu as illuminé, ô Lumière (An-Nūr), tout mon être, pur, pour toujours ; Tu m'as préservé des ténèbres des choses, ô Allah."
+        },
+        "appNumber": 95
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "قَدْ قُدْتَّ لِى مِنْكَ يَاهَادِى هِدَايَةَ مَنْ ۞ قَدْ صَاحَبُواْ الْمُصْطَفَى الْمُخْتَارِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Mi hai condotto da Te, o Guida (Al-Hādī), la guida di coloro che sono stati compagni dell'Eletto, il Prescelto, o Allah.",
+          "en.karamati": "You have led to me from You, O Guide (Al-Hādī), the guidance of those who were companions of the Chosen, the Elect, O Allah.",
+          "fr.karamati": "Tu m'as conduit de Ta part, ô Guide (Al-Hādī), la guidance de ceux qui ont été les compagnons de l'Élu, le Préféré, ô Allah."
+        },
+        "appNumber": 96
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "أَنْتَ الْبَدِيعُ الَّذِى بَانَتْ بَدَآئِعُهُ ۞ قُدْتَّ الْبَدَآئِعَ لِى بِالْأَجْرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei il Creatore mirabile (Al-Badīʿ), le cui meraviglie sono apparse: mi hai condotto le meraviglie con la ricompensa, o Allah.",
+          "en.karamati": "You are the Wondrous Originator (Al-Badīʿ), Whose wonders have appeared: You have led wonders to me with reward, O Allah.",
+          "fr.karamati": "Tu es le Créateur merveilleux (Al-Badīʿ), dont les merveilles sont apparues : Tu m'as conduit les merveilles avec la récompense, ô Allah."
+        },
+        "appNumber": 97
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "لِى صَفِّ عُمْرِىَ يَابَاقِى بِخَيْرِ رِضًى ۞ وَلْتُبْقِنِى بِكِتَابِ اللَّهِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Purifica per me la mia vita, o Eterno (Al-Bāqī), con il migliore compiacimento, e fammi perdurare con il Libro di Allah, o Allah.",
+          "en.karamati": "Purify my life for me, O Everlasting (Al-Bāqī), with the best good pleasure, and make me endure through the Book of Allah, O Allah.",
+          "fr.karamati": "Purifie pour moi ma vie, ô Éternel (Al-Bāqī), par le meilleur agrément, et fais-moi durer par le Livre d'Allah, ô Allah."
+        },
+        "appNumber": 98
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "لِى قُدْتَّ جُمْلَةَ مَالِى اخْتَرْتَ مِنْ مِّنَنٍ ۞ وِرَثَةً وَارِثَ الْأَمْوَاتِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Mi hai condotto l'insieme dei favori che hai scelto per me, in eredità, o Erede (Al-Wārith) dei morti, o Allah.",
+          "en.karamati": "You have led to me all the favours You chose for me, as an inheritance, O Inheritor (Al-Wārith) of the dead, O Allah.",
+          "fr.karamati": "Tu m'as conduit l'ensemble des faveurs que Tu as choisies pour moi, en héritage, ô Héritier (Al-Wārith) des morts, ô Allah."
+        },
+        "appNumber": 99
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "أَنْتَ الرَّشِيدُ الَّذِى قَدْ قُدْتَّ لِى رَشَدًا ۞ فِى كُلِّ شَىْءٍ مَّعَ التَّبْشِيرِ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei il Retto Direttore (Ar-Rashīd), che mi hai condotto la rettitudine in ogni cosa, con la buona novella, o Allah.",
+          "en.karamati": "You are the Guide to the Right Path (Ar-Rashīd), Who have led to me right guidance in everything, with glad tidings, O Allah.",
+          "fr.karamati": "Tu es le Guide de la rectitude (Ar-Rashīd), qui m'as conduit la rectitude en toute chose, avec la bonne nouvelle, ô Allah."
+        },
+        "appNumber": 100
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "أَنْتَ الصَّبُورُ الَّذِى وَجَّهْتَ لِى ثَمَنًا ۞ وَقَدْ ذَّهَبْتَ بِمَآ ءَابَاهُ يَاللَّهُ",
+        "translations": {
+          "it.karamati": "Tu sei il Paziente (Aṣ-Ṣabūr), che hai rivolto verso di me un prezzo (di ricompensa), e hai portato via ciò che lo rifiuta, o Allah.",
+          "en.karamati": "You are the Patient (Aṣ-Ṣabūr), Who have turned toward me a price (of reward), and You have taken away what refuses it, O Allah.",
+          "fr.karamati": "Tu es le Patient (Aṣ-Ṣabūr), qui as tourné vers moi un prix (de récompense), et Tu as emporté ce qui le refuse, ô Allah."
+        },
+        "appNumber": 101
+      }
     ]
   }
 }

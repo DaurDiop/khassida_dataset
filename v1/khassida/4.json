@@ -103,6 +103,74 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "أَجَابَنِى خَيْرُ بَاقٍ فِيهِ قَدْ طَّابَا ۞ كُلِّى وَرَقَّى بِمَا لِى قَادَ أَقْطَابَا",
+        "translations": {
+          "it.karamati": "Mi ha esaudito il Migliore degli Eterni (Allah): in Lui tutto il mio essere è divenuto buono; ed Egli, con ciò che mi ha condotto, ha innalzato dei Poli (al-aqṭāb).",
+          "en.karamati": "The Best of the Everlasting (Allah) has answered me: in Him my whole being has become good; and He, through what He led to me, has raised up Poles (al-aqṭāb).",
+          "fr.karamati": "Le Meilleur des Éternels (Allah) m'a exaucé : en Lui tout mon être est devenu bon ; et Lui, par ce qu'Il m'a conduit, a élevé des Pôles (al-aqṭāb)."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "لِوَجْهِ بَاقٍ مَّحَا قَصْدَ الْمَبِيعِ لَنَا ۞ فَارَقْتُهُ وَهْوَ لَجْ وَالْأَمْلُ مَا خَابَا",
+        "translations": {
+          "it.karamati": "Per il Volto dell'Eterno (Allah), che ha cancellato per noi l'intento (di riprendere) ciò che era stato venduto, io l'ho abbandonato (il mondo) mentre era un mare profondo; e la speranza non è stata delusa.",
+          "en.karamati": "For the Face of the Everlasting (Allah), who erased for us any intent (to take back) what had been sold, I left it (the world) while it was a deep sea; and hope was not disappointed.",
+          "fr.karamati": "Pour la Face de l'Éternel (Allah), qui a effacé pour nous l'intention (de reprendre) ce qui avait été vendu, je l'ai quitté (le monde) alors qu'il était une mer profonde ; et l'espoir n'a pas été déçu."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "بِعْتُ الَّذِى لَيْسَ يَنْحُونِى وَلِى بَدَلِى ۞ وَلِى يُخَلِّدُهُ مَنْ كَبَّ صَخَّابَا",
+        "translations": {
+          "it.karamati": "Ho venduto ciò che non si volge a me, e a me appartiene il mio compenso; e per me lo rende eterno Colui (Allah) che ha gettato a capofitto il chiassoso (nemico).",
+          "en.karamati": "I have sold what does not turn towards me, and mine is my recompense; and He (Allah) who flung down the clamorous (foe) makes it everlasting for me.",
+          "fr.karamati": "J'ai vendu ce qui ne se tourne pas vers moi, et à moi revient ma contrepartie ; et pour moi la rend éternelle Celui (Allah) qui a précipité le (ennemi) tapageur."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "إِلَى سِوَاىَ الْعِدَى تَنْحُو بِمَا مَعَهُمْ ۞ وَبِى يُصَفِّى إِلَاهِى الدَّهْرَ أَلْبَابَا",
+        "translations": {
+          "it.karamati": "Verso altri che me si dirigono i nemici, con ciò che hanno con sé; e per mio tramite il mio Dio purifica, in ogni tempo, gli intelletti.",
+          "en.karamati": "Towards others than me the enemies head, with whatever they carry; and through me my God purifies minds at all times.",
+          "fr.karamati": "Vers d'autres que moi se dirigent les ennemis, avec ce qu'ils portent ; et par mon entremise mon Dieu purifie, en tout temps, les intelligences."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "قُلُوبُ مَنْ لَّمْ يَحِبُّونِى عَلَى وَجَلٍ ۞ وَلَا يُلَاقُونَ مَارَامُواْ وَلَا الْبَابَا",
+        "translations": {
+          "it.karamati": "I cuori di coloro che non mi amano sono nel timore; essi non ottengono ciò che hanno bramato, né (trovano) la Porta (della grazia).",
+          "en.karamati": "The hearts of those who do not love me are in fear; they do not meet what they longed for, nor (find) the Gate (of grace).",
+          "fr.karamati": "Les cœurs de ceux qui ne m'aiment pas sont dans la crainte ; ils n'obtiennent pas ce qu'ils ont désiré, ni (ne trouvent) la Porte (de la grâce)."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "يَنْقَادُ لِى كُلُّ مَارَامَ الْكِرَامُ مُنًى ۞ وَاللَّهُ رَقَّى بِمَا لِى قَادَ أَقْطَابَا",
+        "translations": {
+          "it.karamati": "Si piega a me ogni desiderio che i nobili abbiano bramato; e Allah, con ciò che mi ha condotto, ha innalzato dei Poli (al-aqṭāb).",
+          "en.karamati": "Every wish the noble have longed for yields to me; and God, through what He led to me, has raised up Poles (al-aqṭāb).",
+          "fr.karamati": "Se soumet à moi tout vœu que les nobles aient désiré ; et Dieu, par ce qu'Il m'a conduit, a élevé des Pôles (al-aqṭāb)."
+        }
+      }
     ]
   }
 }

@@ -871,6 +871,656 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "بِرَزُمَنْ بَارَزَنِى بِرَزُمَنْ ۞ يُّبَرِزُ الْمُنْتَقِمُ الْبَارِى الْزَّمَنْ",
+        "translations": {
+          "it.karamati": "La sfida di chi mi ha sfidato è la sfida di colui contro cui il Vendicatore (Al-Muntaqim), il Creatore (Al-Bāriʾ), fa scendere in campo il tempo.",
+          "en.karamati": "The challenge of whoever challenged me is the challenge of one against whom the Avenger (Al-Muntaqim), the Maker (Al-Bāriʾ), brings forth time.",
+          "fr.karamati": "Le défi de qui m'a défié est le défi de celui contre qui le Vengeur (Al-Muntaqim), le Créateur (Al-Bāriʾ), fait entrer en lice le temps."
+        },
+        "appNumber": 55
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "إِذَا طَلَبْتُ مِنْ إِلَاهِى جَلَبَا ۞ وَإِنْ صَرَفْتُ بِالْإِلَاهِ سَلَبَا",
+        "translations": {
+          "it.karamati": "Quando chiedo al mio Dio, Egli attira (ciò che chiedo); e se respingo (qualcosa) per mezzo di Dio, Egli lo sottrae.",
+          "en.karamati": "When I ask of my God, He draws (it in); and if I repel (something) through God, He takes it away.",
+          "fr.karamati": "Quand je demande à mon Dieu, Il attire (ce que je demande) ; et si je repousse (quelque chose) par Dieu, Il l'enlève."
+        },
+        "appNumber": 56
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "لِى جَادَ بِالتَّوْحِيدِ رَبِّىَ الْأَحَدْ ۞ مُذْ جَادَ لِى بِقُلْ هُوَ اللَّهُ أَحَدْ",
+        "translations": {
+          "it.karamati": "Il mio Signore, l'Uno, mi ha elargito l'Unicità, da quando mi ha elargito «Di': Egli è Allah, Uno» (Corano 112:1).",
+          "en.karamati": "My Lord, the One, has bestowed on me Oneness, ever since He bestowed on me \"Say: He is Allah, One\" (Qurʾān 112:1).",
+          "fr.karamati": "Mon Seigneur, l'Un, m'a gratifié de l'Unicité, depuis qu'Il m'a gratifié de « Dis : Il est Allah, Un » (Coran 112:1)."
+        },
+        "appNumber": 57
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "لَهُ مِدَادِى وَقِلَامِى فِى الْعِدَى ۞ وَأَبَدًا لَّسْتُ أُلَاقِى مَنْ عَدَى",
+        "translations": {
+          "it.karamati": "A Lui il mio inchiostro e le mie penne contro i nemici, e mai incontro chi ha aggredito.",
+          "en.karamati": "To Him my ink and my pens against the enemies, and never do I meet whoever has aggressed.",
+          "fr.karamati": "À Lui mon encre et mes plumes contre les ennemis, et jamais je ne rencontre qui a agressé."
+        },
+        "appNumber": 58
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "ذُلُّ الَّذِى يُبَارِزُ اللَّهَ الْجَلِيلْ ۞ ذُلُّ ذَلِيلٍ فَوْقَهُ كُلُّ ذَلِيلْ",
+        "translations": {
+          "it.karamati": "L'umiliazione di colui che sfida Allah, il Maestoso (Al-Jalīl), è l'umiliazione di un umiliato al di sopra del quale è ogni umiliato.",
+          "en.karamati": "The abasement of whoever challenges Allah, the Majestic (Al-Jalīl), is the abasement of one abased above whom is every abased one.",
+          "fr.karamati": "L'humiliation de celui qui défie Allah, le Majestueux (Al-Jalīl), est l'humiliation d'un humilié au-dessus de qui est tout humilié."
+        },
+        "appNumber": 59
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "يَامَنْ يَّرَى غَيْرَ الْإِلَاهِ رَبَّا ۞ وَغَيْرَ أَفْضَلِ الْوَرَى مُحِبَّا",
+        "translations": {
+          "it.karamati": "O tu che consideri Signore altri che Dio, e amico altri che il più eccellente delle creature,",
+          "en.karamati": "O you who regard as lord other than God, and as friend other than the most excellent of creation,",
+          "fr.karamati": "Ô toi qui considères comme Seigneur un autre que Dieu, et comme ami un autre que le plus excellent des créatures,"
+        },
+        "appNumber": 60
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "نَزَعَ مِنْ صَدْرِكَ رَبِّى نُورَا ۞ كُنْ بِالْمُنِيرِ طَالِبًا مُّنِيرَا",
+        "translations": {
+          "it.karamati": "il mio Signore ha strappato la luce dal tuo petto: sii, per mezzo di colui che illumina, un cercatore illuminato.",
+          "en.karamati": "my Lord has torn the light from your breast: be, through the illuminator, an illumined seeker.",
+          "fr.karamati": "mon Seigneur a arraché la lumière de ta poitrine : sois, par celui qui illumine, un chercheur illuminé."
+        },
+        "appNumber": 61
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لِلنُّورِ قَدْ وَجَّهْتُ عِنْدَ الظُّلُمَاتْ ۞ مَدْحًا كَفَانِىَ الْعِدَى وَالصَّدَمَاتْ",
+        "translations": {
+          "it.karamati": "Alla Luce (il Profeta) ho rivolto, nelle tenebre, una lode che mi ha preservato dai nemici e dagli urti.",
+          "en.karamati": "To the Light (the Prophet) I addressed, in the darknesses, a praise that spared me enemies and shocks.",
+          "fr.karamati": "À la Lumière (le Prophète) j'ai adressé, dans les ténèbres, une louange qui m'a préservé des ennemis et des chocs."
+        },
+        "appNumber": 62
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "مَدْحُ رَسُولِ اللَّهِ صَلَّى اللَّهُ ۞ عَلَيْهِ فِى الْئَالِ وَمَنْ وَّالَاهُ",
+        "translations": {
+          "it.karamati": "La lode dell'Inviato di Allah — Allah lo benedica nella Famiglia e in chi gli è amico —",
+          "en.karamati": "The praise of the Messenger of Allah — may Allah bless him in the Family and whoever befriends him —",
+          "fr.karamati": "La louange de l'Envoyé d'Allah — qu'Allah le bénisse dans la Famille et en qui lui est ami —"
+        },
+        "appNumber": 63
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "يُغْنِى عَنِ السُّيُوفِ وَالرِّمَاحِ ۞ نِعْمَ الشُّجَاعُ نِعْمَ غَازٍ مَّاحِ",
+        "translations": {
+          "it.karamati": "rende indipendenti dalle spade e dalle lance: eccellente il coraggioso, eccellente il combattente che cancella (al-Māḥī)!",
+          "en.karamati": "frees from swords and spears: how excellent the brave one, how excellent the effacing warrior (al-Māḥī)!",
+          "fr.karamati": "rend indépendant des épées et des lances : excellent le brave, excellent le combattant qui efface (al-Māḥī) !"
+        },
+        "appNumber": 64
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "لِلْبَحْرِ قَدْ وَجَّهْتُ عِنْدَ الْبَحْرِ ۞ مَدْحًا بِهِ قَدْ صِرْتُ مِثْلَ بَحْرِ",
+        "translations": {
+          "it.karamati": "Al Mare (di generosità, il Profeta) ho rivolto, sul mare, una lode per mezzo della quale sono divenuto come un mare.",
+          "en.karamati": "To the Sea (of bounty, the Prophet) I addressed, upon the sea, a praise through which I became like a sea.",
+          "fr.karamati": "À la Mer (de générosité, le Prophète) j'ai adressé, sur la mer, une louange par laquelle je suis devenu comme une mer."
+        },
+        "appNumber": 65
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "حَبَوْتُ أَفْضَلَ الْوَرَى فِى الْبَرِّ ۞ بِخَيْرِ مَدْحٍ جَادَ لِى بِبِرِّ",
+        "translations": {
+          "it.karamati": "Ho donato al più eccellente delle creature, sulla terraferma (al-barr), la migliore lode, ed egli mi ha elargito con bontà (bi-birr).",
+          "en.karamati": "I have presented to the most excellent of creation, on dry land (al-barr), the best praise, and he bestowed on me with kindness (bi-birr).",
+          "fr.karamati": "J'ai offert au plus excellent des créatures, sur la terre ferme (al-barr), la meilleure louange, et il m'a gratifié avec bonté (bi-birr)."
+        },
+        "appNumber": 66
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "قَدَّمَنِى فِى الْبَرِّ وَالْبَحْرِ مَعَا ۞ مَدْحُ الَّذِى بَرًّا وَبَحْرًا جَمَعَا",
+        "translations": {
+          "it.karamati": "Mi ha posto innanzi, sulla terra e sul mare insieme, la lode di colui che ha riunito terra e mare.",
+          "en.karamati": "There has set me forward, on land and sea together, the praise of him who joined land and sea.",
+          "fr.karamati": "M'a placé en avant, sur la terre et sur la mer ensemble, la louange de celui qui a réuni terre et mer."
+        },
+        "appNumber": 67
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "وَجَّهَ لِى فِى الْبَرِّ وَالْبَحْرِ الْمُنَى ۞ مَنْ كَوْنُهُ حَيْرَ الْوَرَى مَا كَمُنَا",
+        "translations": {
+          "it.karamati": "Mi ha rivolto, sulla terra e sul mare, i desideri colui il cui essere il migliore delle creature non è rimasto nascosto.",
+          "en.karamati": "He has turned the wishes to me, on land and sea, whose being the best of creation has not remained hidden.",
+          "fr.karamati": "M'a adressé, sur la terre et sur la mer, les souhaits celui dont l'être le meilleur des créatures n'est pas resté caché."
+        },
+        "appNumber": 68
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "إِلَىَّ فِى الْبَرِّ وَفِى الْبَحْرِ أَمَالْ ۞ خَيْرُ الْوَرَى خَيْرَ الْفُتُوحَاتِ بِمَالْ",
+        "translations": {
+          "it.karamati": "Verso di me, sulla terra e sul mare, il migliore delle creature ha fatto volgere le migliori aperture, con beni.",
+          "en.karamati": "Toward me, on land and sea, the best of creation has inclined the best of openings, with wealth.",
+          "fr.karamati": "Vers moi, sur la terre et sur la mer, le meilleur des créatures a fait tourner les meilleures ouvertures, avec des biens."
+        },
+        "appNumber": 69
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "بَجَّلَنِى فِى الْبَرِّ وَفِى الْبَحْرِ امْتِدَاحْ ۞ مَنْ مَّدْحُهُ كَبَّ عَدُوِّى ذَا انْصِدَاحْ",
+        "translations": {
+          "it.karamati": "Mi ha onorato, sulla terra e sul mare, la lode di colui la cui lode ha rovesciato il mio nemico con uno schianto.",
+          "en.karamati": "There has honoured me, on land and sea, the praise of him whose praise overthrew my enemy with a crash.",
+          "fr.karamati": "M'a honoré, sur la terre et sur la mer, la louange de celui dont la louange a renversé mon ennemi avec fracas."
+        },
+        "appNumber": 70
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "هَدِيَّتِى فِى الْبَرِّ وَالْبَحْرِ ثَنَآ ۞ عَلَى الَّذِى بِهِ الْأَذَى عَنِّى انْثَنَى",
+        "translations": {
+          "it.karamati": "Il mio dono, sulla terra e sul mare, è un elogio di colui per mezzo del quale il danno si è ritratto da me.",
+          "en.karamati": "My gift, on land and sea, is a eulogy of him through whom harm has turned back from me.",
+          "fr.karamati": "Mon don, sur la terre et sur la mer, est un éloge de celui par qui le mal s'est détourné de moi."
+        },
+        "appNumber": 71
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "مُحَمَّدٌ بَرٌّ وَبَحْرٌ لَّمْ يُرَا ۞ فِيمَا مَضَى نَظِيرُهُ وَلَنْ يُرَى",
+        "translations": {
+          "it.karamati": "Muḥammad è pio (barr, «terra») e mare (di generosità): non si è visto in passato il suo pari, né si vedrà.",
+          "en.karamati": "Muḥammad is pious (barr, \"land\") and a sea (of bounty): his like was not seen in the past, nor will it be seen.",
+          "fr.karamati": "Muḥammad est pieux (barr, « terre ») et mer (de générosité) : on n'a pas vu dans le passé son pareil, et on ne le verra pas."
+        },
+        "appNumber": 72
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "مُحَمَّدٌ صَلَّى عَلَيْهِ بِالسَّلَامْ ۞ فِى ءَالِهِ وَصَحْبِهِ الْأُسْدِ السَّلَامْ",
+        "translations": {
+          "it.karamati": "Muḥammad: la Pace (As-Salām) lo benedica con il saluto di pace, nella sua Famiglia e nei suoi Compagni, i leoni.",
+          "en.karamati": "Muḥammad: may Peace (As-Salām) bless him with peace, in his Family and his Companions, the lions.",
+          "fr.karamati": "Muḥammad : que la Paix (As-Salām) le bénisse avec le salut de paix, dans sa Famille et ses Compagnons, les lions."
+        },
+        "appNumber": 73
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "نَفِى تَوَجُّهَ الْأَذَى عَنْ قِبَلِى ۞ مَنْ يَّتَوَجَّهْ لِأَذَاىَ يُكْبَلِ",
+        "translations": {
+          "it.karamati": "Egli ha respinto il dirigersi del danno dalla mia parte: chi si dirige al mio danno è incatenato.",
+          "en.karamati": "He has repelled the turning of harm from my side: whoever turns to harm me is fettered.",
+          "fr.karamati": "Il a repoussé l'orientation du mal de mon côté : qui se dirige vers mon mal est enchaîné."
+        },
+        "appNumber": 74
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "خَبَأْتُ كَوْنَ اللَّهِ لِى فِى أَبَدِ ۞ وَكَوْنَهُ لِىَ بِغَيْرِ كَبَدِ",
+        "translations": {
+          "it.karamati": "Ho riposto come tesoro l'essere Allah per me in eterno, e il Suo essere per me senza affanno.",
+          "en.karamati": "I have stored as treasure Allah's being for me forever, and His being for me without hardship.",
+          "fr.karamati": "J'ai mis en réserve comme trésor le fait qu'Allah soit pour moi à jamais, et Son être pour moi sans tourment."
+        },
+        "appNumber": 75
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "لِى كَانَ رَبِّى وَالنَّبِىُّ كَانَ لِى ۞ بِمَا مَحَا عَيْبِى وَسِرِّى صَانَ لِى",
+        "translations": {
+          "it.karamati": "Per me è stato il mio Signore, e il Profeta è stato per me, con ciò che ha cancellato il mio difetto e ha custodito per me il mio segreto.",
+          "en.karamati": "My Lord has been for me, and the Prophet has been for me, with what effaced my fault and kept my secret for me.",
+          "fr.karamati": "Pour moi a été mon Seigneur, et le Prophète a été pour moi, par ce qui a effacé mon défaut et a gardé pour moi mon secret."
+        },
+        "appNumber": 76
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "فَرَّحَنِى كَوْنُ إِلَاهِىَ الْأَحَدْ ۞ وَكَوْنُ خَيْرِ الْخَلْقِ لَيْثَ مَنْ جَحَدْ",
+        "translations": {
+          "it.karamati": "Mi ha rallegrato l'essere il mio Dio l'Uno, e l'essere il migliore delle creature un leone contro chi ha rinnegato.",
+          "en.karamati": "It has gladdened me that my God is the One, and that the best of creation is a lion against whoever denied.",
+          "fr.karamati": "M'a réjoui le fait que mon Dieu soit l'Un, et que le meilleur des créatures soit un lion contre qui a renié."
+        },
+        "appNumber": 77
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "هَدَانِىَ اللَّهُ هِدَايَةَ الَّتِى ۞ قَدْ جَآئَهَا مِنْهُ أَمِينُ الْمِلَّةِ",
+        "translations": {
+          "it.karamati": "Allah mi ha guidato della guida (della comunità) a cui è giunto da Lui il Fedele della religione.",
+          "en.karamati": "Allah has guided me with the guidance (of the community) to which came from Him the Trustee of the religion.",
+          "fr.karamati": "Allah m'a guidé de la guidance (de la communauté) à laquelle est venu de Lui le Fidèle de la religion."
+        },
+        "appNumber": 78
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "مُحَمَّدٌ وَسِيلَتِى لِخِلِّى ۞ حِبِّى الَّذِى يَجْعَلَ كُثْرًا قُلِّى",
+        "translations": {
+          "it.karamati": "Muḥammad è il mio mezzo d'accesso al mio Intimo, il mio Amato, Colui che rende abbondanza il mio poco.",
+          "en.karamati": "Muḥammad is my means of approach to my Intimate, my Beloved, Who makes my little abundant.",
+          "fr.karamati": "Muḥammad est mon moyen d'accès vers mon Intime, mon Bien-Aimé, Celui qui fait de mon peu une abondance."
+        },
+        "appNumber": 79
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "أُثْنِى عَلَى الَّذِى لَهُ شُكُورِى ۞ وَهْوَ تَعَالَى سَرْمَدًا مَّشْكُورِى",
+        "translations": {
+          "it.karamati": "Elogio Colui al Quale va la mia gratitudine, ed Egli — l'Altissimo — è perpetuamente il mio Ringraziato.",
+          "en.karamati": "I extol Him to Whom my gratitude goes, and He — the Most High — is perpetually the One I thank.",
+          "fr.karamati": "Je loue Celui à Qui va ma gratitude, et Il — le Très-Haut — est perpétuellement mon Remercié."
+        },
+        "appNumber": 80
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "لِلَّهِ حَمْدِىَ وَشُكْرِىَ عَلَى ۞ كُوْنِى خَدِيمَ مَنْ بِهِ يُبْدِى الْعُلَى",
+        "translations": {
+          "it.karamati": "Ad Allah la mia lode e la mia gratitudine per il mio essere servitore di colui per mezzo del quale Egli manifesta le altezze.",
+          "en.karamati": "To Allah my praise and my thanks for my being the servant of him through whom He manifests the heights.",
+          "fr.karamati": "À Allah ma louange et ma gratitude pour mon être serviteur de celui par qui Il manifeste les hauteurs."
+        },
+        "appNumber": 81
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "لِلَّهِ حَمْدِىَ وَشُكْرِى سَرْمَدَا ۞ عَلَى الَّذِى سَعْيِى لَهُ قَدْ حُمِدَا",
+        "translations": {
+          "it.karamati": "Ad Allah la mia lode e la mia gratitudine, perpetuamente, per colui per il quale il mio sforzo è stato lodato.",
+          "en.karamati": "To Allah my praise and my thanks, perpetually, for him for whom my striving has been praised.",
+          "fr.karamati": "À Allah ma louange et ma gratitude, perpétuellement, pour celui pour qui mon effort a été loué."
+        },
+        "appNumber": 82
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "أَكْرَمَنِى الْكَرِيمُ وَالْمُكَرِّمُ ۞ وَبِالْمُكَرِيمِ أَتَنِى الْكَرَمُ",
+        "translations": {
+          "it.karamati": "Mi ha onorato il Generoso, Colui che onora, e per mezzo dell'Onorato (il Profeta) mi è giunta la generosità.",
+          "en.karamati": "The Generous, the Honourer, has honoured me, and through the Honoured (the Prophet) generosity has come to me.",
+          "fr.karamati": "M'a honoré le Généreux, Celui qui honore, et par l'Honoré (le Prophète) m'est venue la générosité."
+        },
+        "appNumber": 83
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "خَيْرُ جَمِيعِ الْعَالَمِينَ أَحْمَدُ ۞ حَامِدُنَا مَحْمُودُنَا مُحَمَّدُ",
+        "translations": {
+          "it.karamati": "Il migliore di tutti i mondi è Aḥmad, il nostro Lodatore, il nostro Lodato, Muḥammad.",
+          "en.karamati": "The best of all the worlds is Aḥmad, our Praiser, our Praised, Muḥammad.",
+          "fr.karamati": "Le meilleur de tous les mondes est Aḥmad, notre Louangeur, notre Loué, Muḥammad."
+        },
+        "appNumber": 84
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "وَجَّهَ لِى الْأَمَانَ دُونَ خَوْفِ ۞ بَاقٍ كَفَانِى مُوجِبَاتِ الْخَوْفِ",
+        "translations": {
+          "it.karamati": "Mi ha rivolto la sicurezza senza timore un Permanente che mi ha preservato dalle cause del timore.",
+          "en.karamati": "An Everlasting One has turned security to me without fear, Who has spared me the causes of fear.",
+          "fr.karamati": "M'a adressé la sécurité sans crainte un Permanent qui m'a préservé des causes de la crainte."
+        },
+        "appNumber": 85
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "فَرِحْتُ بِاللَّهِ الَّذِى أَمَّنَنِى ۞ مِنْ كُلِّ سُوءٍ أَبَدًا بِالْمِنَنِ",
+        "translations": {
+          "it.karamati": "Mi sono rallegrato in Allah, che mi ha dato sicurezza da ogni male, per sempre, con i favori.",
+          "en.karamati": "I have rejoiced in Allah, Who has made me secure from every evil, forever, with favours.",
+          "fr.karamati": "Je me suis réjoui en Allah, qui m'a donné la sécurité contre tout mal, à jamais, par les faveurs."
+        },
+        "appNumber": 86
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "عَلَىَّ مَنَّ اللَّهُ بِالتَّامِينِ ۞ وَطَهَّرَ الْقَلْبَ مِنَ التَّخْمِينِ",
+        "translations": {
+          "it.karamati": "Allah mi ha fatto grazia della messa al sicuro, e ha purificato il cuore dalla congettura.",
+          "en.karamati": "Allah has favoured me with being made secure, and has purified the heart of conjecture.",
+          "fr.karamati": "Allah m'a fait grâce de la mise en sûreté, et a purifié le cœur de la conjecture."
+        },
+        "appNumber": 87
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "لِىَ يَقُودُ اللَّهُ بِالْمَاحِى النَّبِى ۞ مَالَا يَرَاهُ أَحَدٌ فِى طُنُبِ",
+        "translations": {
+          "it.karamati": "A me Allah conduce, per al-Māḥī, il Profeta, ciò che nessuno vede sotto alcuna tenda.",
+          "en.karamati": "To me Allah leads, through al-Māḥī, the Prophet, what no one sees under any tent.",
+          "fr.karamati": "À moi Allah amène, par al-Māḥī, le Prophète, ce que personne ne voit sous aucune tente."
+        },
+        "appNumber": 88
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "يَقُودُ لِى الْأَمِينُ بِالْأَمِينِ ۞ مَا يُحْسِنُ الْأَبْدَانَ بِالتَّسْمِينِ",
+        "translations": {
+          "it.karamati": "Mi conduce il Fedele (Gabriele), per mezzo del Fedele (Muḥammad), ciò che rende belli i corpi con il vigore.",
+          "en.karamati": "The Trustworthy (Gabriel), through the Trustworthy (Muḥammad), leads to me what makes bodies comely with vigour.",
+          "fr.karamati": "Me conduit le Fidèle (Gabriel), par le Fidèle (Muḥammad), ce qui embellit les corps par la vigueur."
+        },
+        "appNumber": 89
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "هَدَانِىَ الْأَمِينُ بِالْخَفِىِّ ۞ وَفُزْتُ بِالْمُعْلَنِ وَالْمَخْفِىِّ",
+        "translations": {
+          "it.karamati": "Mi ha guidato il Fedele con il nascosto, e ho ottenuto il palese e il celato.",
+          "en.karamati": "The Trustworthy has guided me with the hidden, and I have won the open and the concealed.",
+          "fr.karamati": "M'a guidé le Fidèle par le caché, et j'ai obtenu le manifeste et le dissimulé."
+        },
+        "appNumber": 90
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "مَحَا تَوَجُّهَ الْأَذَى لِى الْمَاحِى ۞ غَنِيتُ عَنْ سَيْفٍ وَعَنْ أَرْمَاحِ",
+        "translations": {
+          "it.karamati": "Al-Māḥī ha cancellato il dirigersi del danno verso di me: sono divenuto indipendente da spada e da lance.",
+          "en.karamati": "Al-Māḥī has effaced the turning of harm toward me: I have become free of need of sword and spears.",
+          "fr.karamati": "Al-Māḥī a effacé l'orientation du mal vers moi : je suis devenu indépendant de l'épée et des lances."
+        },
+        "appNumber": 91
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "وَاجَهْنِى الشَّفِيعُ بِالتَّبْشِيرِ ۞ أَنِّى خَدِيمُ النُّورِ وَالْبَشِيرِ",
+        "translations": {
+          "it.karamati": "Mi è venuto incontro l'Intercessore con la buona novella che io sono il servitore della Luce e dell'Annunciatore.",
+          "en.karamati": "The Intercessor has come to meet me with the glad tidings that I am the servant of the Light and the Bearer of glad tidings.",
+          "fr.karamati": "L'Intercesseur est venu à ma rencontre avec la bonne nouvelle que je suis le serviteur de la Lumière et de l'Annonciateur."
+        },
+        "appNumber": 92
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "لِى ضَمِنَ الْبَشِيرُ بِالصَّفَآءِ ۞ مِنْ كَدَرٍ وَجَادَ بِالشِّفَآءِ",
+        "translations": {
+          "it.karamati": "L'Annunciatore mi ha garantito la limpidezza dal torbido e mi ha elargito la guarigione.",
+          "en.karamati": "The Bearer of glad tidings has guaranteed me clarity from turbidity and bestowed healing.",
+          "fr.karamati": "L'Annonciateur m'a garanti la limpidité du trouble et m'a gratifié de la guérison."
+        },
+        "appNumber": 93
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "أَكْرَمَنِى الْبَشِيرُ تَبْشِيرًا يَدُومْ ۞ وَإِنِّىَ الْخِلُّ الْحَبِيبُ وَالْخَدِيمْ",
+        "translations": {
+          "it.karamati": "L'Annunciatore mi ha onorato con una buona novella che dura: che io sono l'intimo, l'amato e il servitore.",
+          "en.karamati": "The Bearer of glad tidings has honoured me with lasting glad tidings: that I am the intimate, the beloved and the servant.",
+          "fr.karamati": "L'Annonciateur m'a honoré d'une bonne nouvelle qui dure : que je suis l'intime, le bien-aimé et le serviteur."
+        },
+        "appNumber": 94
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "هَدَانِىَ الرَّحِيمُ لَآ أَضِلُّ ۞ وَعَنْ سَبِيلِ اللَّهِ لَآ أُضَلُّ",
+        "translations": {
+          "it.karamati": "Mi ha guidato il Misericordioso (Ar-Raḥīm): non mi smarrisco, e dalla via di Allah non sono sviato.",
+          "en.karamati": "The Merciful (Ar-Raḥīm) has guided me: I do not go astray, and from the way of Allah I am not misled.",
+          "fr.karamati": "Le Très-Miséricordieux (Ar-Raḥīm) m'a guidé : je ne m'égare pas, et de la voie d'Allah je ne suis pas détourné."
+        },
+        "appNumber": 95
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "مُحَمَّدٌ صَلَّى عَلَيْهِ اللَّهُ ۞ فِى الْئَالِ وَالصَّحْبِ وَمَنْ وَّالَاهُ",
+        "translations": {
+          "it.karamati": "Muḥammad: Allah lo benedica nella Famiglia, nei Compagni e in chi gli è amico.",
+          "en.karamati": "Muḥammad: may Allah bless him in the Family, the Companions and whoever befriends him.",
+          "fr.karamati": "Muḥammad : qu'Allah le bénisse dans la Famille, les Compagnons et qui lui est ami."
+        },
+        "appNumber": 96
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "يَقُودُ لِى الْمُنَى بِلَآ أَكْدَارِ ۞ فِى هَاذِهِ الدَّارِ وَتِلْكَ الدَّارِ",
+        "translations": {
+          "it.karamati": "Egli mi conduce i desideri senza torbidi, in questa dimora e in quella dimora.",
+          "en.karamati": "He leads wishes to me without troubles, in this abode and in that abode.",
+          "fr.karamati": "Il m'amène les souhaits sans troubles, dans cette demeure et dans cette autre demeure."
+        },
+        "appNumber": 97
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "حُزْنِى الَّذِى مَضَى لِغَيْرِى صُرِفَا ۞ وَكَوْنِىَ الْعَبْدَ الْخَدِيمَ عُرِفَا",
+        "translations": {
+          "it.karamati": "La mia tristezza passata è stata volta verso altri che me, e il mio essere il servo, il servitore, è stato riconosciuto.",
+          "en.karamati": "My past sorrow has been turned toward others than me, and my being the servant, the servitor, has been recognised.",
+          "fr.karamati": "Ma tristesse passée a été tournée vers d'autres que moi, et mon être le serviteur, le servant, a été reconnu."
+        },
+        "appNumber": 98
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "زَانَ عِبَادَتِى وَزَانَ خِدَمِى ۞ صَفَآءُ كُلِّىَ بِغَيْرِ عَدَمِ",
+        "translations": {
+          "it.karamati": "Ha adornato la mia adorazione e ha adornato i miei servizi la limpidezza di tutto me stesso, senza mancanza.",
+          "en.karamati": "The clarity of all of me, without lack, has adorned my worship and adorned my services.",
+          "fr.karamati": "A orné mon adoration et a orné mes services la limpidité de tout mon être, sans manque."
+        },
+        "appNumber": 99
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "نَوَيْتُ شُكْرَ اللَّهِ بِالَّذِى أَبَاحْ ۞ لِىَ وَلِى كَانَ بِأَمْنٍ وَرَبَاحْ",
+        "translations": {
+          "it.karamati": "Ho inteso (esprimere) la gratitudine ad Allah per ciò che ha reso lecito per me, ed è stato per me con sicurezza e guadagno.",
+          "en.karamati": "I have intended gratitude to Allah for what He made lawful for me, and He has been for me with security and gain.",
+          "fr.karamati": "J'ai eu l'intention (d'exprimer) la gratitude envers Allah pour ce qu'Il a rendu licite pour moi, et Il a été pour moi avec sécurité et gain."
+        },
+        "appNumber": 100
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "وَجْهِىَ ذُو تَوَجُّهٍ لِلْبَاقِى ۞ وَلِى يَقُودُ مَطْلَبَ السُّبَّاقِ",
+        "translations": {
+          "it.karamati": "Il mio volto è rivolto al Permanente, ed Egli mi conduce la meta dei precursori.",
+          "en.karamati": "My face is turned toward the Everlasting, and He leads to me the goal of the foremost.",
+          "fr.karamati": "Mon visage est tourné vers le Permanent, et Il m'amène le but des devanciers."
+        },
+        "appNumber": 101
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "نَاجَانِىَ الْكَرِيمُ وَالْمُكَرِّمُ ۞ نَاجَانِىَ الشَّفِيعُ وَالْمُكَرَّمُ",
+        "translations": {
+          "it.karamati": "Ha conversato intimamente con me il Generoso, Colui che onora; ha conversato intimamente con me l'Intercessore, l'Onorato.",
+          "en.karamati": "The Generous, the Honourer, has conversed intimately with me; the Intercessor, the Honoured, has conversed intimately with me.",
+          "fr.karamati": "A conversé intimement avec moi le Généreux, Celui qui honore ; a conversé intimement avec moi l'Intercesseur, l'Honoré."
+        },
+        "appNumber": 102
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "يَقُودُ لِى الْقُرْءَانُ وَالْحَدِيثُ ۞ مَادُونَهُ التَّفْسِيرُ وَالتَّحْدِيثُ",
+        "translations": {
+          "it.karamati": "Il Corano e l'ḥadīth mi conducono ciò al di sotto di cui stanno l'esegesi e la trasmissione.",
+          "en.karamati": "The Qurʾān and the ḥadīth lead to me that beneath which lie exegesis and transmission.",
+          "fr.karamati": "Le Coran et le ḥadīth m'amènent ce au-dessous de quoi sont l'exégèse et la transmission."
+        },
+        "appNumber": 103
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "سَاقَ لِىَ الْمُنْزِلُ خَيْرَ الذِّكْرِ ۞ وَكَانَ لِى الْبَاقِى بِغَيْرِ مَكْرِ",
+        "translations": {
+          "it.karamati": "Colui che fa discendere (il Libro) mi ha sospinto il migliore del Ricordo, e il Permanente è stato per me senza inganno.",
+          "en.karamati": "The Sender (of the Book) has driven to me the best of the Remembrance, and the Everlasting has been for me without guile.",
+          "fr.karamati": "Celui qui fait descendre (le Livre) m'a amené le meilleur du Rappel, et le Permanent a été pour moi sans ruse."
+        },
+        "appNumber": 104
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "text": "تَسْلِيمُ مَنْ لِّى كَانَ بِالْأَغْرَاضِ ۞ عَلَى بَشِيرٍ قَدْ مَحَا أَمْرَاضِى",
+        "translations": {
+          "it.karamati": "Il saluto di pace di Colui che è stato per me con gli scopi (sia) su un Annunciatore che ha cancellato le mie malattie,",
+          "en.karamati": "The peace of Him Who has been for me with my aims (be) upon a Bearer of glad tidings who effaced my illnesses,",
+          "fr.karamati": "Le salut de paix de Celui qui a été pour moi avec les buts (soit) sur un Annonciateur qui a effacé mes maladies,"
+        },
+        "appNumber": 105
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "text": "بِئَالِهِ وَصَحْبِهِ وَالْمُسْلِمِينْ ۞ وَالْمُسْلِمَاتِ نِعْمَ خَيْرُ الْعَالَمِينْ",
+        "translations": {
+          "it.karamati": "con la sua Famiglia, i suoi Compagni, i musulmani e le musulmane: eccellente il migliore dei mondi!",
+          "en.karamati": "with his Family, his Companions, the Muslim men and the Muslim women: how excellent the best of the worlds!",
+          "fr.karamati": "avec sa Famille, ses Compagnons, les musulmans et les musulmanes : excellent le meilleur des mondes !"
+        },
+        "appNumber": 106
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "text": "شَهِدْتُّ أَنَّ اللَّهَ رَبٌّ وَاحِدُ ۞ وَلِجَنَابِى لَا يَمِيلُ جَاحِدُ",
+        "translations": {
+          "it.karamati": "Ho attestato che Allah è un Signore Uno, e verso la mia persona non si volge alcun rinnegatore.",
+          "en.karamati": "I have borne witness that Allah is One Lord, and no denier inclines toward my person.",
+          "fr.karamati": "J'ai attesté qu'Allah est un Seigneur Un, et vers ma personne ne se tourne aucun négateur."
+        },
+        "appNumber": 107
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "text": "رَفَعْتُ أَمْدَاحِى لِأَفْضَلِ الْوَرَى ۞ وَقَادَ لِى مَعَ مُنَاىَ السُّوَرَا",
+        "translations": {
+          "it.karamati": "Ho elevato le mie lodi al più eccellente delle creature, ed Egli mi ha condotto, con i miei desideri, le sure.",
+          "en.karamati": "I have raised my praises to the most excellent of creation, and He has led to me, with my wishes, the sūras.",
+          "fr.karamati": "J'ai élevé mes louanges vers le plus excellent des créatures, et Il m'a amené, avec mes souhaits, les sourates."
+        },
+        "appNumber": 108
+      }
     ]
   }
 }

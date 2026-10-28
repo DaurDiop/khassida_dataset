@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "Kafaaka Rabbuka",
+    "transliterationName": "Kafaaka Rabbuka",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Your Lord suffices you: He will suffice you against an overflowing (calamity), whose overflowing is like a hidden ambush from a king."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Your Lord suffices you, Guarantor and refuge of every great one, against a star that imitated the star of the celestial sphere,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "(a calamity) returning, onslaught after onslaught, like the onslaught that returns deep in the liver; it mocks you by sowing doubt: (He suffices you) against the menacing breast of every hostile force, against all."
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 97,
+    "name": "Matlabul Fawzayni 3",
+    "transliterationName": "Matlabul Fawzayni 3",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 117,
+        "text": "e per la sacralità dei (suoi) figli e delle (sue) figlie, e per la sacralità della Famiglia insieme alle spose,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 118,
+        "text": "e per la sacralità degli Inviati e dei Profeti, dei dotti insieme ai santi,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 119,
+        "text": "e per la sacralità degli angeli splendenti e nobili, e per la sacralità della Kaʿba, la Tua Casa sacra,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 120,
+        "text": "e per la sacralità della Casa santa, immensa (Gerusalemme), e per la città del Tuo nobile Inviato (Medina),"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 121,
+        "text": "e per la Tua Casa frequentata (Corano 52:4), o Signore, e gli angeli che la visitano al di sopra del cielo,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 122,
+        "text": "e per il prestigio di ogni dotato di guida, sia egli virtuoso, o guida spirituale, o adoratore, o consigliere sincero,"
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 123,
+        "text": "e per il prestigio di chiunque a Te sia ricondotto: donami tutto ciò che da Te chiedo."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 124,
+        "text": "E preservami rapidamente dall'insieme di ciò da cui cerco rifugio in Te, o Datore di rifugio."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 125,
+        "text": "E riunisci, qui, me e ciò che mi sospinge verso di Te, dovunque esso sia conosciuto;"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 126,
+        "text": "e tutto ciò che da Te distoglie, o Creatore senza modello (Al-Badīʿ), separalo rapidamente da me."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 127,
+        "text": "Io sono colui che ha sottomesso qui il proprio volto a Te, risoluto a fare il bene;"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 128,
+        "text": "io sono colui che non inclina mai verso altri che Te, qui e poi domani."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 129,
+        "text": "E perché no, mentre Tu sei il mio Signore, il Garante, e Tu mi basti, sì che non inclino (altrove)?"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 130,
+        "text": "O Benefico, Tu sei il mio Signore, il Donatore, e delle Tue aperture (spirituali) non dubito."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 131,
+        "text": "O Benefico, Tu sei il mio Signore, Colui che basta (Al-Ḥasīb), e Tu mi basti, sì che non resto deluso."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 132,
+        "text": "O Giusto, Tu sei il mio Signore, il Difensore, e Tu mi basti, sì che non mi difendo (da me)."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 133,
+        "text": "O Vivente, Tu sei il Dotato di Maestà, l'Immenso (Al-Wāsiʿ), e Tu mi basti, sì che non contendo."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 134,
+        "text": "O Signore, Tu sei il Dotato di potenza (Corano 13:13), l'Unico, e Tu mi basti, sì che non patisco."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 135,
+        "text": "O Singolare, Tu sei il Dotato di doni, o Glorioso (Al-Mājid), e Tu mi basti, sì che non invidio."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 136,
+        "text": "Mio Signore, Tu sei il Dotato di guida, o Colui che giova (An-Nāfiʿ), e Tu mi basti, sì che non interrompo (i legami)."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 137,
+        "text": "Tu sei Colui che concede a coloro che Ti amano la Tua guida, e Tu mi basti, sì che non cerco altri che Te."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 138,
+        "text": "Proteggi dunque il mio recinto; sii per me una fortezza inespugnabile contro ogni essere dotato di zanne e di artigli, in ogni momento."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 139,
+        "text": "E preservami, o Dotato della Permanenza e dell'Eternità, dal danno di colui che ha camminato verso di me a piedi,"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 140,
+        "text": "e dal male di chi cavalca armato, e dal male di ciò che vola dotato di ali,"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 141,
+        "text": "e dal male di chi siede (a tramare) con le parole, e dal male di chi è disteso e di chi è in piedi,"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 142,
+        "text": "e dal male di chi soffia nei nodi (Corano 113:4), e dal male dell'invidioso e di chi rinnega."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 143,
+        "text": "Per mezzo di Te, o mio Dio, ho legato (reso innocui) il leone, il serpente, lo scorpione e la vipera nera,"
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 144,
+        "text": "chi annoda, chi soffia, il ladro, chi getta il malocchio, lo stregone e chi giunge di notte,"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 145,
+        "text": "e gli uomini e i jinn insieme, (allontanandoli) da me e da tutti coloro che si sono sottomessi (all'Islām) in ciò che è palese,"
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 146,
+        "text": "con mille e mille pronunce di «Non vi è forza né potenza se non in Dio, dotato dell'Altezza»."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 147,
+        "text": "E salvami dal male degli abitanti della terra, e dal male di ogni genitore e di ciò che ha generato (Corano 90:3)."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 148,
+        "text": "E preservami dal male della bocca e dell'occhio, e di chiunque mi abbia preso di mira con la rovina."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 149,
+        "text": "E salvami dall'iniquità di ogni iniquo, e dal male di ogni ignorante e dotto,"
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 150,
+        "text": "di ogni silenzioso e di ogni parlante, di ogni apostata e di ogni visitatore notturno,"
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 151,
+        "text": "di ogni vilissimo e di ogni eccellente, di ogni dominatore e di ogni aggressore,"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 152,
+        "text": "di ogni volatile e di ogni camminante, di ogni oscuro e di ogni rinomato,"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 153,
+        "text": "di ogni invidioso e di ogni odiatore, di ogni tiranno e di ogni colpevole."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 154,
+        "text": "E salvami, o Tu che sei eccelso, o Glorioso (Al-Majīd), dal male dei jinn insieme a Satana ribelle,"
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 155,
+        "text": "dal male di chi è vicino e dal male del lontano, del caldo e del freddo, e dal male dell'acqua."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 156,
+        "text": "E rendimi signore e sostienimi per sempre, e purifica il cuore e rendi sano il corpo."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 157,
+        "text": "E donami la veglia (di preghiera) nelle notti e il digiuno nel giorno, con compiutezza."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 158,
+        "text": "E spogliami dei vizi, e sii Colui che mi abbellisce con le virtù."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 159,
+        "text": "E rendi acuto il mio intelletto, e apri per me, Signore, un'apertura evidente (Corano 48:1), quale non si vede per un mio pari."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 160,
+        "text": "E donami perizia e luce, e sul Ponte (aṣ-Ṣirāṭ) rendi facile il passaggio."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 161,
+        "text": "E donami il ricordo (di Te) con gratitudine in ogni momento, e annoverami nell'insieme dei Ravvicinati."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 162,
+        "text": "E non cessare, o mio Sovrano, di essere la mia guida; ed educami e sii il mio intimo amico."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 163,
+        "text": "E insegnami una scienza da presso di Te (Corano 18:65), finché divenga saldo, (vasto come) un oceano."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 164,
+        "text": "E sii il mio aiuto contro Satana, l'anima e le creature, per tutta la durata dei tempi."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 165,
+        "text": "E sii per me, nelle due Dimore, un rifugio, e in esse non cessare di essere per me un riparo."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 166,
+        "text": "E purificami nella forma e nel cuore, e donami elevazione e amore."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 167,
+        "text": "E sii il mio Patrono nella vita e presso la mia morte, nella tomba e nel Raduno (della Resurrezione), domani."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 168,
+        "text": "E non cessare, o Custode (Al-Ḥafīẓ), di essere per me protettore, custode, schermo e compiaciuto (di me),"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 169,
+        "text": "attraente (a Te), guida, maestro, conduttore verso la retta via, Colui che onora,"
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 170,
+        "text": "guida, soccorritore, e Colui che fa dono di tutto ciò che mi giova, dotato di benevolenza."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 171,
+        "text": "E fammi percorrere i sentieri della salvezza, e preservami dall'insieme dei peccati."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 172,
+        "text": "E fammi percorrere, Signore, la via dei santi, nobili, sinceri, eletti."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 173,
+        "text": "E concedimi una felicità dopo la quale non veda sventura o danno."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 174,
+        "text": "E rendi saldo il Tuo amore nel mio cuore, e l'amore del migliore delle creature, con perseveranza,"
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "appNumber": 175,
+        "text": "e l'amore della sua Famiglia e dei suoi Compagni tutti, poi l'amore di ogni musulmano obbediente."
+      },
+      {
+        "number": 60,
+        "verseFrom": 119,
+        "verseTo": 120,
+        "appNumber": 176,
+        "text": "O nostro Signore, o Dotato di doni, esaudisci il mio ricorso intercessorio al Prescelto, l'eletto;"
+      },
+      {
+        "number": 61,
+        "verseFrom": 121,
+        "verseTo": 122,
+        "appNumber": 177,
+        "text": "poi benedici lui della migliore benedizione, che mi conduca all'incontro con le guide."
+      },
+      {
+        "number": 62,
+        "verseFrom": 123,
+        "verseTo": 124,
+        "appNumber": 178,
+        "text": "E rendimi bramoso dell'amore di ogni musulmano, e salvami dal male di ogni criminale."
+      },
+      {
+        "number": 63,
+        "verseFrom": 125,
+        "verseTo": 126,
+        "appNumber": 179,
+        "text": "E rendimi bramoso delle obbedienze, e preservami dai peccati e da tutte le sedizioni."
+      }
+    ]
+  }
+}

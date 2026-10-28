@@ -391,6 +391,296 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "مَدَّ لِىَ الْحَقُّ الْمُبِينْ ۞ مَا لِلْبَرِيَّةِ يَبِينَ",
+        "translations": {
+          "it.karamati": "Mi ha esteso il Vero, l'Evidente (Al-Ḥaqq al-Mubīn), ciò che appare alle creature",
+          "en.karamati": "The Real, the Manifest (Al-Ḥaqq al-Mubīn), has extended to me what appears to creation",
+          "fr.karamati": "Le Vrai, l'Évident (Al-Ḥaqq al-Mubīn), m'a étendu ce qui apparaît aux créatures"
+        },
+        "appNumber": 73
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "وَمَا لِغَيْرِى لَايَبِينْ ۞ مِنْ بُشَرٍ وَنِعَمِ",
+        "translations": {
+          "it.karamati": "e ciò che ad altri che me non appare, di buone novelle e di favori.",
+          "en.karamati": "and what does not appear to others than me, of glad tidings and favours.",
+          "fr.karamati": "et ce qui à d'autres que moi n'apparaît pas, de bonnes nouvelles et de faveurs."
+        },
+        "appNumber": 74
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "حَفِظْتُ ذِكْرَهُ الْعَزِيزْ ۞ وَلِىَ جَادَ بِعَزِيزْ",
+        "translations": {
+          "it.karamati": "Ho custodito (a memoria) il Suo Ricordo prezioso, ed Egli mi ha elargito (un dono) prezioso,",
+          "en.karamati": "I have preserved (by heart) His precious Remembrance, and He has bestowed on me (a gift) precious,",
+          "fr.karamati": "J'ai gardé (par cœur) Son Rappel précieux, et Il m'a gratifié d'(un don) précieux,"
+        },
+        "appNumber": 75
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَمَا مُرَادِى بِعَزِيزْ ۞ عَلَى الْقَدِيرِ الْمُنْعِمِ",
+        "translations": {
+          "it.karamati": "e il mio desiderio non è arduo per l'Onnipotente, il Dispensatore di favori (cfr. Corano 14:20).",
+          "en.karamati": "and my wish is not hard for the All-Powerful, the Bestower of favours (cf. Qurʾān 14:20).",
+          "fr.karamati": "et mon désir n'est pas ardu pour le Tout-Puissant, le Dispensateur de faveurs (cf. Coran 14:20)."
+        },
+        "appNumber": 76
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "مُلْكُ الَّذِى لَهُ الْوُجُودْ ۞ يَقُودُ لِى أَفْضَلَ جُودْ",
+        "translations": {
+          "it.karamati": "Il regno di Colui al Quale appartiene l'esistenza mi conduce la più eccellente generosità,",
+          "en.karamati": "The kingdom of Him to Whom existence belongs leads to me the most excellent bounty,",
+          "fr.karamati": "Le royaume de Celui à Qui appartient l'existence m'amène la plus excellente générosité,"
+        },
+        "appNumber": 77
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَلِىَ صَيَّرَ الْهُجُودْ ۞ إِجَابَةً بِنِعَمِ",
+        "translations": {
+          "it.karamati": "e per me ha reso le veglie notturne (di preghiera) un esaudimento con favori.",
+          "en.karamati": "and for me has made the night vigils (of prayer) an answering with favours.",
+          "fr.karamati": "et pour moi a fait des veilles nocturnes (de prière) un exaucement avec des faveurs."
+        },
+        "appNumber": 78
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "مُلْكُ الْعَلِى الْبَاقِى الْقَدِيمْ ۞ جَعَلَنِى أَسْنَى خَدِيمْ",
+        "translations": {
+          "it.karamati": "Il regno dell'Altissimo, del Permanente, dell'Eterno, mi ha reso il più splendido servitore",
+          "en.karamati": "The kingdom of the Most High, the Everlasting, the Eternal, has made me the most radiant servant",
+          "fr.karamati": "Le royaume du Très-Haut, du Permanent, de l'Éternel, m'a fait le plus resplendissant serviteur"
+        },
+        "appNumber": 79
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لِمَنْ لَّهُ فَضْلٌ يَدُومْ ۞ وَصَانَنِى فِى خِدَمِ",
+        "translations": {
+          "it.karamati": "di colui al quale appartiene un merito che dura, e mi ha preservato nei (miei) servizi.",
+          "en.karamati": "of him to whom belongs an enduring merit, and has guarded me in (my) services.",
+          "fr.karamati": "de celui à qui appartient un mérite qui dure, et m'a préservé dans (mes) services."
+        },
+        "appNumber": 80
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "دَعَا قِلَامِى وَالْمِدَادْ ۞ لِشُكْرِ رَبِّىَ وِدَادْ",
+        "translations": {
+          "it.karamati": "Le mie penne e l'inchiostro hanno chiamato a ringraziare il mio Signore un affetto",
+          "en.karamati": "My pens and the ink have called, to thank my Lord, an affection",
+          "fr.karamati": "Mes plumes et l'encre ont appelé à remercier mon Seigneur une affection"
+        },
+        "appNumber": 81
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "لَهُ وَوُدُّذِى السَّدَادْ ۞ نَبِيِّنَا الْمُقَدَّمِ",
+        "translations": {
+          "it.karamati": "per Lui, e l'affetto per colui che è dotato di rettitudine, il nostro Profeta, il Preposto.",
+          "en.karamati": "for Him, and affection for him who is possessed of rectitude, our Prophet, the Foremost.",
+          "fr.karamati": "pour Lui, et l'affection pour celui qui est doté de droiture, notre Prophète, le Préposé."
+        },
+        "appNumber": 82
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "يَنْقَادُ لِى بِلَا انْتِهَآ ۞ مِمَّنْ لَّهُ سَيْرِى انْتِهَى",
+        "translations": {
+          "it.karamati": "Si sottomette a me, senza fine, da parte di Colui verso il Quale il mio cammino è giunto al termine,",
+          "en.karamati": "There yields to me, without end, from Him in Whom my journey has reached its end,",
+          "fr.karamati": "Se soumet à moi, sans fin, de la part de Celui vers Qui mon cheminement a abouti,"
+        },
+        "appNumber": 83
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "مَاالْقَلْبُ مِنِّىَ اشْتَهَى ۞ مَعَ رِضَى ذِى الْقِدَمِ",
+        "translations": {
+          "it.karamati": "ciò che il mio cuore ha desiderato, insieme al compiacimento del Dotato di eternità.",
+          "en.karamati": "what my heart has desired, together with the good pleasure of the Possessor of eternity.",
+          "fr.karamati": "ce que mon cœur a désiré, avec l'agrément du Détenteur de l'éternité."
+        },
+        "appNumber": 84
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "أَذْهَبَ رَبِّىَ الْمَرَضْ ۞ لِغَيْرِ ذَاتِى بِالْغَرَضْ",
+        "translations": {
+          "it.karamati": "Il mio Signore ha fatto andare la malattia verso altri che la mia persona, con lo scopo (esaudito).",
+          "en.karamati": "My Lord has sent sickness away toward others than my person, with the aim (fulfilled).",
+          "fr.karamati": "Mon Seigneur a fait aller la maladie vers d'autres que ma personne, avec le but (exaucé)."
+        },
+        "appNumber": 85
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "لَمْ يَنْحُنِى مَنِ اغْتَرَضْ ۞ بِجَدَلِ وَتُهَمِ",
+        "translations": {
+          "it.karamati": "Non si è diretto contro di me chi si è opposto con disputa e accuse;",
+          "en.karamati": "None who opposed with disputation and accusations has come against me;",
+          "fr.karamati": "Ne s'est pas dirigé contre moi celui qui s'est opposé avec dispute et accusations ;"
+        },
+        "appNumber": 86
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "لَمْ يَنْحُنِى مُنَازِعُ ۞ إِذْ بِالْهَوَى يُنَازِعُ",
+        "translations": {
+          "it.karamati": "non si è diretto contro di me un contendente, poiché egli contende con la passione,",
+          "en.karamati": "no contender has come against me, for he contends with passion,",
+          "fr.karamati": "un contestataire ne s'est pas dirigé contre moi, puisqu'il conteste avec la passion,"
+        },
+        "appNumber": 87
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "وَلِىَ رَبِّى نَازِعُ ۞ ذِكْرًا مُّزِيلَ وَهَمِ",
+        "translations": {
+          "it.karamati": "e per me il mio Signore estrae un ricordo che rimuove l'illusione.",
+          "en.karamati": "and for me my Lord draws out a remembrance that removes illusion.",
+          "fr.karamati": "et pour moi mon Seigneur tire un rappel qui ôte l'illusion."
+        },
+        "appNumber": 88
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "حَفِظَ رَبِّى ذِكْرَهُ ۞ بِى وَأُدِيمُ شُكْرَهُ",
+        "translations": {
+          "it.karamati": "Il mio Signore ha custodito il Suo Ricordo per mezzo mio, e io perpetuo la gratitudine a Lui,",
+          "en.karamati": "My Lord has preserved His Remembrance through me, and I perpetuate gratitude to Him,",
+          "fr.karamati": "Mon Seigneur a gardé Son Rappel par moi, et je perpétue ma gratitude envers Lui,"
+        },
+        "appNumber": 89
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "وَلِى يُدِيمُ بِشْرَهُ ۞ مَعْ سِرِّهِ الْمُنْبَهِمِ",
+        "translations": {
+          "it.karamati": "e per me Egli perpetua la Sua gioia, con il Suo segreto recondito.",
+          "en.karamati": "and for me He perpetuates His joy, with His hidden secret.",
+          "fr.karamati": "et pour moi Il perpétue Sa joie, avec Son secret caché."
+        },
+        "appNumber": 90
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "بَرَكَةُ الْمُشَفَّعِ ۞ مُخْجِلَةٌ لِّمِدْفَعِ",
+        "translations": {
+          "it.karamati": "La benedizione dell'Intercessore accolto confonde il cannone,",
+          "en.karamati": "The blessing of the accepted Intercessor puts the cannon to shame,",
+          "fr.karamati": "La bénédiction de l'Intercesseur agréé confond le canon,"
+        },
+        "appNumber": 91
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "وَكُلَّ مَالَمْ يَنْفَعِ ۞ نَفَتْ لِغَيْرِ هِمَمِى",
+        "translations": {
+          "it.karamati": "e tutto ciò che non giova essa ha respinto verso altri che le mie aspirazioni.",
+          "en.karamati": "and all that does not profit it has driven toward others than my aspirations.",
+          "fr.karamati": "et tout ce qui ne profite pas, elle l'a repoussé vers d'autres que mes aspirations."
+        },
+        "appNumber": 92
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "يَقُودُ لِى إِلَى الْجِنَانْ ۞ مَنْ لِّىَ نَوَّرَ الْجَنَانْ",
+        "translations": {
+          "it.karamati": "Mi conduce verso i Giardini (al-jinān) Colui che mi ha illuminato il cuore (al-janān),",
+          "en.karamati": "He leads me toward the Gardens (al-jinān) Who has illumined my heart (al-janān),",
+          "fr.karamati": "Me conduit vers les Jardins (al-jinān) Celui qui m'a illuminé le cœur (al-janān),"
+        },
+        "appNumber": 93
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "بِشْرًا وَصَفْوًا بِامْتِنَانْ ۞ بِلَآ أَذًى أَوْغُمَمِ",
+        "translations": {
+          "it.karamati": "(con) gioia e limpidezza, con munificenza, senza danno né angosce.",
+          "en.karamati": "(with) joy and clarity, with munificence, without harm or griefs.",
+          "fr.karamati": "(avec) joie et limpidité, avec munificence, sans mal ni angoisses."
+        },
+        "appNumber": 94
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "بَارَكَ لِى الْحَقُّ الْمُبِينْ ۞ فِمَا لِخَلْقِهِ يَبِينْ",
+        "translations": {
+          "it.karamati": "Mi ha benedetto il Vero, l'Evidente, in ciò che appare alle Sue creature",
+          "en.karamati": "The Real, the Manifest, has blessed me in what appears to His creatures",
+          "fr.karamati": "Le Vrai, l'Évident, m'a béni en ce qui apparaît à Ses créatures"
+        },
+        "appNumber": 95
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "وَفِى الَّذِى لَيْسَ يَبِينْ ۞ لِغَيْرِ ذَاتِ الْمُنْعِمِ",
+        "translations": {
+          "it.karamati": "e in ciò che non appare se non all'Essenza del Dispensatore di favori.",
+          "en.karamati": "and in what appears to none but the Essence of the Bestower of favours.",
+          "fr.karamati": "et en ce qui n'apparaît qu'à l'Essence du Dispensateur de faveurs."
+        },
+        "appNumber": 96
+      }
     ]
   }
 }

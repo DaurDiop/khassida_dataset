@@ -1,0 +1,223 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 100,
+    "name": "Matlabut Taqabbuli 1",
+    "transliterationName": "Matlabut Taqabbuli 1",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1,
+        "text": "La lode ad Allah, Colui che muta la cattiva azione in buona azione (Corano 25:70) e dona copiosamente,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 2,
+        "text": "e le Sue benedizioni su colui dal quale è stato accettato tutto ciò che ha portato, e che è stato preferito."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 3,
+        "text": "Ciò detto: in verità io oggi mi volgo pentito verso un Signore Perdonatore, sperando l'accettazione,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 4,
+        "text": "cercando intercessione per la Sua grazia e per il prestigio del Suo Amato, al-Māḥī, immenso di prestigio."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 5,
+        "text": "O nostro Signore, in verità io mi pento oggi: preservami, nel mondo e nell'Altro, dal biasimo."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 6,
+        "text": "O nostro Signore, in verità io confesso i peccati: perdonami dunque i peccati e cancella i difetti."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 7,
+        "text": "O nostro Signore, per l'Eletto accetta tutto ciò che ho presentato di opere."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 8,
+        "text": "O nostro Signore, per il diritto di «Nel Nome di Allah», donami una preservazione senza fine."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 9,
+        "text": "O nostro Signore, per il Prescelto, la Famiglia e i Compagni, esaudisci la mia richiesta."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 10,
+        "text": "E benedici e dona pace sul Profeta e sulla sua Famiglia, ed elargiscimi la buona creanza."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 11,
+        "text": "E benedici e dona pace sull'Inviato e sulla sua Famiglia, e donami per mezzo di lui il giungere (alla meta)."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 12,
+        "text": "E benedici e dona pace sul Pio e sulla sua Famiglia, e donami per mezzo di lui la vittoria."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 13,
+        "text": "E benedici e dona pace sull'Annunciatore e sulla sua Famiglia, e sii per me, per mezzo di lui, Soccorritore."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 14,
+        "text": "E benedici e dona pace sull'Ammonitore e sulla sua Famiglia, e sii per me, per mezzo di lui, Perdonatore."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 15,
+        "text": "E benedici e dona pace sull'Obbedito e sulla sua Famiglia, e donami per mezzo di lui la sequela (di lui)."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 16,
+        "text": "E benedici e dona pace sul Nobile e sulla sua Famiglia, e donami per mezzo di lui le scienze."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 17,
+        "text": "E benedici e dona pace sulla Guida (al-Hudā) e sulla sua Famiglia, e donami per mezzo di lui la retta via."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 18,
+        "text": "E benedici e dona pace sulla Guida e sulla sua Famiglia, e per mezzo di lui fa' che la retta guida mi basti."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 19,
+        "text": "E benedici e dona pace sulla Guida e sulla sua Famiglia, e donami per mezzo di lui il seguirne l'esempio."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 20,
+        "text": "E benedici e dona pace su di lui e sulla sua Famiglia, e su chi è a lui ricondotto."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 21,
+        "text": "E benedici lui, poi dona pace, e alla sua Famiglia e ai suoi Compagni, e magnifica(li)."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 22,
+        "text": "E concedimi oggi, per il suo prestigio immenso, l'abbandono dell'innovazione, che potrebbe attirare su di me il (castigo) doloroso."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 23,
+        "text": "E benedici lui, poi dona pace, e alla sua Famiglia e ai suoi Compagni, e onora(li)."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 24,
+        "text": "E concedimi oggi, per mezzo di lui, la salvezza dai nemici, e provvedi per mezzo mio i bisognosi."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 25,
+        "text": "E benedici lui, poi dona pace, e alla Famiglia, ai Compagni e a chi si è a lui ricollegato."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 26,
+        "text": "E concedimi oggi, per mezzo di lui, la serenità, e fammi vedere la Kaʿba e Medina."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 27,
+        "text": "E benedici e dona pace su di lui, sulla sua Famiglia e sui suoi Compagni presso di lui."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 28,
+        "text": "E concedimi oggi, per mezzo di lui, la fermezza in Te e in lui, Signore, e la crescita."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 29,
+        "text": "E benedici e dona pace su di lui e sulla sua Famiglia, e su chi è corso verso di lui."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 30,
+        "text": "E concedimi oggi, per mezzo di lui, il giusto in tutto ciò che faccio, e la ricompensa."
+      }
+    ]
+  }
+}

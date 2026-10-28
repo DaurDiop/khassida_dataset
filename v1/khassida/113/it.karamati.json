@@ -1,0 +1,398 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 113,
+    "name": "Minanul Baaqil Qadiim 4",
+    "transliterationName": "Minanul Baaqil Qadiim 4",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 163,
+        "text": "(Su di lui) ciò che non si può contare di benedizione e saluto di pace, da parte di Colui che per mezzo di lui mi ha condotto la più eccellente parola."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 164,
+        "text": "Il saluto di pace di Colui presso il Quale ciò che è non si esaurisce (sia) su colui verso il cui elogio mi affretto."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 165,
+        "text": "Il mio dono, da Muḥarram fino a Jumādā la Seconda, ha recato un dono prezioso (lett. «di rosso intenso»)."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 166,
+        "text": "Da Rajab fino alla fine di Dhū l-Ḥijja, per lui sono su di me benedizioni, come prova."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 167,
+        "text": "Colui che giova mi ha giovato per mezzo del Beneficato, il Precursore, il Preposto, l'Elevato."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 168,
+        "text": "I due più puri saluti di pace di Colui che mi ha fatto dono dei desideri (siano) su colui per il quale il mio essere (servitore) non è rimasto nascosto."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 169,
+        "text": "Al Prescelto ho rivolto gli elogi vergini (inediti), e per la sua lode il danno si è ritratto da me."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 170,
+        "text": "Al Prescelto ho rivolto le benedizioni vergini, con un saluto di pace per mezzo del quale la sua assemblea si gloria di me."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 171,
+        "text": "Il Permanente mi ha guidato senza smarrimento, e per il Profeta mi conduce il Suo lecito."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 172,
+        "text": "Il Permanente, il Potente (Al-ʿAzīz), mi ha rivolto la potenza, e per mezzo mio si gloria della Sua schiera, i potenti."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 173,
+        "text": "Mi ha rallegrato l'essere il Generoso il Generosissimo, e non cesserò mai d'essere onorato."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 174,
+        "text": "Sono stato ospite del Generoso ed Egli ha reso buona per me l'ospitalità, e per mezzo mio ha guidato dimore insieme ai villaggi."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 175,
+        "text": "A Lui il mio discorso, ed Egli ha reso buono il mio cuore; e non sono io a respingere né ad attirare."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 176,
+        "text": "Per me hai attirato e da me hai respinto ciò che hai scelto per me, e il contrario, o Dotato del favore."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 177,
+        "text": "Mi hai dato possesso, mi hai dato potere di disporre di un possesso, del più bel disporre, che ha sovrastato i re."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 178,
+        "text": "Il «Sii!» ed è da parte Tua mi conduce la mia richiesta con sicurezza: già mi sono compiaciuto di Te."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 179,
+        "text": "Mi hai dato in possesso il Corano e le scienze, e per mezzo mio hai giovato all'ignorante e al dotto."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 180,
+        "text": "Hai sospinto verso di me il giovamento senza danno, hai rivolto verso di me il bene senza male."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 181,
+        "text": "Hai sospinto verso di me (la scienza) custodita, ben redatta; hai accettato da me le perle ripetute."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 182,
+        "text": "Mi hai guidato con il Tuo saggio Ricordo, e hai rivolto verso di me il più giovevole arbitrato."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 183,
+        "text": "Hai accettato la mia lode nella Tua misura immensa, nei confronti di colui al quale hai dato le perle ben ordinate."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 184,
+        "text": "Mi hai preservato da ogni male e prova, e sono divenuto libero, mentre altri che me è stato incatenato."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 185,
+        "text": "Hai rivolto verso di me la libertà di un sovrano, re, indipendente dai re e dal (lungo) cammino."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 186,
+        "text": "Mi hai dato rifugio, per il Prescelto, presso di Te, (quale) intimo e amato per sempre presso di Te."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 187,
+        "text": "Ho rivolto tutto me stesso al Generoso e al Bello, e all'Amorevole, il Signore: da Lui non devio."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 188,
+        "text": "Mi ha onorato il Generoso, eccellente Colui che giova; e quanto è amabile Colui che giova, ed Egli è Colui che eleva!"
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 189,
+        "text": "Il saluto di pace di un Permanente, Patrono e Benevolo, (sia) su colui la cui generosità mi gira attorno."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 190,
+        "text": "Il saluto di pace di un Sufficiente, il migliore che respinge, che ha giovato, il più giovevole che eleva, (sia) su colui che è stato elevato."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 191,
+        "text": "La benedizione del Permanente, il Patrono, il Benevolo, (sia) sul Profeta, il Prescelto, il compassionevole."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 192,
+        "text": "Su colui al quale (vanno) da me benedizione e saluto di pace: a lui da Allah la benedizione e il saluto di pace."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 193,
+        "text": "Ho rivolto al Prescelto, ogni giorno, servizi di lodi che hanno rimosso il mio biasimo."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 194,
+        "text": "Al Profeta ho rivolto, ogni notte, servizi di lodi che hanno reso eccelso il mio conseguimento."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 195,
+        "text": "Si è compiaciuto di me Colui al Quale (appartengono) i miei credi, il mio dire e l'atto, ed Egli è la mia guida."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 196,
+        "text": "Sono stato ospite di Colui che ha reso buona per me la mia ospitalità, e mi ha condotto ciò che non ha mostrato ai Poli (spirituali)."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 197,
+        "text": "Mi ha rivolto ciò che altri che me non vedono, un miracolo che permane per il permesso del Migliore."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 198,
+        "text": "Verso di me Allah ha condotto, nelle due Dimore, qualcosa per mezzo del quale mi ha reso protetto (lett. «due vicini»)."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 199,
+        "text": "Colui che giova mi ha giovato di un giovamento che ha superato (ogni altro), e ha già cancellato dal mio petto l'ipocrisia."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 200,
+        "text": "Mi ha onorato il Generoso, Colui che onora, per il prestigio di colui il cui nome è l'Onorato."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 201,
+        "text": "A me la benedizione del Prescelto ha condotto ciò che ha condotto, senza danno, gradito, ed esso si è sottomesso."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 202,
+        "text": "A me ha condotto ciò che è per me letizia, e verso di me non rivolge i geli (della sventura)."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 203,
+        "text": "Il dono di Dio e dell'Inviato si è rivolto a me, e ho ottenuto la mia richiesta."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 204,
+        "text": "Mi ha rivolto il Signore della notte e del giorno il bene di entrambi, insieme, senza rimprovero."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 205,
+        "text": "Verso di me ha condotto Colui al Quale appartengono i giorni ciò al di sotto di cui stanno il digiuno e la veglia (di preghiera)."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 206,
+        "text": "A me conduce Colui al Quale appartengono i mesi ciò al di sotto di cui stanno la purità e la purificazione."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 207,
+        "text": "A me conduce Colui al Quale appartengono gli anni ciò che, per mezzo mio, ha condotto l'obbligatorio e la Sunna."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 208,
+        "text": "Egli è il Generoso, Colui che giova, Colui che onora; e il Suo servo, il migliore delle creature, è l'Onorato."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 209,
+        "text": "Egli ha respinto il danno dal dirigersi verso di me, per la Sua misura immensa: eccellente è il mio Intimo!"
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 210,
+        "text": "Mi ha rivolto ciò che non cesserà mai d'essere la letizia perpetuata di ogni vittorioso."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 211,
+        "text": "Mi ha rallegrato il mio essere senza torbidi, in questa dimora e in quella dimora,"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 212,
+        "text": "ospite del Generoso, del Bello e dell'Amorevole, Signore delle creature, e per mezzo mio sono onorati degli avi."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 213,
+        "text": "Ad Allah ho rivolto ogni lode, ed Egli ha già cancellato il danno dell'errore e dell'intenzione."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 214,
+        "text": "Sul Profeta, il migliore delle creature, la migliore benedizione e il migliore saluto di pace, che annuncia la buona novella alla sua assemblea."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 215,
+        "text": "Mi è apparso l'essere (per me) l'Inviato di Allah — su di lui la migliore delle benedizioni di Allah —"
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 216,
+        "text": "la certezza del mio cuore, dopo il mio Signore e il Libro: sono divenuto il suo servitore, ed egli ha allontanato il biasimo."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 217,
+        "text": "Muḥammad è il migliore di tutto il creato, ed è stato per me, per Allah, il migliore degli esseri."
+      }
+    ]
+  }
+}

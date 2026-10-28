@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 192,
+    "name": "Yasurru",
+    "transliterationName": "Yasurru",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "My writing gladdens the Messenger of Allah for a Mawlid that lasts for us as gladness, granting the best watering-place."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "My God protected me from all harm, by the standing of him for whom (is), forever, my writing, instead of idle talk and the corrupter."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Muḥammad, the Chosen: his like has not come, nor will one like him come: what an excellent master is mine!"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "My aim from the Master came to me without harm, by the standing of the intercessor of the worlds, Muḥammad."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "I have trusted in the Lord of the Throne, His slave through him, and my heart has never ceased to be bound to good pleasure."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "For the best of creatures (there is) from my pens glad tidings, and he led to me a distinction by which the soul is guided."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Its being, for the best of creation, a vessel that encompassed all lordship, called me to bring this month to life."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Our gifts become clear with Allah forever, and from us has been effaced whoever calls to following the people of vain play."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Our desire has turned toward the Truth, and the Truth is our religion, with the service of the rightly-guided one who guided every guided one."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Toward others than us all corruptions make their way, and good things make their way to us, from the best of helpers."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "I have driven away toward other than Allah what does not befit Him, and my Lord has driven away toward others than me, forever, my envious ones."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "To Allah, through the Chosen, I have turned that by which I obtained a clear, pure water, the best watering-place."
+      }
+    ]
+  }
+}

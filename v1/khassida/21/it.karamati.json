@@ -1,0 +1,151 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 21,
+    "name": "Ayyasa",
+    "transliterationName": "Ayyasa",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Allah ha reso Iblīs disperato di (sedurre) me, a Djéwol (Jéwol), quando L'ho invocato con «O Protettore (Al-Walī)»."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Allah ha bandito verso altri che me, già prima, a Ndar (Saint-Louis), per mezzo della gente di Badr, i leoni, il mio turbamento."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Allah ha bandito verso altri che me, a Dakar, ogni danno che un astuto aveva trascinato verso di me."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Il Compassionevole (Ar-Raḥmān) mi ha insegnato, sulla nave, che io sono il servitore di colui (che riposa) a Medina."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Allah mi ha reso immune, a Conakry, da ogni (cosa) che trascina verso le azioni riprovevoli."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Allah ha allontanato da me a Grand-Bassam, già prima, il mio sfidante, e da me l'ingannatore."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Il Misericordioso (Ar-Raḥīm) mi ha chiamato a Sé presso Dāwum (Dahomey), con ciò che dispensa dal mercanteggiare."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Mi ha agevolato le aspirazioni, presso Libreville, Colui che mi ha condotto ciò che è rimasto nascosto a ogni santo."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Mi ha condotto la gente di Badr, i leoni, Colui che ha allontanato il calunniatore e l'invidioso."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Mi conduce, ovunque io sia, Allah, la buona novella di «Non vi è dio se non Allah»."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Allah ha sospinto verso altri che me, a Mayumba, ciò che affliggeva il mio cuore, e ha innalzato il (mio) fianco."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Ad Allah sono giunto presso Kalwā (in Gabon), ed Egli mi ha custodito da ciò che trascina la sventura."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "La mia scrittura, già prima, presso i mari, ha preservato la mia vita dagli inganni del Respinto (Satana)."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "L'Onnisciente (Al-ʿAlīm) mi ha insegnato, presso le (acque) traboccanti, ciò che vuole, e mi ha preservato dalle (potenze) miscredenti."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "Non si è diretto verso di me, presso i mari che sommergono, chi invita al vino, né gli inviti delle (donne) depravate."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "Il Bello (Al-Jamīl) mi ha agevolato, presso le prove mortali, ciò che mi ha preservato da chi trascina verso le (donne) associatrici."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "I doni di Colui che è stato per me presso le (distese) vaste hanno condotto al mio petto il compiacimento e le (luci) sfolgoranti."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "Mi ha esteso le luci, presso le tenebre e gli ingiusti, Colui che mi ha preservato dagli urti."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "La mia felicità presso Dio, Allah, mi si è manifestata presso la gente dei divertimenti (frivoli)."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "Non si è diretto verso di me, presso la gente dei vini, altro che il compiacimento di un Eterno a cui (appartengono) le mie faccende."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "Allah mi ha purificato, presso la Gente del Libro, dalla miseria (spirituale) e da ogni rimprovero."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "Mi ha onorato, presso gli associatori, Colui che mi ha condotto a Sé con la conoscenza."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "L'ho invocato in intimità con «O Soccorritore (An-Naṣīr), o Protettore (Al-Walī), Tu mi hai preservato da Iblīs a Djéwol»."
+      }
+    ]
+  }
+}

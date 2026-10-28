@@ -63,6 +63,8 @@ def main(app_dir):
     for app_id in ids:
         tr = {l: read_translation(app_dir / f"traduzioni/{l}/{app_id}-{l}.txt") for l in LANGS}
         parts = [k for k in khassidas if base_name(k["name"]) == app_id]
+        # ordine numerico delle parti ("Jalibatul Maraghibi 2" prima di "... 10")
+        parts.sort(key=lambda k: int(re.search(r"(\d+)$", k["name"]).group(1)) if re.search(r"\d+$", k["name"]) else 0)
         if not parts:
             sys.exit(f"{app_id}: nessuna khassida corrispondente nel dataset")
         for k in parts:
@@ -73,19 +75,30 @@ def main(app_dir):
         for n in sorted(tr["it"]):
             ar = tr["it"][n][0]
             segs = [s for s in re.split(r"[۞•]", ar) if norm(s)]
-            chunk = segments[pos : pos + len(segs)]
-            if len(chunk) < len(segs):
+            target = norm(ar)
+            # il dataset può segmentare diversamente dall'app (es. Jazbu): si
+            # consumano segmenti finché il testo normalizzato non copre il verso
+            end, acc = pos, ""
+            while end < len(segments) and len(acc) < len(target):
+                acc += norm(segments[end][1]["text"])
+                end += 1
+            chunk = segments[pos:end]
+            if not chunk:
                 sys.exit(f"{app_id} v{n}: il dataset ha meno segmenti dell'app")
             part = chunk[0][0]
             if any(k is not part for k, _ in chunk):
                 sys.exit(f"{app_id} v{n}: il verso attraversa due parti del dataset")
-            for s, (k, v) in zip(segs, chunk):
-                sim = difflib.SequenceMatcher(None, norm(s), norm(v["text"])).ratio()
-                if sim < MIN_SIMILARITY:
-                    sys.exit(f"{app_id} v{n}: testo non allineato ({sim:.2f})\n  app: {s}\n  dataset: {v['text']}")
-                if sim < 1:
-                    warnings.append(f"{k['name']} verso {v['number']}: «{v['text']}» -> «{s.strip()}»")
-                    v["text"] = s.strip()
+            sim = difflib.SequenceMatcher(None, target, acc).ratio()
+            if sim < MIN_SIMILARITY:
+                sys.exit(f"{app_id} v{n}: testo non allineato ({sim:.2f})\n  app: {ar}\n  dataset: {' / '.join(v['text'] for _, v in chunk)}")
+            if sim < 1:
+                if len(segs) == len(chunk):
+                    for s, (k, v) in zip(segs, chunk):
+                        if norm(s) != norm(v["text"]):
+                            warnings.append(f"{k['name']} verso {v['number']}: «{v['text']}» -> «{s.strip()}»")
+                            v["text"] = s.strip()
+                else:
+                    warnings.append(f"{part['name']} versi {chunk[0][1]['number']}-{chunk[-1][1]['number']}: testo diverso ma segmentazione diversa, NON corretto automaticamente")
             bayt = {
                 "number": len(part["bayts"]) + 1,
                 "verseFrom": chunk[0][1]["number"],
@@ -96,7 +109,7 @@ def main(app_dir):
             if len(parts) > 1:
                 bayt["appNumber"] = n
             part["bayts"].append(bayt)
-            pos += len(segs)
+            pos = end
         if pos != len(segments):
             sys.exit(f"{app_id}: {len(segments) - pos} segmenti del dataset non coperti dall'app")
         print(f"{app_id}: {len(tr['it'])} versi -> {', '.join(k['name'] for k in parts)}")

@@ -247,6 +247,173 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "مَنْ ظَنَّنِى غَيْرَ خَدِيمِ الْمُصْطَفَى ۞ فَإِنَّنِى أَخْدِمُهُ بِمَا اصْطَفَى",
+        "translations": {
+          "it.karamati": "Chi mi ha creduto altro che il servitore del Prescelto (Muḥammad), ebbene io lo servo con ciò che (Allah) ha scelto.",
+          "en.karamati": "Whoever has thought me other than the servant of the Chosen (Muḥammad), well, I serve him with what (Allah) has chosen.",
+          "fr.karamati": "Qui m'a cru autre que le serviteur de l'Élu (Muḥammad), eh bien je le sers par ce qu'(Allah) a choisi."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "أَخْدِمُهُ إِلَى دُخُو لِى الْجَنَّهْ ۞ دَارِ الْقَرَارِ وَالْمُنَّى وَالْمِنَّهْ",
+        "translations": {
+          "it.karamati": "Lo servo fino al mio ingresso nel Paradiso, la Dimora della stabilità, dei desideri e del favore.",
+          "en.karamati": "I serve him until my entry into Paradise, the Abode of permanence, of wishes and of favour.",
+          "fr.karamati": "Je le sers jusqu'à mon entrée au Paradis, la Demeure de la stabilité, des souhaits et de la faveur."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "مَنْ ظَنَّ أَنَّهُ يَكُونُ أَبَدَا ۞ يُرْضِيهِ بِالَّذِى كَخِدْمَتِى بَدَا",
+        "translations": {
+          "it.karamati": "Chi ha creduto che egli possa mai compiacerlo con ciò che sia apparso pari al mio servizio,",
+          "en.karamati": "Whoever has thought that he could ever please him with what appeared like my service,",
+          "fr.karamati": "Qui a cru qu'il pourrait jamais le satisfaire par ce qui serait apparu pareil à mon service,"
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "فَغَرَّهُ الضَّلَالُ وَالْإِضْلَالُ ۞ يَنْقَادُ لِى مِنْهُ بِهِ الْحَلَالُ",
+        "translations": {
+          "it.karamati": "lo hanno ingannato lo smarrimento e il fuorviare; a me si sottomette, da parte sua e per mezzo suo, il lecito.",
+          "en.karamati": "error and leading astray have deceived him; to me there yields, from him and through him, the lawful.",
+          "fr.karamati": "l'égarement et le fourvoiement l'ont trompé ; à moi se soumet, de sa part et par lui, le licite."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "مَدَحْتُهُ قَبْلُ لَدَى لِبَرْوَلِ ۞ مَدْحًا وَنَى عَنْ مِّثْلِهِ كُلُّ وَلِى",
+        "translations": {
+          "it.karamati": "L'ho lodato già prima presso Libreville, di una lode dal cui pari è venuto meno ogni santo.",
+          "en.karamati": "I praised him already before at Libreville, with a praise the like of which every saint fell short of.",
+          "fr.karamati": "Je l'ai loué déjà auparavant à Libreville, d'une louange dont l'égale a fait défaut à tout saint."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "مَدَحْتُهُ مَدْحًا لَّدَى مَايُنْبَا ۞ مَحَا عُيُوبِىَ وَكَفَّ الذَّنْبَا",
+        "translations": {
+          "it.karamati": "L'ho lodato di una lode presso Mayumba, che ha cancellato i miei difetti e ha arrestato il peccato.",
+          "en.karamati": "I praised him with a praise at Mayumba, which effaced my faults and stayed sin.",
+          "fr.karamati": "Je l'ai loué d'une louange à Mayumba, qui a effacé mes défauts et arrêté le péché."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "مَدَحْتُهُ عِنْدَ أُنَاسِ كَلْوَى ۞ مَدْحًا كَفَانِىَ الْعِدَى وَالْبَلْوَى",
+        "translations": {
+          "it.karamati": "L'ho lodato presso la gente di Kalwā, di una lode che mi ha preservato dai nemici e dalla prova.",
+          "en.karamati": "I praised him among the people of Kalwā, with a praise that spared me enemies and trial.",
+          "fr.karamati": "Je l'ai loué chez les gens de Kalwā, d'une louange qui m'a préservé des ennemis et de l'épreuve."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "مِنِّى إِلَيْهِ خِدْمَةٌ قَدْ لَازَمَتْ ۞ رَوْضَتُهُ إِلَى الْقِيَامِ عُظِّمَتْ",
+        "translations": {
+          "it.karamati": "Da me a lui (va) un servizio che è rimasto costante; il suo Giardino (la sua tomba a Medina) sia magnificato fino alla Resurrezione.",
+          "en.karamati": "From me to him (goes) a service that has remained constant; may his Garden (his tomb at Medina) be magnified until the Resurrection.",
+          "fr.karamati": "De moi à lui (va) un service qui est resté constant ; que son Jardin (sa tombe à Médine) soit magnifié jusqu'à la Résurrection."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "رَضِىَ عَنِّى سِبْطُهُ الْجِيلَانِى ۞ عَلَيْهِ رِضْوَانُ الَّذِى أَعْلَانِى",
+        "translations": {
+          "it.karamati": "Si è compiaciuto di me il suo discendente al-Jīlānī: su di lui il compiacimento di Colui che mi ha elevato.",
+          "en.karamati": "His descendant al-Jīlānī has been pleased with me: upon him the good pleasure of the One Who raised me.",
+          "fr.karamati": "S'est agréé de moi son descendant al-Jīlānī : sur lui l'agrément de Celui qui m'a élevé."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "رَضِىَ عَنِّى سِبْطُهُ أَبُو الْحَسَنْ ۞ عَلَيْهِ رِضْوَانُ يُخَلِّدُ الْحَسَنْ",
+        "translations": {
+          "it.karamati": "Si è compiaciuto di me il suo discendente Abū l-Ḥasan (ash-Shādhilī): su di lui un compiacimento che rende perenne il bello.",
+          "en.karamati": "His descendant Abū l-Ḥasan (ash-Shādhilī) has been pleased with me: upon him a good pleasure that makes the beautiful everlasting.",
+          "fr.karamati": "S'est agréé de moi son descendant Abū l-Ḥasan (ash-Shādhilī) : sur lui un agrément qui rend perpétuel le beau."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "رَضِىَ عَنِّى سِبْطُهُ التِّجَّانِى ۞ عَلَيْهِ رِضْوَانُ مُبِيدِ الْجَانِى",
+        "translations": {
+          "it.karamati": "Si è compiaciuto di me il suo discendente at-Tijānī: su di lui il compiacimento di Colui che annienta il colpevole.",
+          "en.karamati": "His descendant at-Tijānī has been pleased with me: upon him the good pleasure of the One Who destroys the guilty.",
+          "fr.karamati": "S'est agréé de moi son descendant at-Tijānī : sur lui l'agrément de Celui qui anéantit le coupable."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "رَضِىَ عَنِّى الْخُلَفَآءُ الْأَرْبَعَهْ ۞ حُزْتُ رِضَى الْمُقَرَّبِينَ الْمُتْبَعَهْ",
+        "translations": {
+          "it.karamati": "Si sono compiaciuti di me i quattro Califfi; ho ottenuto il compiacimento dei Ravvicinati, che si susseguono.",
+          "en.karamati": "The four Caliphs have been pleased with me; I have won the good pleasure of the Brought-Near, in succession.",
+          "fr.karamati": "Se sont agréés de moi les quatre Califes ; j'ai obtenu l'agrément des Rapprochés, qui se succèdent."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "مَنْ لَمْ يَكُنْ عَنِّىَ يَرْضَى فَالْكَرِيمْ ۞ رَضِىَ عَنِّىَ رِضًى لَّيْسَ يَرِيمْ",
+        "translations": {
+          "it.karamati": "Chi non si compiace di me — ebbene il Generoso si è compiaciuto di me di un compiacimento che non viene meno.",
+          "en.karamati": "Whoever is not pleased with me — well, the Generous has been pleased with me with a good pleasure that does not fade.",
+          "fr.karamati": "Qui ne s'agrée pas de moi — eh bien le Généreux s'est agréé de moi d'un agrément qui ne disparaît pas."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "جَزَى الْإِلَاهُ الْمُصْطَفَى خَيْرَ جَزَآ ۞ كَمَا تَقَبَّلَ وَوَعْدًا أَنْجَزَا",
+        "translations": {
+          "it.karamati": "Ricompensi Dio il Prescelto con la migliore ricompensa, così come (Egli) ha accettato e ha adempiuto la promessa.",
+          "en.karamati": "May God reward the Chosen with the best reward, just as (He) accepted and fulfilled the promise.",
+          "fr.karamati": "Que Dieu récompense l'Élu de la meilleure récompense, de même qu'(Il) a accepté et a accompli la promesse."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "صَلَاةُ مَنْ كَرَمُهُ يَلْقَانِى ۞ عَلَى الَّذِى دُونَ الْمِرَآ أَلْقَانِى",
+        "translations": {
+          "it.karamati": "La benedizione di Colui la cui generosità mi viene incontro (sia) su colui che mi ha accolto senza disputa.",
+          "en.karamati": "The blessing of Him Whose generosity comes to meet me (be) upon him who received me without dispute.",
+          "fr.karamati": "La bénédiction de Celui dont la générosité vient à ma rencontre (soit) sur celui qui m'a accueilli sans dispute."
+        }
+      }
     ]
   }
 }

@@ -407,6 +407,283 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "بُشْرَى لَنَا قَدْ أَتَانَا الْجُودُ وَالْكَرَمُ ۞ لَمَّا اسْتَهَلَّتْ عَلَيْنَا لَااشْهُرُ الْحُرُمُ",
+        "translations": {
+          "it.karamati": "Buona novella per noi! Ci sono giunte la generosità e la munificenza, quando sono sorti su di noi i mesi sacri.",
+          "en.karamati": "Glad tidings for us! Generosity and munificence have come to us, as the sacred months dawned upon us.",
+          "fr.karamati": "Bonne nouvelle pour nous ! La générosité et la munificence nous sont venues, quand se sont levés sur nous les mois sacrés."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "حُزْنَا مَتَابًا مَّعَ الْغُفْرَانِ فِى رَجَبٍ ۞ وَنَرْتَجِى فِى الْبَوَاقِى رَوْضَ مَنْ حُرِمُوا",
+        "translations": {
+          "it.karamati": "Abbiamo conseguito il pentimento (accolto) con il perdono in Rajab, e speriamo, nei (mesi) restanti, che siano domati coloro che sono stati privati (della grazia).",
+          "en.karamati": "We have attained repentance (accepted) with forgiveness in Rajab, and we hope, in the remaining (months), for the taming of those who have been deprived (of grace).",
+          "fr.karamati": "Nous avons obtenu le repentir (agréé) avec le pardon en Rajab, et nous espérons, dans les (mois) restants, que soient domptés ceux qui ont été privés (de la grâce)."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "نَرْجُو مِنَ الْوَاحِدِ الْقَهَّارِ خَالِقِنَا ۞ قَهْرَ الْعِدَى وَهْوَ جَبَّارٌ وَمُنْتَقِمُ",
+        "translations": {
+          "it.karamati": "Speriamo dall'Unico, il Dominatore (Al-Wāḥid al-Qahhār), nostro Creatore, il dominio sui nemici: Egli è Irresistibile e Vendicatore.",
+          "en.karamati": "We hope from the One, the Subduer (Al-Wāḥid al-Qahhār), our Creator, the subduing of the enemies: He is Compeller and Avenger.",
+          "fr.karamati": "Nous espérons de l'Unique, le Dominateur (Al-Wāḥid al-Qahhār), notre Créateur, la domination des ennemis : Il est Contraignant et Vengeur."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَهْوَ الْمُغِيثُ الَّذِى أَرْجُو إِغَاثَتَهُ ۞ وَلَسْتُ لِلنَّفْسِ فِى الدَّارَيْنِ أَنْتَقِمُ",
+        "translations": {
+          "it.karamati": "Egli è il Soccorritore (Al-Mughīth), il cui soccorso spero, e io non mi vendico per me stesso nelle due Dimore.",
+          "en.karamati": "He is the Succourer (Al-Mughīth), Whose succour I hope for, and I take no vengeance for myself in the two Abodes.",
+          "fr.karamati": "Il est le Secoureur (Al-Mughīth), dont j'espère le secours, et je ne me venge pas pour moi-même dans les deux Demeures."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "وَهْوَ الْحَكِيمُ الَّذِى مَا شَاءَ كَانَ وَمَا ۞ لَمْ يَكُ شَائِيَهُ فَالدَّهْرَ يَنْعَدِمُ",
+        "translations": {
+          "it.karamati": "Egli è il Saggio (Al-Ḥakīm): ciò che vuole è, e ciò che non vuole resta per sempre inesistente.",
+          "en.karamati": "He is the Wise (Al-Ḥakīm): what He wills is, and what He does not will remains forever non-existent.",
+          "fr.karamati": "Il est le Sage (Al-Ḥakīm) : ce qu'Il veut est, et ce qu'Il ne veut pas demeure à jamais inexistant."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "لَهُ الْبَرَايَا لَهُ أَفْعَا لَهُمْ وَلَهُ ۞ جَلَّ الْوُجُودُ الَّذِى قَدْزَا نَهُ الْقِدَمُ",
+        "translations": {
+          "it.karamati": "A Lui (appartengono) le creature, a Lui le loro azioni, e a Lui — sublime è Egli — l'Esistenza, che l'Eternità senza inizio ha adornato.",
+          "en.karamati": "To Him (belong) the creatures, to Him their deeds, and to Him — sublime is He — Existence, which beginningless Eternity has adorned.",
+          "fr.karamati": "À Lui (appartiennent) les créatures, à Lui leurs actes, et à Lui — sublime est-Il — l'Existence, que l'Éternité sans commencement a ornée."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "فَمَنْ لَّهُ جَلَّ يَنْمِى سَرْمَدًا وَلَدًا ۞ مُثَلِّثًا فِيهِ قَدْ زَلَّتْ لَهُ الْقَدَمُ",
+        "translations": {
+          "it.karamati": "Chi a Lui — sublime è Egli — attribuisce in eterno un figlio, facendone una trinità, il suo piede è scivolato in ciò.",
+          "en.karamati": "Whoever ascribes to Him — sublime is He — forever a son, making a trinity, his foot has slipped therein.",
+          "fr.karamati": "Celui qui Lui — sublime est-Il — attribue éternellement un fils, en faisant une trinité, son pied a glissé en cela."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "تُوبُوا لَهُ يَاذَوِ التَّثْلِيثِ فِى عَجَلٍ ۞ وَسَارِعُوا قَبْلَ مَوْتِ بَعْدَهُ نَدَمُ",
+        "translations": {
+          "it.karamati": "Pentitevi a Lui, o seguaci della Trinità, in fretta, e affrettatevi prima della morte, dopo la quale (c'è solo) rimpianto.",
+          "en.karamati": "Repent to Him, O people of the Trinity, in haste, and hurry before death, after which (there is only) regret.",
+          "fr.karamati": "Repentez-vous à Lui, ô partisans de la Trinité, en hâte, et empressez-vous avant la mort, après laquelle (il n'y a que) regret."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "لِرَبِّكُمْ سَارِعُوْا مُسْتَسْلِمِينَ مَعًا ۞ بِقَفْوِ مَنْ زُحْزِحَتْ عَنْ حِزْبِهِ الظُّلَمُ",
+        "translations": {
+          "it.karamati": "Verso il vostro Signore affrettatevi, sottomessi tutti insieme, seguendo colui (il Profeta) dal cui partito sono state allontanate le tenebre.",
+          "en.karamati": "Hasten to your Lord, submitting all together, following him (the Prophet) from whose party the darkness has been removed.",
+          "fr.karamati": "Vers votre Seigneur empressez-vous, soumis tous ensemble, en suivant celui (le Prophète) du parti duquel les ténèbres ont été écartées."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "اللَّهُ بَاقٍ قَدِيمٌ لَّا يَشَابِهُ مَا ۞ بِالْبَالِ يَخْطُرُ وَهْوَ الْمُفْرَدُ الْعَلَمُ",
+        "translations": {
+          "it.karamati": "Allah è Eterno, Antico, non somiglia a ciò che passa per la mente: Egli è l'Unico, il Segnalato.",
+          "en.karamati": "Allah is Everlasting, Ancient, He does not resemble what crosses the mind: He is the Unique, the Distinguished.",
+          "fr.karamati": "Allah est Éternel, Ancien, Il ne ressemble pas à ce qui passe par l'esprit : Il est l'Unique, le Signalé."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "وَمَنْ يُّثَلِّثْ فَرِيدًا مَّالِكًا صَمَدًا ۞ فَجَاهِلٌ وَيُلَا فِى كُلَّهُ الْأَلَمُ",
+        "translations": {
+          "it.karamati": "E chi fa trinità di un Unico, Re, Assoluto, è un ignorante, e incontrerà tutto il dolore.",
+          "en.karamati": "And whoever makes a trinity of One Unique, King, Self-Sufficient, is ignorant, and shall meet all the pain.",
+          "fr.karamati": "Et celui qui fait une trinité d'un Unique, Roi, Absolu, est un ignorant, et il rencontrera toute la douleur."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "أَنْتُمْ حُيَارَى أُسَارَى لِلَّعِينِ مَعًا ۞ صُمٌّ وَعُمْىٌ كَذَا فِى الْأَلْسُنِ الْبَكَمُ",
+        "translations": {
+          "it.karamati": "Voi siete smarriti, prigionieri del Maledetto (Satana), tutti insieme, sordi e ciechi, e così nelle lingue è il mutismo (Corano 2:18).",
+          "en.karamati": "You are bewildered, captives of the Accursed (Satan), all together, deaf and blind, and likewise in the tongues is dumbness (Qurʾān 2:18).",
+          "fr.karamati": "Vous êtes égarés, prisonniers du Maudit (Satan), tous ensemble, sourds et aveugles, et de même dans les langues est le mutisme (Coran 2:18)."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "إِنِّى لَأَحْمَدُ رَبًّا لَّا شَرِيكَ لَهُ ۞ فِى الْبَرِّ وَالْبَحْرِ وَهْوَ الْوَاسِعُ الْحَكَمُ",
+        "translations": {
+          "it.karamati": "In verità io lodo un Signore che non ha associato, sulla terraferma e sul mare: Egli è il Vasto, il Giudice.",
+          "en.karamati": "Truly I praise a Lord Who has no partner, on land and on sea: He is the All-Embracing, the Judge.",
+          "fr.karamati": "En vérité je loue un Seigneur qui n'a point d'associé, sur la terre ferme et sur la mer : Il est le Vaste, le Juge."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "أَدْعُوهُ وَهْوَ كَرِيمٌ لَّا يُخَيِّبُنِى ۞ بِإِذْ بِهِ مِنْهُ تَاتِى قَلْبِىَ الْحِكَمُ",
+        "translations": {
+          "it.karamati": "Lo invoco, ed Egli è Generoso, non mi delude, poiché per mezzo di Lui, da Lui, giungono al mio cuore le sapienze.",
+          "en.karamati": "I call upon Him, and He is Generous, He does not disappoint me, since through Him, from Him, wisdoms come to my heart.",
+          "fr.karamati": "Je L'invoque, et Il est Généreux, Il ne me déçoit pas, puisque par Lui, de Lui, viennent à mon cœur les sagesses."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "وَهْوَ الَّذِى كَوْنُهُ لِى الْيَوْمَ فَرَّحَنِى ۞ وَعَنْ فُؤَادِىَ زَالَ الشَّكُّ وَالْغُمَمُ",
+        "translations": {
+          "it.karamati": "Egli è Colui il cui essere per me, oggi, mi ha rallegrato, e dal mio cuore si sono dileguati il dubbio e le angosce.",
+          "en.karamati": "He is the One Whose being for me today has gladdened me, and from my heart doubt and anguish have vanished.",
+          "fr.karamati": "Il est Celui dont l'être pour moi, aujourd'hui, m'a réjoui, et de mon cœur se sont dissipés le doute et les angoisses."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "يَالَيْتَ قَوْمِىَ فِى ذَا الْيَوْمِ قَدْ عَلِمُوا ۞ بِكَوْنِهِ لِىَ إِذْ عَنِّى امَّحَى اللَّمَمُ",
+        "translations": {
+          "it.karamati": "Volesse il cielo che il mio popolo, in questo giorno, sapesse del Suo essere per me (Corano 36:26), quando da me si sono cancellate le colpe lievi.",
+          "en.karamati": "Would that my people, on this day, knew of His being for me (Qurʾān 36:26), when the minor faults were effaced from me.",
+          "fr.karamati": "Plût au ciel que mon peuple, en ce jour, sût qu'Il est pour moi (Coran 36:26), quand de moi se sont effacées les fautes légères."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "قَدْ كَانَ لِى وَلَهُ شُكْرِ وَمَحْمَدَتِى ۞ لَهُ فُؤَادِىَ وَالْجُثْمَانُ وَالْغَلَمُ",
+        "translations": {
+          "it.karamati": "Egli è stato per me, e a Lui la mia gratitudine e la mia lode; a Lui il mio cuore, il corpo e il calamo.",
+          "en.karamati": "He has been for me, and to Him are my gratitude and my praise; to Him my heart, the body and the pen.",
+          "fr.karamati": "Il a été pour moi, et à Lui ma gratitude et ma louange ; à Lui mon cœur, le corps et le calame."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "لَهُ شُكُورِ بِقُرْءَانٍ أُرَتِّلُهُ ۞ مِنْ سَاعَتِى لاِرْتِفَاعِى وَهْوَ لِى وَلَمُ",
+        "translations": {
+          "it.karamati": "A Lui la mia gratitudine, con un Corano che salmodio, dalla mia ora (presente) fino alla mia elevazione, ed Egli è per me un convito.",
+          "en.karamati": "To Him is my gratitude, with a Qurʾān I chant, from my (present) hour until my raising up, and He is a banquet for me.",
+          "fr.karamati": "À Lui ma gratitude, par un Coran que je psalmodie, de mon heure (présente) jusqu'à mon élévation, et Il est pour moi un festin."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "وَهْوَ الْكِتَابُ الَّذِى مَنْ كَانَ خَادِمَهُ ۞ زَكَى لَهُ الْعِاْمُ وَالْأَعْمَالُ وَالشِّيَمُ",
+        "translations": {
+          "it.karamati": "Esso è il Libro: chi ne è stato servitore, gli si sono purificati la scienza, le opere e le indoli.",
+          "en.karamati": "It is the Book: whoever has been its servant, knowledge, deeds and character have been purified for him.",
+          "fr.karamati": "Il est le Livre : quiconque en a été le serviteur, pour lui se sont purifiés la science, les œuvres et les natures."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "وَإِنَّنِى أَعْبُدُ الْمَوْلَى بِهِ أَبَدًا ۞ ذَاخِدْمَةٍ لِّشَفِيعٍ جُدُوهُ دِيَمُ",
+        "translations": {
+          "it.karamati": "E in verità io adoro il Signore per mezzo di esso per sempre, servitore di un Intercessore i cui doni sono piogge continue.",
+          "en.karamati": "And truly I worship the Lord through it forever, servant of an Intercessor whose gifts are continuous rains.",
+          "fr.karamati": "Et en vérité j'adore le Seigneur par lui pour toujours, serviteur d'un Intercesseur dont les dons sont des pluies continues."
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "وَهْوَ الْكَرِيمُ الَّذِى أَرْجُو بِخِدْمَتِهِ ۞ مَافَا وَمَا لِزُهَيْرٍ قَادَهُ هَرِمُ",
+        "translations": {
+          "it.karamati": "Egli è il generoso (il Profeta), per il cui servizio spero ciò che supera quanto Harim condusse a Zuhayr.",
+          "en.karamati": "He is the generous one (the Prophet), through whose service I hope for what surpasses what Harim led to Zuhayr.",
+          "fr.karamati": "Il est le généreux (le Prophète), par le service duquel j'espère ce qui dépasse ce que Harim conduisit à Zuhayr."
+        }
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "أَرْجُو بِخِدْمَتِهِ كَوْنِى هُنَا وَغَدًا ۞ عِنْدَ الْمُقَدَّمِ مِثْلَ الصَّحْبِ مَنْ كَرُمُوا",
+        "translations": {
+          "it.karamati": "Spero, per il suo servizio, di essere quaggiù e domani presso il Preposto (Muḥammad), come i Compagni, coloro che furono nobili.",
+          "en.karamati": "I hope, through his service, to be here and tomorrow with the Foremost (Muḥammad), like the Companions, those who were noble.",
+          "fr.karamati": "J'espère, par son service, être ici-bas et demain auprès du Placé en tête (Muḥammad), comme les Compagnons, ceux qui furent nobles."
+        }
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "صَلَّى عَلَيْهِ بِتَسْلِيمٍ بِمَنْ مَّعَهُ ۞ وَكَانَ لِى وَبِهِ لِى رَاضَ مَنْ حُرِمُوا",
+        "translations": {
+          "it.karamati": "Lo benedica (Allah) con il saluto, insieme a coloro che sono con lui; ed Egli è stato per me, e per mezzo di lui ha domato per me coloro che furono privati (della grazia).",
+          "en.karamati": "May (Allah) bless him with peace, together with those who are with him; and He has been for me, and through him He has tamed for me those who were deprived (of grace).",
+          "fr.karamati": "Qu'(Allah) le bénisse par le salut, avec ceux qui sont avec lui ; et Il a été pour moi, et par lui Il a dompté pour moi ceux qui furent privés (de la grâce)."
+        }
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "وَسَاقَ لِى كُلَّ مَا أَهْوَى بِلَا طَلَبٍ ۞ سَوْقًا بِهِ يَسْتَبِينُ الْجُدُ وَالْكَرَمُ",
+        "translations": {
+          "it.karamati": "E mi ha sospinto tutto ciò che desidero, senza richiesta, di un sospingere per mezzo del quale si manifestano la generosità e la munificenza.",
+          "en.karamati": "And He has driven to me all that I desire, without asking, with a driving through which generosity and munificence become manifest.",
+          "fr.karamati": "Et Il m'a acheminé tout ce que je désire, sans demande, d'un acheminement par lequel se manifestent la générosité et la munificence."
+        }
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "مَادَامَ رَبِّى وَدَامَ الْمُصْطَفَى وَزَرِ ۞ وَبِالْبُشَارَاتِ تَاتِى الَاشْهُرُ الْحُرُمُ",
+        "translations": {
+          "it.karamati": "Finché durerà il mio Signore, e durerà l'Eletto (come) mio rifugio, con le buone novelle giungeranno i mesi sacri.",
+          "en.karamati": "As long as my Lord endures, and the Chosen One endures (as) my refuge, with glad tidings the sacred months shall come.",
+          "fr.karamati": "Tant que durera mon Seigneur, et que durera l'Élu (comme) mon refuge, avec les bonnes nouvelles viendront les mois sacrés."
+        }
+      }
     ]
   }
 }

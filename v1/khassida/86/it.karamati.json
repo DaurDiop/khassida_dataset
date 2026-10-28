@@ -1,0 +1,181 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 86,
+    "name": "Mafatihul Jinan 1",
+    "transliterationName": "Mafatihul Jinan 1",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1,
+        "text": "Ho amato il Signore dei mondi, insieme al Fedele (Gabriele) e al Fedele (Muḥammad),"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 2,
+        "text": "e il Suo ricordo fedele si è sottomesso al mio petto e al mio corpo."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 3,
+        "text": "Ho conversato intimamente con il Signore del Trono immenso, con l'amore, insieme a perle ben ordinate;"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 4,
+        "text": "ed Egli è stato per me con (un dono) immenso, e mi ha preservato dai miei invidiosi."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 5,
+        "text": "Ha diretto il mio cuore verso l'Unicità dell'Uno il mio Signore, il Rifugio,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 6,
+        "text": "e non mi ha affidato a nessuno, nel mio viaggio e nella mia terra."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 7,
+        "text": "Verso di me ha condotto, nel viaggio, il mio intimo amico e il mio amato (Muḥammad), con vittoria,"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 8,
+        "text": "rendendomi indipendente dalla gente, con le Sue schiere, nel mio animo."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 9,
+        "text": "Non si è diretto contro di me alcun duellante, e l'effusione del mio Signore è manifesta:"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 10,
+        "text": "Iblīs non sfida a duello la schiera del Potente (Al-ʿAzīz), l'Uno."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 11,
+        "text": "Non si è diretto contro di me chi si è opposto, o colui nel cui cuore è una malattia,"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 12,
+        "text": "e per me il mio Signore conduce, nello scopo, ciò che non è rinnegato."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 13,
+        "text": "Allah è stato per me con ciò che mantiene (un'acqua) limpida e fresca"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 14,
+        "text": "domani; e per me (ha dato) sostentamento con ciò che ha condotto, e il migliore degli agi."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 15,
+        "text": "Il dono di Allah, l'Ausiliatore, ha sospinto verso altri che me il maledetto (Satana),"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 16,
+        "text": "e oggi, per mezzo mio, Allah aiuta chi Egli vuole, e (così) domani."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 17,
+        "text": "Allah mi ha esteso le buone novelle, per il prestigio del signore degli uomini,"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 18,
+        "text": "e per me ha diffuso la Sua prosperità; non mi sono diretto verso ciò che non giova."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 19,
+        "text": "Mi ha insegnato Allah, il Sapiente (Al-ʿAlīm), di ciò che Egli vuole tra le scienze,"
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 20,
+        "text": "e ha respinto il mio avversario con le ferite, sì che se n'è andato in catene."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 21,
+        "text": "Ho conversato intimamente con il mio Signore, il Generoso, con scritti che non cessano,"
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 22,
+        "text": "le loro luci; e per me Aḥmad desidera il migliore dei doni."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 23,
+        "text": "Allah, Signore dei mondi, ha benedetto la Guida, il Fedele (Muḥammad),"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 24,
+        "text": "nell'Assemblea (celeste) dei perfezionati, da parte del nostro spirito e del corpo."
+      }
+    ]
+  }
+}

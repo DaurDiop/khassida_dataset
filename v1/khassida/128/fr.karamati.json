@@ -1,0 +1,363 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 128,
+    "name": "Nuuru Daarayni 18",
+    "transliterationName": "Nuuru Daarayni 18",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 925,
+        "text": "Et accorde-moi aujourd'hui, dans mes coutumes, et après lui, les dons des maîtres."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 926,
+        "text": "Et écris pour moi aujourd'hui et après lui l'agrément dans l'ensemble des desseins ; remercie pour moi le but."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 927,
+        "text": "Fais demeurer mes croyances dans la profession de l'Unicité, et fais revivre par moi la voie de l'Unique (Prophète)."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 928,
+        "text": "Et rends droite la parole et illumine le cœur, ô Toi qui fais descendre, qui m'as octroyé les sourates."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 929,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Roi (Al-Malik), ô Saint (Al-Quddūs), ô Toi qui m'honores,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 930,
+        "text": "Tu m'as accordé, le jour de mon écriture de ce (poème), perles et rubis qui ont perpétué des fragments (précieux)."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 931,
+        "text": "Agrée de moi la gratitude pour Ta noble Face, ô Toi dont les bienfaits auprès de moi ne s'éloigneront pas,"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 932,
+        "text": "par Ta bénédiction et Ton salut de paix, de ma part, sur celui par qui je rivalise de gloire avec les savants."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 933,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 934,
+        "text": "Et rends par lui mon écriture, ô Reconnaissant, ô Toi vers Qui de moi s'est dirigée la gratitude,"
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 935,
+        "text": "gratitude, droite guidance, proximité (de Dieu) et agrément, ô Toi qui m'as préservé des ennemis et de la maladie,"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 936,
+        "text": "en chaque mois ; et rends les mois pour moi des actes d'adoration qui aient renfermé des dots (nuptiales)."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 937,
+        "text": "Et rends mes écrits auprès de Toi, ô Beau (Al-Jamīl), Ton plus haut agrément, qui de Toi ne dévie pas."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 938,
+        "text": "Vers Ta noble Face s'est déjà tournée mon écriture, ô Toi auprès de Qui elle a été célébrée."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 939,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Roi (Al-Malik), ô Saint (Al-Quddūs), ô Toi qui m'honores,"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 940,
+        "text": "Tu m'as fait avancer par la Vérité, doté de certitude ; (de) tout ce que Tu n'as pas agréé pour moi, préserve-moi."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 941,
+        "text": "Témoigne pour moi de ma vénération de Ta noble Face, avec le Livre et Ton noble Prophète."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 942,
+        "text": "Et bénis de ma part à jamais, avec un salut de paix, celui qui m'a fait hériter de la meilleure parole."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 943,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 944,
+        "text": "Et accorde-moi la véracité avec la fidélité, et préserve-moi de la rupture (des pactes) avec la dureté."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 945,
+        "text": "Tu T'es tourné vers moi avec pardon : perpétue donc pour moi la rectitude, la constance et le plus profitable succès."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 946,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Roi (Al-Malik), ô Saint (Al-Quddūs), ô Toi qui m'honores,"
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 947,
+        "text": "Tu as mené à terme par l'Élu mon cheminement vers Toi, et m'as amené Ta grâce jusqu'aux Jardins."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 948,
+        "text": "Et Tu as gardé pour moi mon secret dans les deux Demeures, comme Tu m'as préservé des deux hontes."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 949,
+        "text": "Bénis avec le salut de paix, sans fin, le fils de ʿAbd Allāh, doté de splendeur."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 950,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 951,
+        "text": "Et garde par moi le Rappel, et rends-moi tout ce que Tu as choisi pour moi, avec Ton agrément, ô Audient."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 952,
+        "text": "Et garde mon cœur, ma langue et ma main jusqu'aux Jardins, Permanent, avec le plus profitable."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 953,
+        "text": "Et montre-moi les réalités des choses, ô Toi qui offres demeures et ombrages."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 954,
+        "text": "Et rends mon édifice pur pour Ta Face, ô Unique, dont il n'est pas de semblable."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 955,
+        "text": "Tu m'as fait parvenir aujourd'hui, avant aujourd'hui et après lui, un secret qui a protégé du blâme."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 956,
+        "text": "J'ai renouvelé l'abandon du retour (au péché) par vénération, et Tu as été pour moi avec la prose et le vers."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 957,
+        "text": "Réalise pour moi l'espérance dans mon laisser et dans mon prendre, sans rupture et sans ce qui effraie."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 958,
+        "text": "Réalise pour moi l'espérance en tout refuge, et rends ma vie, de Ta part, le meilleur des bienfaits."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 959,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Roi (Al-Malik), ô Saint (Al-Quddūs), ô Toi qui m'honores,"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 960,
+        "text": "Remercie, enseigne, bénis, exauce, et sois profitable par ce qui dure, la plus haute merveille."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 961,
+        "text": "Et bénis de ma part à jamais et accorde la paix à mon moyen d'accès, l'intercesseur, l'échelle."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 962,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 963,
+        "text": "Et élève, par le droit de Ta noble Face, mon écriture vers Toi avec honneur."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 964,
+        "text": "Et auprès de Toi rends-la le plus éminent bien, sans fin, et rends éternelles mes provisions."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 965,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Roi (Al-Malik), ô Saint (Al-Quddūs), ô Toi qui m'honores,"
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 966,
+        "text": "Tu as engendré pour moi ce qui n'est pas vu pour d'autres que moi, en Toi et dans le Coran, réceptacle du bien,"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 967,
+        "text": "et dans Ton Prophète et Ton serviteur, l'Envoyé, celui par qui Tu me fais parvenir de Ta part la meilleure demande."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 968,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 969,
+        "text": "Et chasse par lui Iblīs d'une expulsion qui ne le quitte pas, vers autre que ma personne, ô Gardien (Al-Ḥafīẓ), ô Généreux."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 970,
+        "text": "Et auprès de Toi rends-moi doté de rectitude, sans dispute, avec le succès."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 971,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Roi (Al-Malik), ô Saint (Al-Quddūs), ô Toi qui m'honores,"
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 972,
+        "text": "Tu m'as préservé aujourd'hui et après aujourd'hui des démons et de tout blâme."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 973,
+        "text": "Bénis avec le salut de paix, sans fin, de ma part, celui qui m'a amené la connaissance."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 974,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      }
+    ]
+  }
+}
