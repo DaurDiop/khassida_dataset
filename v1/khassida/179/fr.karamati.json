@@ -1,0 +1,193 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 179,
+    "name": "Wal Baladu",
+    "transliterationName": "Wal Baladu",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "J'ai tourné tout mon être vers l'Affectueux, l'Absolu, doté de service envers l'Élu, Muḥammad."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "La louange et la gratitude ensemble à Allah, pour le Prophète, fils de ʿAbd Allāh."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Vers Allah, par le Rappel sage, je me tourne, avec le Prophète, fils de ʿAbd al-Muṭṭalib."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "A dispersé pour moi le rang d'un ennemi oppresseur mon Seigneur, par le prestige de l'Élu, fils de Hāshim."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Mon Seigneur m'a octroyé un don qui a été éminent, par l'Élu, le Choisi, de (la lignée de) ʿAbd Manāf."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Mon invocation, l'a exaucée, dans le secret, mon Seigneur, par l'Élu, de (la lignée de) Quṣayy."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Je Lui demande l'obtention des souhaits sans spoliation et sans illusion, par le Prophète fils de Kilāb."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Octroie-moi le bien et épargne-moi le dommage, Seigneur, par le prestige de l'Élu, fils de Murra."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Rends bon mon cœur par un jardin ardu (à atteindre) pour moi, à jamais, par l'Élu fils de Kaʿb."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Ô Allah, ô Seigneur du Trône et du Marchepied, bénis avec le salut de paix le (descendant) de Luʾayy."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Ô Seigneur, amène-moi l'ensemble des demandes sans compte, par le Prophète fils de Ghālib."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Ô Créateur sans modèle, soumets-moi chaque mois et chaque jour, par le Prophète fils de Fihr."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "Ô Meilleur secoureur et Meilleur Roi, secours et rends-moi maître, par le fils de Mālik."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "Mon trésor caché, ma gloire et mon éclat est Ton être pour moi : sois donc pour moi, par an-Naḍr."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "Dompte pour moi les ennemis et accorde-moi Son bouclier, par l'Élu, le Choisi, de (la lignée de) Kināna."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "Octroie-moi ce par quoi j'illumine une tente, et autre chose, par celui qui a illuminé Khuzayma."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "Sauve mon côté du voisinage d'une associatrice et d'un associateur, par l'Élu fils de Mudrika."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "Bénis pour moi, ô Allah, mon raisonnement, par celui que Tu as fait lumière d'Ilyās."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "Secours mon côté dans le voyage et la halte, et rapproche-moi de Toi par le prestige du fils de Muḍar."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "Fais-moi la grâce, Seigneur, que je sois visité en Toi et dans le meilleur de la création, lumière de Nizār."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "Tu m'as guidé, ô Meilleur Guide qui as promis : Tu as tenu pour moi la promesse par le plus éminent de Maʿadd."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "Tu m'as accordé une grâce (qui mène) jusqu'aux Jardins, qui élève tout mon être, par le Prophète, le ʿadnānite."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "Les bénédictions du Véridique (Abū Bakr) et du Discernant (ʿUmar) réunissent le réuni et le dispersé."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "Le Seigneur du Trône a honoré le Détenteur des deux Lumières (ʿUthmān) et le père des deux petits-fils (ʿAlī), dans les deux Demeures."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "Les Compagnons pieux du Prophète ont repoussé (les ennemis) — sur eux l'agrément — : a été effacé le (pouvoir des) misérables."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "A repoussé le Maudit celui à qui appartient Ḥayzūm (Gabriel), avec les ennemis : et leur armée est mise en déroute."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "Les gens de Badr ont élevé l'Islām, et ont écarté les impies et les ténèbres."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "Est revenu avec ce qui l'afflige le Tentateur qui se dérobe, et a été réjoui celui auprès de qui les hommes ont fait halte."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "Est apparue pour nous la profession de l'Unicité et la jurisprudence avec le soufisme, par celui qui a réprimé nos ennemis."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "Le don d'Allah, l'Affectueux, l'Absolu, a fait demeurer ma vie par le Prophète Muḥammad."
+      }
+    ]
+  }
+}

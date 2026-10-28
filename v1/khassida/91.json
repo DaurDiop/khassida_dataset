@@ -391,6 +391,296 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "هُدَى إِلَاهِى زَحْزَحَا ۞ مَاسَآءَنِى مُزَحْزِحَا",
+        "translations": {
+          "it.karamati": "La guida del mio Dio ha allontanato ciò che mi affliggeva, allontanandolo,",
+          "en.karamati": "The guidance of my God has removed what grieved me, removing it,",
+          "fr.karamati": "La guidance de mon Dieu a éloigné ce qui m'affligeait, l'éloignant,"
+        },
+        "appNumber": 121
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "وَبِيرَ جَهْلِى نَزَحَا ۞ نَزْحًا أَزَالَ ظُلَمِى",
+        "translations": {
+          "it.karamati": "e ha prosciugato il pozzo della mia ignoranza, un prosciugamento che ha rimosso le mie tenebre.",
+          "en.karamati": "and has drained the well of my ignorance, a draining that removed my darknesses.",
+          "fr.karamati": "et a asséché le puits de mon ignorance, un assèchement qui a ôté mes ténèbres."
+        },
+        "appNumber": 122
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "الْقَلْبُ مِنِّى امْتَلَئَا ۞ عِلْمًا وَقِتْلِى اخْتَلَئَا",
+        "translations": {
+          "it.karamati": "Il mio cuore si è riempito di scienza, e il mio avversario si è ritirato in disparte;",
+          "en.karamati": "My heart has filled with knowledge, and my adversary has withdrawn apart;",
+          "fr.karamati": "Mon cœur s'est rempli de science, et mon adversaire s'est retiré à l'écart ;"
+        },
+        "appNumber": 123
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَقَدْ صَرَفْتُ التِّخْلِئَا ۞ مَغْلُوبَةً بِسَلَمِ",
+        "translations": {
+          "it.karamati": "e già ho distolto l'isolamento, vinto con la pace.",
+          "en.karamati": "and I have already turned away isolation, overcome by peace.",
+          "fr.karamati": "et déjà j'ai détourné l'isolement, vaincu par la paix."
+        },
+        "appNumber": 124
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "ذَبَّ لِغَيْرِىَ الضَّلَالْ ۞ مُغْنٍ يَصُبَّ لِى الْحَلَالْ",
+        "translations": {
+          "it.karamati": "Ha respinto verso altri che me lo smarrimento un Arricchitore che riversa per me il lecito,",
+          "en.karamati": "An Enricher Who pours out the lawful for me has driven error toward others than me,",
+          "fr.karamati": "Un Enrichisseur qui déverse pour moi le licite a repoussé vers d'autres que moi l'égarement,"
+        },
+        "appNumber": 125
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَلَيْسَ يَنْحُونِى اعْتِلَالْ ۞ وَلَا دَوَاعِى الْوَلَمِ",
+        "translations": {
+          "it.karamati": "e non si dirige verso di me l'infermità, né le cause del dolore.",
+          "en.karamati": "and infirmity does not come toward me, nor the causes of pain.",
+          "fr.karamati": "et l'infirmité ne se dirige pas vers moi, ni les causes de la douleur."
+        },
+        "appNumber": 126
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "هَدِيَّةُ الْبَاقِى الْمُقِيتْ ۞ تَقُودُ لِى أَنْفَعَ قُوتْ",
+        "translations": {
+          "it.karamati": "Il dono del Permanente, del Nutritore, mi conduce il più giovevole nutrimento,",
+          "en.karamati": "The gift of the Everlasting, the Nourisher, leads to me the most profitable nourishment,",
+          "fr.karamati": "Le don du Permanent, du Nourricier, m'amène la nourriture la plus profitable,"
+        },
+        "appNumber": 127
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "وَصِرْتُ فُرْحَةَ الْوُقُوتْ ۞ بِعَمَلِى وَكَلِمِ",
+        "translations": {
+          "it.karamati": "e sono divenuto la letizia dei tempi, con la mia opera e le mie parole.",
+          "en.karamati": "and I have become the delight of the times, through my work and my words.",
+          "fr.karamati": "et je suis devenu la joie des temps, par mon œuvre et mes paroles."
+        },
+        "appNumber": 128
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "إِلَىَّ قَادَ ذُو الْوَرَى ۞ مُمَلِّكًا لِّى السُّوَارَا",
+        "translations": {
+          "it.karamati": "Verso di me ha condotto il Signore delle creature, dandomi in possesso il bracciale (cfr. Corano 43:53),",
+          "en.karamati": "Toward me the Lord of creation has led, giving into my possession the bracelet (cf. Qurʾān 43:53),",
+          "fr.karamati": "Vers moi a conduit le Seigneur des créatures, me remettant en possession le bracelet (cf. Coran 43:53),"
+        },
+        "appNumber": 129
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "وَلِى فُؤَادِى نَوَّرَا ۞ مُبَرَّءًا مِّنْ أَلَمِ",
+        "translations": {
+          "it.karamati": "e per me ha illuminato il mio cuore, affrancato dal dolore.",
+          "en.karamati": "and for me has illumined my heart, freed from pain.",
+          "fr.karamati": "et pour moi a illuminé mon cœur, affranchi de la douleur."
+        },
+        "appNumber": 130
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "لَمْ يَنْحُونِى دَآءُ الْجَسَدْ ۞ وَلَا قِلًى وَلَا حَسَدْ",
+        "translations": {
+          "it.karamati": "Non si dirige verso di me la malattia del corpo, né l'avversione, né l'invidia;",
+          "en.karamati": "The sickness of the body does not come toward me, nor aversion, nor envy;",
+          "fr.karamati": "Ne se dirige pas vers moi la maladie du corps, ni l'aversion, ni l'envie ;"
+        },
+        "appNumber": 131
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "فِيهِ مَبِيعِى مَاكَسَدْ ۞ فِى الْبَيْعِ أَوْ فِى السَّلَمِ",
+        "translations": {
+          "it.karamati": "in lui (il Profeta) la mia merce non è rimasta invenduta, nella vendita o nella vendita anticipata (salam).",
+          "en.karamati": "in him (the Prophet) my merchandise has not gone unsold, in sale or in advance sale (salam).",
+          "fr.karamati": "en lui (le Prophète) ma marchandise n'est pas restée invendue, dans la vente ou dans la vente à terme (salam)."
+        },
+        "appNumber": 132
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "قَادَ لِىَ الْبَاقِى الشَّمَنْ ۞ وَلِىَ طَيَّبَ الزَّمَنْ",
+        "translations": {
+          "it.karamati": "Il Permanente mi ha condotto il prezzo, e per me ha reso buono il tempo,",
+          "en.karamati": "The Everlasting has led the price to me, and for me has made the time good,",
+          "fr.karamati": "Le Permanent m'a amené le prix, et pour moi a rendu bon le temps,"
+        },
+        "appNumber": 133
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "بِقُرَبٍ مَّعَ أَمَنْ ۞ بِمُنْتَقَاهُ السُّلَمِ",
+        "translations": {
+          "it.karamati": "con opere di avvicinamento e con sicurezza, per mezzo del Suo Prescelto, la scala.",
+          "en.karamati": "with acts of nearness and with security, through His Chosen one, the ladder.",
+          "fr.karamati": "avec des œuvres de rapprochement et avec sécurité, par Son Élu, l'échelle."
+        },
+        "appNumber": 134
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "صَلَّى وَسَلَّمَ بِلَا ۞ نِهَايَةٍ مَّنْ قَبِلَا",
+        "translations": {
+          "it.karamati": "Ha benedetto e dato pace, senza fine, Colui che ha accettato",
+          "en.karamati": "He has blessed and granted peace, without end, Who has accepted",
+          "fr.karamati": "A béni et accordé la paix, sans fin, Celui qui a accepté"
+        },
+        "appNumber": 135
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "عُمْرِى عَلَى مَنْ أَسْبَلَا ۞ سِتْرِى وَأَعْلَى قَلَمِ",
+        "translations": {
+          "it.karamati": "la mia vita, su colui che ha disteso il mio velo (protettivo) e ha elevato la mia penna.",
+          "en.karamati": "my life, upon him who let down my (protecting) veil and raised my pen high.",
+          "fr.karamati": "ma vie, sur celui qui a déployé mon voile (protecteur) et a élevé ma plume."
+        },
+        "appNumber": 136
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "يَسُرُّ خَيْرَ مُرْسَلِ ۞ خَطِّىَ مَاحِى الْكَسَلِ",
+        "translations": {
+          "it.karamati": "Rallegra il migliore degli Inviati la mia scrittura, che cancella la pigrizia,",
+          "en.karamati": "My writing, effacer of sloth, gladdens the best of Messengers,",
+          "fr.karamati": "Réjouit le meilleur des Envoyés mon écriture, qui efface la paresse,"
+        },
+        "appNumber": 137
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "بِسِرِّهِ الْمُعَسَّلِ ۞ مُبَشِّرًا لَّمْ يَكْلَمِ",
+        "translations": {
+          "it.karamati": "con il suo segreto addolcito di miele, portando buone novelle, senza essere ferita.",
+          "en.karamati": "with its honey-sweet secret, bearing glad tidings, unwounded.",
+          "fr.karamati": "avec son secret adouci de miel, annonçant de bonnes nouvelles, sans être blessée."
+        },
+        "appNumber": 138
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "دَعَا مِدَادِى وَالْقِلَامْ ۞ حَاوٍ جَوَامِعَ الْكَلَامْ",
+        "translations": {
+          "it.karamati": "Ha chiamato il mio inchiostro e le penne colui che racchiude le parole comprensive (Muḥammad)",
+          "en.karamati": "He who encompasses the comprehensive words (Muḥammad) has called my ink and the pens",
+          "fr.karamati": "A appelé mon encre et les plumes celui qui renferme les paroles synthétiques (Muḥammad)"
+        },
+        "appNumber": 139
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "لِمَا يُزِحْزِحُ الظَّلَامْ ۞ عَنْ مُّومِنٍ وَمُسْلِمِ",
+        "translations": {
+          "it.karamati": "a ciò che allontana l'oscurità dal credente e dal musulmano.",
+          "en.karamati": "to what removes darkness from the believer and the Muslim.",
+          "fr.karamati": "à ce qui écarte l'obscurité du croyant et du musulman."
+        },
+        "appNumber": 140
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "هَذَّبْتُ خَطًّا لِّسِوَى ۞ رَبِّىَ لَمْ يَنْحُ سَوَآ",
+        "translations": {
+          "it.karamati": "Ho affinato una scrittura che verso altri che il mio Signore non si è minimamente diretta,",
+          "en.karamati": "I have refined a writing that has in no way turned toward other than my Lord,",
+          "fr.karamati": "J'ai affiné une écriture qui vers d'autres que mon Seigneur ne s'est nullement dirigée,"
+        },
+        "appNumber": 141
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "وَإِنَّنِى أًرِى سَوَآ ۞ سَبِيلِ رَبِّى الْعَلَمِ",
+        "translations": {
+          "it.karamati": "e in verità io mostro il centro della via del mio Signore, il vessillo.",
+          "en.karamati": "and truly I show the middle of the path of my Lord, the banner.",
+          "fr.karamati": "et en vérité je montre le milieu de la voie de mon Seigneur, l'étendard."
+        },
+        "appNumber": 142
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "تَوْفِيقُ رَبِّى نَزَحَا ۞ بِيرَ اللَّغَى فَانْتَزَحَا",
+        "translations": {
+          "it.karamati": "L'assistenza del mio Signore ha prosciugato il pozzo del vaniloquio, ed esso è stato prosciugato,",
+          "en.karamati": "The enabling grace of my Lord has drained the well of idle talk, and it was drained,",
+          "fr.karamati": "L'assistance de mon Seigneur a asséché le puits du verbiage, et il a été asséché,"
+        },
+        "appNumber": 143
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "وَلِسِوَاىَ زَحْزَحَا ۞ كُلَّ شَقًا وَظُلَمِ",
+        "translations": {
+          "it.karamati": "e verso altri che me ha allontanato ogni sventura e tenebra.",
+          "en.karamati": "and toward others than me has removed every misery and darkness.",
+          "fr.karamati": "et vers d'autres que moi a éloigné tout malheur et ténèbre."
+        },
+        "appNumber": 144
+      }
     ]
   }
 }

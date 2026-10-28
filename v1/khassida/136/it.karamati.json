@@ -1,0 +1,377 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 136,
+    "name": "Nuuru Daarayni 25",
+    "transliterationName": "Nuuru Daarayni 25",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1258,
+        "text": "E donami, per il diritto del giorno di ʿArafa e per il diritto di coloro che vi digiunano, la più alta conoscenza."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 1259,
+        "text": "O Tu che mi hai donato i mesi e gli anni, e verso altri che me hai sospinto ciò che attira il gemito,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 1260,
+        "text": "benedici di una benedizione che generi per me i desideri e mi conduca ʿArafāt e Minā,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 1261,
+        "text": "con un saluto di pace che riunisca per me i giovamenti per mezzo di Colui che non cessa di essere giovevole,"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 1262,
+        "text": "su colui il cui servizio mi ha elevato senza nocumento e ha abbattuto chi mi ha odiato."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 1263,
+        "text": "O Allah, o Immenso (Al-Wāsiʿ), o Grande (Al-Kabīr), o Tu al Quale appartengono il più immenso e la proclamazione della grandezza,"
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 1264,
+        "text": "benedici di una benedizione che porti via ogni strettezza verso altri che me, per sempre, ed essa se ne vada,"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 1265,
+        "text": "con un saluto di pace che attiri la limpidezza, la veridicità per me, la sicurezza e la fedeltà,"
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 1266,
+        "text": "su colui il cui elogio da parte mia e le benedizioni su di lui hanno rimosso verso altri che me le mancanze."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 1267,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 1268,
+        "text": "E innalza con la gratitudine verso di Te, Signore, la mia parola, o Tu che cancelli il mio esilio e il mio errare."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 1269,
+        "text": "Mi hai reso indipendente, per mezzo di Te, dai (falsi) signori, e per mezzo di Muḥammad dalle cause seconde,"
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 1270,
+        "text": "e per mezzo del Tuo Libro dall'inventare parole, e per mezzo della saldezza dal mutamento,"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 1271,
+        "text": "e per mezzo della Tua retta guida dalla guida di altri che Te, o Tu che arricchisci, che hai riversato su di me il Tuo dono."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 1272,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Tu che sei stato chiamato Generoso (Al-Karīm), Immenso (Al-Wāsiʿ),"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 1273,
+        "text": "benedici di una benedizione che renda eterna la generosità per me, per sempre, che sciolga ciò che è stato legato,"
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 1274,
+        "text": "da tutto ciò che affligge o nuoce, o Tu per mezzo del Quale nessun danno si è diretto verso di me,"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 1275,
+        "text": "con un saluto di pace che distolga i mali verso altro che la mia persona, per mezzo di Te, e la sventura,"
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 1276,
+        "text": "su colui del quale mi hai reso servitore, per mezzo di lui, e mi hai condotto la preminenza"
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 1277,
+        "text": "per il suo prestigio, e hai preservato per me i miei segreti per mezzo di lui, senza astuzia né inganno."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 1278,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 1279,
+        "text": "E infrangi per me le consuetudini nelle cose, o Tu che mi hai risparmiato la calura con le ombre."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 1280,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Primo (Al-Awwal), o Ultimo (Al-Ākhir), o Tu che mi onori,"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 1281,
+        "text": "benedici di una benedizione che purifichi la mia vita da ciò che non è bene, che renda abile ogni mia parte,"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 1282,
+        "text": "con un saluto di pace che mi conduca chi ammutolisce gli odiatori e i negatori: in verità li ha ammutoliti."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 1283,
+        "text": "sul Tuo nobile Profeta, mio protettore, colui che non ha nel creato chi lo eguagli."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 1284,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 1285,
+        "text": "E donami oggi, senza spoliazione, il mio essere luce dell'insieme dei ricercatori (di scienza),"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 1286,
+        "text": "e dell'insieme degli adoratori e degli asceti; e donami la recitazione esatta (tajwīd) con impegno,"
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 1287,
+        "text": "e (rendimi) prova per chiunque mi sia fedele, e sospingi verso altri che me chiunque mi abbia odiato."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 1288,
+        "text": "E rendi le mie composizioni luci che illuminano, sfolgoranti, per la sacralità della Luce illuminante."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 1289,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 1290,
+        "text": "E per sempre benedicilo con il saluto di pace da parte mia, come mi hai reso padrone della migliore parola."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 1291,
+        "text": "E rendi per mezzo di lui il mio poema presso di Te (opere) permanenti e pie, che ascendono ai Giardini (cfr. Corano 18:46)."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 1292,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Tu che sei stato chiamato Bello (Al-Jamīl), Immenso (Al-Wāsiʿ),"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 1293,
+        "text": "benedici di una benedizione che abbellisca per me tutto ciò che hai scelto per me presso di Te, o Migliore Audiente,"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 1294,
+        "text": "con un saluto di pace che mi accresca la letizia, sul (Profeta) annunciato, l'annunciatore della buona novella."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 1295,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 1296,
+        "text": "E verso altri che me sospingi la pena del mondo e il danno dell'Altra (vita); hai fatto conseguire (la ricompensa) seconda."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 1297,
+        "text": "A Te la mia gratitudine, senza ingratitudine, o Tu che mi hai protetto dalla perdita."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 1298,
+        "text": "A Te la mia gratitudine per l'edificio, o Tu che mi hai protetto dalla pena."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 1299,
+        "text": "A Te la mia gratitudine per il lecito, o Tu che mi hai protetto dall'indigenza e dallo sviamento."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 1300,
+        "text": "A Te la mia gratitudine per coloro che si sono prosternati, o Tu che verso altri che me hai sospinto (chi) non si prosterna."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 1301,
+        "text": "A Te la mia gratitudine per coloro che si sono inchinati, o Tu che verso altri che me hai sospinto chi non si inchina."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 1302,
+        "text": "A Te la mia gratitudine per le patrie, o Tu che mi hai protetto da Satana."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 1303,
+        "text": "A Te la mia gratitudine per il passaggio, o Tu che lo hai reso passaggio della pietà."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 1304,
+        "text": "A Te la mia gratitudine per i beni, nel segreto, nel palese e nelle dimore."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 1305,
+        "text": "A Te la mia gratitudine per la scrittura, o Tu che fai discendere, che mi hai donato un Libro."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 1306,
+        "text": "A Te la mia gratitudine per le lettere che attirano la pietà e il bene riconosciuto."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 1307,
+        "text": "A Te la mia gratitudine per la composizione, o Datore dei segreti e del consueto."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 1308,
+        "text": "A Te la mia gratitudine per l'avvicinamento, o Tu che cancelli l'aggressione e l'esilio."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 1309,
+        "text": "A Te la mia gratitudine, Signore, da Muḥarram fino alla chiusura del Pellegrinaggio (Dhū l-Ḥijja), chiusura dei (mesi) sacri."
+      }
+    ]
+  }
+}

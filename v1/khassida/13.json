@@ -199,6 +199,140 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "أَشْكُرُ اللَّهَ ذَا الْوَرَى بِانْتِفَاعِ ۞ بِكِتَابٍ سَاقَ الْعِدَى بِانْدِفَاعِ",
+        "translations": {
+          "it.karamati": "Rendo grazie ad Allah, Signore delle creature, con profitto, per un Libro che ha sospinto i nemici in fuga precipitosa.",
+          "en.karamati": "I give thanks to Allah, Lord of creatures, with benefit, for a Book that has driven the enemies into headlong flight.",
+          "fr.karamati": "Je rends grâce à Allah, Seigneur des créatures, avec profit, pour un Livre qui a poussé les ennemis en une fuite précipitée."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "لَمْ يَمِلْ كَلْكَلِى لِغَيْرِ إِلَهِى ۞ وَلِرَبِّى قَوْلِى انْتَحَى وَسَمَاعِ",
+        "translations": {
+          "it.karamati": "Il mio petto non si è inclinato verso altri che il mio Dio, e verso il mio Signore si sono diretti il mio dire e il mio ascolto.",
+          "en.karamati": "My breast has not inclined to any but my God, and toward my Lord my speech and my hearing have turned.",
+          "fr.karamati": "Ma poitrine ne s'est pas inclinée vers un autre que mon Dieu, et vers mon Seigneur se sont dirigés mon dire et mon écoute."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "لَمْ يَلِجْ فِى الْفُؤَادِ مِنِّى ارْتِيَابٌ ۞ فِى الَّذِى اللَّهُ قَادَ لِى ذَا اجْتِمَاعِ",
+        "translations": {
+          "it.karamati": "Non è entrato nel mio cuore alcun dubbio riguardo a ciò che Allah mi ha condotto, (tutto) riunito.",
+          "en.karamati": "No doubt has entered my heart concerning what Allah has led to me, (all) gathered together.",
+          "fr.karamati": "N'est entré dans mon cœur aucun doute au sujet de ce qu'Allah m'a conduit, (tout) rassemblé."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "أَذْهَبَ ذِكْرُ مَالِكِى كُلَّ شَكٍّ ۞ وَلِغَيْرِى ذَبَّ الْعِدَى بِانْقِمَاعِ",
+        "translations": {
+          "it.karamati": "Il ricordo del mio Re ha tolto via ogni dubbio, e ha respinto i nemici verso altri che me, domati.",
+          "en.karamati": "The remembrance of my King has taken away every doubt, and has driven the enemies toward others than me, subdued.",
+          "fr.karamati": "Le rappel de mon Roi a ôté tout doute, et a repoussé les ennemis vers d'autres que moi, domptés."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "هَدَّدَ اللَّهُ مَنْ قَلَانِى بَعِيدًا ۞ لِّسِوَى جَانِبِى بِغَيْرِ اسْتَمَاعِ",
+        "translations": {
+          "it.karamati": "Allah ha minacciato chi mi ha odiato, (scacciandolo) lontano, verso altro che il mio fianco, senza ascolto.",
+          "en.karamati": "Allah has threatened whoever hated me, (driving him) far away, toward other than my side, unheeded.",
+          "fr.karamati": "Allah a menacé celui qui m'a haï, (le chassant) au loin, vers autre que mon flanc, sans être écouté."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "تَشْكُرُ اللَّهَ لِلْجِنَانِ حَيَاتِى ۞ بِكِتَابٍ بَدَا بِهِ لِى انْتَفَاعِ",
+        "translations": {
+          "it.karamati": "La mia vita rende grazie ad Allah, per i Giardini, con un Libro per mezzo del quale mi è apparso profitto.",
+          "en.karamati": "My life gives thanks to Allah, for the Gardens, with a Book through which benefit has appeared to me.",
+          "fr.karamati": "Ma vie rend grâce à Allah, pour les Jardins, par un Livre par lequel m'est apparu le profit."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "عَلِمَ الْقَلْبُ أَنَّ خَيْرَ الْبَرَايَا ۞ جَآءَهُ الْوَحْىُ بِالْأَمِينِ الْمُطَاعِ",
+        "translations": {
+          "it.karamati": "Il cuore ha saputo che al Migliore delle creature (Muḥammad) è giunta la Rivelazione per mezzo del Fidato obbedito (Gabriele).",
+          "en.karamati": "The heart has known that to the Best of creatures (Muḥammad) the Revelation came through the obeyed Trustworthy One (Gabriel).",
+          "fr.karamati": "Le cœur a su qu'au Meilleur des créatures (Muḥammad) est venue la Révélation par le Fidèle obéi (Gabriel)."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "أَحَدِيثَ النَّبِىِّ إِنَّكَ حَقٌّ ۞ لَكَ خَطِّى نَحَا بِأَمْرٍ مُّطَاعِ",
+        "translations": {
+          "it.karamati": "O Ḥadīth del Profeta, in verità tu sei verità; verso di te si è diretta la mia scrittura, per un comando obbedito.",
+          "en.karamati": "O Ḥadīth of the Prophet, truly you are truth; toward you my writing has turned, by an obeyed command.",
+          "fr.karamati": "Ô Ḥadīth du Prophète, en vérité tu es vérité ; vers toi s'est dirigée mon écriture, par un ordre obéi."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "لَكَ أَنْحُو بِمِرْقَمِى وَمِدَادِى ۞ لَسْتُ أَنْفَكُّ بِالرِّضَآءِ بِطَاعِ",
+        "translations": {
+          "it.karamati": "Verso di te mi dirigo con il mio calamo e il mio inchiostro; non cesso, con compiacimento, di restare nell'obbedienza.",
+          "en.karamati": "Toward you I turn with my pen and my ink; I never cease, with contentment, to abide in obedience.",
+          "fr.karamati": "Vers toi je me dirige avec mon calame et mon encre ; je ne cesse, avec agrément, de demeurer dans l'obéissance."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "أَنْتَ خِلِّى مَعَ الْكِتَابِ وَحِبِّى ۞ كُنْتَ لِى بِالْقِطَاعِ بَعْدَ الْقِطَاعِ",
+        "translations": {
+          "it.karamati": "Tu sei, insieme al Libro, il mio amico intimo e il mio amato; sei stato per me (sostegno) porzione dopo porzione.",
+          "en.karamati": "You are, together with the Book, my intimate friend and my beloved; you have been for me (a support) portion after portion.",
+          "fr.karamati": "Tu es, avec le Livre, mon ami intime et mon bien-aimé ; tu as été pour moi (un soutien) portion après portion."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "بِكَ تَنْمُو مَسَرَّتِى لِجِنَانٍ ۞ صَافِيَاتٍ بِلَا انْتِهًا وَقِطَاعِ",
+        "translations": {
+          "it.karamati": "Per mezzo tuo cresce la mia gioia verso Giardini puri, senza fine né interruzione.",
+          "en.karamati": "Through you my joy grows toward pure Gardens, without end or interruption.",
+          "fr.karamati": "Par toi croît ma joie vers des Jardins purs, sans fin ni interruption."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "هَرَبَتْ مِنْ غَيْرِ انْثَنَآءٍ لِنَحْوِى ۞ مَنْ قَلَوْنِى مِنَ الْوَرَى بِانْقِطَاعِ",
+        "translations": {
+          "it.karamati": "Sono fuggiti, senza volgersi verso di me, coloro che mi hanno odiato tra le creature, con un distacco definitivo.",
+          "en.karamati": "They have fled, without turning toward me, those among creatures who hated me, with a final severance.",
+          "fr.karamati": "Ont fui, sans se tourner vers moi, ceux qui m'ont haï parmi les créatures, d'une rupture définitive."
+        }
+      }
     ]
   }
 }

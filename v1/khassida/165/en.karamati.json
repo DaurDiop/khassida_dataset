@@ -1,0 +1,426 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 165,
+    "name": "Taysirul Hasiru 1",
+    "transliterationName": "Taysirul Hasiru 1",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1,
+        "text": "O Allah, O You besides Whom there is no god, O You Whose good has come to me without evil,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 2,
+        "text": "bless, grant peace and bless forever the one You named Muḥammad,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 3,
+        "text": "his Family, his Companions and the prophets; and accept with thanks these introductions, O my Lord."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 4,
+        "text": "And he is the one You named \"the Beginning\" (al-Badʾ), O You Who accepted, by Your Name, my beginning."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 5,
+        "text": "O Allah, O You besides Whom there is no god, O You Whose good has come to me without harm,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 6,
+        "text": "bless, grant peace and bless forever him whose pre-eminence has appeared from You,"
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 7,
+        "text": "and he is the one You named \"the Splendour\" (al-Bahāʾ), and the Family and the Companions, without end."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 8,
+        "text": "And be my Protector by the right of the formula \"I seek refuge in Allah\" (the ʿadhbala), and spread over us the blessings of the Basmala."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 9,
+        "text": "And bless, O All-Merciful (Ar-Raḥmān), and grant peace upon the Prophet, beloved of every Muslim,"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 10,
+        "text": "and he is the one You named \"the Illumining\" (al-Muḍīʾ), and the Family, the Companions and whoever illumines."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 11,
+        "text": "And spread over me the blessings of the Fātiḥa, and make my pens the best opening door."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 12,
+        "text": "And bless, O Most Merciful (Ar-Raḥīm), and grant peace upon him through whom You dispelled the darknesses,"
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 13,
+        "text": "and he is the one You named \"the Radiance\" (aḍ-Ḍiyāʾ), and the Family and the Companions possessed of modesty."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 14,
+        "text": "And spread over me the blessings of (the sūra) al-Baqara, O You Who turn Your Saqar toward others than me,"
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 15,
+        "text": "and other than it, of every gate of the Fire, of ignominy, loss and dishonour."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 16,
+        "text": "And bless, O King (Al-Malik), and grant peace upon him to whom I gave glad tidings with my pen,"
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 17,
+        "text": "and he is the one You named \"the Refuge\" (al-Maljaʾ), and the Family and the Companions; and reward my taking refuge with thanks."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 18,
+        "text": "And spread over me the blessings of Āl ʿImrān, in the present and in the final outcome,"
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 19,
+        "text": "without affliction and without turbidity, O Lord of decree, of creation and of predestination."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 20,
+        "text": "And bless, O Holy (Al-Quddūs), with peace, the Prophet, the city of knowledge,"
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 21,
+        "text": "and he is the one You named \"the Healing\" (ash-Shifāʾ), and the Family and the Companions possessed of fidelity."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 22,
+        "text": "And grant me, by the sūra an-Nisāʾ (Women), Your being for me in the morning and the evening,"
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 23,
+        "text": "and the blessings of night and day, without delusion or rebuke,"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 24,
+        "text": "and protection from harm; and reward this poem with thanks, and illumine my thoughts."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 25,
+        "text": "And bless, O Peace (As-Salām), and grant peace upon him through whom You loosed my distress,"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 26,
+        "text": "and he is called \"the Possessor of the mantle\", and the Family and the Companions who remove sickness."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 27,
+        "text": "And spread over me the blessings of (the sūra) al-Māʾida, and make my life, O Appreciative, a benefit."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 28,
+        "text": "And bless, O Giver of security (Al-Muʾmin), with peace, the Prophet of Allah, possessed of teaching,"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 29,
+        "text": "and he is called \"the Possessor of the Banner\", and the Family and the Companions, alike."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 30,
+        "text": "And grant me, by the sūra al-Anʿām, Your being for me with bounty and grace."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 31,
+        "text": "And bless with peace, O Guardian Overseer (Al-Muhaymin), him who after the supplication says \"āmīn\","
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 32,
+        "text": "and he is the leader of the prophets, that is, the chief of them all, and they together are radiant heads,"
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 33,
+        "text": "his Family, his Companions, the believing men and the believing women, O Beloved of the submissive."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 34,
+        "text": "And make eternal for me the favours of the noble and others, by the sūra al-Aʿrāf."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 35,
+        "text": "And write for the best of creation, the Chosen, on my behalf, wishes that last in concealment."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 36,
+        "text": "And bless, O Mighty (Al-ʿAzīz), and grant peace upon him who surpassed the noble as a banner,"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 37,
+        "text": "and he is the orator of the prophets, and the Family and the Companions, in the present and the final outcome."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 38,
+        "text": "And grant me, by the sūra al-Anfāl, an opening bearing glad tidings, without closing."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 39,
+        "text": "And bless, O Compeller (Al-Jabbār), with peace, him whom my pens have gladdened,"
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 40,
+        "text": "and he is the best of all the prophets, and his Family, his Companions and the Followers."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 41,
+        "text": "And spread over me the blessings of (the sūra) at-Tawba, without harm, or enemies, or sin."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 42,
+        "text": "O Supreme in Greatness (Al-Mutakabbir), perpetually bless, greeting with peace, the lover, the intimate,"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 43,
+        "text": "the seal of all the prophets without exception, and the Family and the Companions; and lead piety to me."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 44,
+        "text": "And grant me, by the right of (the sūra) Yūnus, the aim, and be for me without harm and without break."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 45,
+        "text": "And bless, O Creator (Al-Khāliq), and grant peace upon Your beloved, the intimate, the banner,"
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 46,
+        "text": "and he is the prophet of prophets, the host, and the Family and the Companions, O You Who host,"
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 47,
+        "text": "without movement or roaming, O You Who by abiding effaced its wandering."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 48,
+        "text": "And grant me, by the right of (the sūra) Hūd, all that I want from You as a ladder to the Gardens."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 49,
+        "text": "And bless, O Originator (Al-Bāriʾ), and grant peace upon him whom You taught, and he knew,"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 50,
+        "text": "and he is the wealthy, and he is the one cleared of faults, and he is the bold,"
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 51,
+        "text": "his Family and his Companions; and grant me, by the right of (the sūra) Yūsuf, the wishes, without fear."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 52,
+        "text": "Bless and grant peace, O Fashioner (Al-Muṣawwir), upon him through whom the sūras came to us,"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 53,
+        "text": "from You: he is the Light that is not extinguished; and the Family and the Companions; and repel whoever would extinguish (it)."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 54,
+        "text": "And grant me, by the sūra ar-Raʿd, safety from enemies and the hardships of time."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 55,
+        "text": "And bless, O All-Forgiving (Al-Ghaffār), and grant peace upon him who gave glad tidings to whoever learned,"
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 56,
+        "text": "the Chosen, the Elect, the Exalted, and the Family and the Companions, O You Who adorned."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 57,
+        "text": "And grant me composition and the gift of making understood, and blessing in all of me, by (the sūra) Ibrāhīm."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 58,
+        "text": "And bless, O Subduer (Al-Qahhār), and grant peace upon him who dispels the darkness with my pen,"
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "appNumber": 59,
+        "text": "the Well-Pleasing, the purest, the purified, the most God-fearing, O You Who by his standing opened what was sealed."
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 125,
+    "name": "Nuuru Daarayni 15",
+    "transliterationName": "Nuuru Daarayni 15",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 768,
+        "text": "Hai portato via il mio dubbio, ed esso non tornerà a me mai: l'ha annientato il Ripetitore (Al-Muʿīd)."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 769,
+        "text": "Benedici di una benedizione che sia per la mia persona delizie senza fine, con un saluto di pace accettato,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 770,
+        "text": "su colui che è rallegrato dal mio servirlo, preposto ai servitori."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 771,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 772,
+        "text": "E frapponiti per mezzo di lui tra me e il dubbio, o Tu che ammorbidisci la roccia come un livellamento."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 773,
+        "text": "E accrescimi il desiderio del Tuo compiacimento, o Tu che innalzi il servo se ti ha compiaciuto."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 774,
+        "text": "E rendi il mio cuore distaccato da tutto ciò che non hai gradito per me, e guidami come maestro."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 775,
+        "text": "E impedisci il volgersi dello smarrimento e dell'ira verso le mie parti, e risparmiami ogni ira."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 776,
+        "text": "E arricchiscimi per mezzo di Te, insieme al lecito, fino ai Giardini, e accresci il mio guadagno."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 777,
+        "text": "Donami nel lecito, per me, le ricompense dei Tuoi servi splendenti; e mai sarò ingiusto."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 778,
+        "text": "E rendi la mia vita indipendente dai peccati, da ogni ingiusto e da ogni ribelle."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 779,
+        "text": "Āmīn, o Signore del cielo e della terra, o Tu al Quale ho fatto giungere il migliore degli obblighi."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 780,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 781,
+        "text": "Mi hai risparmiato le cose odiose delle due Dimore, mi hai risparmiato le due vergogne e i due fuochi."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 782,
+        "text": "Benedici di una benedizione che onori la mia parte, con un saluto di pace perenne, o Generosissimo,"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 783,
+        "text": "su colui per il servizio del quale mi hai onorato, o Custode che mi hai preservato dal suo urto."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 784,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 785,
+        "text": "E donami oggi e dopo oggi la preservazione di tutto me da nocumento e biasimo."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 786,
+        "text": "Hai reso il mio cuore ricettivo della migliore scienza, hai reso tutto me impegnato nel migliore impegno."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 787,
+        "text": "Mi hai donato oggi il mio intraprendere il Libro, e ciò che hai scelto per me: sono stato preservato dal rimprovero."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 788,
+        "text": "E proteggi la mia interezza dalla disobbedienza, e rendi la mia intenzione come l'agire dei pii."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 789,
+        "text": "Mi hai donato il ricordo (di Dio) con la dolcezza, e mi hai condotto l'insegnamento e la recitazione."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 790,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 791,
+        "text": "Hai portato a compimento la mia vendita e il mio sforzo con le lettere, o Permanente che sei stato per me con la pienezza dei recipienti."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 792,
+        "text": "Benedici di una benedizione che testimoni la mia gratitudine, con un saluto di pace che testimoni la mia ricchezza,"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 793,
+        "text": "su colui del quale mi hai reso il servitore, e che per me ha attinto la preminenza."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 794,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 795,
+        "text": "E ricompensalo da parte mia di un bene mai visto per altri che lui, e per altri che lui mai sarà visto."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 796,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 797,
+        "text": "Hai portato via tutto ciò che mi affligge verso altri che me, e hai reso eterni per me i migliori benefici."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 798,
+        "text": "Benedici di una benedizione che renda limpida per me la mia vita, con un saluto di pace che risani per me la mia faccenda,"
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 799,
+        "text": "su colui che mi ha onorato con il mio essere una meraviglia da parte sua per tutto il creato."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 800,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 801,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 802,
+        "text": "Hai portato via da me ogni dubbio e illusione, e hai condotto al mio cuore una scienza celata."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 803,
+        "text": "Benedici di una benedizione che scacci i difetti verso altro che la mia persona, che sveli i misteri"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 804,
+        "text": "al mio cuore, luminosa, illuminante, con un saluto di pace che porti via il disonore"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 805,
+        "text": "verso altro che la mia scrittura, la mia lingua e le lettere, su colui che per mezzo di me mostra ogni nobile."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 806,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 807,
+        "text": "E innalza al Tuo Trono immenso la mia scrittura, o Tu che hai cancellato ciò che mi affligge con la remissione."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 808,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 809,
+        "text": "Benedici di una benedizione che scacci gli invidiosi verso altro che la mia direzione, che impedisca ai corruttori"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 810,
+        "text": "(l'accesso) alla mia penna, al mio corpo e al mio cuore, con un saluto di pace che preservi dalla spoliazione,"
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 811,
+        "text": "su colui che mi ha donato onore e buone novelle che presso di me non si allontaneranno."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 812,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 813,
+        "text": "E donami oggi e dopo oggi il mio essere preservato senza biasimo."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 814,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 815,
+        "text": "Mi hai donato da parte Tua lo stare unito alle buone novelle, e verso altri che me hai sospinto i Diciannove (custodi dell'Inferno, Corano 74:30)."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 816,
+        "text": "Benedici di una benedizione che mi conduca i musulmani, con un saluto di pace che preservi dai criminali,"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 817,
+        "text": "su colui per mezzo del quale hai reso buona per me la mia dimora, come hai attirato per me la mia stazione."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 818,
+        "text": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 819,
+        "text": "E donami oggi le cose lecite degli uomini, e rendi la mia vita per il Profeta la migliore buona novella."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 820,
+        "text": "O Allah, o Compassionevole (Ar-Raḥmān), o Misericordioso (Ar-Raḥīm), o Re (Al-Malik), o Santo (Al-Quddūs), o Tu che mi onori,"
+      }
+    ]
+  }
+}

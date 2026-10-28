@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 72,
+    "name": "Lamyabdu",
+    "transliterationName": "Lamyabdu",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Il n'est apparu nul semblable à l'Élu Muḥammad, en secret ou en public, parmi les créatures de l'Absolu (Aṣ-Ṣamad)."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Il a étendu pour nous l'Islam et a effacé la mécréance, et par le conseil sincère il a été généreux envers tous."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Il conduit vers Allah, par l'extérieur et l'intérieur, quiconque lui obéit, en tout temps."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Son service a fait disparaître de moi les défauts, et m'a donné rectitude et pureté."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Il m'est devenu clair que l'Élu est le chef de tous ceux qui ont été préférés comme chefs."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Dis : ses deux pieds sont au-dessus de toute nuque ; de lui les illustres ont emprunté tout mérite."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Muḥammad : son pareil n'est pas venu dans ce qui est passé, et jamais ne viendra."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Il est établi que notre Seigneur n'a pas voulu pour lui de semblable, et c'est pourquoi son semblable n'est pas apparu."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "À lui la seigneurie, à lui l'excellence, au Jour du « Ne suis-Je pas (votre Seigneur) ? » (Coran 7:172) et au moment de l'intercession."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Il est le Prophète, l'Envoyé et l'ami intime ; il est le bien-aimé, l'imām et le guide."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Le Créateur originel (Al-Badīʿ) l'a exempté de ce qui n'est pas beauté, et le Très-Saint (Al-Quddūs) l'a préservé de ce qui n'est pas perfection."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "(Il est certain) que le Prophète, le Préféré, Muḥammad, est le meilleur des créatures, l'Élu auprès de l'Absolu."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 187,
+    "name": "Yaa Rakhmanu",
+    "transliterationName": "Yaa Rakhmanu",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "My Lord surprised me with what minds crave, by the standing of the most excellent of those who took refuge in Allah."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "My praise to a Generous Lord Who has no partner; and my breast today He has filled with radiant light."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Muḥammad — the blessings of Allah forever upon him, in his party —: through him (Allah) has kept all of me."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "I call upon my God, Whose gifts have encompassed all creation, (giving) what He chooses, He Who created."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "I conversed with Him intimately — exalted be He — for years, and He honoured me with the honouring of a Guide, and all of me has become free of idle talk."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "O All-Merciful, grant all creation the mercy of Him Who frees from evil whoever recites His Qurʾān."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Keep the community of the Chosen from every corruption, and have mercy on creation, O You Who began their ancestor (Adam)."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "O Owner of dominion, O You exalted above retaliation, have mercy on all creation, O Guide Who supports."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "You effaced the harm that had made for the heart, by the standing of the most excellent of those who took refuge in Allah."
+      }
+    ]
+  }
+}

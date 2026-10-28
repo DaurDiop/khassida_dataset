@@ -1,0 +1,49 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 4,
+    "name": "Ajabani Khayru Baaqin",
+    "transliterationName": "Ajabani Khayru Baaqin",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "The Best of the Everlasting (Allah) has answered me: in Him my whole being has become good; and He, through what He led to me, has raised up Poles (al-aqṭāb)."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "For the Face of the Everlasting (Allah), who erased for us any intent (to take back) what had been sold, I left it (the world) while it was a deep sea; and hope was not disappointed."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "I have sold what does not turn towards me, and mine is my recompense; and He (Allah) who flung down the clamorous (foe) makes it everlasting for me."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Towards others than me the enemies head, with whatever they carry; and through me my God purifies minds at all times."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "The hearts of those who do not love me are in fear; they do not meet what they longed for, nor (find) the Gate (of grace)."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Every wish the noble have longed for yields to me; and God, through what He led to me, has raised up Poles (al-aqṭāb)."
+      }
+    ]
+  }
+}

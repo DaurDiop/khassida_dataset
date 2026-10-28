@@ -535,6 +535,404 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "وَقُدْ لَهُ مِنْ عُمُرِى فَوْقَ الْمُنَى ۞ وَعِنْدَكَ اجْعَلْنِى سُرُورَ الْأُمَنَا",
+        "translations": {
+          "it.karamati": "E conducigli dalla mia vita ciò che supera i desideri, e presso di Te rendimi gioia dei fidati.",
+          "en.karamati": "And lead to him from my life what surpasses the wishes, and with You make me the joy of the trustworthy.",
+          "fr.karamati": "Et amène-lui de ma vie ce qui dépasse les souhaits, et auprès de Toi rends-moi joie des dignes de confiance."
+        },
+        "appNumber": 1403
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "يَارَبَّنَا صَلِّ صَلَاةً شَامِلَهْ ۞ لِلصَّلَوَاتِ كُلِّهِنَّ كَامِلَهْ",
+        "translations": {
+          "it.karamati": "O nostro Signore, benedici di una benedizione che comprenda tutte le benedizioni, perfetta,",
+          "en.karamati": "O our Lord, bless with a blessing encompassing all the blessings, perfect,",
+          "fr.karamati": "Ô notre Seigneur, bénis d'une bénédiction qui englobe toutes les bénédictions, parfaite,"
+        },
+        "appNumber": 1404
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "مَعَ سَلَامٍ لَّايَزَالُ نَامِيَا ۞ مِمَّا يَضُرِّنِى جِهَاتِى حَامِيَا",
+        "translations": {
+          "it.karamati": "con un saluto di pace che non cessi di crescere, che protegga le mie parti da ciò che mi nuoce,",
+          "en.karamati": "with a peace that never ceases to grow, protecting my sides from what harms me,",
+          "fr.karamati": "avec un salut de paix qui ne cesse de croître, qui protège mes côtés de ce qui me nuit,"
+        },
+        "appNumber": 1405
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "عَلَى خَلِيكَ الْحَبِيبِ عَبْدِكَا ۞ أَحْمَدِنَا الْمُخْتَارِ نُورِ جُنْدِكَا",
+        "translations": {
+          "it.karamati": "sul Tuo intimo, l'amato, il Tuo servo, il nostro Aḥmad, il Prescelto, luce del Tuo esercito,",
+          "en.karamati": "upon Your intimate, the beloved, Your servant, our Aḥmad, the Chosen, the light of Your host,",
+          "fr.karamati": "sur Ton intime, le bien-aimé, Ton serviteur, notre Aḥmad, l'Élu, lumière de Ton armée,"
+        },
+        "appNumber": 1406
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "وَءَالِهِ وَصَحْبِهِ وَلْتَجْعَلِ ۞ جَمِيعَ خِدْمَتِى رِضًى تَنْجَعِلِ",
+        "translations": {
+          "it.karamati": "sulla sua Famiglia e i suoi Compagni; e rendi tutto il mio servizio un compiacimento che si compia.",
+          "en.karamati": "upon his Family and his Companions; and make all my service a good pleasure that is fulfilled.",
+          "fr.karamati": "sur sa Famille et ses Compagnons ; et rends tout mon service un agrément qui s'accomplisse."
+        },
+        "appNumber": 1407
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "يَارَبَّنَا صَلِّ صَلَاةً جَامِعَهْ ۞ كُلَّ صَلَاةٍ ذَاتِ قَهْرٍ قَامِعَهْ",
+        "translations": {
+          "it.karamati": "O nostro Signore, benedici di una benedizione che riunisca ogni benedizione, che reprima chi è dotato di sopraffazione,",
+          "en.karamati": "O our Lord, bless with a blessing gathering every blessing, suppressing whoever possesses oppression,",
+          "fr.karamati": "Ô notre Seigneur, bénis d'une bénédiction qui réunisse toute bénédiction, qui réprime qui est doté d'oppression,"
+        },
+        "appNumber": 1408
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "مَعَ سَلَامٍ نُّرُوهُ لَا يَنْقَطِعْ ۞ عَلَى الَّذِى بِهِ أَذَاىَ مُنْقَطِعْ",
+        "translations": {
+          "it.karamati": "con un saluto di pace la cui crescita non si interrompa, su colui per mezzo del quale il nocumento verso di me è interrotto.",
+          "en.karamati": "with a peace whose growth is not cut off, upon him through whom harm to me is cut off.",
+          "fr.karamati": "avec un salut de paix dont la croissance ne s'interrompt pas, sur celui par qui le dommage envers moi est interrompu."
+        },
+        "appNumber": 1409
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَالْئَالِ ۞ وَصَحْبِهِ فِى الْحَالِ وَالْمَئَالِ",
+        "translations": {
+          "it.karamati": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale.",
+          "en.karamati": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome.",
+          "fr.karamati": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+        },
+        "appNumber": 1410
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "وَارْفَعْ جَمِيعَ صَلَوَاتِ الْيَوْمَا ۞ لَكَ وَجَنِّبْنِى الْعِدَى وَاللَّوْمَا",
+        "translations": {
+          "it.karamati": "E innalza a Te tutte le benedizioni di oggi, e tienimi lontano dai nemici e dal biasimo.",
+          "en.karamati": "And raise to You all the blessings of today, and keep me far from enemies and blame.",
+          "fr.karamati": "Et élève vers Toi toutes les bénédictions d'aujourd'hui, et tiens-moi éloigné des ennemis et du blâme."
+        },
+        "appNumber": 1411
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "يَارَبَّنَا صَلِّ صَلَاةً حَآئِلَهْ ۞ بَيْنِى وَبَيْنَ كَدَرَاتٍ جَآئِلَهْ",
+        "translations": {
+          "it.karamati": "O nostro Signore, benedici di una benedizione che si frapponga tra me e le torbidezze erranti,",
+          "en.karamati": "O our Lord, bless with a blessing that comes between me and roaming turbidities,",
+          "fr.karamati": "Ô notre Seigneur, bénis d'une bénédiction qui s'interpose entre moi et les troubles errants,"
+        },
+        "appNumber": 1412
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "مَعَ سَلَامٍ جَالِبٍ لِّى مَآ أُحِبّْ ۞ مُزَحْزِحًا لِّغَيْرِنَا مَالَا نُحِبّْ",
+        "translations": {
+          "it.karamati": "con un saluto di pace che attiri per me ciò che amo, rimuovendo verso altri che noi ciò che non amiamo,",
+          "en.karamati": "with a peace that draws to me what I love, removing toward others than us what we do not love,",
+          "fr.karamati": "avec un salut de paix qui attire pour moi ce que j'aime, écartant vers d'autres que nous ce que nous n'aimons pas,"
+        },
+        "appNumber": 1413
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "عَلَى وَسِيلَتِى إِلَيْكَ أَحْمَدَا ۞ وَالْئَالِ والصَّحْبِ وَعُمْرِىَ احْمَدَا",
+        "translations": {
+          "it.karamati": "sul mio mezzo d'accesso a Te, Aḥmad, la Famiglia e i Compagni; e la mia vita rendi lodevole.",
+          "en.karamati": "upon my means of access to You, Aḥmad, the Family and the Companions; and make my life praiseworthy.",
+          "fr.karamati": "sur mon moyen d'accès à Toi, Aḥmad, la Famille et les Compagnons ; et ma vie rends louable."
+        },
+        "appNumber": 1414
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "يَارَبَّنَا صَلِّ صَلَاةً ذَاهِبَهْ ۞ بِكُلِّ ضُرٍّ مَّعْ سَلَامِ ذَاهِبَهْ",
+        "translations": {
+          "it.karamati": "O nostro Signore, benedici di una benedizione che porti via ogni danno, con un saluto di pace che porti",
+          "en.karamati": "O our Lord, bless with a blessing that takes away every harm, with a peace that brings",
+          "fr.karamati": "Ô notre Seigneur, bénis d'une bénédiction qui emporte tout dommage, avec un salut de paix qui apporte"
+        },
+        "appNumber": 1415
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "لَنَا سَعَادَةً وَرِبْحًا وَسَعَهْ ۞ يَامُغْنِيًا قَدْ كُنْتَ لِى بِتَوْسِعَهْ",
+        "translations": {
+          "it.karamati": "a noi felicità, guadagno e ampiezza, o Tu che arricchisci, che sei stato per me con l'abbondanza,",
+          "en.karamati": "to us happiness, gain and abundance, O Enricher Who has been for me with plenty,",
+          "fr.karamati": "à nous félicité, gain et ampleur, ô Toi qui enrichis, qui as été pour moi avec l'abondance,"
+        },
+        "appNumber": 1416
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "عَلَى الَّذِى بِهِ تَقُودُ لِى الْغَرَضْ ۞ بِلَا عِدًى وَلَآ أَذًى وَلَا مَرَضْ",
+        "translations": {
+          "it.karamati": "su colui per mezzo del quale mi conduci lo scopo, senza nemici, né nocumento, né malattia.",
+          "en.karamati": "upon him through whom You lead the aim to me, without enemies, or harm, or sickness.",
+          "fr.karamati": "sur celui par qui Tu m'amènes le but, sans ennemis, ni dommage, ni maladie."
+        },
+        "appNumber": 1417
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَالْئَالِ ۞ وَصَحْبِهِ فِى الْحَالِ وَالْمَئَالِ",
+        "translations": {
+          "it.karamati": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale.",
+          "en.karamati": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome.",
+          "fr.karamati": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+        },
+        "appNumber": 1418
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "يَارَبَّنَا يَامَنْ تَعَالَى عَنْ سِنَهْ ۞ عَنِّىَ صَلِّ كُلَّ شَهْرٍ وَسَنَهْ",
+        "translations": {
+          "it.karamati": "O nostro Signore, o Tu che sei esaltato al di sopra del sopore, benedici da parte mia in ogni mese e anno,",
+          "en.karamati": "O our Lord, O You Who are exalted above slumber, bless on my behalf every month and year,",
+          "fr.karamati": "Ô notre Seigneur, ô Toi qui es exalté au-dessus de l'assoupissement, bénis de ma part en chaque mois et année,"
+        },
+        "appNumber": 1419
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "مَعَ سَلَامِكَ عَلَى الْمُشَفَّعِ ۞ مَنْ قَادَ لِى مُخْجِلَ كُلِّ مِدْفَعِ",
+        "translations": {
+          "it.karamati": "con il Tuo saluto di pace, colui la cui intercessione è accolta, colui che mi ha condotto ciò che fa arrossire ogni cannone.",
+          "en.karamati": "with Your peace, him whose intercession is accepted, him who led to me what puts every cannon to shame.",
+          "fr.karamati": "avec Ton salut de paix, celui dont l'intercession est accueillie, celui qui m'a amené ce qui fait rougir tout canon."
+        },
+        "appNumber": 1420
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَالْئَالِ ۞ وَصَحْبِهِ فِى الْحَالِ وَالْمَئَالِ",
+        "translations": {
+          "it.karamati": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale.",
+          "en.karamati": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome.",
+          "fr.karamati": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+        },
+        "appNumber": 1421
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "وَاكْتُبْ لَهُ فِى كُلِّ مَا مِنِّى صَدَرْ ۞ مِنْ خِدَمٍ حَلَاوَةً بِلَا كَدَرْ",
+        "translations": {
+          "it.karamati": "E scrivi per lui, in tutto ciò che da me è promanato dei servizi, una dolcezza senza torbidezza.",
+          "en.karamati": "And write for him, in all that has issued from me of services, a sweetness without turbidity.",
+          "fr.karamati": "Et écris pour lui, en tout ce qui de moi a émané des services, une douceur sans trouble."
+        },
+        "appNumber": 1422
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "وَاجْعَلْ صَلَاةِ وَسَلَامِى خَيْرَا ۞ عِبَادَةٍ لَّكَ تُصَفِّى مَيْرَا",
+        "translations": {
+          "it.karamati": "E rendi la mia benedizione e il mio saluto di pace la migliore adorazione per Te, che renda limpide le provviste.",
+          "en.karamati": "And make my blessing and my peace the best worship for You, that makes provisions clear.",
+          "fr.karamati": "Et rends ma bénédiction et mon salut de paix la meilleure adoration pour Toi, qui rende limpides les provisions."
+        },
+        "appNumber": 1423
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "وَجْعَلْ حَيَاتِىَ عِبَادَةً تَدُومْ ۞ لَهُ بُشَارَاتٍ تُقَدِّمُ الْخَدِيمْ",
+        "translations": {
+          "it.karamati": "E rendi la mia vita un'adorazione che duri per lui, buone novelle che pongano innanzi il servitore.",
+          "en.karamati": "And make my life a worship that lasts for him, glad tidings that put the servant forward.",
+          "fr.karamati": "Et rends ma vie une adoration qui dure pour lui, des bonnes nouvelles qui placent en avant le serviteur."
+        },
+        "appNumber": 1424
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "وَارْفَعْ لِعَرْشِكَ وَلِلْكُرْسِىِّ ۞ نَظْمِىَ هَاذَا بِاسْمِكَ الْقُدْسِىِّ",
+        "translations": {
+          "it.karamati": "E innalza al Tuo Trono e allo Sgabello questo mio poema, per il Tuo Nome santissimo.",
+          "en.karamati": "And raise to Your Throne and the Footstool this poem of mine, by Your most holy Name.",
+          "fr.karamati": "Et élève vers Ton Trône et le Marchepied ce mien poème, par Ton Nom très saint."
+        },
+        "appNumber": 1425
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "يَاللَّهُ يَآأَحَدُ إِنَّكَ الصَّمَدْ ۞ يَارَافِعَ السَّمَآءِ مِنْ غَيْرِعَمَدْ",
+        "translations": {
+          "it.karamati": "O Allah, o Uno (Al-Aḥad), Tu sei l'Assoluto (Aṣ-Ṣamad), o Tu che hai innalzato il cielo senza colonne (Corano 13:2),",
+          "en.karamati": "O Allah, O One (Al-Aḥad), You are the Eternal Refuge (Aṣ-Ṣamad), O Raiser of the heaven without pillars (Qurʾān 13:2),",
+          "fr.karamati": "Ô Allah, ô Un (Al-Aḥad), Tu es l'Absolu (Aṣ-Ṣamad), ô Toi qui as élevé le ciel sans colonnes (Coran 13:2),"
+        },
+        "appNumber": 1426
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "صَلِّ بِحَقِّ قُلْ هُوَ اللَّهُ أَحَدْ ۞ عَلَى وَسِيلَتِى نَبِيِّكَ الْأَحَدْ",
+        "translations": {
+          "it.karamati": "benedici, per il diritto di «Di': Egli, Allah, è Uno» (Corano 112:1), il mio mezzo d'accesso, il Tuo Profeta unico.",
+          "en.karamati": "bless, by the right of \"Say: He, Allah, is One\" (Qurʾān 112:1), my means of access, Your unique Prophet.",
+          "fr.karamati": "bénis, par le droit de « Dis : Lui, Allah, est Un » (Coran 112:1), mon moyen d'accès, Ton Prophète unique."
+        },
+        "appNumber": 1427
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَالْئَالِ ۞ وَصَحْبِهِ فِى الْحَالِ وَالْمَئَالِ",
+        "translations": {
+          "it.karamati": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale.",
+          "en.karamati": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome.",
+          "fr.karamati": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+        },
+        "appNumber": 1428
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "وَهَبْ لَهُ يَارَبِّ مِنْ يَّوْمِ الْأَحَدْ ۞ أَعْلَى بُشَارَاتٍ لَّدَى كُلِّ أَحَدْ",
+        "translations": {
+          "it.karamati": "E donagli, o Signore, dal giorno di domenica, le più alte buone novelle presso ognuno.",
+          "en.karamati": "And grant him, O Lord, from the day of Sunday, the highest glad tidings with everyone.",
+          "fr.karamati": "Et accorde-lui, ô Seigneur, depuis le jour du dimanche, les plus hautes bonnes nouvelles auprès de chacun."
+        },
+        "appNumber": 1429
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "وَاجْعَلْ كِتَابَتِى مَزَيَا قُوتَا ۞ لَهُ وَزَيْنًا يَزْدَرِى يَاقُوتَا",
+        "translations": {
+          "it.karamati": "E rendi la mia scrittura per lui privilegi e nutrimento, e ornamento che sminuisca il rubino.",
+          "en.karamati": "And make my writing for him privileges and sustenance, and an adornment that belittles the ruby.",
+          "fr.karamati": "Et rends mon écriture pour lui des privilèges et une nourriture, et une parure qui dédaigne le rubis."
+        },
+        "appNumber": 1430
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "يَارَبَّنَا صَلِّ صَلَاةً بِسَلَامْ ۞ عَلَى الَّذِى مَحَا الْعَنَآءَ وَالْمَلَامْ",
+        "translations": {
+          "it.karamati": "O nostro Signore, benedici di una benedizione con saluto di pace colui che ha cancellato la pena e il biasimo,",
+          "en.karamati": "O our Lord, bless with a blessing with peace him who effaced toil and blame,",
+          "fr.karamati": "Ô notre Seigneur, bénis d'une bénédiction avec salut de paix celui qui a effacé la peine et le blâme,"
+        },
+        "appNumber": 1431
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "وَقَادَنِى إِلَيْكَ يَارَبِّ بِكَا ۞ وَقُدْتَّنِى بِكَ لَهُ بِحُبِّكَا",
+        "translations": {
+          "it.karamati": "e mi ha condotto a Te, o Signore, per mezzo di Te, e Tu mi hai condotto per mezzo di Te a lui, con il Tuo amore.",
+          "en.karamati": "and led me to You, O Lord, through You, and You led me through You to him, with Your love.",
+          "fr.karamati": "et m'a conduit à Toi, ô Seigneur, par Toi, et Tu m'as conduit par Toi à lui, par Ton amour."
+        },
+        "appNumber": 1432
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "سَيِّدِنَا مُحَمَّدٍ وَالْئَالِ ۞ وَصَحْبِهِ فِى الْحَالِ وَالْمَئَالِ",
+        "translations": {
+          "it.karamati": "nostro signore Muḥammad, la Famiglia e i suoi Compagni, nel presente e nell'esito finale.",
+          "en.karamati": "our master Muḥammad, the Family and his Companions, in the present and in the final outcome.",
+          "fr.karamati": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+        },
+        "appNumber": 1433
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "وَهَبْ لَهُ يَارَبِّ فِى الْإِثْنَيْنِ ۞ فَوْقَ الْمُنَى وَالْحَاجِ مِنْ مَّنَّيْنِ",
+        "translations": {
+          "it.karamati": "E donagli, o Signore, il lunedì, ciò che supera i desideri e i bisogni, da parte di due Elargitori (Dio e il Profeta?),",
+          "en.karamati": "And grant him, O Lord, on Monday, what surpasses the wishes and needs, from two Bestowers,",
+          "fr.karamati": "Et accorde-lui, ô Seigneur, le lundi, ce qui dépasse les souhaits et les besoins, de la part de deux Donateurs,"
+        },
+        "appNumber": 1434
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "بِغَيْرِ ءَافَةٍ وَغَيْرِ كَدَرِ ۞ يَامَنْ كَفَانِى كَدَرَاتِ الْقَدَرِ",
+        "translations": {
+          "it.karamati": "senza calamità e senza torbidezza, o Tu che mi hai risparmiato le torbidezze del decreto.",
+          "en.karamati": "without affliction and without turbidity, O You Who spared me the turbidities of decree.",
+          "fr.karamati": "sans calamité et sans trouble, ô Toi qui m'as épargné les troubles du décret."
+        },
+        "appNumber": 1435
+      }
     ]
   }
 }

@@ -1,0 +1,363 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 39,
+    "name": "Hammat Sulaymaa 1",
+    "transliterationName": "Hammat Sulaymaa 1",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1,
+        "text": "Sulaymā (le monde) a tenté de me détourner de (mes) mérites, pour conduire mes rênes vers les malheurs."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 2,
+        "text": "Elle a montré, pour capturer mon cœur, la beauté de sa splendeur, et m'a adressé des présents avec des égards."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 3,
+        "text": "Elle s'est mise à réjouir mon âme pour que je penche vers elle, et a tenté d'incliner mon cœur vers les présents."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 4,
+        "text": "Elle m'a adressé des paroles qui invitent à la demander en mariage, et a montré la sincérité d'une promesse par les choses désirables."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 5,
+        "text": "Tantôt elle vient à moi et m'accorde ses présents, tantôt elle m'offre de bonnes nouvelles."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 6,
+        "text": "Mais j'ai su — et ma science me sera utile — qu'elle est menteuse dans ses propos."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 7,
+        "text": "Les promesses de ʿUrqūb (proverbial manqueur de parole) sont pour elle un modèle, et ses promesses ne sont que trahisons."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 8,
+        "text": "Elle ne montre la limpidité sans montrer, après elle, le trouble, et elle tourne avec les ruses."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 9,
+        "text": "Et elle ne montre le bienfait sans y avoir introduit un mal, et elle cache une injustice dans les secours."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 10,
+        "text": "Je me suis donc détourné d'elle vers ce par quoi Allah me fait entrer dans des Jardins qui renferment des houris fidèles."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 11,
+        "text": "Elles sont les belles auxquelles ne sont égales ni Salmā, ni Hind, ni Laylā parmi les vierges."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 12,
+        "text": "Elles sont les belles que n'obtient que celui qui s'est paré de la crainte de Dieu par des actes d'obéissance."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 13,
+        "text": "Elles sont les belles qui demeurent pour toujours dans les tentes qu'elles possèdent au milieu des Jardins (Coran 55:72)."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 14,
+        "text": "Houris auprès d'Allah, aux grands yeux, que n'approchent ni menstrues ni souillure : elles demeurent pures."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 15,
+        "text": "Houris auprès d'Allah, du même âge, gardées sous les coupoles, préservées de la misère."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 16,
+        "text": "Elles ont surpassé les lampes en lumière ; leur parfum est intense ; elles font rougir la pleine lune qui paraît au-dessus des cieux."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 17,
+        "text": "Elles ont un corps tendre, pur, frais ; la lumière de (leur) poitrine éclaire les ténèbres."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 18,
+        "text": "Miroir de leurs époux sont leurs corps, oui, car la lumière de leurs corps humilie les lampes."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 19,
+        "text": "Depuis que le Seigneur du Trône les a créées, aucune tache ne les a touchées, ni dans les qualités ni dans l'essence."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 20,
+        "text": "Et elles ne cherchent, à la place des époux, aucun substitut ; et l'éclat de la lumière croît à chaque heure."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 21,
+        "text": "Et elles ne cessent d'être vierges auprès d'eux (les époux) pour toujours : combien nobles sont-elles, vierges pures !"
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 22,
+        "text": "Et elles n'arrivent ni à la mort ni à la vieillesse, mais demeurent pour toujours résidentes, aimantes."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 23,
+        "text": "Elles sont les belles dont le cœur s'est réjoui : il les préfère à Salmā et aux Hind."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 24,
+        "text": "Et leur dot est la crainte d'Allah, leur Créateur, avec le repentir de la passion de l'âme (en se tournant) vers les actes d'obéissance,"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 25,
+        "text": "avec le repentir et la soumission à un Roi qui a gratifié de l'Élu, trésor des créatures."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 26,
+        "text": "Je me suis remis à un Seigneur qui n'a point d'associé, avec celui dont suivre la trace est mon occupation et mon besoin."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 27,
+        "text": "Je me suis remis à un Seigneur qui n'a point de semblable, avec celui dont l'amour est la plus lointaine de mes aspirations."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 28,
+        "text": "Je me suis remis à un Seigneur qui n'a point d'égal, avec celui dont la voie est la meilleure des routes."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 29,
+        "text": "Je me suis remis à un Seigneur qui n'a point d'aide, avec celui dont la religion est la meilleure des religions."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 30,
+        "text": "Je me suis remis à un Seigneur qui n'a point de commencement, avec celui qui a renfermé la meilleure des voies."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 31,
+        "text": "Je me suis remis à un Seigneur qui n'a point de fin, avec celui dont la proximité est le plus grand de mes desseins."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 32,
+        "text": "Je me suis remis à un Seigneur qui est au-dessus de (tout) enfant, avec celui dont la louange est ma loi et mes habitudes."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 33,
+        "text": "Je me suis remis à un Seigneur qui est au-dessus de (tout) dessein, avec celui dont la munificence est le plus espéré de mes trésors."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 34,
+        "text": "Je me suis remis à un Seigneur qui est au-dessus de (toute) ressemblance, avec celui qui a été sauvé de toute calamité."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 35,
+        "text": "Je me suis soumis à Allah, Seigneur des mondes, par Muḥammad, le meilleur de ceux qui sont passés et de ceux qui viendront."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 36,
+        "text": "Que le bénisse Celui qui a élevé ses degrés au-dessus des degrés, dans le passé et dans l'avenir,"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 37,
+        "text": "ainsi que la Famille, les Compagnons et ceux qui s'attachent à lui, de la plus pure bénédiction, par laquelle (Il) bannit les sottises."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 38,
+        "text": "Que le bénisse Celui qui l'a élevé, éminent au-dessus de ceux qui ont renfermé les plus hautes stations,"
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 39,
+        "text": "ainsi que la Famille, les Compagnons et ceux qui suivent sa Sunna, de la plus pure bénédiction, par laquelle je renferme les ouvertures."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 40,
+        "text": "Que le bénisse Celui qui a élevé sa prophétie, jusqu'à ce que les gens des prophéties cherchent refuge en lui,"
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 41,
+        "text": "ainsi que la Famille, les Compagnons et ceux qui cherchent en lui la droite guidance, de la plus pure bénédiction, par laquelle je renferme les félicités."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 42,
+        "text": "Que le bénisse Celui qui lui a donné un miracle qui a couvert de honte, tous ensemble, les magiciens et les devins,"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 43,
+        "text": "ainsi que la Famille, les Compagnons et ceux qui lui demandent secours, de la plus pure bénédiction, par laquelle je renferme les prodiges."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 44,
+        "text": "Que le bénisse Celui qui a manifesté sa préséance sur l'assemblée de la terre, tout entière, et des cieux,"
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 45,
+        "text": "ainsi que la Famille, les Compagnons et ceux qui cherchent le salut en lui, de la plus pure bénédiction, par laquelle je renferme les effusions."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 46,
+        "text": "Que le bénisse, d'une bénédiction par laquelle je sois droit, Celui qui l'a distingué par le rapprochement (Coran 53:8) dans les rencontres,"
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 47,
+        "text": "ainsi que la Famille, les Compagnons et ceux qui font revivre sa Sunna, avec le salut, sans fin des termes."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 48,
+        "text": "Celui-là est le protecteur auprès de qui j'ai cherché protection contre le mal de mon âme, de Satan et des infirmités,"
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 49,
+        "text": "et des machinations des ennemis et de mon temps, et de la parole et du mauvais œil, en tout moment,"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 50,
+        "text": "et du changement de mes états vers autre chose que la guidance, et de tous les malheurs et les fautes."
+      }
+    ]
+  }
+}

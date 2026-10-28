@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "Maramiya",
+    "transliterationName": "Maramiya",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "My aim with Allah I possess perpetually, by the standing of him whom He raised high: I mean Muḥammad."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "My fortresses against enemies, the Fire and trial are my praise of him who removed harm, Aḥmad."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "My ink and my pens are for my Lord and for the Prophet: with them I vie with those who made their striving sincere, praisers."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Whenever I return, as a servant, to praise and gratitude, He bestows the wishes; and the return never ceases to be more praiseworthy."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "My supplication answer, Lord, through the Chosen, perpetually; and from me accept, Lord, my striving, (making it) more praiseworthy."
+      }
+    ]
+  }
+}

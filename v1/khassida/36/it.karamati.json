@@ -1,0 +1,79 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 36,
+    "name": "Halayka Yaa Mukhtaru",
+    "transliterationName": "Halayka Yaa Mukhtaru",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Tieniti, o Mukhtār, allo sforzo assiduo, in ogni ora, sulla retta via."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Attieniti al timor di Dio e cerca l'istruzione, e non sghignazzare per gioco, ché te ne pentiresti."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Sii paziente nella prova e nell'austerità (del vitto), e persevera nella calma e nella fermezza."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Se ti sforzi nella scienza al tempo della tua giovinezza, otterrai i tuoi scopi al tempo della tua vecchiaia."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "E non raccoglierai, fratello mio, i privilegi, finché non avrai perseverato nella pazienza di fronte alle sventure,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "(di) una pazienza bella (Corano 12:18): non essere pigro; in verità il pigro non guida la sua generazione."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Allontanati da tutto ciò che il Maestoso ha proibito, e confida in ciò con cui è venuto l'Inviato."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Non accompagnarti se non a chi ti guida rettamente, e allontanati da ogni compagno che ti manda in rovina."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Ché quanti inesperti sono divenuti nobili per la compagnia del virtuoso: non deviare!"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "E quanti virtuosi sono divenuti abietti per la compagnia dello stolto e dell'ignorante."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Sii fiducioso nel Compassionevole (Ar-Raḥmān) in ogni tempo, o giovane dei Daymān."
+      }
+    ]
+  }
+}

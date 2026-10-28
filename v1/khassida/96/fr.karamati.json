@@ -1,0 +1,419 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 96,
+    "name": "Matlabul Fawzayni 2",
+    "transliterationName": "Matlabul Fawzayni 2",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 59,
+        "text": "Et quiconque m'a servi ou visité, sauve-le et pardonne-lui ses péchés."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 60,
+        "text": "Et quiconque m'a aimé ou s'est tourné vers moi, accorde-lui guidance et biens."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 61,
+        "text": "Et quiconque m'a injurié ou blâmé, accorde-lui le repentir et la soumission."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 62,
+        "text": "Et quiconque a pensé du mal de moi, tourne en ma faveur son cœur, ô mon Seigneur."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 63,
+        "text": "Et préserve-moi du mal de tous les mondes, et préserve-les du (mien), ô Seigneur, Āmīn."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 64,
+        "text": "Et fais de mon édifice un édifice de santé, qui m'attire vers des biens limpides."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 65,
+        "text": "Et fais de mon édifice un édifice de science, et d'action selon la Tradition, et de mansuétude."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 66,
+        "text": "Et fais de mon édifice un édifice de la droite guidance, et écarte de moi la ruse de tout agresseur."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 67,
+        "text": "Et préserve-moi à jamais du mal de Satan et de sa troupe, oppresseurs dans les contrées."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 68,
+        "text": "Et écarte de moi toute personne qui ne recherche pas Ta Face : détourne-la rapidement quand elle arrive."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 69,
+        "text": "Et détourne rapidement l'ensemble de ce qui corrompt de ma main et de ma maison, où qu'il apparaisse."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 70,
+        "text": "Et fais entrer ce qui amende dans ma main et dans ma maison, et affermis-le par (le prestige du) Guide, le Fidèle."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 71,
+        "text": "Et élève-moi, et élève qui m'aide, et préserve-moi de l'ensemble de ce qui m'humilie."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 72,
+        "text": "Et préserve ma demeure des pervers, et gratifie les gens d'une eau courante."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 73,
+        "text": "Et fais-en, Seigneur, des faveurs hâtées (ici-bas) qui attirent des faveurs différées (dans l'Au-delà)."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 74,
+        "text": "Ô Vivant (Al-Ḥayy), ô Subsistant (Al-Qayyūm), sois Celui qui m'exauce : Tu es Celui qui exauce, le Généreux, le Vigilant (Ar-Raqīb)."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 75,
+        "text": "C'est vers Toi seul que j'ai fui loin d'autres que Toi (cf. Coran 51:50) : sois donc pour cela mon guide vers Ta guidance."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 76,
+        "text": "Et sois pour moi Seigneur, Allié et Défenseur, ainsi que pour tous les musulmans, ô Clairvoyant (Al-Baṣīr)."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 77,
+        "text": "Et multiplie les biens de cette terre et sa subsistance, et préserve-la de l'infortune."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 78,
+        "text": "Et établis en elle une communauté qui accomplisse les cinq prières assidûment, ô Sage (Al-Ḥakīm)."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 79,
+        "text": "Et sauve-nous du mal de ce temps et du mal d'autres (temps), et de toute sédition."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 80,
+        "text": "Et préserve-nous du mal des Chrétiens et des Juifs, et du mal d'Iblīs et de tout négateur,"
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 81,
+        "text": "des djinns, de l'Antéchrist (ad-Dajjāl), des Noirs, à l'Orient et à l'Occident, et des Bīḍān (Maures),"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 82,
+        "text": "et du mal de tout ce qui est sur la terre et dans le ciel, du manifeste et de l'intérieur qui s'est caché."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 83,
+        "text": "Ô Bienveillant, ô Généreux, ô Majestueux : traite-nous tous avec Ta belle bienveillance."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 84,
+        "text": "Et conduis-nous tous au salut et au succès, et assiste-nous vers ce qui est juste et la droiture."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 85,
+        "text": "Et rends-nous avides de faire ce que Tu as aimé, et préserve-nous de faire ce que Tu as détesté."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 86,
+        "text": "Et n'éprouve jamais aucun d'entre nous par ce qu'il ne peut supporter, ô Soutien Éternel (Aṣ-Ṣamad)."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 87,
+        "text": "Et accorde-nous la facilité et le succès dans les deux Demeures, et la réussite,"
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 88,
+        "text": "par le prestige de ce jour et le prestige de celui qui y est né : nous avons cherché son pareil et ne (l')avons pas trouvé,"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 89,
+        "text": "Muḥammad, la plus excellente des créatures d'Allah, sans hésitation ni ambiguïté."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 90,
+        "text": "Sur lui, bénis à jamais de la meilleure bénédiction, par laquelle nous accompagnons les élus et les dignes de confiance."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 91,
+        "text": "Et accorde-nous de prendre ce qu'il nous a apporté et de laisser ce qu'il nous a interdit de faire (cf. Coran 59:7),"
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 92,
+        "text": "jusqu'à ce que chacun de nous soit, dans les mouvements et les repos, suiveur de la Tradition."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 93,
+        "text": "Et sauve-nous, par son prestige, de la prétention, et écarte de nous le mensonge et le divertissement futile."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 94,
+        "text": "Et préserve-nous de la passion et de ce qui ne nous regarde pas, et par Toi rends-nous toujours indépendants, ô Enrichisseur (Al-Mughnī)."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 95,
+        "text": "Ô Allah, Ton pardon espéré est plus vaste que les péchés effroyables d'un désobéissant."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 96,
+        "text": "Ô Bienfaisant, Ta miséricorde est pour nous plus digne d'espoir qu'une œuvre que nous acquérons : pardonne-nous donc,"
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 97,
+        "text": "et (pardonne) tous les musulmans ensemble, et les musulmanes toutes, à tout moment."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 98,
+        "text": "Et ne nous punis pas pour la mauvaise conduite, et pour l'audace et l'abondance du jeu."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 99,
+        "text": "Car en vérité nous, même si nous avons osé, n'espérons en nul autre que Toi : sois pour nous, par grâce."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 100,
+        "text": "Et ne nous punis pas pour l'abondance des choses superflues, dans l'extérieur et l'intérieur, et pour l'inattention."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 101,
+        "text": "Et sois notre refuge contre l'épidémie et contre toute chose qui descend du ciel,"
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 102,
+        "text": "et de tout ce qui tourne sur la terre et de ce qui est entre eux, ô Seigneur du ciel."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 103,
+        "text": "Et attire nos cœurs, avec les membres, vers la piété et la crainte d'Allah, par le prestige du Conseiller sincère."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 104,
+        "text": "Et bénis de la plus pure bénédiction, qui repousse de nous l'épidémie (et) protège des criquets,"
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 105,
+        "text": "lui et la Famille, avec le plus excellent salut de paix, et ses Compagnons ; et protège ma demeure, ô Paix (As-Salām)."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 106,
+        "text": "Et purifie mon âme et accrois-moi en science (Coran 20:114), qui dissipe de moi le souci dans les deux Demeures."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 107,
+        "text": "Et purifie mon cœur et accrois-moi en pudeur, et fais-moi vivre dans l'obéissance, ô mon Seigneur."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 108,
+        "text": "Et rends ma droite comme un nuage dans la générosité, bénie dans la difficulté et dans l'aisance."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 109,
+        "text": "Ô Allah, ô Donateur, ô Compagnon très-haut : fais-moi parcourir aujourd'hui la voie la plus profitable,"
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 110,
+        "text": "par la sacralité de l'Intercesseur agréé, le Rapproché, de la Famille, des Compagnons et du mois de Rajab."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 111,
+        "text": "Gratifie-moi de la préséance et de la confirmation véridique, par la sacralité du Préposé, le Véridique (Abū Bakr aṣ-Ṣiddīq)."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 112,
+        "text": "Et gratifie-moi de la vérité et de l'assistance, par la sacralité de l'Assisté, le Discriminant (ʿUmar al-Fārūq)."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 113,
+        "text": "Et accorde-moi la félicité des deux Demeures, par le droit de ʿUthmān, détenteur des deux Lumières (Dhū n-Nūrayn)."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 114,
+        "text": "Puis, par la sacralité de notre Imam ʿAlī, accorde-moi dans les deux Demeures une renommée qui s'élève."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 115,
+        "text": "Ô notre Seigneur, ô notre Seigneur, ô notre Seigneur, ô notre Seigneur, ô notre Seigneur : agrée nos vers,"
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 116,
+        "text": "par la sacralité d'al-Ḥasan et d'al-Ḥusayn, avec la sacralité de quiconque s'est joint aux Compagnons."
+      }
+    ]
+  }
+}

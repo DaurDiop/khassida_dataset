@@ -599,6 +599,452 @@
           "fr": "par laquelle il illumine toute personne qui cherche à être éclairée."
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "حُقَّ الْبُكَآءُ عَلَى سَدَاتٍ أَمْوَاتِ ۞ تَبْكِى الْأَرَاضِى عَلَيْهِمْ كَالسَّمَاوَاتِ",
+        "translations": {
+          "it.karamati": "Il pianto è doveroso per dei signori defunti: piangono su di loro le terre come i cieli.",
+          "en.karamati": "Weeping is due for departed masters: the earths weep over them as do the heavens.",
+          "fr.karamati": "Les pleurs sont un devoir pour des maîtres défunts : sur eux pleurent les terres comme les cieux."
+        },
+        "appNumber": 1
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "أَبْكِى عَلَيْهِمْ وَأَرْجُو فِى الْبُكَآءِ غَدًا ۞ رِضْوَانَ مَنْ فِيهِ غَابُواْ بِالْحَلَاوَاتِ",
+        "translations": {
+          "it.karamati": "Piango su di loro e spero, nel pianto, per domani il compiacimento di Colui nel Quale essi si sono perduti con dolcezza.",
+          "en.karamati": "I weep over them and hope, in weeping, for tomorrow the good pleasure of Him in Whom they lost themselves with sweetness.",
+          "fr.karamati": "Je les pleure et j'espère, dans les pleurs, pour demain l'agrément de Celui en Qui ils se sont anéantis avec délices."
+        },
+        "appNumber": 2
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "يَالَهْفَ نَفْسِى عَلَى فَغْدِ الْأَكَابِرِ مَنْ ۞ غَابُواْ لِرَبٍّ دَعَاهُمْ لِلْعُلُوَّاتِ",
+        "translations": {
+          "it.karamati": "Ahimè, anima mia, per la perdita dei grandi che sono partiti verso un Signore che li ha chiamati alle altezze!",
+          "en.karamati": "Alas, my soul, for the loss of the great ones who have departed to a Lord Who called them to the heights!",
+          "fr.karamati": "Hélas, mon âme, pour la perte des grands qui s'en sont allés vers un Seigneur qui les a appelés aux hauteurs !"
+        },
+        "appNumber": 3
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "تَبْكِى اللَّيَالِى عَلَيْهِمْ وَالشُّهُورُ مَعًا ۞ مِثْلَ الْعَشِىِّ بِوَجْدِ وَالْغُدُوَّاتِ",
+        "translations": {
+          "it.karamati": "Piangono su di loro le notti e i mesi insieme, come le sere e i mattini, con struggimento.",
+          "en.karamati": "The nights and the months together weep over them, like the evenings and the mornings, with longing.",
+          "fr.karamati": "Sur eux pleurent les nuits et les mois ensemble, comme les soirs et les matins, avec ardeur."
+        },
+        "appNumber": 4
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "كَانُواْ عِبَادًا بِطَاعَاتٍ لِّرَبِّهِمُ ۞ وَكَانَ جَلَّ لَهُمْ رَبًّا بِمِنَّاتِ",
+        "translations": {
+          "it.karamati": "Erano servitori del loro Signore con atti di obbedienza, ed Egli – sia esaltato – era per loro un Signore dai favori.",
+          "en.karamati": "They were servants of their Lord through acts of obedience, and He – exalted be He – was for them a Lord of favours.",
+          "fr.karamati": "Ils étaient des serviteurs de leur Seigneur par des actes d'obéissance, et Lui – qu'Il soit exalté – était pour eux un Seigneur aux faveurs."
+        },
+        "appNumber": 5
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "كَانُواْ يَعُدُّونَ تَرْكَ الْوِرْدِ مَعْ شِبَعٍ ۞ مِنَ الْحَلَالِ مِنَ اسْبَابِ الْمُصِيبَاتِ",
+        "translations": {
+          "it.karamati": "Annoveravano l'abbandono della litania (wird), come la sazietà anche di cibo lecito, tra le cause delle sventure.",
+          "en.karamati": "They counted the neglect of the litany (wird), like satiety even on lawful food, among the causes of misfortunes.",
+          "fr.karamati": "Ils comptaient l'abandon de la litanie (wird), comme la satiété même d'aliments licites, parmi les causes des malheurs."
+        },
+        "appNumber": 6
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "كَانُواْ إِذَا الَّيْلُ أَرْخَى السِّتْرَ ذَا حَلَكٍ ۞ قَامُواْ سِرَاعًا لِإِحْيَآءِ الدُّجُنَّاتِ",
+        "translations": {
+          "it.karamati": "Quando la notte calava il suo velo di tenebra, essi si alzavano rapidi per vivificare le fitte oscurità.",
+          "en.karamati": "When the night let down its curtain of darkness, they rose swiftly to bring the deep darkness to life.",
+          "fr.karamati": "Quand la nuit abaissait son voile de ténèbres, ils se levaient promptement pour vivifier les obscurités épaisses."
+        },
+        "appNumber": 7
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "بَاعُواْ فُضُو لَآبِذِكْرِ اللَّهِ خَالِقِهِمْ ۞ فَالنَّوْمَ فِى الَّيْلِ بَاعُواْ بِالْمُنَاجَاتِ",
+        "translations": {
+          "it.karamati": "Hanno venduto il superfluo in cambio del ricordo di Allah, loro Creatore, e il sonno della notte lo hanno venduto in cambio del colloquio intimo.",
+          "en.karamati": "They sold the superfluous for the remembrance of Allah, their Creator, and the sleep of the night they sold for intimate converse.",
+          "fr.karamati": "Ils ont vendu le superflu contre le rappel d'Allah, leur Créateur, et le sommeil de la nuit, ils l'ont vendu contre l'entretien intime."
+        },
+        "appNumber": 8
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "تَجْفُو الْمَضَاجِعَ فِى لَيْلٍ جُنُوبُهُمُ ۞ نَاسِينَ سَلْمَى وَلَيْلَى بِالْبُشَارَاتِ",
+        "translations": {
+          "it.karamati": "Nella notte i loro fianchi si staccano dai giacigli (Corano 32:16), dimentichi di Salmā e di Laylā per le buone novelle.",
+          "en.karamati": "By night their sides forsake their beds (Qurʾān 32:16), forgetful of Salmā and Laylā for the glad tidings.",
+          "fr.karamati": "La nuit leurs flancs s'arrachent de leurs couches (Coran 32:16), oublieux de Salmā et de Laylā pour les bonnes nouvelles."
+        },
+        "appNumber": 9
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "فَحَيْثُمَا بَرَزَتْ لَيْلَى بِبَهْجَتِهَا ۞ عَنْهَا تَوَلَّوْاْ إِلَى الْمَوْلَى بِطَاعَاتِ",
+        "translations": {
+          "it.karamati": "E ovunque apparisse Laylā nel suo splendore, essi le voltavano le spalle verso il Signore con atti di obbedienza.",
+          "en.karamati": "And wherever Laylā appeared in her splendour, they turned away from her toward the Lord with acts of obedience.",
+          "fr.karamati": "Et partout où Laylā apparaissait dans sa splendeur, ils lui tournaient le dos vers le Seigneur par des actes d'obéissance."
+        },
+        "appNumber": 10
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "يَنْسَوْنَ لَيْلَى وَسُعْدَى فِى قِيَامِهِمُ ۞ مُسْتَانِسِينَ بِأَذْكَارٍ وَءَايَاتِ",
+        "translations": {
+          "it.karamati": "Dimenticano Laylā e Suʿdā nella loro veglia di preghiera, trovando intimità nelle invocazioni e nei versetti.",
+          "en.karamati": "They forget Laylā and Suʿdā in their night vigil, finding intimacy in invocations and verses.",
+          "fr.karamati": "Ils oublient Laylā et Suʿdā dans leur veille de prière, trouvant l'intimité dans les invocations et les versets."
+        },
+        "appNumber": 11
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "حَدِيثُهُمْ ذِكْرُ مُغْنٍ نَّافِعٍ صَمَدٍ ۞ لَاذِكْرُ هِنْدٍ وَلُبْنَى فِى الْمَقَالَاتِ",
+        "translations": {
+          "it.karamati": "Il loro discorrere è il ricordo dell'Arricchitore (Al-Mughnī), del Benefattore (An-Nāfiʿ), dell'Assoluto (Aṣ-Ṣamad), non il ricordo di Hind e di Lubnā nei loro detti.",
+          "en.karamati": "Their talk is the remembrance of the Enricher (Al-Mughnī), the Benefactor (An-Nāfiʿ), the Self-Sufficient (Aṣ-Ṣamad), not the remembrance of Hind and Lubnā in their sayings.",
+          "fr.karamati": "Leur propos est le rappel de Celui qui enrichit (Al-Mughnī), du Bienfaisant (An-Nāfiʿ), de l'Absolu (Aṣ-Ṣamad), non le rappel de Hind et de Lubnā dans leurs paroles."
+        },
+        "appNumber": 12
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "قَوْمٌ بِأَسْلِحَةٍ أَعْدَآءَهُمْ قَهَرُواْ ۞ حَتَّى عَلَوْاْ بِالْمَزَايَا وَالْكَرَامَاتِ",
+        "translations": {
+          "it.karamati": "Gente che con le (loro) armi soggiogò i propri nemici, finché si elevarono con i privilegi e i carismi.",
+          "en.karamati": "A people who with (their) weapons subdued their enemies, until they rose high with privileges and charisms.",
+          "fr.karamati": "Gens qui par (leurs) armes subjuguèrent leurs ennemis, jusqu'à s'élever par les privilèges et les charismes."
+        },
+        "appNumber": 13
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "أَرْكَانُ بَيْتِ جَمِيعِ الْقَوْمِ أَرْبَعَةٌ ۞ بِهَا يُؤَسَّسُ بُنْيَانُ الْوِلَايَاتِ",
+        "translations": {
+          "it.karamati": "I pilastri della casa di tutta questa gente sono quattro, sui quali si fonda l'edificio della santità:",
+          "en.karamati": "The pillars of the house of all these people are four, upon which the edifice of sainthood is founded:",
+          "fr.karamati": "Les piliers de la maison de tous ces gens sont quatre, sur lesquels se fonde l'édifice de la sainteté :"
+        },
+        "appNumber": 14
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "صُمْتٌ وَجُوعٌ طَوِيلٌ بَعْدَهُ سَهَرٌ ۞ وَعُزْلَةٌ عَنْ شُيُوخٍ بِالْإِشَارَاتِ",
+        "translations": {
+          "it.karamati": "il silenzio, una lunga fame, dopo di essa la veglia, e il ritiro (appreso) dai maestri attraverso le indicazioni.",
+          "en.karamati": "silence, long hunger, after it vigil, and seclusion (learned) from masters through their indications.",
+          "fr.karamati": "le silence, une longue faim, après elle la veille, et la retraite (apprise) des maîtres par les indications."
+        },
+        "appNumber": 15
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "قَوْمٌ طَرِيقَتُهُمْ تَكْفِى الْمُرِيدَآ أَذًى ۞ مِنَ الْمَرِيدِ وَأَنْوَاعَ الْغُرُورَاتِ",
+        "translations": {
+          "it.karamati": "Gente la cui via preserva il discepolo dal danno del Ribelle (Satana) e da ogni genere di illusioni.",
+          "en.karamati": "A people whose way shields the disciple from the harm of the Rebel (Satan) and from every kind of delusion.",
+          "fr.karamati": "Gens dont la voie préserve le disciple du mal du Rebelle (Satan) et de toutes sortes d'illusions."
+        },
+        "appNumber": 16
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "طَرِيقَهُمْ قَصْدُ وَجْهِ اللَّهِ دُونَ هَوًى ۞ مَعَ الْأُصُولِ الَّتِى تَنْفِى الرُّعُونَاتِ",
+        "translations": {
+          "it.karamati": "La loro via è mirare al Volto di Allah senza passione, con i principi che eliminano le vanità dell'ego.",
+          "en.karamati": "Their way is to aim at the Face of Allah without passion, with the principles that banish the vanities of the ego.",
+          "fr.karamati": "Leur voie est de viser la Face d'Allah sans passion, avec les principes qui éliminent les vanités de l'ego."
+        },
+        "appNumber": 17
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "مِنْ تَوْبَةٍ قُدِّمَتْ خَوْفٍ رَّجًا مَّعَهُ ۞ إِكْثَارُ حُزْنٍ دَوَامًا بِالْقَنَاعَاتِ",
+        "translations": {
+          "it.karamati": "(Principi) quali il pentimento posto per primo, il timore e con esso la speranza, il moltiplicare costantemente la tristezza, con la contentezza del poco;",
+          "en.karamati": "(Principles) such as repentance placed first, fear and with it hope, the constant increase of sorrow, with contentment in little;",
+          "fr.karamati": "(Principes) tels que le repentir placé en premier, la crainte et avec elle l'espérance, la tristesse sans cesse multipliée, avec le contentement du peu ;"
+        },
+        "appNumber": 18
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "وَالزَّهْدُ فِى كُلِّ فَانٍ بَعْدَهُ وَرَعٌ ۞ مَعَ التَّوَكُّلِ صَبْرٌ كُلَّ سَاعَاتِ",
+        "translations": {
+          "it.karamati": "la rinuncia a tutto ciò che perisce, e dopo di essa lo scrupolo, con l'abbandono fiducioso (in Allah) e la pazienza in ogni ora;",
+          "en.karamati": "renunciation of all that perishes, and after it scrupulousness, with trusting reliance (on Allah) and patience at every hour;",
+          "fr.karamati": "le renoncement à tout ce qui périt, et après lui le scrupule, avec la remise confiante (en Allah) et la patience à toute heure ;"
+        },
+        "appNumber": 19
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "جِهَادُ نَفْسٍ وَشُكْرٌ بِالْقَضَآءِ رِضًى ۞ تَرْكُ الْتِفَاتٍ إِلَى حَالِ الْبَرِيَّاتِ",
+        "translations": {
+          "it.karamati": "la lotta contro l'anima, la gratitudine, il compiacimento del decreto (divino), il non volgere lo sguardo alla condizione delle creature.",
+          "en.karamati": "striving against the soul, gratitude, contentment with the (divine) decree, ceasing to turn one's gaze to the state of creatures.",
+          "fr.karamati": "la lutte contre l'âme, la gratitude, l'agrément du décret (divin), le fait de ne pas tourner le regard vers l'état des créatures."
+        },
+        "appNumber": 20
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "طَرِيقَهُمْ عَشْرَةً جَائَتْ لَوَازِمُهَا ۞ لَابُدَّ مِنْهَا لِأَرْبَابِ الْإِرَادَاتِ",
+        "translations": {
+          "it.karamati": "La loro via ha dieci requisiti, indispensabili ai detentori dell'aspirazione:",
+          "en.karamati": "Their way has ten requisites, indispensable to those who possess aspiration:",
+          "fr.karamati": "Leur voie a dix conditions requises, indispensables aux détenteurs de l'aspiration :"
+        },
+        "appNumber": 21
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "فَمَقْصَدٌ وَهْوَ مَا يُفْضِى إِلَى سَفَرٍ ۞ مِنْهَا دَلِيلٌ كَشَيْخٍ ذِى فُتُوحَاتِ",
+        "translations": {
+          "it.karamati": "l'intento, che è ciò che conduce al viaggio; tra essi la guida, come un maestro dotato di aperture (spirituali);",
+          "en.karamati": "the intent, which is what leads to the journey; among them the guide, such as a master endowed with (spiritual) openings;",
+          "fr.karamati": "l'intention, qui est ce qui mène au voyage ; parmi elles le guide, tel un maître doté d'ouvertures (spirituelles) ;"
+        },
+        "appNumber": 22
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "وَالزَّادُ وَهْوَ التُّقَى مِنْهَا سِلَاحُهُمُ ۞ وَهْوَ الْوُضُؤَ الَّذِى يَنْفِى النَّجَاسَاتِ",
+        "translations": {
+          "it.karamati": "la provvista, che è il timor di Dio; tra essi la loro arma, che è l'abluzione che elimina le impurità;",
+          "en.karamati": "the provision, which is God-fearing piety; among them their weapon, which is the ablution that removes impurities;",
+          "fr.karamati": "le viatique, qui est la crainte de Dieu ; parmi elles leur arme, qui est l'ablution qui élimine les impuretés ;"
+        },
+        "appNumber": 23
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "مِنْهَا السِّرَاجُ بِذِكْرِ اللَّهِ جَلَّ عَلَا ۞ مِنْهَا الْمَطَا يَابِهِمَّاتٍ عَلِيَّاتِ",
+        "translations": {
+          "it.karamati": "tra essi la lampada, con il ricordo di Allah – sia glorificato ed esaltato –; tra essi le cavalcature, con aspirazioni elevate;",
+          "en.karamati": "among them the lamp, through the remembrance of Allah – glorified and exalted is He –; among them the mounts, through lofty aspirations;",
+          "fr.karamati": "parmi elles la lampe, par le rappel d'Allah – glorifié et exalté soit-Il – ; parmi elles les montures, par des aspirations élevées ;"
+        },
+        "appNumber": 24
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "مِنْهَا الْعُكَازُ بِعَجْزٍ وَالْحِزَامُ لَدَى ۞ أَهْلِ الطَّرِيقَةِ حَزْمٌ بِالْحَقِيقَاتِ",
+        "translations": {
+          "it.karamati": "tra essi il bastone, con (la coscienza della propria) impotenza; e la cintura, presso la gente della Via, è la risolutezza secondo le realtà;",
+          "en.karamati": "among them the staff, through (awareness of one's own) helplessness; and the belt, among the people of the Way, is resolve according to the realities;",
+          "fr.karamati": "parmi elles le bâton, par (la conscience de sa propre) impuissance ; et la ceinture, chez les gens de la Voie, est la résolution selon les réalités ;"
+        },
+        "appNumber": 25
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "وَمِنْ لَّوَازِمِهَا مِنْهَا جُهَآ أَبَدًا ۞ وَهْىَ الشَّرِيعَةُ فِى بَدْءٍ وَغَايَاتِ",
+        "translations": {
+          "it.karamati": "e tra i suoi requisiti è il suo sentiero, per sempre, che è la Sharīʿa, nell'inizio e nei fini;",
+          "en.karamati": "and among its requisites is its road, for ever, which is the Sharīʿa, at the beginning and at the ends;",
+          "fr.karamati": "et parmi ses conditions requises il y a son chemin, pour toujours, qui est la Sharīʿa, au commencement et dans les fins ;"
+        },
+        "appNumber": 26
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "وَرُفْقَةٌ وَهْىَ إِخْوَانٌ لَّهُمْ هِمَمٌ ۞ مَعَ الْوَفَآءِ بِصِدْقٍ فِى الْأُخَوَّاتِ",
+        "translations": {
+          "it.karamati": "e la compagnia, che sono fratelli dotati di aspirazioni, con la fedeltà sincera nelle fratellanze.",
+          "en.karamati": "and companionship, which is brothers endowed with aspirations, with sincere loyalty in brotherhood.",
+          "fr.karamati": "et la compagnie, qui sont des frères doués d'aspirations, avec la fidélité sincère dans les fraternités."
+        },
+        "appNumber": 27
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "وَالْكُلُّ مِنْ جُمْلَةِ السَّادَاتِ ذُورَتَبٍ ۞ يَكْفِى الْمُرِيدَ مَرِيدًا ذَا غَوَايَاتِ",
+        "translations": {
+          "it.karamati": "E ciascuno tra l'insieme dei signori, dotato di ranghi, preserva il discepolo da un ribelle dotato di traviamenti.",
+          "en.karamati": "And each among the whole company of masters, possessed of ranks, shields the disciple from a rebel full of errors.",
+          "fr.karamati": "Et chacun parmi l'ensemble des maîtres, doué de rangs, préserve le disciple d'un rebelle plein d'égarements."
+        },
+        "appNumber": 28
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "كُلٌّ مِنَ الْقَوْمِ شَيْخٌ عَالِمٌ وَرِعٌ ۞ مِنْهُمْ مُّرَبٍّ بِأَذْكَارٍ وَحَالَاتِ",
+        "translations": {
+          "it.karamati": "Ciascuno di questa gente è un maestro dotto e scrupoloso; tra loro chi educa con invocazioni e stati (spirituali);",
+          "en.karamati": "Each of these people is a learned and scrupulous master; among them one who trains through invocations and (spiritual) states;",
+          "fr.karamati": "Chacun de ces gens est un maître savant et scrupuleux ; parmi eux qui éduque par des invocations et des états (spirituels) ;"
+        },
+        "appNumber": 29
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "مِنْهُمْ مُّرَقٍ بِحَالٍ وَحْدَهَا أَبَدًا ۞ مِنْهُمْ مُّرَبٍّ مُّرَقٍ بِالْإِشَارَاتِ",
+        "translations": {
+          "it.karamati": "tra loro chi eleva con il solo stato (spirituale), sempre; tra loro chi educa ed eleva con le indicazioni.",
+          "en.karamati": "among them one who uplifts through the (spiritual) state alone, always; among them one who trains and uplifts through indications.",
+          "fr.karamati": "parmi eux qui élève par le seul état (spirituel), toujours ; parmi eux qui éduque et élève par les indications."
+        },
+        "appNumber": 30
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "كُلٌّ خَبِيرٌ بِأَذْوَآءِ الْقُلُوبِ مَعًا ۞ يَكْفِى الْمُرِدِينَ أَنْوَاعَ الشَّقَاوَاتِ",
+        "translations": {
+          "it.karamati": "Ciascuno è esperto di tutte insieme le malattie dei cuori, e preserva i discepoli da ogni genere di miserie.",
+          "en.karamati": "Each is expert in all the diseases of the hearts together, and shields the disciples from every kind of misery.",
+          "fr.karamati": "Chacun connaît à fond toutes ensemble les maladies des cœurs, et préserve les disciples de toutes sortes de misères."
+        },
+        "appNumber": 31
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "كُلٌّ كَرِيمٌ تَقِىٌّ ذُو هُدًى وَسَخًا ۞ يُمْضِى النَّصِيحَةَ فِى كُلِّ الْبَرِيَّاتِ",
+        "translations": {
+          "it.karamati": "Ciascuno è nobile, timorato, dotato di guida e di generosità; dispensa il consiglio sincero a tutte le creature.",
+          "en.karamati": "Each is noble, God-fearing, endowed with guidance and generosity; he dispenses sincere counsel among all creatures.",
+          "fr.karamati": "Chacun est noble, pieux, doué de guidance et de générosité ; il dispense le conseil sincère à toutes les créatures."
+        },
+        "appNumber": 32
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "يَنْحُو بِتَقْوًى حُظُوظَ النَّفْسِ جُمْلَتَهَا ۞ يَعِى عُلُومًا مِّنْ الْمَوْلَى سَنِيَّاتِ",
+        "translations": {
+          "it.karamati": "Con il timor di Dio allontana tutte le brame dell'anima; accoglie dal Signore scienze eccelse.",
+          "en.karamati": "Through God-fearing piety he puts aside all the cravings of the soul; he takes in sublime sciences from the Lord.",
+          "fr.karamati": "Par la crainte de Dieu il écarte toutes les convoitises de l'âme ; il recueille du Seigneur des sciences sublimes."
+        },
+        "appNumber": 33
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "يُبْدِى طَرِيقَةَ أَهْلِ اللَّهِ وَاضِحَةً ۞ لِلْمُهْتَدِيَنَ جَمِيعًا بِالْفُيُوضَاتِ",
+        "translations": {
+          "it.karamati": "Rende manifesta, chiara, la via della gente di Allah a tutti coloro che cercano la guida, con le effusioni (di grazia).",
+          "en.karamati": "He makes plain and clear the way of the people of Allah for all who seek guidance, through outpourings (of grace).",
+          "fr.karamati": "Il rend manifeste, claire, la voie des gens d'Allah à tous ceux qui cherchent la guidance, par les effusions (de grâce)."
+        },
+        "appNumber": 34
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "كُلٌّ لَّهُ هِمَّةٌ يَرْقَى بِهَآ أَبَدًا ۞ إِلَى عَزِيزٍ مُّعِزٍّ بِالْفُتُوحَاتِ",
+        "translations": {
+          "it.karamati": "Ciascuno ha un'aspirazione con cui sale sempre verso il Possente (Al-ʿAzīz), Colui che rende possenti (Al-Muʿizz), con le aperture (spirituali).",
+          "en.karamati": "Each has an aspiration by which he ever ascends toward the Mighty (Al-ʿAzīz), the Giver of might (Al-Muʿizz), through (spiritual) openings.",
+          "fr.karamati": "Chacun a une aspiration par laquelle il monte toujours vers le Puissant (Al-ʿAzīz), Celui qui rend puissant (Al-Muʿizz), par les ouvertures (spirituelles)."
+        },
+        "appNumber": 35
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "يَرَى الْخَفَايَا بِعَيْنِ الْقَلْبِ ظَاهِرَةً ۞ كَمَا يُشَاهِدُ مَا تَحْتَ الْأَكِنَّاتِ",
+        "translations": {
+          "it.karamati": "Vede con l'occhio del cuore le cose nascoste come manifeste, così come contempla ciò che sta sotto i veli.",
+          "en.karamati": "He sees hidden things with the eye of the heart as manifest, just as he beholds what lies beneath the veils.",
+          "fr.karamati": "Il voit par l'œil du cœur les choses cachées comme manifestes, de même qu'il contemple ce qui est sous les voiles."
+        },
+        "appNumber": 36
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "يَحْوِى ضِيَآءً كَضَوْءِ الشَّمْسِ حَيْثُ نَحَا ۞ يَحْظَى بِهَا كُلُّ شَخْصٍ ذِى اسْتِنَارَاتِ",
+        "translations": {
+          "it.karamati": "Racchiude uno splendore come la luce del sole, ovunque si diriga; ne gode ogni persona che cerca illuminazione.",
+          "en.karamati": "He holds a radiance like the light of the sun wherever he turns; every person seeking illumination is favoured by it.",
+          "fr.karamati": "Il renferme un éclat comme la lumière du soleil, partout où il se dirige ; en jouit toute personne en quête d'illumination."
+        },
+        "appNumber": 37
+      }
     ]
   }
 }

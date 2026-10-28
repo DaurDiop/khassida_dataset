@@ -279,6 +279,195 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "يَاكِتَابَ الْكَرِيمِ أَنْتَ حَبِيبِى ۞ وَخَلِيلِى وَكُنْتَ قَبْلُ طَبِيبِى",
+        "translations": {
+          "it.karamati": "O Libro del Generoso, tu sei il mio amato e il mio intimo, e sei stato prima il mio medico.",
+          "en.karamati": "O Book of the Generous, you are my beloved and my intimate, and you were before my physician.",
+          "fr.karamati": "Ô Livre du Généreux, tu es mon bien-aimé et mon intime, et tu as été auparavant mon médecin."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "أَنْتَ عِزِّى وَمَفْخَرِى أَنْتَ جَاهِى ۞ أَنْتَ كَنْزِى يَافَخْرَ كُلِّ لَبِيبِ",
+        "translations": {
+          "it.karamati": "Tu sei la mia gloria e il mio vanto, tu sei il mio prestigio, tu sei il mio tesoro, o vanto di ogni intelligente.",
+          "en.karamati": "You are my glory and my pride, you are my standing, you are my treasure, O pride of every intelligent one.",
+          "fr.karamati": "Tu es ma gloire et ma fierté, tu es mon prestige, tu es mon trésor, ô fierté de tout intelligent."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "يَارَسُولَ الْكَرِيمِ أَنْتَ إِمَامِى ۞ صُنْتَ فَوْقِى تَحْتِى وَرَآءِى أَمَامِى",
+        "translations": {
+          "it.karamati": "O Inviato del Generoso, tu sei il mio imām: hai protetto ciò che è sopra di me, sotto di me, dietro di me, davanti a me.",
+          "en.karamati": "O Messenger of the Generous, you are my imām: you guarded what is above me, below me, behind me, before me.",
+          "fr.karamati": "Ô Envoyé du Généreux, tu es mon imām : tu as protégé ce qui est au-dessus de moi, en dessous de moi, derrière moi, devant moi."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "ذَادَ رَبِّى بِكَ اللَّعِينَ مُهِينًا ۞ عَنْ جَنَابِى وَكَانَ يَبْغِى حِمَامِى",
+        "translations": {
+          "it.karamati": "Il mio Signore ha respinto per mezzo di te il Maledetto, umiliandolo, dalla mia parte; ed egli cercava la mia morte.",
+          "en.karamati": "My Lord repelled the Accursed from my side through you, humiliating him; and he sought my death.",
+          "fr.karamati": "Mon Seigneur a repoussé par toi le Maudit, en l'humiliant, de mon côté ; et il cherchait ma mort."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "ذَادَ رَبِّى اللَّعِينَ عَنْ كُلِّ شَىْءٍ ۞ خَارَهُ لِى بِمُصْطَفَاهُ هُمَامِى",
+        "translations": {
+          "it.karamati": "Il mio Signore ha respinto il Maledetto da ogni cosa che ha scelto per me, per mezzo del Suo Prescelto, il mio eroe.",
+          "en.karamati": "My Lord repelled the Accursed from everything He chose for me, through His Chosen, my hero.",
+          "fr.karamati": "Mon Seigneur a repoussé le Maudit de toute chose qu'Il a choisie pour moi, par Son Élu, mon héros."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَجَّهَ اللَّهُ سَرْمَدًا لِلْمُقَفَّى ۞ مِنْهُ خَيْرَ السَّلَامِ نِعْمَ إِمَامِى",
+        "translations": {
+          "it.karamati": "Allah ha volto per sempre verso il Seguito, da parte Sua, il migliore saluto di pace: che eccellente imām è il mio!",
+          "en.karamati": "Allah has turned forever toward the Followed, from Himself, the best peace: what an excellent imām is mine!",
+          "fr.karamati": "Allah a tourné à jamais vers le Suivi, de Sa part, le meilleur salut de paix : quel excellent imām est le mien !"
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "يَاكِتَابًا كَفَى الْعِدَى وَالْبُحُورَا ۞ قَآئِدًا لِّلَّذِى يُحِبُّكَ حُورَا",
+        "translations": {
+          "it.karamati": "O Libro che hai risparmiato i nemici e i mari, che conduci a chi ti ama le urì,",
+          "en.karamati": "O Book that spared the enemies and the seas, leading houris to whoever loves you,",
+          "fr.karamati": "Ô Livre qui as épargné les ennemis et les mers, qui amènes à qui t'aime les houris,"
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "أَنْتَ زَادِى إِلَى الْجِنَانِ وَنُورِى ۞ قَدْ نَفَيْتَ اللَّعِينَ زِدْتَّ دُحُورَا",
+        "translations": {
+          "it.karamati": "tu sei la mia provvista verso i Giardini e la mia luce: hai già respinto il Maledetto, e hai accresciuto la (sua) cacciata.",
+          "en.karamati": "you are my provision toward the Gardens and my light: you have already repelled the Accursed, and increased (his) banishment.",
+          "fr.karamati": "tu es ma provision vers les Jardins et ma lumière : tu as déjà repoussé le Maudit, et tu as accru (son) expulsion."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "يَاكِتَابًا كَفَى الْعِدَى وَالْعَنَآءَا ۞ قَدْ رُزِقْتُ الرِّضَى بِهِ وَالْغِنَآءَا",
+        "translations": {
+          "it.karamati": "O Libro che hai risparmiato i nemici e la pena, per mezzo del quale mi è stato concesso il compiacimento e la ricchezza,",
+          "en.karamati": "O Book that spared the enemies and toil, through which I was granted good pleasure and sufficiency,",
+          "fr.karamati": "Ô Livre qui as épargné les ennemis et la peine, par lequel m'ont été accordés l'agrément et la richesse,"
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "أَنْتَ أُنْسِى سِرًا وَجَهْرًا دَوَامًا ۞ بِكَ أُثْنِى عَلَى الْإِلَاهِ ثَنَآءَا",
+        "translations": {
+          "it.karamati": "tu sei la mia familiarità nel segreto e nel palese, perennemente: per mezzo di te lodo il Dio di una lode.",
+          "en.karamati": "you are my companionship in secret and openly, perpetually: through you I praise God with praise.",
+          "fr.karamati": "tu es ma familiarité dans le secret et le manifeste, perpétuellement : par toi je loue le Dieu d'une louange."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "يَاكِتَابَ الْكَرِيمِ أَنْتَ حَبِيبِى ۞ وَخَلِيلِى وَ قَبْلُ كُنْتَ طَبِيبِى",
+        "translations": {
+          "it.karamati": "O Libro del Generoso, tu sei il mio amato e il mio intimo, e prima sei stato il mio medico.",
+          "en.karamati": "O Book of the Generous, you are my beloved and my intimate, and before you were my physician.",
+          "fr.karamati": "Ô Livre du Généreux, tu es mon bien-aimé et mon intime, et auparavant tu as été mon médecin."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "أَنْتَ كَنْزِى دُنْيَا وَأُخْرَى وَجَاهِى ۞ أَنْتَ عِزِّى يَاعِزَّ كُلِّ لَبِيبِ",
+        "translations": {
+          "it.karamati": "Tu sei il mio tesoro nel mondo e nell'Altro, e il mio prestigio; tu sei la mia gloria, o gloria di ogni intelligente.",
+          "en.karamati": "You are my treasure in this world and the Next, and my standing; you are my glory, O glory of every intelligent one.",
+          "fr.karamati": "Tu es mon trésor dans ce monde et dans l'Autre, et mon prestige ; tu es ma gloire, ô gloire de tout intelligent."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "يَاكِتَابًا بِهِ أُنَاجِى مُجِيبًا ۞ لِى يَقُودُ الَّذِى يَسُرُّ النَّجِيبَا",
+        "translations": {
+          "it.karamati": "O Libro per mezzo del quale parlo in intimità con un Esauditore che mi conduce ciò che rallegra il nobile,",
+          "en.karamati": "O Book through which I converse intimately with an Answerer Who leads to me what gladdens the noble,",
+          "fr.karamati": "Ô Livre par lequel je m'entretiens intimement avec un Exauceur qui m'amène ce qui réjouit le noble,"
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "بِكَ أُرْضِى الْإِلَاهَ إِرْضَآءَ رَاضٍ ۞ عَنْ قَرِيبٍ يَقُودُ نَحْوِى عَجِيبَا",
+        "translations": {
+          "it.karamati": "per mezzo di te compiaccio il Dio con il compiacere di uno che è compiaciuto, ed Egli, tra poco, conduce verso di me una meraviglia.",
+          "en.karamati": "through you I please God with the pleasing of one well pleased, and He shortly leads a marvel toward me.",
+          "fr.karamati": "par toi je satisfais le Dieu de la satisfaction d'un satisfait, et Il, sous peu, amène vers moi une merveille."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "يَاكِتَابًا مَّحَا الْأَذَى وَالْحِجَابِا ۞ لِى يَقُودُ الْإِلَاهُ فِيكَ إِجَابَا",
+        "translations": {
+          "it.karamati": "O Libro che hai cancellato il nocumento e il velo, il Dio mi conduce in te l'esaudimento.",
+          "en.karamati": "O Book that effaced harm and the veil, God leads to me in you the answering.",
+          "fr.karamati": "Ô Livre qui as effacé le dommage et le voile, le Dieu m'amène en toi l'exaucement."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "سُقْ لِغَيْرِى ضُرًا وَسُوءًا دَوَامًا ۞ وَلْتَقُدْ لِى الَّذِى يَدُومُ عُجَابَا",
+        "translations": {
+          "it.karamati": "Sospingi verso altri che me danno e male perennemente, e conducimi ciò che dura, meraviglioso.",
+          "en.karamati": "Drive harm and evil toward others than me perpetually, and lead to me what lasts, marvellous.",
+          "fr.karamati": "Pousse vers d'autres que moi dommage et mal perpétuellement, et amène-moi ce qui dure, merveilleux."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "رُمْتُ تَسْلِيمَ مَالِكِى عَنْ صَلَاةٍ ۞ لِلَّذِى قُدْتَّهُ إِلَيْهِ مُجَابَا",
+        "translations": {
+          "it.karamati": "Ho cercato il saluto di pace del mio Re, dopo la benedizione, per colui che hai condotto verso di Lui, esaudito.",
+          "en.karamati": "I have sought the peace of my King, after the blessing, for him whom You led to Him, answered.",
+          "fr.karamati": "J'ai recherché le salut de paix de mon Roi, après la bénédiction, pour celui que Tu as conduit vers Lui, exaucé."
+        }
+      }
     ]
   }
 }

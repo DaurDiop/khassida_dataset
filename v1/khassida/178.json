@@ -407,6 +407,283 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "وَجَّهْتُ وَجْهِىَ ذَا قُرْبٍ مِّنَ اللَّهِ ۞ بِجَاهِ أَحْمَدَ ذَا شَوْقٍ إِلَى اللَّهِ",
+        "translations": {
+          "it.karamati": "Ho rivolto il mio volto, dotato di vicinanza ad Allah, per il prestigio di Aḥmad, dotato di desiderio ardente verso Allah.",
+          "en.karamati": "I have turned my face, possessed of nearness to Allah, by the standing of Aḥmad, possessed of longing for Allah.",
+          "fr.karamati": "J'ai tourné ma face, doté de proximité d'Allah, par le prestige d'Aḥmad, doté de désir ardent vers Allah."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "اللَّهُ أَكْبَرُ مِمَّا كُنْتُ أَفْعَلُهُ ۞ وَلَسْتُ أَخْشَى وَلَآ أَرْجُو سِوَى اللَّهِ",
+        "translations": {
+          "it.karamati": "Allah è più grande di ciò che solevo fare, e non temo né spero altri che Allah.",
+          "en.karamati": "Allah is greater than what I used to do, and I neither fear nor hope in any but Allah.",
+          "fr.karamati": "Allah est plus grand que ce que j'avais coutume de faire, et je ne crains ni n'espère d'autre qu'Allah."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "ذِكْرِى وَشُكْرِى وَرِضْوَانِى وَمَحْمَدَتِى ۞ بِالْقَلْبِ وَالْجِسْمِ وَالْأَقْلَامِ لِلَّهِ",
+        "translations": {
+          "it.karamati": "Il mio ricordo, la mia gratitudine, il mio compiacimento e la mia lode, con il cuore, il corpo e le penne, sono per Allah.",
+          "en.karamati": "My remembrance, my gratitude, my good pleasure and my praise, with heart, body and pens, are for Allah.",
+          "fr.karamati": "Mon rappel, ma gratitude, mon agrément et ma louange, par le cœur, le corps et les plumes, sont pour Allah."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "كَلِّ لَهُ جَلَّ فِى سِرٍّ وَفِى عَلَنٍ ۞ وَلَسْتُ أَسْأَلُ غَيْرُ النَّافِعِ اللَّهِ",
+        "translations": {
+          "it.karamati": "Tutto me è per Lui — sia esaltato — nel segreto e nel palese, e non chiedo ad altri che al Giovevole, Allah.",
+          "en.karamati": "All of me is for Him — exalted be He — in secret and in the open, and I ask none but the Benefactor, Allah.",
+          "fr.karamati": "Tout mon être est pour Lui — qu'Il soit exalté — dans le secret et le manifeste, et je ne demande à d'autre qu'au Profitable, Allah."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "رَبَّانِىَ النَّانِعُ الْوَهَّابُ أَشْكُرُهُ ۞ مَادُمْتُ حَيًّا بِقَوْلِى الْحَمْدُ لِلَّهِ",
+        "translations": {
+          "it.karamati": "Mi ha educato il Giovevole, il Donatore (Al-Wahhāb): Lo ringrazio finché sono vivo con il mio dire: «La lode appartiene ad Allah».",
+          "en.karamati": "The Benefactor, the Bestower (Al-Wahhāb), has nurtured me: I thank Him as long as I live with my saying: \"Praise belongs to Allah\".",
+          "fr.karamati": "M'a éduqué le Profitable, le Donateur (Al-Wahhāb) : je Le remercie tant que je suis vivant en disant : « La louange appartient à Allah »."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَقَانِىَ الضُّرُّ تَكْرِيمًا وَوَجَّهَ لِى ۞ نَفْعًا بِلَا سَبَبٍ فَالشُّكْرُ لِلَّهِ",
+        "translations": {
+          "it.karamati": "Mi ha preservato dal danno per onore e ha volto verso di me un giovamento senza causa: la gratitudine dunque è per Allah.",
+          "en.karamati": "He protected me from harm by way of honour and turned toward me a benefit without cause: so gratitude is for Allah.",
+          "fr.karamati": "Il m'a préservé du dommage par honneur et a tourné vers moi un profit sans cause : la gratitude donc est pour Allah."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "اللَّهُ أَكْبَرُ مِمَّا كُنْتُ أَطْلُبُهُ ۞ وَمِنْهُ أَطْلُبُ كَوْنِى الْعَبْدَ لِلَّهِ",
+        "translations": {
+          "it.karamati": "Allah è più grande di ciò che cercavo, e da Lui cerco il mio essere il servo di Allah.",
+          "en.karamati": "Allah is greater than what I used to seek, and from Him I seek my being the slave of Allah.",
+          "fr.karamati": "Allah est plus grand que ce que je recherchais, et de Lui je recherche mon être le serviteur d'Allah."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "اللَّهُ أَكْبَرُ مِنْ عَقْدِى وَمِنْ عَمَلِى ۞ وَمِنْ مَّقَا لِى فَكُلِّى صَارَ لِلَّهِ",
+        "translations": {
+          "it.karamati": "Allah è più grande del mio credo e della mia opera e della mia parola: tutto me è divenuto di Allah.",
+          "en.karamati": "Allah is greater than my creed and my deeds and my word: all of me has become Allah's.",
+          "fr.karamati": "Allah est plus grand que ma croyance et mon œuvre et ma parole : tout mon être est devenu à Allah."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "لَهُ الْوُجُودُ الَّذِى قَدْ زَانَهُ قِدَمٌ ۞ مَعَ الْبَقَاءِ وَغَيْرُ اللَّهِ لِلَّهِ",
+        "translations": {
+          "it.karamati": "A Lui appartiene l'Esistenza che l'eternità ha già ornato, con la permanenza; e ciò che è altro da Allah è di Allah.",
+          "en.karamati": "His is the Existence that pre-eternity has already adorned, with permanence; and what is other than Allah belongs to Allah.",
+          "fr.karamati": "À Lui appartient l'Existence que l'éternité a déjà ornée, avec la permanence ; et ce qui est autre qu'Allah est à Allah."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "لَهُ الْبَرَايَا لَهُ أَفْعَالُهُمْ وَلَهُ ۞ مَااخْتَارَ فِى أَبَدٍ فَالْأَمْرُ لِلَّهِ",
+        "translations": {
+          "it.karamati": "A Lui le creature, a Lui le loro azioni, e a Lui ciò che ha scelto per sempre: la faccenda è di Allah.",
+          "en.karamati": "His are the creatures, His are their deeds, and His is what He chose forever: the affair belongs to Allah.",
+          "fr.karamati": "À Lui les créatures, à Lui leurs actions, et à Lui ce qu'Il a choisi à jamais : l'affaire est à Allah."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "هُوَ الْكَرِيمُ الَّذِى أَبْغِى كَرَامَتَهُ ۞ وَكَوْنُهُ لِىَ مَرْجُوِّى لَدَى اللَّهِ",
+        "translations": {
+          "it.karamati": "Egli è il Generoso di cui cerco l'onore, e il Suo essere per me è la mia speranza presso Allah.",
+          "en.karamati": "He is the Generous Whose honouring I seek, and His being for me is my hope with Allah.",
+          "fr.karamati": "Il est le Généreux dont je recherche l'honneur, et Son être pour moi est mon espérance auprès d'Allah."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "فَوْزِى غَدًا كَوْنُهُ لِى سَرْمَدًا وَلَهُ ۞ أَمْرِى أُفَوِّضُ بِالْمُخْتَارِ وَاللَّهِ",
+        "translations": {
+          "it.karamati": "Il mio trionfo domani è il Suo essere per me per sempre, e a Lui la mia faccenda affido, per mezzo del Prescelto, per Allah!",
+          "en.karamati": "My triumph tomorrow is His being for me forever, and to Him I entrust my affair, through the Chosen, by Allah!",
+          "fr.karamati": "Mon triomphe demain est Son être pour moi à jamais, et à Lui mon affaire je confie, par l'Élu, par Allah !"
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "يَدِى وَقَلْبِى لَهُ خِلًّا لَّهُ أَبَدًا ۞ ذَاخِدْمَةٍ لِّرَسُولِ اللَّهِ بِاللَّهِ",
+        "translations": {
+          "it.karamati": "La mia mano e il mio cuore sono Suoi, intimo Suo per sempre, dotato di servizio all'Inviato di Allah, per mezzo di Allah.",
+          "en.karamati": "My hand and my heart are His, His intimate forever, possessed of service to the Messenger of Allah, through Allah.",
+          "fr.karamati": "Ma main et mon cœur sont à Lui, Son intime à jamais, doté de service à l'Envoyé d'Allah, par Allah."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "أَزْكَى صَلَاةٍ بِتَسْلِيمٍ بِلَا عَدَدٍ ۞ عَلَيْهِ بِالْئَالِ وَالْأَصْحَابِمِ اللَّهِ",
+        "translations": {
+          "it.karamati": "la più pura benedizione con il saluto di pace, senza numero, su di lui, con la Famiglia e i Compagni, da parte di Allah.",
+          "en.karamati": "the purest blessing with peace, beyond number, upon him, with the Family and the Companions, from Allah.",
+          "fr.karamati": "la plus pure bénédiction avec le salut de paix, sans nombre, sur lui, avec la Famille et les Compagnons, de la part d'Allah."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "يَارَبِّ صَلِّ وَسَلِّمْ سَرْمَدًا كَرَمًا ۞ عَلَى وَسِيلَتِىَ الْعُظْمَى إِلَى اللَّهِ",
+        "translations": {
+          "it.karamati": "O Signore, benedici e dona pace per sempre, per generosità, sul mio mezzo d'accesso supremo verso Allah.",
+          "en.karamati": "O Lord, bless and grant peace forever, out of generosity, upon my supreme means of access to Allah.",
+          "fr.karamati": "Ô Seigneur, bénis et accorde la paix à jamais, par générosité, à mon moyen d'accès suprême vers Allah."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "يَارَبِّ صَلِّ بِتَسْلِيمٍ عَلَى وَزَرِى ۞ مَنِ اكْتَفَيْتُ بِهِ فِى طَاعَةِ اللَّهِ",
+        "translations": {
+          "it.karamati": "O Signore, benedici con il saluto di pace il mio sostegno, colui per mezzo del quale mi sono accontentato nell'obbedienza ad Allah.",
+          "en.karamati": "O Lord, bless with peace my support, the one through whom I have been content in obedience to Allah.",
+          "fr.karamati": "Ô Seigneur, bénis avec le salut de paix mon soutien, celui par qui je me suis contenté dans l'obéissance à Allah."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "أَعْنِى مُحَمَّدًا الْمُخْتَارَ مِنْ مُّضَرٍ ۞ بِالْئَالِ وَالصَّحْبِ حِزْبِ الْمَالِكِ اللَّهِ",
+        "translations": {
+          "it.karamati": "intendo Muḥammad, il Prescelto di Muḍar, con la Famiglia e i Compagni, partito del Re, Allah.",
+          "en.karamati": "I mean Muḥammad, the Chosen of Muḍar, with the Family and the Companions, the party of the King, Allah.",
+          "fr.karamati": "je veux dire Muḥammad, l'Élu de Muḍar, avec la Famille et les Compagnons, parti du Roi, Allah."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "مُحَمَّدٌ جُنَّتِى عَنِ الْحِسَابِ غَدًا ۞ وَجَنَّتِى فِى جِنَانِ الْوَاسِعِ اللَّهِ",
+        "translations": {
+          "it.karamati": "Muḥammad è il mio scudo contro il rendiconto domani, e il mio giardino nei Giardini dell'Immenso, Allah.",
+          "en.karamati": "Muḥammad is my shield against the reckoning tomorrow, and my garden in the Gardens of the All-Embracing, Allah.",
+          "fr.karamati": "Muḥammad est mon bouclier contre le compte demain, et mon jardin dans les Jardins de l'Immense, Allah."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "مَلِّكْنِىَ الْعَامَ مَا فَاقَ الْمُنَى كَرَمًا ۞ يَامُغْنِيًا كُلَّ مُضْطَرٍ إِلَى اللَّهِ",
+        "translations": {
+          "it.karamati": "Rendimi padrone quest'anno di ciò che supera i desideri, per generosità, o Tu che arricchisci ogni bisognoso (che si volge) ad Allah.",
+          "en.karamati": "Give me possession this year of what surpasses the wishes, out of generosity, O Enricher of every needy one (turning) to Allah.",
+          "fr.karamati": "Rends-moi maître cette année de ce qui dépasse les souhaits, par générosité, ô Toi qui enrichis tout nécessiteux (qui se tourne) vers Allah."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "عَلَيْهِ صَلِّ وَسَلِّمْ وَلْتُتِمَّ بِهِ ۞ قَصْدِى وَسُقْ لِىَ مَا أَرْجُو مِنَ اللَّهِ",
+        "translations": {
+          "it.karamati": "Benedicilo e dona pace, e porta a compimento per mezzo di lui il mio intento, e sospingimi ciò che spero da Allah.",
+          "en.karamati": "Bless him and grant peace, and fulfil my purpose through him, and drive to me what I hope from Allah.",
+          "fr.karamati": "Bénis-le et accorde la paix, et accomplis par lui mon dessein, et amène-moi ce que j'espère d'Allah."
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "دَعَوْتُكَ الْيَوْمَ فِى الْأَيَّامِ مُرْتَجِيًا ۞ ثَوَابَ مَنْ حَجَّ بَيْتَ الرَّازِقِ اللَّهِ",
+        "translations": {
+          "it.karamati": "Ti ho invocato oggi, nei giorni (sacri), sperando la ricompensa di chi ha compiuto il pellegrinaggio alla Casa del Provveditore, Allah.",
+          "en.karamati": "I have called upon You today, in the (sacred) days, hoping for the reward of whoever made the pilgrimage to the House of the Provider, Allah.",
+          "fr.karamati": "Je T'ai invoqué aujourd'hui, dans les jours (sacrés), espérant la récompense de qui a fait le pèlerinage à la Maison du Pourvoyeur, Allah."
+        }
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "وَجِّهْ لِىَ الْعَامَ يَامُغْنِى بِلَا كُلَفٍ ۞ كَشْفًا وَطَيًّا وَتَوْفِقًا مِّنَ اللَّهِ",
+        "translations": {
+          "it.karamati": "Volgi verso di me quest'anno, o Tu che arricchisci senza aggravi, svelamento, accorciamento (del cammino) e favore propizio da parte di Allah.",
+          "en.karamati": "Turn toward me this year, O Enricher without burdens, unveiling, folding (of the path) and enabling grace from Allah.",
+          "fr.karamati": "Tourne vers moi cette année, ô Toi qui enrichis sans charges, dévoilement, raccourcissement (du chemin) et assistance de la part d'Allah."
+        }
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "دِينِى كِتَابُكَ عَلِّمْنِيهِ يَاصَمَدِى ۞ بِالْكَشْفِ وَالْفَيْضِ ذَا فَهْمٍ عَنِ اللَّهِ",
+        "translations": {
+          "it.karamati": "La mia religione è il Tuo Libro: insegnamelo, o mio Assoluto, con lo svelamento e l'effusione, dotato di comprensione da parte di Allah.",
+          "en.karamati": "My religion is Your Book: teach it to me, O my Eternal Refuge, through unveiling and outpouring, possessed of understanding from Allah.",
+          "fr.karamati": "Ma religion est Ton Livre : enseigne-le-moi, ô mon Absolu, par le dévoilement et l'effusion, doté de compréhension de la part d'Allah."
+        }
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "اجْعَلْهُ لِى أَبَدًا نُّورًا أَحُوزُ بِهِ ۞ الصَّفْوَ وَالْقُرْبَ وَالْبُشْرَى لَدَى اللَّهِ",
+        "translations": {
+          "it.karamati": "Rendilo per me per sempre una luce con cui io consegua la limpidezza, la vicinanza e la buona novella presso Allah.",
+          "en.karamati": "Make it for me forever a light by which I attain clarity, nearness and glad tidings with Allah.",
+          "fr.karamati": "Rends-le pour moi à jamais une lumière par laquelle j'obtienne la limpidité, la proximité et la bonne nouvelle auprès d'Allah."
+        }
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "تَمِّمْ مُّرَادِى وَصَفِّ الْعُمْرَ يَاصَمَدِى ۞ وَكُنْ لِىَ الدَّهْرَ وَاجْعَلْنِى لَدَى اللَّهِ",
+        "translations": {
+          "it.karamati": "Porta a compimento il mio desiderio e rendi limpida la vita, o mio Assoluto, e sii per me per sempre, e rendimi presso Allah.",
+          "en.karamati": "Fulfil my wish and make life clear, O my Eternal Refuge, and be for me forever, and set me with Allah.",
+          "fr.karamati": "Accomplis mon désir et rends limpide la vie, ô mon Absolu, et sois pour moi à jamais, et rends-moi auprès d'Allah."
+        }
+      }
     ]
   }
 }

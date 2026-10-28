@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "name": "Mim Ra Shin",
+    "transliterationName": "Mim Ra Shin",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Mon encre, mes plumes, mon cœur et mon corps sont pour un Enrichisseur, Créateur sans modèle (Al-Badīʿ), qui m'assujettit mes temps."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Mon gain est un Livre qui nous est venu de Lui, solidement établi ; il est venu d'un Miséricordieux qui ne cesse (de dispenser) le bien du Tout-Miséricordieux (Ar-Raḥmān)."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Ma gratitude, dans les deux Demeures, va à Allah seul, pour celui par qui Il a préservé mon cœur et mon corps."
+      }
+    ]
+  }
+}

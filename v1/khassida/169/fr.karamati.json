@@ -1,0 +1,454 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 169,
+    "name": "Taysirul Hasiru 5",
+    "transliterationName": "Taysirul Hasiru 5",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 233,
+        "text": "par la sourate al-Qiyāma, la vénérée, et la sourate al-Insān, dotée d'immensité,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 234,
+        "text": "al-Mursalāt et par le droit d'an-Nabaʾ et an-Nāziʿāt ; et mon cœur informe-le."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 235,
+        "text": "Ô Toi qui vers d'autres que moi as retenu et arrêté le dommage, bénis avec le salut de paix, par la sacralité de ʿAbasa,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 236,
+        "text": "le Prophète élu, purifié, Muḥammad, le meilleur de la création, le purificateur."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 237,
+        "text": "Et amène-lui, par la sourate at-Takwīr et al-Infiṭār, un accroissement d'illumination,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 238,
+        "text": "dans sa Famille et ses Compagnons ; et rends-moi indépendant des innovations, par Toi et par celui qui fait revivre les sunna."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 239,
+        "text": "Ô Bienfaisant (Al-Barr), ô Accueillant du repentir (At-Tawwāb), Tu es le Gouverneur (Al-Wālī), le Très-Élevé (Al-Mutaʿālī), Celui qui assainit les états,"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 240,
+        "text": "bénis avec le salut de paix le meilleur de la création, ô Toi qui par lui as illuminé le cœur d'autres que lui,"
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 241,
+        "text": "sa Famille et ses Compagnons ; et amène-lui, par la sourate al-Muṭaffifīn, sa demande."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 242,
+        "text": "Et accorde-lui, par al-Inshiqāq, al-Burūj et la sourate aṭ-Ṭāriq, ce qui dépasse l'ascension,"
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 243,
+        "text": "avant la Résurrection ; et préserve son Livre, ô Donateur qui m'as accordé l'écriture."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 244,
+        "text": "Par la sourate al-Aʿlā et par le droit d'al-Ghāshiya, bénis d'une bénédiction qui ne cesse de croître,"
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 245,
+        "text": "avec un salut de paix pérenne qui annonce la bonne nouvelle, sur le Prophète élu, l'annoncé,"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 246,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale,"
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 247,
+        "text": "Et épargne-moi, ô Seigneur, ce que Tu n'as pas agréé pour moi, avant qu'il ne se dirige (vers moi), par le Prophète préféré."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 248,
+        "text": "par la sourate al-Fajr et la sourate al-Balad, ash-Shams et al-Layl, et par la sacralité de la Cité (La Mecque),"
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 249,
+        "text": "bénis notre maître Muḥammad, sa Famille et ses Compagnons, ô mon Absolu."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 250,
+        "text": "Ô Toi par Qui se sont dirigés vers d'autres que moi les châtiments, jusqu'au Jardin de l'éternité, ô Vengeur (Al-Muntaqim),"
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 251,
+        "text": "bénis, accorde la paix et bénis à jamais celui que Tu as nommé Muḥammad,"
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 252,
+        "text": "sa Famille et ses Compagnons ; et par aḍ-Ḍuḥā renouvelle par moi sa méthode, en la rendant claire."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 253,
+        "text": "Par ash-Sharḥ, at-Tīn et la sourate al-ʿAlaq bénis celui qui ouvre ce qui auparavant était fermé,"
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 254,
+        "text": "notre maître Muḥammad, et accorde la paix, et la Famille et les Compagnons ; et préserve ma plume."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 255,
+        "text": "Ô Indulgent (Al-ʿAfuww), ô Compatissant (Ar-Raʾūf), bénis à jamais et accorde la paix à celui dont la préséance est apparue,"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 256,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale,"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 257,
+        "text": "Par la sourate al-Qadr et par le droit d'al-Bayyina bénis le généreux dont la hauteur est évidente,"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 258,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale,"
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 259,
+        "text": "Ô Possesseur du royaume, par le droit d'az-Zalzala, bénis celui qui m'a amené son hospitalité,"
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 260,
+        "text": "sans secousse, ni errance, ni injustice ; et Tu m'as déjà épargné l'invention de paroles."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 261,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale,"
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 262,
+        "text": "Ô Seigneur, Détenteur de la majesté et de l'honneur, bénis avec le salut de paix et avec respect"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 263,
+        "text": "le Prophète doté de privilèges, Aḥmad, la Famille et les Compagnons ; et cet effort rends-le louable."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 264,
+        "text": "Par al-ʿĀdiyāt et par le droit d'al-Qāriʿa bénis le doté de préséance et de promptitude,"
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 265,
+        "text": "notre maître Muḥammad, ô Équitable (Al-Muqsiṭ), et la Famille et les Compagnons qui ont pratiqué l'équité."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 266,
+        "text": "Ô Celui qui réunit (Al-Jāmiʿ), ô Riche (Al-Ghanī), Tu es Celui qui enrichit (Al-Mughnī) : bénis avec le salut de paix celui qui est indépendant"
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 267,
+        "text": "par Toi, avec sa Famille et ses nobles Compagnons ; et amène-lui, par ce poème, le meilleur but."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 268,
+        "text": "Et par at-Takāthur et par le droit d'al-ʿAṣr bénis celui par qui Tu m'as octroyé la victoire,"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 269,
+        "text": "par lui, sans calamité ni trouble ; et accorde la paix sur lui, ô Toi qui fais s'écouler le décret,"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 270,
+        "text": "avec sa Famille et ses Compagnons, ô Celui qui empêche (Al-Māniʿ), ô Meilleur de ceux qu'un serviteur actif a satisfaits."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 271,
+        "text": "Ô Toi à Qui appartient le nom d'agent dérivé de « dommage » (Aḍ-Ḍārr) : Tu m'as déjà épargné son dommage et le péril."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 272,
+        "text": "bénis avec le salut de paix, par le droit d'al-Humaza, ô Toi qui me l'as épargnée, ainsi que la parole de la médisance,"
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 273,
+        "text": "le Prophète Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 274,
+        "text": "Ô Donateur de la lumière sans déclin, bénis avec le salut de paix, par le droit d'al-Fīl,"
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 275,
+        "text": "le Prophète et Envoyé Aḥmad, la Famille et les Compagnons ; et ma vie rends-la louable."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 276,
+        "text": "Par le droit de ce que Tu as fait descendre au sujet de Quraysh, comme sourate, bénis le Qurayshite,"
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 277,
+        "text": "notre maître Muḥammad, et accorde la paix, et la Famille et les Compagnons ; et tout mon être préserve-le"
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 278,
+        "text": "de tout ce qui afflige ou nuit, ô Tout-Miséricordieux, ô Très-Miséricordieux, Tu es le Bienfaisant (Al-Barr)."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 279,
+        "text": "Ô Lumière (An-Nūr), ô Profitable (An-Nāfiʿ), Tu es le Guide (Al-Hādī), ô Toi qui as mené à terme déjà auparavant ma lutte,"
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 280,
+        "text": "bénis avec le salut de paix le meilleur de la création, la Famille et les Compagnons ; et tout mon être illumine-le."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 281,
+        "text": "Et accorde-moi en toute chose profit, avec Ta droite guidance, et accorde-moi l'élévation."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 282,
+        "text": "Ô notre Seigneur, par la sourate al-Māʿūn tourne vers d'autres que moi le dommage du Maudit."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 283,
+        "text": "Ô notre Seigneur, accorde-moi, par le droit d'al-Kawthar, la bonne fortune de la vie, et multiplie mes récompenses."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 284,
+        "text": "Ô notre Seigneur, tourne vers d'autres que moi les mécréants, sans mon dommage, par le droit d'al-Kāfirūn."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 285,
+        "text": "Ô Héritier (Al-Wārith), ô Créateur sans modèle (Al-Badīʿ), Tu es le Permanent (Al-Bāqī) ; à Toi les sept terres, comme les strates (des cieux)."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 286,
+        "text": "bénis avec le salut de paix notre maître Muḥammad, notre bien-aimé, notre guide,"
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 287,
+        "text": "sa Famille et ses Compagnons ; et rends les lettres de ce poème, pour les biens, le meilleur des réceptacles."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 288,
+        "text": "Et rends par lui ce poème comme les biens tous, ô Toi qui fais demeurer les provisions."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 289,
+        "text": "Par la sourate an-Naṣr et Tabbat (al-Masad) retiens les cœurs des envieux et les mains"
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 290,
+        "text": "vers une autre direction que la mienne ; et par al-Ikhlāṣ octroie-moi, vers les Jardins, la sincérité."
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "appNumber": 291,
+        "text": "Ô Bien-Dirigeant (Ar-Rashīd), ô Patient (Aṣ-Ṣabūr), bénis avec le salut de paix celui qui a prononcé la plus belle parole,"
+      },
+      {
+        "number": 60,
+        "verseFrom": 119,
+        "verseTo": 120,
+        "appNumber": 292,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale,"
+      },
+      {
+        "number": 61,
+        "verseFrom": 121,
+        "verseTo": 122,
+        "appNumber": 293,
+        "text": "Et épargne-moi, par le droit de la sourate al-Falaq et de la sourate an-Nās, le dommage, ô Toi qui as créé."
+      },
+      {
+        "number": 62,
+        "verseFrom": 123,
+        "verseTo": 124,
+        "appNumber": 294,
+        "text": "Et écris pour lui — qu'Il le bénisse avec le salut de paix — dans sa Famille et ses Compagnons, le Permanent, la Paix,"
+      },
+      {
+        "number": 63,
+        "verseFrom": 125,
+        "verseTo": 126,
+        "appNumber": 295,
+        "text": "pour chaque lettre de ces lettres, une bonne nouvelle par laquelle croisse mon bien."
+      }
+    ]
+  }
+}

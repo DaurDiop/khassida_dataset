@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 187,
+    "name": "Yaa Rakhmanu",
+    "transliterationName": "Yaa Rakhmanu",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Il mio Signore mi ha sorpreso con ciò di cui le menti sono avide, per il prestigio del più eccelso di coloro che si sono rifugiati in Allah."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "La mia lode a un Signore Generoso che non ha associato; e il mio petto oggi ha riempito di una luce sfolgorante."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Muḥammad — le benedizioni di Allah per sempre su di lui, nel suo partito —: per mezzo di lui (Allah) ha custodito tutto me."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Invoco il mio Dio, i Cui doni hanno compreso l'insieme del creato, (dando) ciò che sceglie, Colui che ha creato."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Gli ho parlato in intimità — sia esaltato — per anni, ed Egli mi ha onorato dell'onore di una Guida, e tutto me si è liberato dalla vanità."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "O Compassionevole, dona a tutto il creato la misericordia di Colui che rende indipendente dal male chi recita il Suo Corano."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Allontana la comunità del Prescelto da ogni corruzione, e abbi misericordia del creato, o Tu che hai dato inizio al loro antenato (Adamo)."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "O Possessore del regno, o Tu che sei esaltato al di sopra del taglione, abbi misericordia di tutto il creato, o Guida che sostieni."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Hai cancellato il danno che si era diretto verso il cuore, per il prestigio del più eccelso di coloro che si sono rifugiati in Allah."
+      }
+    ]
+  }
+}

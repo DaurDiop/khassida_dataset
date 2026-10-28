@@ -1,0 +1,235 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 68,
+    "name": "Kawin Liya",
+    "transliterationName": "Kawin Liya",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Crea per me oggi una vittoria – glorioso è il mio Signore! – e rimuovi da me i veli; donami i segni (prodigiosi)."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "O Tu che accogli il pentimento (At-Tawwāb), perdonami i miei peccati e cancella da me ogni vaniloquio, e sii per me nel mio mondo e nel mio Aldilà."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Per il Tuo essere l'Unico, il Dominatore (Al-Wāḥid al-Qahhār), doma per me, o mio Signore, i nemici, e rendi eterna in Te la mia buona novella."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Tu sei il Dio che esalta ed eleva chi vuole: rendi dunque buona in Te la mia vita."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Tuoi sono il cielo, le terre e l'aria insieme: preservami dal danno di tutto, e rendi eterni i miei privilegi."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Tuoi sono tutti i sultani, e così i re e i loro seguaci: domali per me prima del mio incontro (con loro)."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Donami la costanza in ciò che gradisci di opera, di parola e di credo, presso la mia dimora."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Tue sono tutte le creature e i paesi: sii dunque per me, o mio Dio, nella mia dimora e nella mia Ṭūbā (Touba)."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Soccorri il mio territorio e la mia fortezza; rendi buona per me la mia vita con ciò che ami, e perfeziona in Te il mio timor di Dio."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Mi sono arricchito dell'Unico, il Dominatore, (rendendomi indipendente) dalle schiere; Egli è stato per me e ha respinto la mia povertà e la mia prova."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "A Lui mi sono volto, colmo di gratitudine verso di Lui per sempre, e spero da Lui ciò che nessun mio pari ha ottenuto."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Per il Tuo essere il Potente, il Dominatore, l'Onnipotente, spero la costanza di ciò che amo, nel luogo della mia salvezza."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "L'ho invocato in intimità, sperando che non mi deluda e che rivolga a me ciò che supera la mia salvezza."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "Ho fatto intenzione di compiacerLo come Lo compiacciono coloro che sono pii, dopo il mio ritorno presso la mia famiglia e la mia dimora."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "Tu sei l'Onnipotente (Al-Qadīr) per la cui potenza spero di conseguire la signoria: accrescimi oltre il mio bene."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "Ho rigettato ciò che avevo: conduci a me, per il Tuo essere (Dio), nel mondo e nell'Altro, ciò che gradisci secondo il mio desiderio."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "Prolunga la mia permanenza con atti di obbedienza resi puri, e decreta con il Tuo dominio, o mio Signore, la mia vittoria."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "Rivolgi a me, per la Tua potenza, una potenza per la quale io sia un servo glorioso, e rendi eterno da parte Tua il mio favore."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "Mi hai educato per mezzo dei nemici: domali tutti per me, conducimi agli amati, e loda, Signore, il mio sforzo."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "Conduci a me per sempre ciò che supera i desideri, per generosità, e rendi il Tuo Libro, nelle due Dimore, il mio pascolo."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "Conduci a me sempre le coppe della gente (spirituale), per dissetarmi; abbeverami e rendi grande, Signore, il mio abbeveramento."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "O Signore della permanenza, che hai fatto durare per me la mia vita, (rendendomi) servo, servitore, felice: proteggi il mio desiderio."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "A Te ho rivolto il mio volto, invocandoTi, o mio Re: esaudisci dunque, per generosità, o Signore, la mia invocazione."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "Mi hai salvato: accrescimi dunque, Signore, la salvezza; proteggimi e proteggi ciò che contiene la mia dimora."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "Mi hai salvato ieri dal mio ritorno alle mercanzie (del mondo): oggi dunque sii per me e rendi grande da parte Tua il mio beneficio."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "Tu sei il Custode (Al-Ḥafīẓ) di cui cerco la protezione: sii dunque mio Custode e accresci, o Signore, il mio timor di Dio."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "A Te è il mio volgermi come guadagno: conduci le mie redini, o Signore, e donami lode, Signore, del mio viaggio notturno."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "A Te è la mia partenza, ora in corso: conduci a me presto il mio scopo, (facendomi) ritornare, e proteggi il mio cammino."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "Donami, per il Tuo essere il Donatore (Al-Wahhāb) senza causa, ciò che supera la mia attesa, e riempi, Signore, il mio giaciglio."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "Conduci ciò con benevolenza e generosità, e preservami dai passi falsi: a Te è il mio termine, mio Dio, da Te il mio principio."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "Ho rivolto il mio volto a Te di sabato, in Rajab, e di martedì, in Shaʿbān, (verso) il mio rifugio."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "O Signore, benedici con il saluto di pace il mio sostegno, Muḥammad, e per mezzo di lui conducimi alle mie speranze."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "O Signore, benedicilo con il saluto di pace senza numero, con la Famiglia e i Compagni, mia salvezza."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "Su di lui effondi benedizione e pace, insieme a tutti, e sii Colui che per mezzo mio illumina i miei tempi e i miei luoghi di salvezza."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "Accrescimi in scienze con un disvelamento che non mi abbandoni, o Tu al Quale mi lamento: togli la causa del mio lamento."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "O migliore Arricchitore, che hai soddisfatto i miei bisogni senza oneri, o Tu per il cui essere per me mi sono separato dalla mia prova."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "Ho adornato i poemi per voi, ringraziandovi: per mezzo di essi e per mezzo vostro mi hanno recato il disvelamento e i segni."
+      }
+    ]
+  }
+}

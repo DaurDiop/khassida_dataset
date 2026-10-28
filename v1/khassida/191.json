@@ -199,6 +199,140 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "يَسَّرَ لِى مُيَسِّرُ الْعَسِيرِ ۞ مَااخْتَارُهُ لِىَ بِلَا مَسِيرِ",
+        "translations": {
+          "it.karamati": "Mi ha reso facile Colui che rende facile il difficile ciò che ho scelto per me, senza viaggio.",
+          "en.karamati": "He Who makes the difficult easy has made easy for me what I chose for myself, without journeying.",
+          "fr.karamati": "M'a rendu facile Celui qui rend facile le difficile ce que j'ai choisi pour moi, sans voyage."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "وَلَّى اللَّعِينُ لِسَوَاىَ مُدْبِرَا ۞ بِمَا عَلَى الظَّهْرِ يَدُومُ دَبَرَا",
+        "translations": {
+          "it.karamati": "Il Maledetto si è volto verso altri che me, voltando le spalle, con ciò che sul dorso dura come piaga.",
+          "en.karamati": "The Accursed turned toward others than me, turning his back, with what lasts on the back as a sore.",
+          "fr.karamati": "Le Maudit s'est tourné vers d'autres que moi, tournant le dos, avec ce qui sur le dos dure comme plaie."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "مَحَا تَوَجُّهَ الْمَكَارِهِ لِيَا ۞ بَاقٍ حَبَا بِذِكْرِهِ وَهْوَ لِيَا",
+        "translations": {
+          "it.karamati": "Ha cancellato il volgersi delle cose odiose verso di me un Permanente che ha gratificato con il Suo ricordo, ed Egli è il mio Patrono.",
+          "en.karamati": "An Everlasting One Who favoured me with His remembrance has effaced the turning of hateful things toward me, and He is my Patron.",
+          "fr.karamati": "A effacé le tournement des choses détestables vers moi un Permanent qui a gratifié de Son rappel, et Il est mon Patron."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "عَنْهُ رَضِيتُ وَهْوَ عَنِّى رَاضِ ۞ بِلَا مَكَارِهَ وَلَا أَمْرَاضِ",
+        "translations": {
+          "it.karamati": "Di Lui sono compiaciuto, ed Egli è compiaciuto di me, senza cose odiose e senza malattie.",
+          "en.karamati": "With Him I am well pleased, and He is well pleased with me, without hateful things and without illnesses.",
+          "fr.karamati": "De Lui je suis satisfait, et Il est satisfait de moi, sans choses détestables et sans maladies."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "رَدَّ لِغَيْرِ جِهَتِى الشَّيْطَانَا ۞ مَنْ طَيَّبَ الْمَمَرَّ وَالْأَوْطَانَا",
+        "translations": {
+          "it.karamati": "Ha respinto verso altra direzione che la mia Satana Colui che ha reso buoni il passaggio e le patrie.",
+          "en.karamati": "He Who made the passage and the homelands good has repelled Satan toward a direction other than mine.",
+          "fr.karamati": "A repoussé vers une autre direction que la mienne Satan Celui qui a rendu bons le passage et les patries."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "فَرَّ لِغَيْرِ جِهَتِى اللَّعِينُ ۞ يَسُوقُهُ لِغَيْرِنَا الْمُعِينُ",
+        "translations": {
+          "it.karamati": "È fuggito verso altra direzione che la mia il Maledetto: lo sospinge verso altri che noi il Soccorritore.",
+          "en.karamati": "The Accursed fled toward a direction other than mine: the Helper drives him toward others than us.",
+          "fr.karamati": "A fui vers une autre direction que la mienne le Maudit : le pousse vers d'autres que nous le Secoureur."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "هَدِيَّتِى مِنَ الْإِلَاهِ وَالنَّبِى ۞ كُلِّيَّتِى صَفَّتْ وَصَفَّتْ طُّنُبِى",
+        "translations": {
+          "it.karamati": "Il mio dono da parte del Dio e del Profeta: la mia interezza è divenuta limpida, e sono divenute limpide le corde della mia tenda.",
+          "en.karamati": "My gift from God and the Prophet: my whole being has become clear, and the ropes of my tent have become clear.",
+          "fr.karamati": "Mon don de la part du Dieu et du Prophète : ma totalité est devenue limpide, et sont devenues limpides les cordes de ma tente."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "تَوْفِيقُ هَادٍ قَادَهُ الْإِلْهَامُ ۞ قَدْ أَبْدَايَا لِى مَالَهُ انْبِهَامُ",
+        "translations": {
+          "it.karamati": "Il favore propizio di una Guida che l'ispirazione ha condotto mi ha già manifestato ciò che aveva oscurità.",
+          "en.karamati": "The enabling grace of a Guide led by inspiration has already shown me what was obscure.",
+          "fr.karamati": "L'assistance d'un Guide que l'inspiration a conduit m'a déjà manifesté ce qui avait obscurité."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "بِدَتْ لِىَ الْيَوْمَ بِرَبِّى الْغُيَّبُ ۞ أَعَاذَنِى مِمَّنْ قَلَوْاْ وَخُيِّبُواْ",
+        "translations": {
+          "it.karamati": "Sono apparsi per me oggi, per mezzo del mio Signore, i misteri; mi ha protetto da coloro che hanno odiato e sono stati delusi.",
+          "en.karamati": "The mysteries appeared to me today through my Lord; He protected me from those who hated and were disappointed.",
+          "fr.karamati": "Sont apparus pour moi aujourd'hui, par mon Seigneur, les mystères ; Il m'a protégé de ceux qui ont haï et ont été déçus."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "لَا يَتَوَجَّهُ لِنَحْوِى مُتْعِبُ ۞ عَنِّى امَّحَتْ مَكَارِهِى وَالتَّعَبُ",
+        "translations": {
+          "it.karamati": "Non si dirige verso la mia direzione chi affatica; da me sono state cancellate le mie cose odiose e la fatica.",
+          "en.karamati": "No wearier makes for my direction; from me my hateful things and toil have been effaced.",
+          "fr.karamati": "Ne se dirige pas vers ma direction qui fatigue ; de moi ont été effacées mes choses détestables et la fatigue."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "سَعَادَتِى بِغَيْرِ مَحْوٍ كُتِبَتْ ۞ وَكَوْنِىَ الْعَبْدَ الْخَدِيمَ قَدْ ثَبَتْ",
+        "translations": {
+          "it.karamati": "La mia felicità è stata scritta senza cancellazione, e il mio essere il servo, il servitore, si è già confermato.",
+          "en.karamati": "My happiness has been written without erasure, and my being the slave, the servant, has already been confirmed.",
+          "fr.karamati": "Ma félicité a été écrite sans effacement, et mon être le serviteur, le servant, s'est déjà confirmé."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "شَكَرَ لِى مُيَسِّرُ الْعَسِيرِ ۞ مَااخْتَارَهُ لِىَ بِلَا مَسِيرِ",
+        "translations": {
+          "it.karamati": "Ha gradito con gratitudine per me Colui che rende facile il difficile ciò che ha scelto per me, senza viaggio.",
+          "en.karamati": "He Who makes the difficult easy has thankfully accepted for me what He chose for me, without journeying.",
+          "fr.karamati": "A agréé avec gratitude pour moi Celui qui rend facile le difficile ce qu'Il a choisi pour moi, sans voyage."
+        }
+      }
     ]
   }
 }

@@ -423,6 +423,294 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "قَلَّبْتُ كُلِّ لِكَرِيمٍ وَبَخَا ۞ تَوْبِيخَ إِكْرَامٍ وَخُلْتُ بَخْ بَخَا",
+        "translations": {
+          "it.karamati": "Ho volto tutto il mio essere verso un Generoso, ed Egli (mi) ha ripreso con una riprensione d'onore, e io ho pensato: «Splendido, splendido!».",
+          "en.karamati": "I turned my whole being toward a Generous One, and He reproved (me) with a reproof of honour, and I thought: “Splendid, splendid!”.",
+          "fr.karamati": "J'ai tourné tout mon être vers un Généreux, et Il (m')a repris d'une réprimande d'honneur, et j'ai pensé : « Bravo, bravo ! »."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "لَكَ خِطَابِى شَاكِرًا مُّؤَرِّخَا ۞ أَىْ عَامَ زَيْنِ شُكْرَكَ الْمُؤَرَّخَا",
+        "translations": {
+          "it.karamati": "A Te il mio discorso, riconoscente, datandolo: cioè l'anno «ornamento della Tua gratitudine» (1307 H / 1889-90), datato.",
+          "en.karamati": "To You is my discourse, thankful, dating it: that is, the year “adornment of Your gratitude” (1307 AH / 1889-90), dated.",
+          "fr.karamati": "À Toi mon discours, reconnaissant, en le datant : c'est-à-dire l'année « ornement de Ta gratitude » (1307 H / 1889-90), datée."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "مَحَوْتَ عَنِّىَ الرِّيَآ وَالْبَذَخَا ۞ يَاقَاهِرًا يَرُوضُ مَنْ تَبَذَّخَا",
+        "translations": {
+          "it.karamati": "Hai cancellato da me l'ostentazione e la superbia, o Dominatore che doma chi si insuperbisce.",
+          "en.karamati": "You have effaced from me ostentation and haughtiness, O Subduer Who tames whoever grows haughty.",
+          "fr.karamati": "Tu as effacé de moi l'ostentation et l'orgueil, ô Dominateur qui dompte celui qui s'enorgueillit."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "أَمَتَّنِى حَتَّى دَخَلْتُ الْبَرْزَخَا ۞ فَلِىَ هَبْ عَنْ كُلِّ سُوءٍ بَرْزَخَا",
+        "translations": {
+          "it.karamati": "Mi hai fatto morire (a me stesso) finché sono entrato nel Barzakh (l'istmo): concedimi dunque una barriera contro ogni male.",
+          "en.karamati": "You made me die (to myself) until I entered the Barzakh (the isthmus): so grant me a barrier against every evil.",
+          "fr.karamati": "Tu m'as fait mourir (à moi-même) jusqu'à ce que j'entre dans le Barzakh (l'isthme) : accorde-moi donc une barrière contre tout mal."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "يَامَنْ يُّلِينُ كُلَّ طَوْدٍ شَمَخَا ۞ دَكًّا لِّىَ إِقْهَرْ كُلَّ جَانٍ بَزْمَخَا",
+        "translations": {
+          "it.karamati": "O Colui che rende molle ogni montagna che si erge altera, riducendola in polvere: per me doma ogni malfattore che si è insuperbito.",
+          "en.karamati": "O He Who softens every mountain that towers proudly, crushing it to dust: for me subdue every evildoer who has grown arrogant.",
+          "fr.karamati": "Ô Celui qui amollit toute montagne qui se dresse altière, la réduisant en poussière : pour moi dompte tout malfaiteur qui s'est enorgueilli."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "عَنِّىَ كُفَّ كُلَّ بَاغٍ جَفَخَا ۞ بِسَيْفِ مَنْ مَّنْ لَمْ يُطِعْكَ أَفَخَا",
+        "translations": {
+          "it.karamati": "Trattieni da me ogni oppressore che si è vantato, con la spada di colui che ha colpito al capo chi non Ti obbedisce,",
+          "en.karamati": "Hold back from me every oppressor who has boasted, by the sword of him who struck on the head whoever does not obey You,",
+          "fr.karamati": "Retiens de moi tout oppresseur qui s'est vanté, par l'épée de celui qui a frappé à la tête quiconque ne T'obéit pas,"
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "بِسَيْفِ مَنْ قَدْ خَلَّدَ التَّأَوُّخَا ۞ لَكَ وَمَنْ خَالَفُوكَ دَوَّخَا",
+        "translations": {
+          "it.karamati": "con la spada di colui che ha reso eterna la fratellanza in Te, e ha soggiogato coloro che Ti si sono opposti.",
+          "en.karamati": "by the sword of him who made brotherhood in You everlasting, and subdued those who opposed You.",
+          "fr.karamati": "par l'épée de celui qui a rendu éternelle la fraternité en Toi, et a subjugué ceux qui se sont opposés à Toi."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "ءَاوَيْتَنِى لَكَ بِهِ فَشَيَّخَا ۞ بِجَاهِهِ يَاخَيْرَ هَادٍ شَيَّخَا",
+        "translations": {
+          "it.karamati": "Mi hai accolto presso di Te per mezzo di lui, ed egli (mi) ha reso maestro; per il suo rango, o migliore Guida, rendi(mi) maestro.",
+          "en.karamati": "You sheltered me with You through him, and he made (me) a master; by his rank, O best Guide, make (me) a master.",
+          "fr.karamati": "Tu m'as accueilli auprès de Toi par lui, et il (m')a fait maître ; par son rang, ô meilleur Guide, fais(-moi) maître."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "اقْهَرْ بِهِ لِى كُلَّ مَنْ تَبَلَّخَا ۞ وَلِىَ هَبْ مُخْجِلَ سَيْلٍ جَلَخَا",
+        "translations": {
+          "it.karamati": "Doma per mezzo di lui, per me, chiunque si sia mostrato arrogante, e concedimi (un dono) che faccia arrossire un torrente che ha divelto (le sponde).",
+          "en.karamati": "Subdue through him, for me, whoever has shown arrogance, and grant me (a gift) that shames a torrent that has swept (all) away.",
+          "fr.karamati": "Dompte par lui, pour moi, quiconque s'est montré arrogant, et accorde-moi (un don) qui fasse rougir un torrent qui a tout emporté."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "بِجَاهِهِ لِىَ عِدَاىَ دَخْدِخَا ۞ يَامَنْ قَبَضْتَ كُلَّ مَنْ تَدَخْدَخَا",
+        "translations": {
+          "it.karamati": "Per il suo rango umilia per me i miei nemici, o Tu che hai stretto in pugno chiunque sia stato umiliato.",
+          "en.karamati": "By his rank humble my enemies for me, O You Who have gripped everyone who has been humbled.",
+          "fr.karamati": "Par son rang humilie pour moi mes ennemis, ô Toi qui as tenu en Ta poigne quiconque a été humilié."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "كَفَيْتَنِى غَيْهَبَ مَا تَجَخْجَخَا ۞ مِنَ اللَّيَالِى فَشَكَرْتُ بَجَخَا",
+        "translations": {
+          "it.karamati": "Mi hai preservato dall'oscurità di ciò che si è addensato delle notti, e ho reso grazie esultante.",
+          "en.karamati": "You have spared me the gloom of what thickened of the nights, and I gave thanks exulting.",
+          "fr.karamati": "Tu m'as préservé de l'obscurité de ce qui s'est épaissi des nuits, et j'ai rendu grâce, exultant."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "مَحَوْتَ عَنِّىَ الْئَزَى وَالْوَسَخَا ۞ فَبِىَ بَشِّرْ كُلَّ هَادٍ رَّسَخَا",
+        "translations": {
+          "it.karamati": "Hai cancellato da me il danno e la sporcizia: annuncia dunque la buona novella di me a ogni guida che è salda (nella scienza).",
+          "en.karamati": "You have effaced from me harm and filth: so give glad tidings of me to every guide firmly rooted (in knowledge).",
+          "fr.karamati": "Tu as effacé de moi le mal et la souillure : annonce donc la bonne nouvelle de moi à tout guide affermi (dans la science)."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "رَضِيتُ عَنْكَ فَلْتُدِمْ لِىَ الرَّخَا ۞ وَلِىَ هَبْ كَوْنِى فَتًى مُّصَرَّخَا",
+        "translations": {
+          "it.karamati": "Mi sono compiaciuto di Te: fa' dunque durare per me l'agiatezza, e concedimi di essere un giovane soccorso (al suo grido).",
+          "en.karamati": "I am well pleased with You: so make ease endure for me, and grant me to be a youth succoured (at his cry).",
+          "fr.karamati": "Je me suis satisfait de Toi : fais donc durer pour moi l'aisance, et accorde-moi d'être un jeune homme secouru (à son cri)."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "بِعْتُ الَّذِى سَلَخْتُهُ فَانْسَلَخَا ۞ لِوَجْهِكَ الْكَرِيمِ رُضْ لِى الْأَصْلَخَا",
+        "translations": {
+          "it.karamati": "Ho venduto ciò di cui mi sono spogliato, ed esso si è staccato (da me); per il Tuo nobile Volto doma per me il sordo ostinato.",
+          "en.karamati": "I have sold what I stripped off, and it came away (from me); by Your noble Face subdue for me the obstinate deaf one.",
+          "fr.karamati": "J'ai vendu ce dont je me suis dépouillé, et cela s'est détaché (de moi) ; par Ta noble Face dompte pour moi le sourd obstiné."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "بَنَنْتُّ بَيْعَ سِلَعٍ لَّمْ يُفْسَخَا ۞ عَقْدٌ لَّهَا وَأَبَدًا لَّنْ يُّفْسَخَا",
+        "translations": {
+          "it.karamati": "Ho reso definitiva la vendita di merci il cui contratto non è stato rescisso, e mai sarà rescisso.",
+          "en.karamati": "I have made final the sale of goods whose contract has not been annulled, and shall never be annulled.",
+          "fr.karamati": "J'ai rendu définitive la vente de marchandises dont le contrat n'a pas été résilié, et jamais ne sera résilié."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "يَامُغْنِيًا إِلَىَّ سَاقَ ضَرْدِخَا ۞ هَبْ لِى فِرَاقِى كُلَّ مَنْ تَبَدَّخَا",
+        "translations": {
+          "it.karamati": "O Arricchente, che hai sospinto verso di me un dono abbondante, concedimi la separazione da chiunque si sia insuperbito.",
+          "en.karamati": "O Enricher, Who drove toward me an abundant gift, grant me separation from everyone who has grown proud.",
+          "fr.karamati": "Ô Celui qui enrichit, qui as poussé vers moi un don abondant, accorde-moi la séparation d'avec quiconque s'est enorgueilli."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "لِى كُنْتَ فِى الْبَحْرِ فَصِرْتُ شُنْدُخَا ۞ عِنْدَ الْعِدَى فَلِىَ وَجِّهْ شُنْدُخَا",
+        "translations": {
+          "it.karamati": "Sei stato per me sul mare, e sono divenuto una festa presso i nemici: rivolgi dunque verso di me una festa (di gioia).",
+          "en.karamati": "You were for me on the sea, and I became a feast among the enemies: so turn toward me a feast (of joy).",
+          "fr.karamati": "Tu as été pour moi sur la mer, et je suis devenu une fête auprès des ennemis : tourne donc vers moi une fête (de joie)."
+        }
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "وَجِّهْ إِلَىَّ مَآ أَصِيرُ مِكْفَخَا ۞ بِهِ وَرُضْ لِى كُلَّ دَاهٍ قَنْفَخَا",
+        "translations": {
+          "it.karamati": "Rivolgi verso di me ciò per mezzo del quale io divenga uno che abbatte (i nemici), e doma per me ogni astuto gonfio d'orgoglio.",
+          "en.karamati": "Turn toward me that through which I may become one who strikes (the enemies) down, and subdue for me every cunning one swollen with pride.",
+          "fr.karamati": "Tourne vers moi ce par quoi je devienne celui qui abat (les ennemis), et dompte pour moi tout rusé gonflé d'orgueil."
+        }
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "لِى سَخِّرَنْ مُّثَلِثًا قَدْ أَقْمَخَا ۞ بِأَنْفِهِ مُسْتَدْرَجًا وَشَمَخَا",
+        "translations": {
+          "it.karamati": "Sottometti a me il trinitario che ha levato in alto il naso, portato gradualmente (alla rovina), e si è inorgoglito.",
+          "en.karamati": "Subject to me the trinitarian who has raised his nose high, led on by degrees (to ruin), and has grown proud.",
+          "fr.karamati": "Soumets-moi le trinitaire qui a levé haut le nez, mené graduellement (à sa perte), et s'est enorgueilli."
+        }
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "إِلَيْهِ وَجِّهْ فِى الْجُيُوشِ فَرْضَخَا ۞ وَرَأْسَ كُلِّ بِانْتِقَامِكَ ارْضِخَا",
+        "translations": {
+          "it.karamati": "Rivolgi contro di lui, tra gli eserciti, un (colpo) poderoso, e frantuma il capo di ognuno con la Tua vendetta.",
+          "en.karamati": "Direct against him, among the armies, a mighty (blow), and crush the head of each with Your vengeance.",
+          "fr.karamati": "Dirige contre lui, parmi les armées, un (coup) puissant, et brise la tête de chacun par Ta vengeance."
+        }
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "دُعَآءَ مَظْلُومٍ غَرِيبٍ صَرَخَا ۞ اسْمَعْ وَصَيِّرْهُ فَتًى مُّصَرَّخَا",
+        "translations": {
+          "it.karamati": "Ascolta l'invocazione di un oppresso, straniero, che ha gridato, e rendilo un giovane soccorso.",
+          "en.karamati": "Hear the supplication of a wronged stranger who has cried out, and make him a youth succoured.",
+          "fr.karamati": "Écoute l'invocation d'un opprimé, étranger, qui a crié, et fais de lui un jeune homme secouru."
+        }
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "عَذِّبْ عَذَابًا دَآئِمًا قَدْ طِيَّخَا ۞ مَنْ دِينُهُمْ دِينٌ غَدًا مُّطَيَّخَا",
+        "translations": {
+          "it.karamati": "Castiga di un castigo perenne, già macchiato (d'infamia), coloro la cui religione è una religione domani svilita.",
+          "en.karamati": "Punish with a lasting punishment, already sullied (with infamy), those whose religion is a religion debased tomorrow.",
+          "fr.karamati": "Châtie d'un châtiment perpétuel, déjà souillé (d'infamie), ceux dont la religion est une religion demain avilie."
+        }
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "أَجِبْ بِّمَنْ مَّازَلَ لَيْثًا مِّفْنَخَا ۞ دُعَآءَ مَظْلُومٍ خَدِيمٍ فُنِخَا",
+        "translations": {
+          "it.karamati": "Esaudisci, per mezzo di colui che non ha cessato di essere un leone che umilia (i nemici), l'invocazione di un oppresso, servitore, che è stato umiliato.",
+          "en.karamati": "Answer, through him who never ceased to be a lion that humbles (the enemies), the supplication of a wronged servant who has been humbled.",
+          "fr.karamati": "Exauce, par celui qui n'a cessé d'être un lion qui humilie (les ennemis), l'invocation d'un opprimé, serviteur, qui a été humilié."
+        }
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "ءَاتِيكَ ءَاتِهِ دَوَامًا وَافْقَخَا ۞ أَعْدَآءَهُ يَاخَيْرَ عَدْلٍ فَقَّخَا",
+        "translations": {
+          "it.karamati": "Colui che viene a Te, concedigli perennemente (il bene), e spezza i suoi nemici, o migliore Giusto che spezza.",
+          "en.karamati": "Whoever comes to You, grant him (good) perpetually, and shatter his enemies, O best Just One Who shatters.",
+          "fr.karamati": "Celui qui vient à Toi, accorde-lui perpétuellement (le bien), et brise ses ennemis, ô meilleur Juste qui brise."
+        }
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "كَوِّنْ لِّمَنْ سَيْفَ الْجِهَادِ امْتَسَخَا ۞ خَيْرَ صَلَاةٍ بِسَلَامٍ رَّسَخَا",
+        "translations": {
+          "it.karamati": "Fa' esistere, per colui che ha sguainato la spada del combattimento sacro, la migliore benedizione con un saluto saldo,",
+          "en.karamati": "Bring into being, for him who drew the sword of sacred struggle, the best blessing with an abiding peace,",
+          "fr.karamati": "Fais exister, pour celui qui a dégainé l'épée du combat sacré, la meilleure bénédiction avec un salut ferme,"
+        }
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "مُحَمِّدٍ مَنْ قُلْتُ فِيهِ بَخْ بَخَا ۞ وَالْئَالِ وَالصَّحْبِ وَكُلِّى وَبِّخَا",
+        "translations": {
+          "it.karamati": "Muḥammad, colui del quale ho detto «Splendido, splendido!», e sulla Famiglia e i Compagni; e rimprovera tutto il mio essere.",
+          "en.karamati": "Muḥammad, he of whom I said “Splendid, splendid!”, and upon the Family and the Companions; and reprove my whole being.",
+          "fr.karamati": "Muḥammad, celui dont j'ai dit « Bravo, bravo ! », et sur la Famille et les Compagnons ; et réprimande tout mon être."
+        }
+      }
     ]
   }
 }

@@ -43,9 +43,9 @@ Per fissare una versione stabile sostituisci `@main` con un tag o un commit (es.
 | `transliteration` | — | verso | tutte |
 | `fr.translation` | fr | verso | quasi tutte |
 | `en.translation` | en | verso | parziale |
-| `it.karamati` | it | bayt | 16 khassida dell'app Karamati Khatou Yadi |
-| `en.karamati` | en | bayt | 16 khassida dell'app Karamati Khatou Yadi |
-| `fr.karamati` | fr | bayt | 16 khassida dell'app Karamati Khatou Yadi |
+| `it.karamati` | it | bayt | tutte (111 khassida dell'app Karamati Khatou Yadi) |
+| `en.karamati` | en | bayt | tutte (111 khassida dell'app Karamati Khatou Yadi) |
+| `fr.karamati` | fr | bayt | tutte (111 khassida dell'app Karamati Khatou Yadi) |
 
 Il campo `editions` in `/khassidas.json` indica quali edizioni sono disponibili per ciascuna khassida.
 

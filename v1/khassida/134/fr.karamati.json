@@ -1,0 +1,321 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 134,
+    "name": "Nuuru Daarayni 23",
+    "transliterationName": "Nuuru Daarayni 23",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 1169,
+        "text": "Ô Toi à Qui appartiennent la proclamation de la grandeur et la sanctification : par Toi Iblīs s'est dirigé vers d'autres que nous."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 1170,
+        "text": "Ô Toi à Qui appartient la prééminence comme la maîtrise : Tu m'as préservé du dommage des rois."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 1171,
+        "text": "Ô Toi à Qui appartient la création comme Lui appartiennent les choses : Tu m'as épargné par grâce le dommage de tout émir."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 1172,
+        "text": "Ô Toi qui par moi profites à quiconque visite : Tu m'as protégé, et ne m'a nui (aucun) ministre."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 1173,
+        "text": "Ô Toi à Qui appartient « Sois », et c'est, ô Roi : Tu as protégé tout mon être des peines du cheminement initiatique."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 1174,
+        "text": "Les ennemis ont su que je suis auprès de Toi, non auprès d'eux, bonne nouvelle pour Ton armée."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 1175,
+        "text": "Tu m'as rendu patient (dans l'abstention) de l'illicite déjà auparavant, et la tentation des hommes s'est effacée, et la chaîne."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 1176,
+        "text": "Tu m'as rendu patient face à toute chose détestable, lorsque j'étais étranger, et as rendu bon le cœur."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 1177,
+        "text": "Tu m'as rendu patient (dans l'abstention) de tout ce qui ne profite pas des choses licites, et je les repoussais."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 1178,
+        "text": "Tu m'as rendu patient dans l'exécution de Ton ordre ; Tu as poussé vers d'autres que moi mes ennemis par Ta domination."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 1179,
+        "text": "Tu as subjugué pour moi mon âme, Tu as subjugué pour moi ma passion, et le mal et l'égarement Tu as poussés vers d'autres que moi."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 1180,
+        "text": "De Toi est ma provision vers les Jardins, par ce que Tu as choisi pour moi des faveurs."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 1181,
+        "text": "Je me suis détaché de l'illicite et du blâmable, par une préservation de Ta part, avec le fait de les rendre odieux."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 1182,
+        "text": "Tu as poussé vers d'autres que moi tout ce en quoi il n'y a pas d'utilité, et (as rendu) ma vie guide vers le bien."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 1183,
+        "text": "Tu m'as fait parvenir la joie des pieux, Tu m'as préservé du dommage des impies."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 1184,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Toi qui as été nommé Audient (As-Samīʿ) et Omniscient (Al-ʿAlīm),"
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 1185,
+        "text": "bénis d'une bénédiction qui emporte les maladies vers d'autres que nous et assainisse les desseins,"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 1186,
+        "text": "avec un salut de paix qui assainisse les cœurs et attire le lait caillé et le lait,"
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 1187,
+        "text": "sur celui par qui Tu as raccourci pour moi la distance du cheminement initiatique, ô Détenteur de la faveur."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 1188,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 1189,
+        "text": "Et témoigne de ma gratitude envers Toi le jour de la Tarwiya, ô Toi qui m'as abreuvé d'effusions désaltérantes,"
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 1190,
+        "text": "et avant lui et après lui ; et témoigne pour moi du bien des biens, et Ton agrément amène-le-moi."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 1191,
+        "text": "Et élève mes lettres par la gratitude, ô Reconnaissant, ô Meilleur de Celui avec Qui un serviteur s'entretient intimement avec gratitude."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 1192,
+        "text": "Nul autre que Toi n'énumère Ta louange, ô Permanent qui m'as fait demeurer, ô Dénombreur (Al-Muḥṣī)."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 1193,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Toi qui as été nommé Gardien (Al-Ḥafīẓ), Celui qui garde (Al-Ḥāfiẓ),"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 1194,
+        "text": "bénis d'une bénédiction déjà limpide de trouble, ô Créateur par la permission de Qui s'écoule le décret,"
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 1195,
+        "text": "avec un salut de paix qui n'est que de Toi, par la bonne fortune duquel Tu m'accordes « Sois », et c'est,"
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 1196,
+        "text": "sur celui qui écarte les auteurs de fatigues vers une autre direction que la mienne, à jamais, comme la honte."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 1197,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 1198,
+        "text": "Et garde par moi l'Islām d'une garde qui jamais n'ait été pour d'autres que moi, et sois pour moi avec « Sois »."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 1199,
+        "text": "Et garde mes six directions, ô Gardien (Al-Ḥafīẓ), ô Toi à Qui appartiennent mon sens et la parole."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 1200,
+        "text": "Et garde dans ma poitrine les sciences profitables, et rends ma vie profitable au Prophète,"
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 1201,
+        "text": "que le bénisse à jamais et lui accorde la paix Celui par qui il a instruit mon cœur."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 1202,
+        "text": "Et accorde-moi la mémoire sans oubli, et préserve par lui ma vie de la désobéissance."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 1203,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Toi qui as été nommé Riche (Al-Ghanī) et Celui qui enrichit (Al-Mughnī),"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 1204,
+        "text": "bénis d'une bénédiction qui rende indépendant de Tes ennemis et d'autre chose que ce que Tu as choisi pour moi, ô Toi qui enrichis,"
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 1205,
+        "text": "avec un salut de paix qui m'amène Ton armée, (moi) serviteur enrichi par le Livre auprès de Toi,"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 1206,
+        "text": "sur celui par le prestige duquel Tu m'as épargné ce qui a affligé et quiconque a fait le mal."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 1207,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 1208,
+        "text": "Et accorde-moi la vénération de tout ce dont la vénération est obligatoire, ô Toi qui m'amènes l'émerveillement."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 1209,
+        "text": "Ô Toi qui m'as préservé de ce que je sais, de ce qui m'afflige, et de ce que je ne sais pas."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 1210,
+        "text": "Emporte vers autre que ma personne les défauts, et amène à mon cœur l'effusion et les mystères."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 1211,
+        "text": "Et accorde-moi aujourd'hui, sans spoliation, « Sois », et c'est ; pour moi mes ennemis vaincs."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 1212,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Toi qui as été nommé Proche (Al-Qarīb) et Audient (As-Samīʿ),"
+      }
+    ]
+  }
+}

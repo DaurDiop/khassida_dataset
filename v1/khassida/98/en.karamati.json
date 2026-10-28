@@ -1,0 +1,412 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 98,
+    "name": "Matlabul Fawzayni 4",
+    "transliterationName": "Matlabul Fawzayni 4",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 180,
+        "text": "And drive out the others (all but You) from my heart, and bring the lights into it, O my Guide."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 181,
+        "text": "And be my help in what sets right, and spare me all that makes foul."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 182,
+        "text": "And show me the subtleties of the secrets of Your beneficial knowledge and of the lights."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 183,
+        "text": "And grant me certainty and gnosis, (spiritual) taste, forgiveness and good pleasure,"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 184,
+        "text": "and steadfastness in worship, unveiling, direct vision and felicity."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 185,
+        "text": "And set right the community of the best of Messengers, and relieve them all, O Most High (Al-ʿAlī)."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 186,
+        "text": "And have mercy, bless, then grant well-being to them all, and save them, be gentle with them and forgive them."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 187,
+        "text": "And make me, O Lord, among the greatest of servants with You, in fortune and share, in perpetuity."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 188,
+        "text": "And make all my movements for You, and my stillnesses obedience, by Your grace."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 189,
+        "text": "And make my life and my death within the traditions, the obligatory and the recommended, in secret and in public."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 190,
+        "text": "And make my death a rest for me from toil, from heartache, from love's anguish and from suffering."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 191,
+        "text": "And make all my deeds accepted, until I become an accepted example."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 192,
+        "text": "And make my dwelling a blessed dwelling, and make me a wayfarer and a devotee."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 193,
+        "text": "I call on You to make it an abode of the fear of Allah, of knowledge and religion, and an abode of ascent,"
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 194,
+        "text": "a garden (janna) for the aspiring wayfarer (murīd) and a shield (junna) against the rending rebel (marīd),"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 195,
+        "text": "a place of benefit for every Muslim guide, and a place of defence against every criminal aggressor,"
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 196,
+        "text": "a pilgrimage for whoever is clothed in weakness, and a screen against the opponent, tomorrow,"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 197,
+        "text": "a place of seeking obedience to the Merciful (Ar-Raḥīm), and a place of flight from obedience to the accursed (ar-Rajīm),"
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 198,
+        "text": "a path for the ways of following (the Sunna), and a place of leaving the ways of innovation,"
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 199,
+        "text": "a dwelling to draw every good, and a dwelling to repel every harm,"
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 200,
+        "text": "a cause for the opening of the good of the Unseen, and a cause for repelling the harm of defect."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 201,
+        "text": "And make its land a land of provision and security, of mercy and plenty, at every time."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 202,
+        "text": "O Repeller of evils and troubles, through the Chosen repel every evil from my house."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 203,
+        "text": "And forgive those who built its lofty building, and forgive him who commanded them in it, all of them."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 204,
+        "text": "And (forgive) all who helped them in its building, which by Your grace has risen high."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 205,
+        "text": "And forgive everyone who has dwelt in it, and whoever has leaned on it for good."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 206,
+        "text": "And make it full of light and mercy, without end."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 207,
+        "text": "And make its provision the purest of the lawful, in hardship and in ease, continuously."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 208,
+        "text": "And bestow on me in it a knowledge that benefits and elevation of renown, with a humble heart."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 209,
+        "text": "And grant me in it a supplication that is heard, with the contentment of a soul that is satisfied,"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 210,
+        "text": "and a righteous wife who helps (me) toward the fear of Allah and piety, O Helper."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 211,
+        "text": "And spread forever the wing of Your veil over me, with all my family, O Eternal Refuge."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 212,
+        "text": "And pitch the pavilions of Your guarding over my house and all that is in it, entirely."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 213,
+        "text": "And bring all into the hidden depth of Your Unseen, and veil us from temptations,"
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 214,
+        "text": "from the wicked of creation and from calamities, from the jinn, Satan and trials."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 215,
+        "text": "And grant me long life with the fear of Allah and light, renunciation and scruple, through the ages."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 216,
+        "text": "And make my dwelling a dwelling of forgiveness, right direction, gnosis and good pleasure,"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 217,
+        "text": "an abode of sincerity, truthfulness and scruple, an abode of the Sunna and a refuge from innovations."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 218,
+        "text": "And make it always a dwelling of learning, a place of reflection and understanding,"
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 219,
+        "text": "a dwelling of spiritual guidance and teaching, a dwelling of correction and of imparting understanding."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 220,
+        "text": "And make it a dwelling of going out from darknesses into light, and keep from it whoever has done wrong."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 221,
+        "text": "And make it always a dwelling of following the Sunna, not a dwelling of innovation."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 222,
+        "text": "And make it, O Lord, the most beloved dwelling in our land, to You and to al-Māḥī, the radiant."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 223,
+        "text": "And protect my house from depravity, wickedness and falsehood, through the ages."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 224,
+        "text": "And remove pestilence and all trials from it, and make its drink and its food wholesome."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 225,
+        "text": "And make our sacred precinct a safe precinct, and be the guarantor and surety of its keeping."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 226,
+        "text": "And gather good for it from the six directions, and spare it calamities."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 227,
+        "text": "Guard me from Satan, O Majestic, and my dwelling and all those I provide for."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 228,
+        "text": "O Allah, O Preserver, O Possessor of Command, O You Who surpass all creation together in dominion:"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 229,
+        "text": "my soul and my religion, then my family and children, and my dwelling are a trust with You forever;"
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 230,
+        "text": "and so too my worldly life with my Hereafter: in both turn calamities away from me."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 231,
+        "text": "And turn the punishment of the Fire away from all those who have attached themselves to me among the children of this age,"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 232,
+        "text": "and from all the brothers, whether kin in clay (blood) or in religion, and strangers."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 233,
+        "text": "So be a fortress for me and always, O Eternal Refuge, take charge of me and entrust me to no one."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 234,
+        "text": "And have mercy on all the Muslims forever, and bless and grant peace perpetually"
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 235,
+        "text": "upon Muḥammad, my means of approach to You, and grant me a good ending with You."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 236,
+        "text": "And extend the blessing to the Companions, besides his Family, and grant me the answering."
+      }
+    ]
+  }
+}

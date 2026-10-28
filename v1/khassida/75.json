@@ -279,6 +279,195 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "لِرَبٍّ كَرِيمٍ وَاسِعٍ خَيْرِ مَعْبُودِ ۞ شُكُورِى لَدَى دَارِى وَفِى الْبَحْرِ وَالْبِيدِ",
+        "translations": {
+          "it.karamati": "A un Signore Generoso, Vastissimo, il migliore degli adorati, (va) la mia gratitudine, presso la mia dimora, sul mare e nei deserti.",
+          "en.karamati": "To a Generous, All-Embracing Lord, the best of those worshipped, (goes) my gratitude, at my home, on the sea and in the deserts.",
+          "fr.karamati": "À un Seigneur Généreux, Immense, le meilleur des adorés, (va) ma gratitude, en ma demeure, sur la mer et dans les déserts."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "إِلَاهِى حَكِيمٌ نَّافِعٌ ذُو تَفَضُّلِ ۞ غَنِّىٌّ وَمُغْنٍ جُودُهُ جُودُ تَابِيدِ",
+        "translations": {
+          "it.karamati": "Il mio Dio è Saggio, Benefattore, dotato di grazia, Ricco e Arricchitore: la Sua generosità è generosità perpetua.",
+          "en.karamati": "My God is Wise, Beneficent, possessed of grace, Rich and Enriching: His generosity is perpetual generosity.",
+          "fr.karamati": "Mon Dieu est Sage, Bienfaisant, doté de grâce, Riche et Enrichisseur : Sa générosité est générosité perpétuelle."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "نَفَى عَنِّىَ الْأَعْدَاءِ طُرًّا وَسَاقَ لِى ۞ مَرَامِى بِلَا كَدٍ وَضَيْقٍ وَتَشْدِيدِ",
+        "translations": {
+          "it.karamati": "Ha respinto da me tutti i nemici e mi ha condotto ciò a cui aspiravo, senza fatica, né strettezza, né rigore.",
+          "en.karamati": "He repelled all enemies from me and led to me what I aspired to, without toil, constraint or harshness.",
+          "fr.karamati": "Il a repoussé de moi tous les ennemis et m'a amené ce à quoi j'aspirais, sans peine, ni gêne, ni rigueur."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "شُكُورِى لَهُ بِالْقَلْبِ وَالْجِسْمِ سَرْمَدًا ۞ وَلِى جَادَ بِالتَّوْفِيقِ فَضْلًا وَتَسْدِيدِ",
+        "translations": {
+          "it.karamati": "A Lui la mia gratitudine con il cuore e con il corpo, per sempre: Egli mi ha elargito il successo, per grazia, e il retto indirizzo.",
+          "en.karamati": "To Him my gratitude with heart and body, for ever: He has bestowed on me success, by grace, and right direction.",
+          "fr.karamati": "À Lui ma gratitude par le cœur et par le corps, pour toujours : Il m'a accordé la réussite, par grâce, et la juste direction."
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "كَفَانِىَ فِى الدَّارَيْنِ كَوْنُ الْإِلَاهِ لِى ۞ بِلُطْفٍ وَجُودٍ فَيْضُهُ غَيْرِ مَحْدُودِ",
+        "translations": {
+          "it.karamati": "Mi è bastato, nelle due Dimore, che Dio sia per me, con una benevolenza e una generosità la cui effusione è illimitata.",
+          "en.karamati": "It has sufficed me, in the two Abodes, that God is for me, with a kindness and a generosity whose outpouring is boundless.",
+          "fr.karamati": "Il m'a suffi, dans les deux Demeures, que Dieu soit pour moi, avec une bienveillance et une générosité dont l'effusion est illimitée."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "رَجَآءِى لَدَى الْمُغْنِى رَجَآءٌ مُّحَقِّقٌ ۞ لَهُ صِرْتُ عَبْدًا وَهْوَ رَبِّى وَمَوْدُودِى",
+        "translations": {
+          "it.karamati": "La mia speranza presso l'Arricchitore è una speranza realizzata: di Lui sono divenuto servo, ed Egli è il mio Signore e il mio Amato.",
+          "en.karamati": "My hope with the Enricher is a hope fulfilled: His servant I have become, and He is my Lord and my Beloved.",
+          "fr.karamati": "Mon espérance auprès de l'Enrichisseur est une espérance réalisée : de Lui je suis devenu serviteur, et Il est mon Seigneur et mon Bien-Aimé."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "تَعَالَى كَرِيمًا مُّغْنِيًا قَادَنِى لَهُ ۞ بِلُطْفٍ وَجُودٍ وَاسِعٍ غَيْرِ مَعْدُودِ",
+        "translations": {
+          "it.karamati": "Sia esaltato, Generoso, Arricchitore, che mi ha condotto a Sé con una benevolenza e una generosità vaste e senza numero.",
+          "en.karamati": "Exalted be He, Generous, Enricher, Who led me to Himself with a kindness and generosity vast and beyond counting.",
+          "fr.karamati": "Qu'Il soit exalté, Généreux, Enrichisseur, qui m'a conduit vers Lui avec une bienveillance et une générosité vastes et sans nombre."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "مَحَا حُبِّىَ الْوَهَّابُ حُبِّى سِوَى الَّذِى ۞ لِىَ اخْتَارَ فِى الدَّارَيْنِ مِنْ كُلِّ مَغْصُودِ",
+        "translations": {
+          "it.karamati": "Il mio Amato, il Donatore (Al-Wahhāb), ha cancellato il mio amore per altro che ciò che Egli ha scelto per me, nelle due Dimore, tra tutti gli intenti.",
+          "en.karamati": "My Beloved, the Bestower (Al-Wahhāb), has erased my love for anything but what He chose for me, in the two Abodes, of every aim.",
+          "fr.karamati": "Mon Bien-Aimé, le Donateur (Al-Wahhāb), a effacé mon amour pour autre chose que ce qu'Il a choisi pour moi, dans les deux Demeures, parmi tous les buts."
+        }
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "لِىَ اخْتَارَ كَوْنِى عَبْدَهُ خَادِمَ النَّبِى ۞ وَزَرْعِىَ كَوْنُ اللَّهِ لِى وَهْوَ مَحْصُودِى",
+        "translations": {
+          "it.karamati": "Ha scelto per me che io sia Suo servo e servitore del Profeta; e la mia semina è che Allah sia per me, ed Egli è il mio raccolto.",
+          "en.karamati": "He chose for me that I be His servant and the servant of the Prophet; and my sowing is that Allah is for me, and He is my harvest.",
+          "fr.karamati": "Il a choisi pour moi que je sois Son serviteur et serviteur du Prophète ; et ma semence est qu'Allah soit pour moi, et Il est ma récolte."
+        }
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "أَكُونُ لَهُ عَبْدًا جَدِيمًا لِّعَبْدِهِ ۞ وَلِى رَاضَ أَعْدَاءِى بِهِ غَيْرَ مَكْمُودِ",
+        "translations": {
+          "it.karamati": "Sarò Suo servo e servitore del Suo servo, ed Egli per mezzo di lui ha domato per me i miei nemici, (rendendomi) non afflitto.",
+          "en.karamati": "I shall be His servant and the servant of His servant, and through him He tamed my enemies for me, (leaving me) ungrieved.",
+          "fr.karamati": "Je serai Son serviteur et serviteur de Son serviteur, et Il a par lui dompté pour moi mes ennemis, (me rendant) non affligé."
+        }
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "زِدِ الرَّوْضَ يَاقَهَّارُ وَالنَّصْرِ خَلِّدَنْ ۞ وَوَجِّهْ لِىَ الْخَيْرَاتِ يَاخَيْرَ مَصْمُودِ",
+        "translations": {
+          "it.karamati": "Accresci il domare (dei nemici), o Dominatore (Al-Qahhār), rendi eterna la vittoria e rivolgi a me i beni, o il migliore Colui al quale ci si rivolge.",
+          "en.karamati": "Increase the taming (of foes), O Subduer (Al-Qahhār), make victory everlasting and direct good things to me, O best of the One to Whom all turn.",
+          "fr.karamati": "Accrois le domptage (des ennemis), ô Dominateur (Al-Qahhār), rends éternelle la victoire et tourne vers moi les biens, ô le meilleur de Celui vers Qui l'on se tourne."
+        }
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "يَسَارِىَ كَوْنِى عَنْدَكُمْ خَادِمًا لَّهُ ۞ بِقَلْبِى وَجِسْمِى مَعْ مِدَادِى بِتَسْوِيدِ",
+        "translations": {
+          "it.karamati": "La mia ricchezza è il mio essere presso di voi suo servitore, con il cuore, con il corpo e con il mio inchiostro, annerendo (le pagine).",
+          "en.karamati": "My wealth is my being, with you, his servant, with my heart, my body and my ink, blackening (the pages).",
+          "fr.karamati": "Ma richesse est mon être auprès de vous son serviteur, par le cœur, par le corps et par mon encre, en noircissant (les pages)."
+        }
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "دَعَانِى إِلَى ذِكْرٍ وَشُكْرٍ لَّكُمْ بِهِ ۞ مِنًى قَدْ تَّفِى مِنْكُمْ بِلُطْفٍ وَتَسْوِيدِ",
+        "translations": {
+          "it.karamati": "Mi hanno chiamato al ricordo e alla gratitudine verso di voi, per mezzo di lui, desideri che si compiono da parte vostra con benevolenza e con l'elevazione a signore.",
+          "en.karamati": "There called me to remembrance and gratitude toward you, through him, wishes fulfilled from you with kindness and the raising to mastery.",
+          "fr.karamati": "M'ont appelé au rappel et à la gratitude envers vous, par lui, des souhaits qui s'accomplissent de votre part avec bienveillance et avec l'élévation à la seigneurie."
+        }
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "نَفَيْتَ الْأَذَى عَنِّى وَلِى سُقْتَ مَطْلَنِى ۞ فَلَابُدَّ مِنْ شُكْرٍ بِذِكْرٍ وَتَجْوِيدِ",
+        "translations": {
+          "it.karamati": "Hai respinto da me il danno e mi hai condotto ciò che chiedevo: è dunque inevitabile la gratitudine, con il ricordo e la recitazione accurata.",
+          "en.karamati": "You repelled harm from me and led to me what I sought: gratitude is therefore due, with remembrance and careful recitation.",
+          "fr.karamati": "Tu as repoussé de moi le mal et m'as amené ce que je demandais : la gratitude est donc inévitable, par le rappel et la récitation soignée."
+        }
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "نَوَيْتُ دَوَامَ الشُّكْرِ بِالْئَاىِ خَادِمًا ۞ بِخَطٍّ لِمَنْ قَدَّمْتَهُ خَيْرَ مَوْلُودِ",
+        "translations": {
+          "it.karamati": "Ho fatto intenzione della gratitudine perpetua con i versetti, servendo con la scrittura colui che hai posto innanzi, il migliore dei nati.",
+          "en.karamati": "I have resolved upon perpetual gratitude through the verses, serving with writing him whom You set foremost, the best of those born.",
+          "fr.karamati": "J'ai formé l'intention de la gratitude perpétuelle par les versets, servant par l'écriture celui que Tu as placé en avant, le meilleur des nés."
+        }
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "كُرُوبِى وَأَثْقَا لِى وَضَيْقِى كَشَفْتُهَا ۞ بِلُطْفٍ وَإِحْكَامٍ بَدِيعٍ وَتَوْلِيدِ",
+        "translations": {
+          "it.karamati": "Le mie angosce, i miei fardelli e la mia strettezza, li hai dissipati con benevolenza, con una saggezza mirabile e con il far nascere (soluzioni).",
+          "en.karamati": "My distresses, my burdens and my straits, You dispelled them with kindness, with wondrous wisdom and by bringing forth (outcomes).",
+          "fr.karamati": "Mes angoisses, mes fardeaux et ma gêne, Tu les as dissipés avec bienveillance, avec une sagesse merveilleuse et en faisant naître (des issues)."
+        }
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "مَحَوْتَ الَّذِى قَدْ سَآئَنِى مُنْذُ أَزْمُنِ ۞ عَنِ الْقَلْبِ يَافَتَّاحُ يَاخَيْرَ مَعْبُودِ",
+        "translations": {
+          "it.karamati": "Hai cancellato dal cuore ciò che mi affliggeva da tempo, o Colui che apre (Al-Fattāḥ), o migliore degli adorati.",
+          "en.karamati": "You erased from the heart what had afflicted me for long, O Opener (Al-Fattāḥ), O best of those worshipped.",
+          "fr.karamati": "Tu as effacé du cœur ce qui m'affligeait depuis longtemps, ô Celui qui ouvre (Al-Fattāḥ), ô le meilleur des adorés."
+        }
+      }
     ]
   }
 }

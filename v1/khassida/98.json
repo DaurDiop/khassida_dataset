@@ -919,6 +919,692 @@
           "fr": "et aux siens et fais que ma prière soit exaucée."
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "وَلْتُخْرِجِ الْأَغْيَارَ مِنْ فُؤَادِى ۞ وَلْتُدْخِلِ الْأَنْوَارَ فِيهِ هَادِى",
+        "translations": {
+          "it.karamati": "E fa' uscire le alterità (ciò che non è Te) dal mio cuore, e fa' entrare in esso le luci, o mia Guida.",
+          "en.karamati": "And drive out the others (all but You) from my heart, and bring the lights into it, O my Guide.",
+          "fr.karamati": "Et fais sortir les altérités (ce qui n'est pas Toi) de mon cœur, et fais-y entrer les lumières, ô mon Guide."
+        },
+        "appNumber": 180
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "وَكُنْ مُّعِينِىَ عَلَى مَايُصْلِحُ ۞ وَلْتَكْفِنِى جُمْلَةَ مَايُقَبِّحُ",
+        "translations": {
+          "it.karamati": "E sii il mio aiuto in ciò che rende retto, e preservami dall'insieme di ciò che rende turpe.",
+          "en.karamati": "And be my help in what sets right, and spare me all that makes foul.",
+          "fr.karamati": "Et sois mon aide en ce qui amende, et préserve-moi de l'ensemble de ce qui enlaidit."
+        },
+        "appNumber": 181
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "وَلْتُرِنِى دَقَآئِقَ الْأَسْرَارِ ۞ مِنْ عِلْمِكَ النَّافِعِ وَالْأَنْوَارِ",
+        "translations": {
+          "it.karamati": "E mostrami le sottigliezze dei segreti della Tua scienza giovevole e delle luci.",
+          "en.karamati": "And show me the subtleties of the secrets of Your beneficial knowledge and of the lights.",
+          "fr.karamati": "Et montre-moi les subtilités des secrets de Ta science profitable et des lumières."
+        },
+        "appNumber": 182
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "وَهَبْ لِىَ الْيَقِينَ وَالْعِرْفَانَا ۞ وَالذَّوْقَ وَالْغُفْرَانَ وَالرِّضْوَانَا",
+        "translations": {
+          "it.karamati": "E donami la certezza e la conoscenza, il gusto (spirituale), il perdono e il compiacimento,",
+          "en.karamati": "And grant me certainty and gnosis, (spiritual) taste, forgiveness and good pleasure,",
+          "fr.karamati": "Et accorde-moi la certitude et la connaissance, le goût (spirituel), le pardon et l'agrément,"
+        },
+        "appNumber": 183
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "وَالْإِسْتِقَامَةَ عَلَى الْعِبَادَهْ ۞ وَالْكَشْفَ وَالْعِيَانَ وَالسَّعَادَهْ",
+        "translations": {
+          "it.karamati": "e la rettitudine costante nell'adorazione, lo svelamento, la visione diretta e la felicità.",
+          "en.karamati": "and steadfastness in worship, unveiling, direct vision and felicity.",
+          "fr.karamati": "et la droiture constante dans l'adoration, le dévoilement, la vision directe et la félicité."
+        },
+        "appNumber": 184
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَأَصْلِحَنْ أُمَّةَ خَيْرِ مُرْسَلِ ۞ وَفَرِّجَنْ عَنْهُمْ جَمِيعًا يَاعَلِى",
+        "translations": {
+          "it.karamati": "E rendi retta la comunità del migliore degli Inviati, e dissipa l'angoscia da tutti loro, o Altissimo (Al-ʿAlī).",
+          "en.karamati": "And set right the community of the best of Messengers, and relieve them all, O Most High (Al-ʿAlī).",
+          "fr.karamati": "Et amende la communauté du meilleur des Envoyés, et dissipe l'angoisse de tous, ô Très-Haut (Al-ʿAlī)."
+        },
+        "appNumber": 185
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "وَارْحَمْ وَبَارِكْ ثُمَّ عَافِ كُلَّهُمْ ۞ وَنَجِّهِمْ وَالْطُفْ بِهِمْ وَاغْفِرْ لَهُمْ",
+        "translations": {
+          "it.karamati": "E abbi misericordia, benedici, poi dona salute a tutti loro, e salvali, sii benevolo con loro e perdona loro.",
+          "en.karamati": "And have mercy, bless, then grant well-being to them all, and save them, be gentle with them and forgive them.",
+          "fr.karamati": "Et fais miséricorde, bénis, puis accorde la santé à eux tous, et sauve-les, sois bienveillant envers eux et pardonne-leur."
+        },
+        "appNumber": 186
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "وَاجْعَلْنِ يَارَبِّ مِنَ اعْظَمِ الْعِبَادْ ۞ عِنْدَكَ حَظًّا وَنَصِيبًا فِى تَمَادْ",
+        "translations": {
+          "it.karamati": "E rendimi, o Signore, tra i più grandi dei servitori presso di Te, in fortuna e in parte, in perpetuità.",
+          "en.karamati": "And make me, O Lord, among the greatest of servants with You, in fortune and share, in perpetuity.",
+          "fr.karamati": "Et fais de moi, ô Seigneur, l'un des plus grands serviteurs auprès de Toi, en fortune et en part, à perpétuité."
+        },
+        "appNumber": 187
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "وَاجْعَلْ جَمِيعَ حَرَكَاتِىَ لَكَا ۞ وَسَكَنَاتِى طَاعَةً بِفَضْلِكَا",
+        "translations": {
+          "it.karamati": "E rendi tutti i miei movimenti per Te, e le mie quiete obbedienza, per la Tua grazia.",
+          "en.karamati": "And make all my movements for You, and my stillnesses obedience, by Your grace.",
+          "fr.karamati": "Et fais que tous mes mouvements soient pour Toi, et mes repos obéissance, par Ta grâce."
+        },
+        "appNumber": 188
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "وَاجْعَلْ حَيَاتِى وَمَمَاتِى فِى السُّنَنْ ۞ وَالْفَرْضِ وَالْمَنْدُوبِ سِرًّا وَعَلَنْ",
+        "translations": {
+          "it.karamati": "E rendi la mia vita e la mia morte nelle tradizioni, nell'obbligo e nel raccomandato, in segreto e in palese.",
+          "en.karamati": "And make my life and my death within the traditions, the obligatory and the recommended, in secret and in public.",
+          "fr.karamati": "Et fais que ma vie et ma mort soient dans les traditions, l'obligatoire et le recommandé, en secret et en public."
+        },
+        "appNumber": 189
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "وَجْعَلْ مَمَاتِى رَاحَةً لِى مِنْ نَّصَبْ ۞ وَمِنْ جَوًى وَمِنْ غَرَامٍ وَوَصَبْ",
+        "translations": {
+          "it.karamati": "E rendi la mia morte un riposo per me dalla fatica, dallo struggimento, dalla pena d'amore e dal patimento.",
+          "en.karamati": "And make my death a rest for me from toil, from heartache, from love's anguish and from suffering.",
+          "fr.karamati": "Et fais de ma mort un repos pour moi de la fatigue, de la langueur, de la passion et de la souffrance."
+        },
+        "appNumber": 190
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "وَعَمَلِى اجْعَلْ كُلَّهُ مَقْبُولَا ۞ حَتَّى أَكُونَ مُقْتَدًى مَّقْبُولَا",
+        "translations": {
+          "it.karamati": "E rendi la mia opera tutta accetta, finché io sia un esempio accetto.",
+          "en.karamati": "And make all my deeds accepted, until I become an accepted example.",
+          "fr.karamati": "Et rends mon œuvre tout entière agréée, jusqu'à ce que je sois un modèle agréé."
+        },
+        "appNumber": 191
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "وَمَسْكَنِى اجْعَلْ مَسْكَنًا مُّبَارَكَا ۞ وَصَيِّرَنِى سَالِكًا وَنَاسِكَا",
+        "translations": {
+          "it.karamati": "E rendi la mia dimora una dimora benedetta, e rendimi viandante e devoto.",
+          "en.karamati": "And make my dwelling a blessed dwelling, and make me a wayfarer and a devotee.",
+          "fr.karamati": "Et fais de ma demeure une demeure bénie, et fais de moi un cheminant et un dévot."
+        },
+        "appNumber": 192
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "أَدْ عُوكَ أَنْ تَجْعَلَهُ دَارَ التُّقَى ۞ وَالْعِلْمِ وَالدِّينِ وَدَارَ الْإِرْتِقَآ",
+        "translations": {
+          "it.karamati": "Ti invoco perché Tu la renda dimora del timore di Allah, della scienza e della religione, e dimora dell'elevazione,",
+          "en.karamati": "I call on You to make it an abode of the fear of Allah, of knowledge and religion, and an abode of ascent,",
+          "fr.karamati": "Je T'invoque pour que Tu en fasses une demeure de la crainte d'Allah, de la science et de la religion, et une demeure de l'élévation,"
+        },
+        "appNumber": 193
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "وَجَنَّةً لِّسَالِكٍ مُّرِيدِ ۞ وَجُنَّةً عَنْ هَاتِكٍ مَّرِيدِ",
+        "translations": {
+          "it.karamati": "un giardino (janna) per il viandante discepolo (murīd) e uno scudo (junna) contro chi squarcia (il velo), il ribelle (marīd),",
+          "en.karamati": "a garden (janna) for the aspiring wayfarer (murīd) and a shield (junna) against the rending rebel (marīd),",
+          "fr.karamati": "un jardin (janna) pour le cheminant disciple (murīd) et un bouclier (junna) contre qui déchire (le voile), le rebelle (marīd),"
+        },
+        "appNumber": 194
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "وَمَنْفَعًا لِّكُلِّ هَادٍ مُّسْلِمِ ۞ وَمَدْفَعًا عَنْ كُلِّ عَادٍ مُّجْرِمِ",
+        "translations": {
+          "it.karamati": "un luogo di giovamento per ogni guida musulmana, e un luogo di difesa contro ogni aggressore criminale,",
+          "en.karamati": "a place of benefit for every Muslim guide, and a place of defence against every criminal aggressor,",
+          "fr.karamati": "un lieu de profit pour tout guide musulman, et un lieu de défense contre tout agresseur criminel,"
+        },
+        "appNumber": 195
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "وَحَجَّةً لِّمَنْ بِضُعْفٍ ارْتَدَى ۞ وَجُنَّةً عَلَى مُجَالِفٍ غَدَى",
+        "translations": {
+          "it.karamati": "un pellegrinaggio per chi si è rivestito di debolezza, e uno schermo contro l'oppositore, domani,",
+          "en.karamati": "a pilgrimage for whoever is clothed in weakness, and a screen against the opponent, tomorrow,",
+          "fr.karamati": "un pèlerinage pour qui s'est revêtu de faiblesse, et un écran contre l'opposant, demain,"
+        },
+        "appNumber": 196
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "وَمَطْلَبًا لِّطَاعَةِ الرَّحِيمِ ۞ وَمَهْرَبًا مِّنْ طَاعَةِ الرَّجِيمِ",
+        "translations": {
+          "it.karamati": "un luogo di ricerca dell'obbedienza al Misericordioso (Ar-Raḥīm), e un luogo di fuga dall'obbedienza al lapidato (ar-Rajīm),",
+          "en.karamati": "a place of seeking obedience to the Merciful (Ar-Raḥīm), and a place of flight from obedience to the accursed (ar-Rajīm),",
+          "fr.karamati": "un lieu de quête de l'obéissance au Très-Miséricordieux (Ar-Raḥīm), et un lieu de fuite de l'obéissance au lapidé (ar-Rajīm),"
+        },
+        "appNumber": 197
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "وَمَسْلَكًا لِّسُبُلِ اتِّبَاعِ ۞ وَمَتْرَكًا لِّسُبُلِ ابْتِدَاعِ",
+        "translations": {
+          "it.karamati": "un sentiero per le vie dell'adesione (alla Sunna), e un luogo d'abbandono delle vie dell'innovazione,",
+          "en.karamati": "a path for the ways of following (the Sunna), and a place of leaving the ways of innovation,",
+          "fr.karamati": "un sentier pour les voies de l'adhésion (à la Sunna), et un lieu d'abandon des voies de l'innovation,"
+        },
+        "appNumber": 198
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "وَمَسْكَنًا لِّجَلْبِ كُلِّ خَيْرِ ۞ وَمَسْكَنًا لِّدَفْعِ كُلِّ ضَيْرِ",
+        "translations": {
+          "it.karamati": "una dimora per attirare ogni bene, e una dimora per respingere ogni nocumento,",
+          "en.karamati": "a dwelling to draw every good, and a dwelling to repel every harm,",
+          "fr.karamati": "une demeure pour attirer tout bien, et une demeure pour repousser tout dommage,"
+        },
+        "appNumber": 199
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "وَسَبَبًا لِّفَتْحِ خَيْرِالْغَيْبِ ۞ وَسَبَبًا لِّدَفْعِ ضَيْرِالْعَيْبِ",
+        "translations": {
+          "it.karamati": "una causa dell'apertura del bene del Mistero, e una causa del respingere il nocumento del difetto.",
+          "en.karamati": "a cause for the opening of the good of the Unseen, and a cause for repelling the harm of defect.",
+          "fr.karamati": "une cause de l'ouverture du bien du Mystère, et une cause du rejet du dommage du défaut."
+        },
+        "appNumber": 200
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "وَأَرْضَهُ اجْعَلْ أَرْضَ رِزْقٍ وَأَمَانْ ۞ وَرَحْمَةٍ وَسَعَةٍ كُلَّ أَوَانْ",
+        "translations": {
+          "it.karamati": "E rendi la sua terra terra di sostentamento e di sicurezza, di misericordia e di ampiezza, in ogni tempo.",
+          "en.karamati": "And make its land a land of provision and security, of mercy and plenty, at every time.",
+          "fr.karamati": "Et fais de sa terre une terre de subsistance et de sécurité, de miséricorde et d'ampleur, en tout temps."
+        },
+        "appNumber": 201
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "يَادَفِعَ الْأَسْوَآءِ وَالْأَكْدَارِ ۞ بِالْمُصْطَفَى ادْفَعْ كُلَّ سُو عَنْ دَارِى",
+        "translations": {
+          "it.karamati": "O Tu che respingi i mali e i torbidi, per mezzo del Prescelto respingi ogni male dalla mia casa.",
+          "en.karamati": "O Repeller of evils and troubles, through the Chosen repel every evil from my house.",
+          "fr.karamati": "Ô Toi qui repousses les maux et les troubles, par l'Élu repousse tout mal de ma maison."
+        },
+        "appNumber": 202
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "وَاغْفِرْ لِمَنْ بَنَوْاْ بَنَآءِهَا الرَّفِيعْ ۞ وَاغْفِرْ لِمَنْ أَمْرَاهُمْ بِهِ جَمِيعْ",
+        "translations": {
+          "it.karamati": "E perdona coloro che hanno costruito il suo edificio elevato, e perdona colui che li ha comandati in esso, tutti.",
+          "en.karamati": "And forgive those who built its lofty building, and forgive him who commanded them in it, all of them.",
+          "fr.karamati": "Et pardonne à ceux qui ont bâti son édifice élevé, et pardonne à celui qui le leur a ordonné, à tous."
+        },
+        "appNumber": 203
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "وَلِجَمِيعِ مَنْ أَعَانَهُمْ عَلَى ۞ بِنَآءِهَا الَّذِى بِفَضْلِكَ اعْتَلَى",
+        "translations": {
+          "it.karamati": "E (perdona) tutti coloro che li hanno aiutati nella costruzione di essa, che per la Tua grazia si è elevata.",
+          "en.karamati": "And (forgive) all who helped them in its building, which by Your grace has risen high.",
+          "fr.karamati": "Et (pardonne) à tous ceux qui les ont aidés à sa construction, qui par Ta grâce s'est élevée."
+        },
+        "appNumber": 204
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "وَاغْفِرْ لِكُلِّ مَنْ بِهَا قَدْ سَكَنَا ۞ وَلِلَّذِى لَهَا لِخَيْرٍ رَّكِنَا",
+        "translations": {
+          "it.karamati": "E perdona chiunque vi abbia dimorato, e chi vi si è appoggiato per il bene.",
+          "en.karamati": "And forgive everyone who has dwelt in it, and whoever has leaned on it for good.",
+          "fr.karamati": "Et pardonne à quiconque y a demeuré, et à qui s'y est appuyé pour le bien."
+        },
+        "appNumber": 205
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "وَلْتَجْعَلَنْهَا ذَاتَ الْإِمْتِلَآءِ ۞ نُورًا وَرَحْمَةً بِلَا انْتِهَآءِ",
+        "translations": {
+          "it.karamati": "E rendila colma di luce e di misericordia, senza fine.",
+          "en.karamati": "And make it full of light and mercy, without end.",
+          "fr.karamati": "Et rends-la pleine de lumière et de miséricorde, sans fin."
+        },
+        "appNumber": 206
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "وَرِزْقَهَا اجْعَلْ أَطْيَبَ الْحَلَالِ ۞ فِى الْعُسْرِ وَالْيُسْرِ عَلَى تَوَالِ",
+        "translations": {
+          "it.karamati": "E rendi il suo sostentamento il più puro del lecito, nella difficoltà e nella facilità, senza interruzione.",
+          "en.karamati": "And make its provision the purest of the lawful, in hardship and in ease, continuously.",
+          "fr.karamati": "Et rends sa subsistance la plus pure du licite, dans la difficulté et la facilité, sans interruption."
+        },
+        "appNumber": 207
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "وَلِىَ جُدْ فِيهِ بِعِلْمٍ يَنْفَعُ ۞ وَرِفْعَةِ الصِيتِ بِقَلْبٍ يَخْشَعُ",
+        "translations": {
+          "it.karamati": "Ed elargiscimi in essa una scienza che giovi e l'elevazione della fama, con un cuore umile.",
+          "en.karamati": "And bestow on me in it a knowledge that benefits and elevation of renown, with a humble heart.",
+          "fr.karamati": "Et gratifie-moi en elle d'une science qui profite et de l'élévation de la renommée, avec un cœur humble."
+        },
+        "appNumber": 208
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "وَلِىَ هَبْ فِيهِ دُعَآءً يُسْمَعُ ۞ مَعَ الْقَنَاعَةِ بِنَفْسٍ تَشْبَعُ",
+        "translations": {
+          "it.karamati": "E donami in essa un'invocazione che sia ascoltata, con la contentezza di un'anima che si sazia,",
+          "en.karamati": "And grant me in it a supplication that is heard, with the contentment of a soul that is satisfied,",
+          "fr.karamati": "Et accorde-moi en elle une invocation qui soit entendue, avec le contentement d'une âme qui se rassasie,"
+        },
+        "appNumber": 209
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "وَزَوْجَةً صَالِحَةً تُعِينُ ۞ عَلَى التُّقَى وَالْبِرِّ يَامُعِينُ",
+        "translations": {
+          "it.karamati": "e una sposa virtuosa che (mi) aiuti verso il timore di Allah e la pietà, o Ausiliatore.",
+          "en.karamati": "and a righteous wife who helps (me) toward the fear of Allah and piety, O Helper.",
+          "fr.karamati": "et une épouse vertueuse qui (m')aide vers la crainte d'Allah et la piété, ô Secourable."
+        },
+        "appNumber": 210
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "وَأَسْبِلَنْ كَنَفَ سِتْرِكَ أَبَدْ ۞ عَلَىَّ مَعْ جُمْلَةِ أَهْلِى يَاصَمَدْ",
+        "translations": {
+          "it.karamati": "E distendi per sempre l'ala del Tuo velo su di me, insieme a tutta la mia famiglia, o Sostegno Eterno.",
+          "en.karamati": "And spread forever the wing of Your veil over me, with all my family, O Eternal Refuge.",
+          "fr.karamati": "Et déploie à jamais l'aile de Ton voile sur moi, avec toute ma famille, ô Soutien Éternel."
+        },
+        "appNumber": 211
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "وَاضْرِبْ سُرَادِ قَاتِ حِفْظِكَ عَلَى ۞ دَارِى وَمَا فِيهَا جَمِيعًا مُّسْجَلَا",
+        "translations": {
+          "it.karamati": "E innalza i padiglioni della Tua custodia sulla mia casa e su tutto ciò che vi è, interamente.",
+          "en.karamati": "And pitch the pavilions of Your guarding over my house and all that is in it, entirely.",
+          "fr.karamati": "Et dresse les pavillons de Ta garde sur ma maison et sur tout ce qu'elle contient, entièrement."
+        },
+        "appNumber": 212
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "وَلْتُدْ خِلِ الْجَمِيعَ فِى مَكْنُونِ ۞ غَيْبِكَ وَاحْجُبْنَا عَنِ الْفُتُونِ",
+        "translations": {
+          "it.karamati": "E fa' entrare tutti nel recondito del Tuo Mistero, e velaci dalle tentazioni,",
+          "en.karamati": "And bring all into the hidden depth of Your Unseen, and veil us from temptations,",
+          "fr.karamati": "Et fais entrer tous dans le secret de Ton Mystère, et voile-nous des tentations,"
+        },
+        "appNumber": 213
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "وَعَنْ شِرَارِالْخَلْقِ وَالرَّزَايَا ۞ وَالْجِنِّ وَالشَّيْطَانِ وَالْبَلَايَا",
+        "translations": {
+          "it.karamati": "dai malvagi delle creature e dalle calamità, dai jinn, da Satana e dalle prove.",
+          "en.karamati": "from the wicked of creation and from calamities, from the jinn, Satan and trials.",
+          "fr.karamati": "des méchants parmi les créatures et des calamités, des djinns, de Satan et des épreuves."
+        },
+        "appNumber": 214
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "وَعَمِّرَنِّى بِالتُّقَى وَالنُّورِ ۞ وَلزُّهْدِ وَالْوَرَعِ فِى الدُّهُورِ",
+        "translations": {
+          "it.karamati": "E dammi lunga vita con il timore di Allah e la luce, la rinuncia e lo scrupolo, nelle epoche.",
+          "en.karamati": "And grant me long life with the fear of Allah and light, renunciation and scruple, through the ages.",
+          "fr.karamati": "Et donne-moi longue vie avec la crainte d'Allah et la lumière, le renoncement et le scrupule, au fil des âges."
+        },
+        "appNumber": 215
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "وَمَسْكَنِى اجْعَلْ مَسْكَنَ الْغُفْرَانِ ۞ وَالرُّشْدِ وَالْعِرْفَانِ وَالرِّضْوَانِ",
+        "translations": {
+          "it.karamati": "E rendi la mia dimora dimora del perdono, della retta direzione, della conoscenza e del compiacimento,",
+          "en.karamati": "And make my dwelling a dwelling of forgiveness, right direction, gnosis and good pleasure,",
+          "fr.karamati": "Et fais de ma demeure une demeure du pardon, de la droiture, de la connaissance et de l'agrément,"
+        },
+        "appNumber": 216
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "وَدَارَ إِخْلَاصٍ وَصِدْقٍ وَوَرَعْ ۞ وَدَارَ سُنَّةٍ وَمَنْجًى مِّنْ بَدَعْ",
+        "translations": {
+          "it.karamati": "dimora di sincerità, di veridicità e di scrupolo, dimora della Tradizione e luogo di salvezza dalle innovazioni.",
+          "en.karamati": "an abode of sincerity, truthfulness and scruple, an abode of the Sunna and a refuge from innovations.",
+          "fr.karamati": "demeure de sincérité, de véracité et de scrupule, demeure de la Tradition et lieu de salut des innovations."
+        },
+        "appNumber": 217
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "وَاجْعَلْهُ دَأْبًا مَّسْكَنَ التَّعَلُّمِ ۞ وَمَوْضِعَ الْفِكْرَةِ وَالتَّفَهُّمِ",
+        "translations": {
+          "it.karamati": "E rendila sempre dimora dell'apprendimento, luogo della meditazione e della comprensione,",
+          "en.karamati": "And make it always a dwelling of learning, a place of reflection and understanding,",
+          "fr.karamati": "Et fais-en toujours une demeure de l'apprentissage, lieu de la méditation et de la compréhension,"
+        },
+        "appNumber": 218
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "وَمَسْكَنَ الْإِرْشَادِ وَالتَّعْلِيمِ ۞ وَمَسْكَنَ التَّصْوِيبِ وَالتَّفْهِيمِ",
+        "translations": {
+          "it.karamati": "dimora della guida spirituale e dell'insegnamento, dimora della correzione e del far comprendere.",
+          "en.karamati": "a dwelling of spiritual guidance and teaching, a dwelling of correction and of imparting understanding.",
+          "fr.karamati": "demeure de la guidance spirituelle et de l'enseignement, demeure de la correction et de l'explication."
+        },
+        "appNumber": 219
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "text": "وَاجْعَلْهُ مَسْكَنَ خُرُوجٍ مِّنْ ظُلَمْ ۞ لِلنُّورِ وَاكْفِ عَنْهُ كُلَّ مَنْ ظَلَمْ",
+        "translations": {
+          "it.karamati": "E rendila dimora di uscita dalle tenebre verso la luce, e allontana da essa chiunque abbia commesso ingiustizia.",
+          "en.karamati": "And make it a dwelling of going out from darknesses into light, and keep from it whoever has done wrong.",
+          "fr.karamati": "Et fais-en une demeure de sortie des ténèbres vers la lumière, et écarte d'elle quiconque a commis l'injustice."
+        },
+        "appNumber": 220
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "text": "وَاجْعَلْهُ دَأْبًا مَّسْكَنَ اتِّبَاعِ ۞ لِسُنَّةٍ لَّا مَسْكَنَ ابْتِدَاعِ",
+        "translations": {
+          "it.karamati": "E rendila sempre dimora dell'adesione alla Tradizione, non dimora dell'innovazione.",
+          "en.karamati": "And make it always a dwelling of following the Sunna, not a dwelling of innovation.",
+          "fr.karamati": "Et fais-en toujours une demeure de l'adhésion à la Tradition, non une demeure de l'innovation."
+        },
+        "appNumber": 221
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "text": "وَاجْعَلْهُ يَارَبِّ أَحَبَّ مَسْكَنِ ۞ فِى أَرْضِنَا لَكَ وَلِلْمَاحِى السَّنِى",
+        "translations": {
+          "it.karamati": "E rendila, o Signore, la dimora più amata, nella nostra terra, da Te e da al-Māḥī, lo splendente.",
+          "en.karamati": "And make it, O Lord, the most beloved dwelling in our land, to You and to al-Māḥī, the radiant.",
+          "fr.karamati": "Et fais-en, ô Seigneur, la demeure la plus aimée, dans notre terre, de Toi et d'al-Māḥī, le resplendissant."
+        },
+        "appNumber": 222
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "text": "وَلْتَحْمِ دَارِىَ عَنِ الْفُجُورِ ۞ وَالْفِسْقِ وَالْبَاطِلِ فِى الدُّهُورِ",
+        "translations": {
+          "it.karamati": "E proteggi la mia casa dalla depravazione, dalla perversità e dal vano, nelle epoche.",
+          "en.karamati": "And protect my house from depravity, wickedness and falsehood, through the ages.",
+          "fr.karamati": "Et protège ma maison de la dépravation, de la perversité et du vain, au fil des âges."
+        },
+        "appNumber": 223
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "text": "وَانْفِ الْبَآءَ وَالْبَلَايَا كُلَّهَا ۞ عَنْهَا وَطَيِّبْ شُرْبَهَا وَأَكْلَهَا",
+        "translations": {
+          "it.karamati": "E allontana da essa l'epidemia e le prove tutte, e rendi buono il suo bere e il suo mangiare.",
+          "en.karamati": "And remove pestilence and all trials from it, and make its drink and its food wholesome.",
+          "fr.karamati": "Et écarte d'elle l'épidémie et toutes les épreuves, et rends bons son boire et son manger."
+        },
+        "appNumber": 224
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "text": "وَاجْعَلْ حَرِيمَنَا حَرِيمًا أَمِنَا ۞ وَكُنْ بِحِفْظِهِ كَفِلًا ضَامِنَا",
+        "translations": {
+          "it.karamati": "E rendi il nostro recinto sacro un recinto sicuro, e sii della sua custodia garante e mallevadore.",
+          "en.karamati": "And make our sacred precinct a safe precinct, and be the guarantor and surety of its keeping.",
+          "fr.karamati": "Et fais de notre enceinte sacrée une enceinte sûre, et sois de sa garde le garant et le répondant."
+        },
+        "appNumber": 225
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "text": "وَاجْبُ لَهَا الْخَيْرَ مِنَ الْجِهَاتِ ۞ الشِّتِّ وَاكْفِهَا عِنِ الْئَافَاتِ",
+        "translations": {
+          "it.karamati": "E raccogli per essa il bene dalle sei direzioni, e preservala dalle calamità.",
+          "en.karamati": "And gather good for it from the six directions, and spare it calamities.",
+          "fr.karamati": "Et rassemble pour elle le bien des six directions, et préserve-la des calamités."
+        },
+        "appNumber": 226
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "text": "حُطْنِى الشَّيْطَانِ يَاجَلِيلُ ۞ وَمَسْكَنِى وَكُلَّ مَآ أَعُولُ",
+        "translations": {
+          "it.karamati": "Custodiscimi da Satana, o Maestoso, e (custodisci) la mia dimora e tutti coloro che mantengo.",
+          "en.karamati": "Guard me from Satan, O Majestic, and my dwelling and all those I provide for.",
+          "fr.karamati": "Protège-moi de Satan, ô Majestueux, ainsi que ma demeure et tous ceux que j'entretiens."
+        },
+        "appNumber": 227
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "text": "يَاللَّهُ يَاحَفِيظُ يَاذَا الْأَمْرِ ۞ يَافَآئِقِ الْخَلْقِ مَعًا بِالْقَهْرِ",
+        "translations": {
+          "it.karamati": "O Allah, o Custode, o Dotato del Comando, o Tu che sovrasti tutte insieme le creature con il dominio:",
+          "en.karamati": "O Allah, O Preserver, O Possessor of Command, O You Who surpass all creation together in dominion:",
+          "fr.karamati": "Ô Allah, ô Gardien, ô Détenteur du Commandement, ô Toi qui surpasses toutes les créatures ensemble par la domination :"
+        },
+        "appNumber": 228
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "text": "نَفْسِى وَدِينِى ثُمَّ أَهْلِ وَالْوَلَدْ ۞ وَمَسْكَنِى لَكَ وَدِيعَةٌ أَبَدْ",
+        "translations": {
+          "it.karamati": "la mia anima e la mia religione, poi la mia famiglia e i figli, e la mia dimora sono presso di Te un deposito per sempre;",
+          "en.karamati": "my soul and my religion, then my family and children, and my dwelling are a trust with You forever;",
+          "fr.karamati": "mon âme et ma religion, puis ma famille et les enfants, et ma demeure sont auprès de Toi un dépôt à jamais ;"
+        },
+        "appNumber": 229
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "text": "وَهَاكَذَا دُنْيَاىَ مَعْ أُخْرَايَا ۞ فَفِيهَمَا عَنِّى اضْرِفِ الرَّزَايَا",
+        "translations": {
+          "it.karamati": "e così la mia vita terrena con la mia Altra vita: in entrambe distogli da me le calamità.",
+          "en.karamati": "and so too my worldly life with my Hereafter: in both turn calamities away from me.",
+          "fr.karamati": "et de même ma vie d'ici-bas avec mon Au-delà : dans les deux, détourne de moi les calamités."
+        },
+        "appNumber": 230
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "text": "وَاضْفِ عَذَابَ النَّارِ عَنْ جُمْلَةِ مَنْ ۞ بِىَ تَعَلَّقُواْ مِنَ ابْنَآءِ الزَّمَنْ",
+        "translations": {
+          "it.karamati": "E distogli il castigo del Fuoco dall'insieme di coloro che si sono legati a me tra i figli di questo tempo,",
+          "en.karamati": "And turn the punishment of the Fire away from all those who have attached themselves to me among the children of this age,",
+          "fr.karamati": "Et détourne le châtiment du Feu de l'ensemble de ceux qui se sont attachés à moi parmi les enfants de ce temps,"
+        },
+        "appNumber": 231
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "text": "وَجُمْلَةِ الْإِخْوَانِ مِنْ أَقَارِبِ ۞ فِى الطِّينِ أَوْ فِى الدِّينِ وَالْأَجَانِبِ",
+        "translations": {
+          "it.karamati": "e dall'insieme dei fratelli, siano essi parenti nell'argilla (nel sangue) o nella religione, ed estranei.",
+          "en.karamati": "and from all the brothers, whether kin in clay (blood) or in religion, and strangers.",
+          "fr.karamati": "et de l'ensemble des frères, qu'ils soient parents par l'argile (le sang) ou par la religion, et étrangers."
+        },
+        "appNumber": 232
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "text": "فَلِىَ كُنْ حِصْنًا وَدَأْبًا يَاصَمَدْ ۞ تَوَلِّنِى وَلَا تَكِلْنِى لِأَحَدْ",
+        "translations": {
+          "it.karamati": "Sii dunque per me una fortezza e sempre, o Sostegno Eterno, prenditi cura di me e non affidarmi a nessuno.",
+          "en.karamati": "So be a fortress for me and always, O Eternal Refuge, take charge of me and entrust me to no one.",
+          "fr.karamati": "Sois donc pour moi une forteresse et toujours, ô Soutien Éternel, prends soin de moi et ne me confie à personne."
+        },
+        "appNumber": 233
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "text": "وَارْحَمْ جَمِيعَ الْمُسْلِمِينَ أَبَدَا ۞ وَصَلِّيَنْ وَّسَلِمَنَّ سَرْمَدَا",
+        "translations": {
+          "it.karamati": "E abbi misericordia di tutti i musulmani per sempre, e benedici e dona pace perpetuamente",
+          "en.karamati": "And have mercy on all the Muslims forever, and bless and grant peace perpetually",
+          "fr.karamati": "Et fais miséricorde à tous les musulmans à jamais, et bénis et accorde la paix perpétuellement"
+        },
+        "appNumber": 234
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "text": "عَلَى مُحَمَّدٍ وَسِيلَتِى لَكَا ۞ وَلِىَ هَبْ حُسْنَ الْخِتَامِ عِنْدَكَا",
+        "translations": {
+          "it.karamati": "su Muḥammad, il mio mezzo d'accesso a Te, e donami la buona fine presso di Te.",
+          "en.karamati": "upon Muḥammad, my means of approach to You, and grant me a good ending with You.",
+          "fr.karamati": "sur Muḥammad, mon moyen d'accès vers Toi, et accorde-moi la bonne fin auprès de Toi."
+        },
+        "appNumber": 235
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "text": "وَلْتُصْرِفِ الصَّلَاةَ لِلْصَحَابَهْ ۞ عَنْ ءَالِهِ وَهَبْ لِىَ الْإِجَابَهْ",
+        "translations": {
+          "it.karamati": "E rivolgi la benedizione ai Compagni, oltre alla sua Famiglia, e donami l'esaudimento.",
+          "en.karamati": "And extend the blessing to the Companions, besides his Family, and grant me the answering.",
+          "fr.karamati": "Et adresse la bénédiction aux Compagnons, outre sa Famille, et accorde-moi l'exaucement."
+        },
+        "appNumber": 236
+      }
     ]
   }
 }

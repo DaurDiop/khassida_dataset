@@ -1,0 +1,43 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 94,
+    "name": "Maramiya",
+    "transliterationName": "Maramiya",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Il mio desiderio presso Allah lo possiedo perpetuamente, per il prestigio di colui che Egli ha elevato: intendo Muḥammad."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Le mie fortezze contro i nemici, il Fuoco e la prova sono la mia lode di colui che ha allontanato il danno, Aḥmad."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Il mio inchiostro e le mie penne sono per il mio Signore e per il Profeta: con esse gareggio con coloro che hanno reso sincero lo sforzo, lodatori."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Ogni qualvolta ritorno, da servitore, alla lode e alla gratitudine, Egli elargisce i desideri; e il ritorno non cessa d'essere più lodevole."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "La mia invocazione esaudisci, Signore, per mezzo del Prescelto, perpetuamente; e da me accetta, Signore, il mio sforzo, (rendendolo) più lodevole."
+      }
+    ]
+  }
+}

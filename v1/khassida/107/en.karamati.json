@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "name": "Mim Ra Shin",
+    "transliterationName": "Mim Ra Shin",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "My ink, my pens, my heart and my body are for an Enricher, the Originator (Al-Badīʿ), Who subjects my times to me."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "My gain is a Book that has come to us from Him, firmly established; it came from a Merciful One Who never ceases (to dispense) the good of the All-Merciful (Ar-Raḥmān)."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "My gratitude, in the two Abodes, is to Allah alone, for him through whom He preserved my heart and my body."
+      }
+    ]
+  }
+}

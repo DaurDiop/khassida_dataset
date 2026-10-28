@@ -1,0 +1,433 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 60,
+    "name": "Jalibatul Maraghibi 8",
+    "transliterationName": "Jalibatul Maraghibi 8",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 354,
+        "text": "La benedizione di un Permanente che è stato per me con ciò che è puro, sul padre di aṭ-Ṭāhir, luce delle creature,"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 355,
+        "text": "sulla sua Famiglia e i suoi Compagni, senza fine, con un saluto di pace che attiri ciò che si desidera."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 356,
+        "text": "I due saluti più puri del Signore delle creature, il più giovevole, sul Profeta dotato di altezze, la cui intercessione è accolta,"
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 357,
+        "text": "sulla sua Famiglia e i suoi Compagni, così come il Signore della Bellezza per mezzo di lui ha cancellato il mio danno, ed esso è scomparso."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 358,
+        "text": "Benedici e dona pace, o Eccelso (Ar-Rafīʿ), su colui il cui nome è Shafīʿ (l'Intercessore),"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 359,
+        "text": "la Famiglia e i Compagni; e rendi tutto me stesso adorazione per Te, senza stanchezza."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 360,
+        "text": "E benedici e dona pace, o Garante della sicurezza (Al-Muʾmin), su colui il cui nome è Muhaymin (il Custode vigilante),"
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 361,
+        "text": "la sua Famiglia e i suoi Compagni, i notabili, o Tu che mi hai protetto dal danno dei tempi."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 362,
+        "text": "Benedici il Ṣāliḥ (il Pio), che è il Muṣliḥ (il Riformatore), il Ṣādiq (il Veritiero), la Verità, di una benedizione che rende buoni,"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 363,
+        "text": "con il saluto di pace, e su tutta la Famiglia e i suoi Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 364,
+        "text": "O Tu che mi conduci (un dono) che fa arrossire l'elemosina, benedici e dona pace sul Muṣaddaq (il Creduto),"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 365,
+        "text": "la sua Famiglia e i suoi Compagni, o Tu che trattieni: hai trattenuto le lingue dei miei nemici e le (loro) mani."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 366,
+        "text": "Benedici e dona pace, o Dio dei mondi, sul Profeta, signore di tutti gli inviati,"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 367,
+        "text": "la Famiglia e i Compagni; e donami la gratitudine, o Tu che mi hai preservato dai nemici e dall'astuzia."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 368,
+        "text": "O Tu che Ti vanti di me davanti ai nobili che ascendono, benedici il Māḥī (Colui che cancella), imām dei timorati,"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 369,
+        "text": "la sua Famiglia e i suoi Compagni, e dona pace; e presso di Te rendimi la gioia dei dotti."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 370,
+        "text": "O Permanente che mi conduci l'abbellimento, benedici con il saluto di pace Yāsīn,"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 371,
+        "text": "la sua Famiglia e i suoi Compagni; e conducimi le meraviglie del Permanente, il compiacimento, ed elargiscimi."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 372,
+        "text": "Benedici colui che mi ha condotto i familiari, la guida di coloro che hanno fronte e membra luminose (per le abluzioni),"
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 373,
+        "text": "e dagli pace con la Famiglia e con i suoi Compagni, o Tu che custodisci i miei lati."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 374,
+        "text": "Benedici e dona pace, o Compassionevole (Ar-Raḥmān), sul Tuo amico intimo e su coloro che non hanno mentito,"
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 375,
+        "text": "della sua Famiglia e dei suoi Compagni; e ricordami presso i nobili, e per mezzo di loro rallegrami."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 376,
+        "text": "La benedizione del Signore del Trono immenso, il Pio (Al-Barr), su un intercessore pio tra le creature,"
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 377,
+        "text": "con il Suo saluto di pace, e sulla sua Famiglia insieme ai suoi Compagni, così come egli ha riunito i privilegi."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 378,
+        "text": "I due saluti più puri di Colui che colma di doni con la pietà, sul Profeta, il migliore delle creature, il pio,"
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 379,
+        "text": "sulla sua Famiglia e i suoi Compagni, così come (Egli) ha portato via il mio danno e mi ha donato la mia gioia."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 380,
+        "text": "Benedici il Wajīh (l'Illustre) e il Naṣīḥ (il Consigliere sincero), e dona pace, o Tu che fai discendere il (Libro) eloquente,"
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 381,
+        "text": "la sua Famiglia e i suoi Compagni; e donami di essere il diletto dei pii che furono prima di me."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 382,
+        "text": "Benedici il Nāṣiḥ (il Consigliere) e il Wakīl (il Garante), e dona pace, o Tu che concedi l'affidarsi."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 383,
+        "text": "la sua Famiglia e i suoi Compagni; e custodisci per mezzo mio un Ricordo saggio (il Corano) da parte Tua, divenuto il mio diletto."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 384,
+        "text": "Benedici colui il cui nome è Kafīl (il Garante) e Mutawakkil (Colui che si affida), al quale spetta il dono supplementare,"
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 385,
+        "text": "la Famiglia e i Compagni, con il saluto di pace; e sii per me con la Tua religione, l'Islam."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 386,
+        "text": "Benedici e dona pace, o migliore Compagno, su un avvicinato il cui nome è Shafīq (il Compassionevole),"
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 387,
+        "text": "la Famiglia e i Compagni, gente di buona creanza, o Permanente che mi hai preservato dalla fatica."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 388,
+        "text": "O Tu che doni una scienza la cui fermezza è uno scudo, benedici l'uomo valente che fa rivivere la Sunna,"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 389,
+        "text": "la sua Famiglia e i suoi Compagni, e dona pace, o Tu che Ti vanti di me davanti agli eletti tra i dotti."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 390,
+        "text": "Benedici con il saluto di pace il Muqaddas (il Santificato), il Muktafī, il Kāfī (Colui che basta) e lo Spirito di santità (Rūḥ al-Qudus),"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 391,
+        "text": "la Famiglia e i Compagni dediti all'adorazione, o Tu che elimini ogni pena d'amore e ogni affanno."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 392,
+        "text": "Benedici e dona pace, o Tu che mantieni la giustizia (Corano 3:18), sull'imām degli inviati, Spirito della giustizia (Rūḥ al-Qisṭ),"
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 393,
+        "text": "la sua Famiglia con tutti i Compagni, o Vastissimo (Al-Wāsiʿ) che mi hai dato spazio con ampiezza."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 394,
+        "text": "Benedici il Bāligh (Colui che giunge alla meta), Spirito della verità (Rūḥ al-Ḥaqq), con un saluto di pace che conduce alla verità,"
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 395,
+        "text": "la sua Famiglia e i suoi Compagni; e cancella tutto ciò che mi affligge nel petto: Tu sei Colui che ascolta."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 396,
+        "text": "Benedici il Muballigh (il Trasmettitore), il Mawṣūl (l'Unito), il Wāṣil (Colui che giunge), il Guaritore, e accresci il mio profitto."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 397,
+        "text": "E dagli pace con la Famiglia illustre e i suoi Compagni, e gradisci per mezzo di lui questa composizione."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 398,
+        "text": "E facilita per mezzo di lui l'obbedienza e il carisma, e al compositore conduci il suo intento."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 399,
+        "text": "O Tu la cui esistenza e la cui eternità senza principio si sono manifestate, benedici colui il cui nome è Muqaddam (Colui che è posto innanzi),"
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 400,
+        "text": "Sāʾiq (Colui che conduce avanti) e Sābiq (il Precursore), e dona pace, alla sua Famiglia e ai suoi Compagni, insieme ai dotti."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 401,
+        "text": "(o) Re, o Santissimo (Al-Quddūs), o Possente (Al-ʿAzīz), benedici colui il cui nome è ʿAzīz (il Possente),"
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 402,
+        "text": "e dona pace, e alla Famiglia e ai Compagni, o Tu che mi hai preservato da ciò che attira il pianto."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 403,
+        "text": "O Tu che mi hai preservato da ogni malfattore che aggredisce, benedici la più eccellente guida ben guidata,"
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 404,
+        "text": "Fāḍil (l'Eccellente), e dona pace con la Famiglia e i Compagni, nel presente e nell'esito finale."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 405,
+        "text": "Benedici e dona pace, o Colui che apre (Al-Fattāḥ), su colui il cui nome è Miftāḥ (la Chiave),"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 406,
+        "text": "la sua Famiglia e i suoi Compagni; e mostrami ciò che voglio nelle due Dimore, senza sozzura."
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 407,
+        "text": "Benedici colui il cui nome è Mufaḍḍal (il Privilegiato) e Fātiḥ (Colui che apre), con un saluto di pace che eccelle,"
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 408,
+        "text": "la sua Famiglia e i suoi Compagni; e privilegia tutto il mio essere per mezzo del Prescelto, il Privilegiato."
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 409,
+        "text": "Benedici l'Eletto, il migliore degli uomini, o migliore di Colui che è compiaciuto con la paronomasia,"
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 410,
+        "text": "la Famiglia e i Compagni, con il saluto di pace, o Donatore dell'avvicinamento e del colloquio (divino)."
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 411,
+        "text": "Benedici colui che è stato chiamato Chiave della misericordia, Chiave del Paradiso, Colui che elimina le innovazioni,"
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "appNumber": 412,
+        "text": "e dagli pace con la Famiglia nobile e i suoi Compagni, o Tu che Ti vanti di me davanti ai raffinati."
+      },
+      {
+        "number": 60,
+        "verseFrom": 119,
+        "verseTo": 120,
+        "appNumber": 413,
+        "text": "Benedici e dona pace, o Creatore dei tempi, sul Profeta, Vessillo della fede (ʿAlam al-Īmān),"
+      }
+    ]
+  }
+}

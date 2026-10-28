@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 28,
+    "name": "Faaqa Jamiha",
+    "transliterationName": "Faaqa Jamiha",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Our master Aḥmad, the beloved of the Sender, has surpassed all the prophets and messengers."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "He Who made him journey by night (Qurʾān 17:1) has set Aḥmad before the noble ones, with the reverence of all."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "The degree of the servant, the Messenger Aḥmad, has made the elect radiant and praiseworthy."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "The Prophet, on the day of “Am I not (your Lord)?” (Qurʾān 7:172), bestowed the answer upon the radiant ones, and all answered rightly."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Our Aḥmad, whose loftiness is everlasting, has left every father and mother powerless (to beget his like)."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "The signs of Aḥmad have encompassed the signs of those who have passed and of whoever will come, and have surpassed this age."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "His Book has encompassed the Books of the messengers of the One Who sends down (the Revelation), and has bestowed hospitality and the banquet."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Muḥammad — upon him the most excellent peace — is set foremost by the best of deed and word."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "The beginning of al-Māḥī (Muḥammad) is the end (reached by) the elect: the Lord of choice has preferred him above the creatures."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Every master who is chosen has testified that Aḥmad is the Chosen One."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "All that is other than him yields to the Chosen One; (every good) has fled to him by grace, and he has encompassed it."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Our Messenger has surpassed all the messengers and the prophets, and he is the beloved of the Sender."
+      }
+    ]
+  }
+}

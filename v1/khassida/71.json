@@ -135,6 +135,96 @@
           "fr": "Donc il est clair que quiconque échange la lumière pour l'obscurité le regrettera."
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "كُنْ كَاتِمًا لِّلضُّرِّ وَالْبُوسَىى تَنَلْ ۞ قَصْدًا وَتَعْلُو الْجِيلَ يِامُتَعَلِّمُ",
+        "translations": {
+          "it.karamati": "Sii uno che nasconde il danno e la miseria: otterrai il tuo intento e sovrasterai la tua generazione, o studente!",
+          "en.karamati": "Be one who conceals harm and misery: you shall attain your aim and rise above your generation, O student!",
+          "fr.karamati": "Sois de ceux qui cachent le mal et la misère : tu obtiendras ton but et tu surpasseras ta génération, ô étudiant !"
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "لَاتُكْثِرِ الشَّكْوَى فَكُنْ مُّتَجَلِّدًا ۞ حَتَّى تَظُنَّ النَّاسُ أَنَّكَ مُنْعَمُ",
+        "translations": {
+          "it.karamati": "Non moltiplicare il lamento: sii saldo, finché la gente creda che tu sei colmato di grazie.",
+          "en.karamati": "Do not multiply complaint: be steadfast, until people think you are favoured with blessings.",
+          "fr.karamati": "Ne multiplie pas la plainte : sois ferme, jusqu'à ce que les gens croient que tu es comblé de grâces."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "فَالْعِلْمُ لَايُعْطَى لِمَنْ يَخْشَى طَوًى ۞ بَلْ رَبُّنَا عَبْدًا صَبُورًا يُلْهِمُ",
+        "translations": {
+          "it.karamati": "Poiché la scienza non è data a chi teme la fame: è al servo paziente che il nostro Signore la ispira.",
+          "en.karamati": "For knowledge is not given to one who fears hunger: it is to the patient servant that our Lord inspires it.",
+          "fr.karamati": "Car la science n'est pas donnée à qui craint la faim : c'est au serviteur patient que notre Seigneur l'inspire."
+        }
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "دَاوِمْ عَلَى دَرْسِ الْعُلُومِ مُطَالِعًا ۞ يَا وَيْحَ طِمْسٍ لِّلطَّوَى يَتَجَمْجَمُ",
+        "translations": {
+          "it.karamati": "Persevera nello studio delle scienze, leggendo: guai allo stolto che per la fame balbetta esitante!",
+          "en.karamati": "Persevere in the study of the sciences, reading: woe to the dullard who, for hunger, mumbles hesitantly!",
+          "fr.karamati": "Persévère dans l'étude des sciences, en lisant : malheur au sot qui à cause de la faim balbutie en hésitant !"
+        }
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "لَاتَشْتَغِلْ بِالرِّزْقِ إِذْ رَبُّ الْوَرَى ۞ مُتَكَفِّلٌ رِزْقَ الَّذِى يَتَعَلَّمُ",
+        "translations": {
+          "it.karamati": "Non occuparti del sostentamento, poiché il Signore delle creature si fa garante del sostentamento di chi studia.",
+          "en.karamati": "Do not busy yourself with provision, for the Lord of creatures guarantees the provision of whoever studies.",
+          "fr.karamati": "Ne t'occupe pas de la subsistance, car le Seigneur des créatures se porte garant de la subsistance de celui qui étudie."
+        }
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "وَاخْشَ الْإِلَاهَ لِدِينِهِ مُتَحَافِظًا ۞ إِذْ لَايَنَالُ الْعِلْمَ عَاصٍ مُّجْرِمُ",
+        "translations": {
+          "it.karamati": "E temi Dio, custodendo la Sua religione, poiché la scienza non la ottiene il ribelle colpevole.",
+          "en.karamati": "And fear God, guarding His religion, for knowledge is not attained by the guilty sinner.",
+          "fr.karamati": "Et crains Dieu, en gardant Sa religion, car la science ne l'obtient pas le rebelle coupable."
+        }
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "نَاءِ الْكَوَاعِبَ وَالْغَوَانِىَ وَاعْتَزِلْ ۞ إِنْ تَدْنُ مِنْهَا مِنْ رَّدًى لَّا تَسْلَمُ",
+        "translations": {
+          "it.karamati": "Allontanati dalle giovani dal seno fiorente e dalle belle, e mettiti in disparte: se ti avvicini a loro non sarai salvo dalla rovina.",
+          "en.karamati": "Keep away from full-bosomed maidens and beauties, and withdraw: if you draw near them you will not be safe from ruin.",
+          "fr.karamati": "Éloigne-toi des jeunes filles au sein naissant et des belles, et mets-toi à l'écart : si tu t'approches d'elles tu ne seras pas sauf de la ruine."
+        }
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "لَاتَشْتَرِ الدُّنْيَا بِأُخْرَى يَافَتًى ۞ مَّنْ بَاعَ نَورًا بِالدُّجَى فَسَيَنْدَمُ",
+        "translations": {
+          "it.karamati": "Non comprare questo mondo con l'Altro, o giovane: chi vende la luce per le tenebre se ne pentirà.",
+          "en.karamati": "Do not buy this world with the Other, O young man: whoever sells light for darkness will regret it.",
+          "fr.karamati": "N'achète pas ce monde avec l'Autre, ô jeune homme : qui vend la lumière contre les ténèbres s'en repentira."
+        }
+      }
     ]
   }
 }

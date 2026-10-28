@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 193,
+    "name": "Zallat",
+    "transliterationName": "Zallat",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Si è umiliata davanti alla potenza di un Signore che ha fatto discendere le sure la moltitudine del creato; ed Egli è Colui che rende belle le forme."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Ho rivolto il mio volto a Lui, servo Suo per sempre, dotato di servizio all'Inviato di Allah, come i grandi."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Gli offro con doni l'elogio supererogatorio, e con la benedizione, con un amore che fa ereditare la grandezza."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Egli ha su di me, per il Volto di Allah, non per vanità, debiti di elogio che accrescono il primato e le vie (verso il bene)."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Volgi i cuori dei nemici, o Signore, nella mia vita, al mio soccorso, e doma per me l'insieme degli emiri."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Benedicilo e dona pace, con i nobili, e donami per mezzo di lui la sicurezza nelle due Dimore e le buone novelle."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Ti ho invocato oggi: sottometti per me i nemici per sempre, doma per me il Maledetto e doma per me i jinn e gli uomini."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Ho lasciato in Rajab ciò che Tu sai: risparmiamelo dunque, e donami i versetti e le sure."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Donami lo star seduto con l'opera di cui Ti compiaci: hai fatto permanere per me la vita, o Tu che hai reso belle le forme."
+      }
+    ]
+  }
+}

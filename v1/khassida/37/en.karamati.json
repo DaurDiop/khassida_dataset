@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 37,
+    "name": "Hamdi Wa Shukri",
+    "transliterationName": "Hamdi Wa Shukri",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "My praise and my gratitude (go) to Him through Whom my whole being has become, for Him, contentment without displeasure, at Ṣarṣāra (in Mauritania)."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "To Him are my praise and my contentment without displeasure, ever since He led supporters to me from among the Banū Daymān."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "To Allah (belongs) my whole being, at the wells of nobility, from which we departed, and where many were those who visited (me)."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Truly those who made their way to Ṣarṣāra to visit me have parted, in the two Abodes, from their sins."
+      }
+    ]
+  }
+}

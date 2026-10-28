@@ -55,6 +55,41 @@
           "fr": ""
         }
       }
+    ],
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "مِدَادِى وَأَقْلَامِى وَقَلْبِى وَجُثْمَانِى ۞ لِمُغْنٍ بَدِيعٍ لِّى يُسَخِرُ أَزْمَانِى",
+        "translations": {
+          "it.karamati": "Il mio inchiostro, le mie penne, il mio cuore e il mio corpo sono per un Arricchitore, Creatore senza modello (Al-Badīʿ), che assoggetta a me i miei tempi.",
+          "en.karamati": "My ink, my pens, my heart and my body are for an Enricher, the Originator (Al-Badīʿ), Who subjects my times to me.",
+          "fr.karamati": "Mon encre, mes plumes, mon cœur et mon corps sont pour un Enrichisseur, Créateur sans modèle (Al-Badīʿ), qui m'assujettit mes temps."
+        }
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "رَبَاحِى كِتَابٌ جَآءَنَا مِنْهُ مُحْكَمًا ۞ أَتَى مِنْ رَّحِيمٍ لَّمْ يَزَلْ خَيْرَ الرَّحْمَانِ",
+        "translations": {
+          "it.karamati": "Il mio guadagno è un Libro che ci è giunto da Lui, saldamente stabilito; è venuto da un Misericordioso che non cessa (di dispensare) il bene del Compassionevole (Ar-Raḥmān).",
+          "en.karamati": "My gain is a Book that has come to us from Him, firmly established; it came from a Merciful One Who never ceases (to dispense) the good of the All-Merciful (Ar-Raḥmān).",
+          "fr.karamati": "Mon gain est un Livre qui nous est venu de Lui, solidement établi ; il est venu d'un Miséricordieux qui ne cesse (de dispenser) le bien du Tout-Miséricordieux (Ar-Raḥmān)."
+        }
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "شُكُورِىَ فِى الدَّارَيْنِ لِلَّهِ وَحْدَهُ ۞ عَلَى مَنْ بِهِ أَبْقَى  فُؤَادِى وَجُثْمَانِ",
+        "translations": {
+          "it.karamati": "La mia gratitudine, nelle due Dimore, va ad Allah soltanto, per colui per mezzo del quale Egli ha preservato il mio cuore e il mio corpo.",
+          "en.karamati": "My gratitude, in the two Abodes, is to Allah alone, for him through whom He preserved my heart and my body.",
+          "fr.karamati": "Ma gratitude, dans les deux Demeures, va à Allah seul, pour celui par qui Il a préservé mon cœur et mon corps."
+        }
+      }
     ]
   }
 }

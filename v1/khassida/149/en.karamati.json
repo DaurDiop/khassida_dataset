@@ -1,0 +1,73 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 149,
+    "name": "Qalu Liyarkan",
+    "transliterationName": "Qalu Liyarkan",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "They said to me: \"Lean on the doors of the sultans, you will obtain gifts that will make you rich for all time\"."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Then I said: \"My Lord suffices me, and with Him I have been content, and I am not pleased (with anything) but the best of knowledge and religion\"."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "And I neither hope in nor fear any but my King, for He — exalted be He — enriches me and saves me."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "How should I entrust my states to those who are powerless over the state of their own souls, with the powerlessness of the destitute?"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Or how could love of fleeting goods drive me to the neighbourhood of those whose dwellings are the garden of the devils?"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "If I am stricken with sorrow, or if I have a need, I call upon the Lord of the ʿAyn before the Rā and the Shīn (al-ʿArsh, the Throne)."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "And He is the Helper Whom nothing can render powerless, and He is the One Who brings into being what He wills, in whatever manner of bringing into being."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "If He wills to hasten an affair, it is swift; or if He wills to defer it, it is delayed until (its) time."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "O you who blame, do not overdo it, and leave your reproach, for I am not saddened by the loss of the world."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "If my fault is detachment from their fleeting goods, that is a precious fault that does not disgrace me."
+      }
+    ]
+  }
+}

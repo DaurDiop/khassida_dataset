@@ -1,0 +1,91 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 160,
+    "name": "Shakawtu",
+    "transliterationName": "Shakawtu",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Je me suis plaint de mes affaires et de mon péché immense à mon Seigneur, le Puissant, le Pardonneur, le Très-Miséricordieux."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Sois donc pour moi Celui qui ôte la plainte, et accorde-moi les souhaits, par le prestige du Prophète, l'intercesseur, le noble."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Et bénis-le sans fin, et accorde la paix sur lui d'un salut de paix qui dure."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "Et sois pour moi protecteur ici et demain, et sois pour moi secoureur, car je suis dépourvu (de tout)."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Et sois avec moi bienveillant, et accorde-moi l'agrément, et sois pour moi Pardonneur, car je suis blâmable."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "Et sois pour moi secoureur dans ma demande, et sois pour moi Celui qui rend capable, car je suis las."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Et accorde-moi la rectitude, et accorde-moi la crainte de Dieu, et illumine mon cœur et accrois-moi en sciences."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Et accorde-moi le salut et accrois-moi en droite guidance, et assainis mes affaires et accrois-moi en délice."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Et fais sortir mes défauts et accrois-moi en hauteur, et guéris ma maladie et dissipe les afflictions."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "Et ne me couvre pas de honte, préserve-moi de ce qui perd, et ne me démasque pas pour mon être vil."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Car je suis vil, prisonnier de la passion, et rebelle ; mais mon Dieu est Longanime."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "Et le bien-être accorde-le ici et demain à nous et à qui, par la droite guidance, se tient droit."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "Et bénis d'une bénédiction l'Élu, et accorde la paix sur lui d'un salut de paix qui dure."
+      }
+    ]
+  }
+}

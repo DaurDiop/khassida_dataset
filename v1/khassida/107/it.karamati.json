@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 107,
+    "name": "Mim Ra Shin",
+    "transliterationName": "Mim Ra Shin",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Il mio inchiostro, le mie penne, il mio cuore e il mio corpo sono per un Arricchitore, Creatore senza modello (Al-Badīʿ), che assoggetta a me i miei tempi."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Il mio guadagno è un Libro che ci è giunto da Lui, saldamente stabilito; è venuto da un Misericordioso che non cessa (di dispensare) il bene del Compassionevole (Ar-Raḥmān)."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "La mia gratitudine, nelle due Dimore, va ad Allah soltanto, per colui per mezzo del quale Egli ha preservato il mio cuore e il mio corpo."
+      }
+    ]
+  }
+}

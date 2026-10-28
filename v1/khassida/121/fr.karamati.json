@@ -1,0 +1,384 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 121,
+    "name": "Nuuru Daarayni 11",
+    "transliterationName": "Nuuru Daarayni 11",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 540,
+        "text": "Et agrée ma vie par Toi, ô Reconnaissant, ô Toi qui élèves de moi vers Lui la gratitude."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 541,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Roi (Al-Malik), ô Saint (Al-Quddūs), ô Toi qui m'honores,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 542,
+        "text": "Tu as élargi pour moi, avec l'agrément, par (le Nom) « l'Immense » (Al-Wāsiʿ), et pour les Jardins Tu as été pour moi avec ampleur."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 543,
+        "text": "Tu m'as amené l'obligatoire et le recommandé ensemble, et le licite : Il a réuni pour moi les deux."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 544,
+        "text": "Bénis d'une bénédiction qui m'amène la générosité, ô Toi qui as éloigné vers d'autres que moi l'armée nombreuse,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 545,
+        "text": "avec un salut de paix qui fasse aller vers d'autres que moi ce que Tu n'aimes pas pour moi, ô Toi qui perpétues mon bien,"
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 546,
+        "text": "sur celui qui m'a fait parvenir des biens par lesquels il a rendu limpides pour moi la vie et les demeures."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 547,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 548,
+        "text": "Et accorde-moi l'écriture avec la récitation, et perpétue pour moi en toutes deux la douceur,"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 549,
+        "text": "et en autre chose qu'elles, de ce que Tu rends licite pour moi, ô Toi qui rends licite, qui as gardé ma personne du honteux."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 550,
+        "text": "Ô notre Seigneur, ô notre Seigneur, ô notre Seigneur, ô notre Seigneur, ô notre Intime, ô notre Bien-Aimé !"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 551,
+        "text": "Tu nous as ordonné de bénir notre maître Muḥammad, réceptacle des hauteurs,"
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 552,
+        "text": "et de le saluer de paix ; je dis donc, pour Ta noble Face : agrée de moi le dit."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 553,
+        "text": "Ô Allah, ô Tout-Miséricordieux (Ar-Raḥmān), ô Très-Miséricordieux (Ar-Raḥīm), ô Roi (Al-Malik), ô Saint (Al-Quddūs), ô Toi qui m'honores,"
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 554,
+        "text": "À Toi l'éloge, la louange et la gratitude ensemble, pour celui qui a réuni pour moi Ta grâce."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 555,
+        "text": "Bénis d'une bénédiction qui remplisse le ciel et la terre, ô Toi qui m'as amené la croissance,"
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 556,
+        "text": "avec un salut de paix qui monte au Trône et remplisse le Marchepied, ô Seigneur de la terre étendue,"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 557,
+        "text": "et que toutes deux fassent entrer la joie dans le cœur du Prophète, joie de tout proche et de tout étranger,"
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 558,
+        "text": "sur le Prophète élu, Muḥammad, sa Famille, ses Compagnons et ceux qui louent."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 559,
+        "text": "Et rends, par son prestige immense, ma parole illuminée, ô Détenteur de l'élévation et de la munificence."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 560,
+        "text": "Et rends-la un service sans défauts, ô Connaisseur du manifeste et des choses cachées."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 561,
+        "text": "Et accorde-moi Ton être pour moi en elle et en autre chose qu'elle, dans l'ensemble de ce qui de moi parvient."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 562,
+        "text": "Et rends limpides pour moi mes croyances, ma parole, mon œuvre et mon caractère, ô ma Force."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 563,
+        "text": "Tu es venu à ma rencontre avec la récompense et la rétribution vers Tes Jardins, et avec ce qui est juste."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 564,
+        "text": "Et rends, par le prestige de l'Élu, ma vie joie du ḥadīth et des versets."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 565,
+        "text": "Et répands sur moi les bénédictions de (la sourate) al-Fātiḥa, et rends mes plumes ouvrantes (fātiḥa) des choses cachées."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 566,
+        "text": "Et répands sur moi les bénédictions de (la sourate) al-Baqara, ô Toi qui tournes Ton Saqar (le Feu, Coran 74:26) vers d'autres que moi."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 567,
+        "text": "Et répands sur moi les bénédictions de (la sourate) Āl ʿImrān, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 568,
+        "text": "Et accorde-moi, par la sourate an-Nisāʾ (les Femmes), la santé du matin et du soir."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 569,
+        "text": "Et accorde-moi l'ouverture et rends faciles pour moi les sciences, et accrois-moi de Ta part en science, ô Omniscient (Coran 20:114)."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 570,
+        "text": "Tu m'as donné de Ta grâce immense ce qui m'a conduit à la gratitude par les vers ordonnés."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 571,
+        "text": "Tu m'as donné refuge en Toi contre Satan ; Tu as été pour moi dans le passage et dans les contrées."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 572,
+        "text": "Tu as ouvert pour moi la porte des biens, fermant la porte des maux, et elle s'est fermée devant moi."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 573,
+        "text": "Tu as fendu (baqarta) pour moi le secret des sciences profitables, ô Toi qui fais descendre le meilleur de la droite guidance, ô Toi qui l'élèves."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 574,
+        "text": "Tu m'as accueilli auprès de Toi, ô Généreux, ô Permanent, dont je désire la gratitude."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 575,
+        "text": "Tu as chassé Iblīs et ce qui lui est allié vers d'autres que moi, perpétuellement, ô Allah."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 576,
+        "text": "Ô Allah, bénis à jamais et accorde la paix à Ton Prophète, lampe des savants,"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 577,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 578,
+        "text": "Et accorde-nous par lui la voie droite, la voie de ceux dont qui se tourne vers d'autres est malade (cf. Coran 1:6-7)."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 579,
+        "text": "Et accorde-nous la foi et l'Islām, et la meilleure excellence (iḥsān) et l'abandon (en Lui)."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 580,
+        "text": "Et accorde-nous l'intégrité des cœurs des défauts de l'âme, ô Nourricier qui (nous l')as garantie."
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 581,
+        "text": "Et accorde-nous la préservation, ô Donateur, ô Toi à Qui appartiennent le retour et l'aller."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 582,
+        "text": "Et accorde-nous la certitude et la stabilité, et rends pérennes l'arrivée et le repos."
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 583,
+        "text": "Et bénis, ô Tout-Miséricordieux, et accorde la paix au Prophète arabe, l'étendard,"
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 584,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 585,
+        "text": "Et rends les lettres de ces vers ordonnés telles qu'elles attirent les grands souhaits."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 586,
+        "text": "Et rends-les toutes les plus éminentes bénédictions, et guide mes repos et les mouvements."
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 587,
+        "text": "Et bénis, ô Très-Miséricordieux, et accorde la paix à l'Envoyé doté de privilèges, l'échelle,"
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 588,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 589,
+        "text": "Et rends ma vie joie pour lui, ô Permanent qui m'as préservé du dommage."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 590,
+        "text": "Et écris pour lui, en tout ce qui de moi parvient, ce qui le réjouit, ô Toi qui gardes mes côtés."
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 591,
+        "text": "Ô Allah, bénis et accorde la paix à tout moment à Ton Bien-Aimé, chef des vertueux,"
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 592,
+        "text": "notre maître Muḥammad, la Famille et ses Compagnons, dans le présent et dans l'issue finale."
+      }
+    ]
+  }
+}

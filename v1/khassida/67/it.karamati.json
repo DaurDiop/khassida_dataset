@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 67,
+    "name": "Kafaaka Rabbuka",
+    "transliterationName": "Kafaaka Rabbuka",
+    "meter": "Rajas",
+    "edition": "it.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Ti basta il tuo Signore: Egli vi basterà contro una (sventura) traboccante, il cui traboccare è come un'insidia nascosta venuta da un re."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Ti basta il tuo Signore, Garante e rifugio di ogni grande, da una stella che imitava la stella della sfera celeste,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "(una sventura) che torna, assalto dopo assalto, come l'assalto che ritorna nel profondo del fegato; vi schernisce seminando il dubbio: (Egli vi basta) contro il petto minaccioso di ogni forza avversa, contro tutto."
+      }
+    ]
+  }
+}

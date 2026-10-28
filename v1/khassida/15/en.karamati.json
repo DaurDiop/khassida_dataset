@@ -1,0 +1,253 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 15,
+    "name": "Asma Ul Husna",
+    "transliterationName": "Asma Ul Husna",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "O Allah, O He besides Whom there is no god, O He Whose good comes to me perpetually."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Bless and grant peace forever, O All-Merciful (Ar-Raḥmān), upon him through whom the times become good,"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "our master Muḥammad, and the Family; and answer for me, by his rank, my request."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "You are the Most Merciful (Ar-Raḥīm), the King (Al-Malik), the Most Holy (Al-Quddūs): to You I owe gratitude and sanctification."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "You are the Peace (As-Salām), the Giver of faith (Al-Muʾmin), the Guardian (Al-Muhaymin): I call upon You by them, and I say “Āmīn”."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "You are the Mighty (Al-ʿAzīz), the Lord, the Compeller (Al-Jabbār): to You I owe praise and magnification."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "O Supreme in Greatness (Al-Mutakabbir), to Whom greatness belongs; O Creator (Al-Khāliq), O Maker (Al-Bāriʾ), O Fashioner (Al-Muṣawwir)."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "O Forgiver (Al-Ghaffār), O Subduer (Al-Qahhār), O Bestower (Al-Wahhāb), O He to Whom belong the giving of glad tidings and the striking of awe."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "O Provider (Ar-Razzāq), O Opener (Al-Fattāḥ), O All-Knowing (Al-ʿAlīm), O Best of those with whom the wronged find refuge."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "O Withholder (Al-Qābiḍ), O Expander (Al-Bāsiṭ), O Abaser (Al-Khāfiḍ), O Exalter (Ar-Rāfiʿ), O best of those who illumine with radiance."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "O Bestower of honour (Al-Muʿizz), O Humiliator (Al-Mudhill), O All-Hearing (As-Samīʿ), O All-Seeing (Al-Baṣīr), O best of those who answer when called upon."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "O Judge (Al-Ḥakam), O Just (Al-ʿAdl), Subtle (Al-Laṭīf), O All-Aware (Al-Khabīr), Forbearing (Al-Ḥalīm), O Magnificent (Al-ʿAẓīm): truly You are the All-Forgiving (Al-Ghafūr)."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "O Appreciative (Ash-Shakūr), O Most High (Al-ʿAlī), O Great (Al-Kabīr): to You I owe gratitude and the proclaiming of (Your) greatness."
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "text": "O Preserver (Al-Ḥafīẓ), O Sustainer (Al-Muqīt), O Reckoner (Al-Ḥasīb), Majestic (Al-Jalīl), O Generous (Al-Karīm), O Watchful (Ar-Raqīb)."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "text": "O Responsive (Al-Mujīb), O All-Embracing (Al-Wāsiʿ), O Wise (Al-Ḥakīm), O He to Whom belong command and judgement."
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "text": "You are the Loving (Al-Wadūd), the Glorious (Al-Majīd), the Resurrector (Al-Bāʿith): toward Your praise (Your) promptings have driven me."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "text": "You are the Witness (Ash-Shahīd), the Truth (Al-Ḥaqq), the Trustee (Al-Wakīl): from me to You (goes) forever my entrusting."
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "text": "You are the Strong (Al-Qawī), the Firm (Al-Matīn), the Protector (Al-Walī), O He toward Whom (goes) forever my turning."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "text": "You are the Praiseworthy (Al-Ḥamīd), Lord; You are the Reckoner of all (Al-Muḥṣī); You are He Whose praise I cannot number."
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "text": "O Originator (Al-Mubdiʾ), O Restorer (Al-Muʿīd), Giver of life (Al-Muḥyī), O Giver of death (Al-Mumīt): You are He Who gives life to creatures and causes (them) to die."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "text": "O Living (Al-Ḥayy), O Self-Subsisting (Al-Qayyūm), O Finder (Al-Wājid), O Noble (Al-Mājid), O Sought by a servant who has been guided."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "text": "O One (Al-Wāḥid), O Self-Sufficient (Aṣ-Ṣamad), O Able (Al-Qādir), O He Whose being Lord of creatures is known."
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "text": "You are He Whom we invoke as the All-Powerful (Al-Muqtadir), the Expediter (Al-Muqaddim) and the Delayer (Al-Muʾakhkhir)."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "text": "O First (Al-Awwal), O Last (Al-Ākhir), You are the Manifest (Aẓ-Ẓāhir), the Hidden (Al-Bāṭin), He to Whom the manifestations belong."
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "text": "And truly You are the Governor (Al-Wālī), Who befriends, the Supremely Exalted (Al-Mutaʿālī), He Who sets conditions right."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "text": "O Beneficent (Al-Barr), O Accepter of repentance (At-Tawwāb), O Avenger (Al-Muntaqim): Your being for me suffices me, so I do not take vengeance."
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "text": "And truly You are the Pardoner (Al-ʿAfuww), the Most Kind (Ar-Raʾūf), O Best of those with whom the terrified take refuge."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "text": "O King of Sovereignty (Mālik al-Mulk), with Whom (lies) my aspiration, O Possessor of Majesty and Generosity (Dhū l-Jalāl wa l-Ikrām)."
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "text": "O Equitable (Al-Muqsiṭ), O Gatherer (Al-Jāmiʿ), O Rich (Al-Ghanī), O He from Whom I hope for the acceptance of my striving."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "text": "You are He Who, without (need of) cause, enrich whom You will among creatures, O Enricher (Al-Mughnī)."
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "text": "O He with Whom my heart is perpetually content, and Who has shielded me from harm, O Preventer (Al-Māniʿ)."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "text": "O He Who guards me from affliction and from harm, and from all that grieves my heart, O Distresser (Aḍ-Ḍārr)."
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "text": "O He from Whom benefits come to me here, and tomorrow, by His grace, O Benefactor (An-Nāfiʿ)."
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "text": "O He by Whom my heart shines forever, through His being for me, forever, O Light (An-Nūr)."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "text": "O He toward Whom I have turned with earnest striving, and I hope for (what is) above all aspirations, O Guide (Al-Hādī)."
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "text": "O He to Whom I owe gratitude, with a wondrous (song), for His immense favours, O Wondrous Originator (Al-Badīʿ)."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "text": "O He Who joins me to the foremost, for my good opinion of Him, O Everlasting (Al-Bāqī)."
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "text": "O He with Whom lies the gain of every tiller: Your being for me is my treasure, O Inheritor (Al-Wārith)."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "text": "And from You comes to my heart universal right direction and purity, O Guide to the Right Path (Ar-Rashīd)."
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "text": "Your written Book sets me right, by Your immense grace, O Patient (Aṣ-Ṣabūr)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 36,
+    "name": "Halayka Yaa Mukhtaru",
+    "transliterationName": "Halayka Yaa Mukhtaru",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "Hold fast, O Mukhtār, to earnest striving, at every hour, upon the right path."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "Cling to the fear of God and seek learning, and do not grin in play, lest you regret it."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "Be patient in trial and in austerity (of food), and persevere in calm and in endurance."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "If you strive in knowledge in the time of your youth, you shall attain your aims in the time of your old age."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "And you shall not gather, my brother, the privileges, until you persevere in patience before misfortunes,"
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "(with) a beautiful patience (Qurʾān 12:18): be not idle; truly the idle one does not lead his generation."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "Keep far from all that the Majestic has forbidden, and trust in what the Messenger has brought."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "Keep company only with one who guides you aright, and keep far from every companion who would ruin you."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "For how many an inexperienced one has become noble through the company of the righteous: do not swerve!"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "And how many a righteous one has become abject through the company of the fool and the ignorant."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Put your trust in the All-Merciful (Ar-Raḥmān) at all times, O youth of the Daymān."
+      }
+    ]
+  }
+}

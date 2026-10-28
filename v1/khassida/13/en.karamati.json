@@ -1,0 +1,85 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 13,
+    "name": "Ashkuru Laaha",
+    "transliterationName": "Ashkuru Laaha",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "I give thanks to Allah, Lord of creatures, with benefit, for a Book that has driven the enemies into headlong flight."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "My breast has not inclined to any but my God, and toward my Lord my speech and my hearing have turned."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "No doubt has entered my heart concerning what Allah has led to me, (all) gathered together."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "The remembrance of my King has taken away every doubt, and has driven the enemies toward others than me, subdued."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "Allah has threatened whoever hated me, (driving him) far away, toward other than my side, unheeded."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "My life gives thanks to Allah, for the Gardens, with a Book through which benefit has appeared to me."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "The heart has known that to the Best of creatures (Muḥammad) the Revelation came through the obeyed Trustworthy One (Gabriel)."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "O Ḥadīth of the Prophet, truly you are truth; toward you my writing has turned, by an obeyed command."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "Toward you I turn with my pen and my ink; I never cease, with contentment, to abide in obedience."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "You are, together with the Book, my intimate friend and my beloved; you have been for me (a support) portion after portion."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "Through you my joy grows toward pure Gardens, without end or interruption."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "They have fled, without turning toward me, those among creatures who hated me, with a final severance."
+      }
+    ]
+  }
+}

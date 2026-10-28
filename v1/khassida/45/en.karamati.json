@@ -1,0 +1,91 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 45,
+    "name": "Ilaa Nabiyyin",
+    "transliterationName": "Ilaa Nabiyyin",
+    "meter": "Rajas",
+    "edition": "en.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "text": "To a Prophet, a Messenger, who came to us with guidance, since he was guided by a Book he brought, and guided (us),"
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "text": "the most lasting greetings, without deceit or turbidity, from the Servant (al-Khadīm) who turns to him as to a refuge."
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "text": "To his illustrious Family and to all the Companions, from me, a greeting that makes security and ease endure."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "text": "O my master, O Messenger of Allah, O my hope, may He bless you Who has driven away whoever rebelled."
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "text": "O Select One, O leader of all the messengers together, upon you the greeting of Him Who through you has purified the heart."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "text": "May He bless you, with a greeting beyond number, Who was never begotten and has not begotten (Qurʾān 112:3)."
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "text": "May an Everlasting One (Al-Bāqī) Who has no partner bless you and grant you peace, together with the Family, O you who drove falsehood away."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "text": "May an Everlasting One Who knows no exhaustion bless you and grant you peace, together with the Companions, O you who brought right conduct near."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "text": "O people of Medina, from me, for ever, to you the most lasting greeting, which makes heart and body wholesome."
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "text": "May you ever remain in serenity and abundance; may Allah shield you, until the Gardens, from whoever persists (in rebellion)."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "text": "You have won that the son of ʿAbd Allāh is your neighbour, and that you are around him: so praise the Self-Sufficient (Aṣ-Ṣamad)."
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "text": "May He bless him Who ever repels the enemies toward others than whoever turns to him, for ever, as to a refuge."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "text": "May a service of my life, accepted from me, gladden him, by the grace of Him Who through him bestowed (guidance) and guided."
+      }
+    ]
+  }
+}

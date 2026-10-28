@@ -1,0 +1,433 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": {
+    "number": 57,
+    "name": "Jalibatul Maraghibi 5",
+    "transliterationName": "Jalibatul Maraghibi 5",
+    "meter": "Rajas",
+    "edition": "fr.karamati",
+    "bayts": [
+      {
+        "number": 1,
+        "verseFrom": 1,
+        "verseTo": 2,
+        "appNumber": 174,
+        "text": "sur celui dont le nom est Muṭahhar (le Purifié), et sur la Famille et les Compagnons qui ont excellé."
+      },
+      {
+        "number": 2,
+        "verseFrom": 3,
+        "verseTo": 4,
+        "appNumber": 175,
+        "text": "Et bénis, avec un salut de paix bon, celui que Tu as nommé Ṭayyib (le Bon),"
+      },
+      {
+        "number": 3,
+        "verseFrom": 5,
+        "verseTo": 6,
+        "appNumber": 176,
+        "text": "la Famille et les Compagnons doués de mérites, ô le meilleur de ceux avec qui l'on s'entretient intimement, avec vigilance."
+      },
+      {
+        "number": 4,
+        "verseFrom": 7,
+        "verseTo": 8,
+        "appNumber": 177,
+        "text": "Bénis et accorde la paix, ô mon Soutien, à celui que Tu as nommé Sayyid (Maître),"
+      },
+      {
+        "number": 5,
+        "verseFrom": 9,
+        "verseTo": 10,
+        "appNumber": 178,
+        "text": "la Famille et les Compagnons, étoiles pour les autres, ô Toi qui m'as guidé à accomplir le bien."
+      },
+      {
+        "number": 6,
+        "verseFrom": 11,
+        "verseTo": 12,
+        "appNumber": 179,
+        "text": "Bénis et accorde la paix, ô Beau (Al-Jamīl), ô Toi de Qui me parvient accompli ce que j'espère,"
+      },
+      {
+        "number": 7,
+        "verseFrom": 13,
+        "verseTo": 14,
+        "appNumber": 180,
+        "text": "sur celui dont le nom est Rasūl (Envoyé), de même que par lui m'est parvenue de Toi ma demande."
+      },
+      {
+        "number": 8,
+        "verseFrom": 15,
+        "verseTo": 16,
+        "appNumber": 181,
+        "text": "sa Famille et ses Compagnons ; et fais que cette composition soit le plus grand agrément qui puisse être rendu."
+      },
+      {
+        "number": 9,
+        "verseFrom": 17,
+        "verseTo": 18,
+        "appNumber": 182,
+        "text": "Bénis et accorde la paix, ô Patron (Al-Waliyy), à celui dont le nom est Nabiyy (Prophète),"
+      },
+      {
+        "number": 10,
+        "verseFrom": 19,
+        "verseTo": 20,
+        "appNumber": 183,
+        "text": "sa Famille et ses Compagnons sagaces, ô Toi qui par lui illumines mon raisonnement."
+      },
+      {
+        "number": 11,
+        "verseFrom": 21,
+        "verseTo": 22,
+        "appNumber": 184,
+        "text": "Bénis et accorde la paix, ô Maître de la grâce, à celui qui est nommé Envoyé de la miséricorde,"
+      },
+      {
+        "number": 12,
+        "verseFrom": 23,
+        "verseTo": 24,
+        "appNumber": 185,
+        "text": "sa Famille et ses Compagnons d'élite, ô Toi qui m'as guidé sans altérité."
+      },
+      {
+        "number": 13,
+        "verseFrom": 25,
+        "verseTo": 26,
+        "appNumber": 186,
+        "text": "Bénis et accorde la paix, ô Maître de la générosité, au Prophète, l'Élu, le vénéré,"
+      },
+      {
+        "number": 14,
+        "verseFrom": 27,
+        "verseTo": 28,
+        "appNumber": 187,
+        "text": "la Famille et les Compagnons, gens de la lumière, ô Toi qui m'as protégé de la diffamation."
+      },
+      {
+        "number": 15,
+        "verseFrom": 29,
+        "verseTo": 30,
+        "appNumber": 188,
+        "text": "Et bénis et accorde la paix, ô Bienfaisant (An-Nāfiʿ), ô Toi de Qui me parviennent accomplis les bienfaits,"
+      },
+      {
+        "number": 16,
+        "verseFrom": 31,
+        "verseTo": 32,
+        "appNumber": 189,
+        "text": "sur celui que Tu as nommé Qayyim (le Droit), et sur la Famille et les Compagnons, gens de nobles natures."
+      },
+      {
+        "number": 17,
+        "verseFrom": 33,
+        "verseTo": 34,
+        "appNumber": 190,
+        "text": "Ô Maître qu'adorent les assemblées, bénis un homme vaillant dont le nom est Jāmiʿ (Celui qui rassemble),"
+      },
+      {
+        "number": 18,
+        "verseFrom": 35,
+        "verseTo": 36,
+        "appNumber": 191,
+        "text": "la Famille et les Compagnons, gens de gloire ; et accorde la paix, ô Toi qui enrichis par l'extase."
+      },
+      {
+        "number": 19,
+        "verseFrom": 37,
+        "verseTo": 38,
+        "appNumber": 192,
+        "text": "Ô Toi dont je suis la guidance et l'agrément, bénis un homme vaillant dont le nom est Muqtafī (Celui qui suit les traces),"
+      },
+      {
+        "number": 20,
+        "verseFrom": 39,
+        "verseTo": 40,
+        "appNumber": 193,
+        "text": "sa Famille et ses Compagnons, soleils resplendissants, ô Permanent qui as protégé des tombes."
+      },
+      {
+        "number": 21,
+        "verseFrom": 41,
+        "verseTo": 42,
+        "appNumber": 194,
+        "text": "Et accorde-lui la paix avec eux tous, ô meilleur Guide, Bienfaisant, Celui qui entend."
+      },
+      {
+        "number": 22,
+        "verseFrom": 43,
+        "verseTo": 44,
+        "appNumber": 195,
+        "text": "Bénis et accorde la paix, ô Toi qui accordes (une place dans) le rang, à celui dont le nom est Muqaffī (le Dernier venu),"
+      },
+      {
+        "number": 23,
+        "verseFrom": 45,
+        "verseTo": 46,
+        "appNumber": 196,
+        "text": "sa Famille et ses Compagnons honorés, ô Toi : pour Ta noble Face je ne mens pas."
+      },
+      {
+        "number": 24,
+        "verseFrom": 47,
+        "verseTo": 48,
+        "appNumber": 197,
+        "text": "Bénis et accorde la paix, ô meilleur Guide miséricordieux, à l'Envoyé (venu) de Toi avec les grandes batailles,"
+      },
+      {
+        "number": 25,
+        "verseFrom": 49,
+        "verseTo": 50,
+        "appNumber": 198,
+        "text": "sur la Famille avec ses Compagnons bien-aimés, ô Toi qui par lui rends indépendant des causes (secondes)."
+      },
+      {
+        "number": 26,
+        "verseFrom": 51,
+        "verseTo": 52,
+        "appNumber": 199,
+        "text": "Bénis et accorde la paix, ô Toi qui accordes le repos, à Ton Prophète, Envoyé du repos,"
+      },
+      {
+        "number": 27,
+        "verseFrom": 53,
+        "verseTo": 54,
+        "appNumber": 200,
+        "text": "sa Famille et les Compagnons doués de guidance, ô Toi qui as protégé tout mon être et guidé mon cœur."
+      },
+      {
+        "number": 28,
+        "verseFrom": 55,
+        "verseTo": 56,
+        "appNumber": 201,
+        "text": "Bénis et accorde la paix, ô Compagnon intime de qui espère, à celui que Tu as nommé Kāmil (le Parfait),"
+      },
+      {
+        "number": 29,
+        "verseFrom": 57,
+        "verseTo": 58,
+        "appNumber": 202,
+        "text": "sa Famille et ses Compagnons ; et facilite-moi l'espérance, et accepte de moi l'œuvre."
+      },
+      {
+        "number": 30,
+        "verseFrom": 59,
+        "verseTo": 60,
+        "appNumber": 203,
+        "text": "Bénis et accorde la paix à Iklīl (la Couronne), Ton bien-aimé, placé en avant, l'ami intime,"
+      },
+      {
+        "number": 31,
+        "verseFrom": 61,
+        "verseTo": 62,
+        "appNumber": 204,
+        "text": "sa Famille et ses Compagnons, lions, ô Toi qui préserves du mal de l'envieux."
+      },
+      {
+        "number": 32,
+        "verseFrom": 63,
+        "verseTo": 64,
+        "appNumber": 205,
+        "text": "Bénis un homme vaillant par lequel Tu multiplies ma récompense et ma joie : c'est le Muddaththir (l'Enveloppé du manteau),"
+      },
+      {
+        "number": 33,
+        "verseFrom": 65,
+        "verseTo": 66,
+        "appNumber": 206,
+        "text": "ô Toi qui par lui as rendu bon pour moi ce qui s'était corrompu, faisant désespérer de moi l'envieux qui enviait,"
+      },
+      {
+        "number": 34,
+        "verseFrom": 67,
+        "verseTo": 68,
+        "appNumber": 207,
+        "text": "et accorde-lui la paix avec la Famille noble et les Compagnons, ô Toi qui me prodigues ce à quoi j'aspire."
+      },
+      {
+        "number": 35,
+        "verseFrom": 69,
+        "verseTo": 70,
+        "appNumber": 208,
+        "text": "Bénis et accorde la paix, ô Toi qui embellis, à celui dont le nom est le Muzzammil (l'Enveloppé),"
+      },
+      {
+        "number": 36,
+        "verseFrom": 71,
+        "verseTo": 72,
+        "appNumber": 209,
+        "text": "sa Famille et ses Compagnons raffinés ; et réjouis par cette composition les Rapprochés."
+      },
+      {
+        "number": 37,
+        "verseFrom": 73,
+        "verseTo": 74,
+        "appNumber": 210,
+        "text": "Bénis et accorde la paix, ô mon Dieu, à celui que Tu as nommé ʿAbd Allāh (Serviteur d'Allah),"
+      },
+      {
+        "number": 38,
+        "verseFrom": 75,
+        "verseTo": 76,
+        "appNumber": 211,
+        "text": "sa Famille et ses Compagnons en tout temps ; et auprès de Toi fais de moi la joie des pieux."
+      },
+      {
+        "number": 39,
+        "verseFrom": 77,
+        "verseTo": 78,
+        "appNumber": 212,
+        "text": "Bénis, avec le salut de paix de l'Éminent, Allah, celui qui est nommé Ḥabīb Allāh (Bien-Aimé d'Allah),"
+      },
+      {
+        "number": 40,
+        "verseFrom": 79,
+        "verseTo": 80,
+        "appNumber": 213,
+        "text": "sa Famille et ses Compagnons privilégiés ; et pour toujours réjouis par moi les vénérés."
+      },
+      {
+        "number": 41,
+        "verseFrom": 81,
+        "verseTo": 82,
+        "appNumber": 214,
+        "text": "Bénis et accorde la paix, ô mon Dieu, à celui qui est nommé Ṣafiyy Allāh (Pur Élu d'Allah),"
+      },
+      {
+        "number": 42,
+        "verseFrom": 83,
+        "verseTo": 84,
+        "appNumber": 215,
+        "text": "la Famille et les Compagnons, ô Maître de la bonté ; et agrée mon apparent et agrée mon secret."
+      },
+      {
+        "number": 43,
+        "verseFrom": 85,
+        "verseTo": 86,
+        "appNumber": 216,
+        "text": "Bénis et accorde la paix, ô mon Dieu, à celui qui est nommé Najiyy Allāh (Confident d'Allah),"
+      },
+      {
+        "number": 44,
+        "verseFrom": 87,
+        "verseTo": 88,
+        "appNumber": 217,
+        "text": "la Famille et les Compagnons, maîtres du don ; et par moi réjouis-les, ô le meilleur des Patrons."
+      },
+      {
+        "number": 45,
+        "verseFrom": 89,
+        "verseTo": 90,
+        "appNumber": 218,
+        "text": "Bénis et accorde la paix, ô mon Dieu, à celui qui est nommé Kalīm Allāh (Celui à qui Allah a parlé),"
+      },
+      {
+        "number": 46,
+        "verseFrom": 91,
+        "verseTo": 92,
+        "appNumber": 219,
+        "text": "sa Famille et ses Compagnons doués d'aspirations, ô Toi qui tournes vers d'autres que moi les atteintes maléfiques."
+      },
+      {
+        "number": 47,
+        "verseFrom": 93,
+        "verseTo": 94,
+        "appNumber": 220,
+        "text": "Bénis le Sceau de tous les prophètes et le Sceau de tous les envoyés, mon Seigneur,"
+      },
+      {
+        "number": 48,
+        "verseFrom": 95,
+        "verseTo": 96,
+        "appNumber": 221,
+        "text": "sa Famille et ses Compagnons, et accorde la paix, ô Toi qui tournes vers d'autres que moi la douleur."
+      },
+      {
+        "number": 49,
+        "verseFrom": 97,
+        "verseTo": 98,
+        "appNumber": 222,
+        "text": "Bénis et accorde la paix, ô Nourricier (Al-Muqīt) qui fais vivre, à celui que Tu as nommé Muḥyī (Celui qui vivifie),"
+      },
+      {
+        "number": 50,
+        "verseFrom": 99,
+        "verseTo": 100,
+        "appNumber": 223,
+        "text": "sa Famille et les Compagnons, gens de la préséance, ô Toi qui fais vivre qui Tu veux et fais demeurer."
+      },
+      {
+        "number": 51,
+        "verseFrom": 101,
+        "verseTo": 102,
+        "appNumber": 224,
+        "text": "Bénis et accorde la paix, ô Gardien qui sauves, à celui que Tu as nommé Munjī (le Sauveur),"
+      },
+      {
+        "number": 52,
+        "verseFrom": 103,
+        "verseTo": 104,
+        "appNumber": 225,
+        "text": "sa Famille et ses Compagnons héros, ô Toi qui effaces la paresse et l'atermoiement."
+      },
+      {
+        "number": 53,
+        "verseFrom": 105,
+        "verseTo": 106,
+        "appNumber": 226,
+        "text": "Bénis un homme vaillant dont le nom est Dhākir (Celui qui se souvient), avec le salut de paix, ô Toi à Qui reviennent les remerciements,"
+      },
+      {
+        "number": 54,
+        "verseFrom": 107,
+        "verseTo": 108,
+        "appNumber": 227,
+        "text": "sa Famille et ses Compagnons doués d'excellence, ô Toi en Qui j'ai mis ma confiance en entreprenant (cette œuvre)."
+      },
+      {
+        "number": 55,
+        "verseFrom": 109,
+        "verseTo": 110,
+        "appNumber": 228,
+        "text": "Bénis celui dont le nom est Mudhakkir (Celui qui exhorte), ô Toi qui Te souviens auprès de Toi du serviteur qui (T')invoque,"
+      },
+      {
+        "number": 56,
+        "verseFrom": 111,
+        "verseTo": 112,
+        "appNumber": 229,
+        "text": "et accorde-lui la paix, avec la Famille illustre et ses Compagnons, et agrée auprès de Toi cette composition."
+      },
+      {
+        "number": 57,
+        "verseFrom": 113,
+        "verseTo": 114,
+        "appNumber": 230,
+        "text": "Bénis un homme vaillant dont le nom est Nāṣir (le Secoureur), ô Toi par qui un secoureur se dirige vers moi,"
+      },
+      {
+        "number": 58,
+        "verseFrom": 115,
+        "verseTo": 116,
+        "appNumber": 231,
+        "text": "en lui accordant la paix, avec la Famille illustre et ses Compagnons, et accepte cette composition."
+      },
+      {
+        "number": 59,
+        "verseFrom": 117,
+        "verseTo": 118,
+        "appNumber": 232,
+        "text": "Bénis et accorde la paix, ô Secoureur (An-Naṣīr), à celui dont le nom est Manṣūr (le Secouru),"
+      },
+      {
+        "number": 60,
+        "verseFrom": 119,
+        "verseTo": 120,
+        "appNumber": 233,
+        "text": "sa Famille et ses Compagnons, les Anṣār (les Auxiliaires), ô Gardien des villes et des métropoles."
+      }
+    ]
+  }
+}
